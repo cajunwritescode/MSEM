@@ -1,0 +1,56 @@
+﻿mse version: 0.3.5
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5114987688,0.5382144515)
+	handle: (-0.1999984709,-0.0007820600)
+	part:
+		type: shape
+		name: Triangle
+		combine: merge
+		point:
+			position: (0.1822370694,0.1921293875)
+			lock: free
+			line after: curve
+			handle before: (-0.0955941437,0.2135862498)
+			handle after: (-0.0410592683,0.4145178059)
+		point:
+			position: (0.3558015366,0.5546906461)
+			lock: direction
+			line after: curve
+			handle before: (-0.1414755539,-0.2254758151)
+			handle after: (0.0658537669,0.1049540458)
+		point:
+			position: (0.3959809595,0.9212302781)
+			lock: free
+			line after: line
+			handle before: (-0.0574707149,-0.1002231960)
+		point:
+			position: (0.4434253504,0.7886543333)
+			lock: free
+			line after: line
+		point:
+			position: (0.6857738030,0.3541415957)
+			lock: free
+			line after: curve
+			handle after: (0.0032334009,-0.0173152838)
+		point:
+			position: (0.5836820084,0.3042214973)
+			lock: direction
+			line after: curve
+			handle before: (0.0111258354,-0.4721952704)
+			handle after: (-0.0049827990,0.2114766245)
+		point:
+			position: (0.2395542324,0.7834597482)
+			lock: direction
+			line after: curve
+			handle before: (-0.0376509508,0.0774141134)
+			handle after: (0.0334272144,-0.0687296898)
+		point:
+			position: (0.1824746544,0.5250354528)
+			lock: direction
+			line after: curve
+			handle before: (0.0573553280,0.0076128899)
+			handle after: (-0.1894717699,-0.0251489752)
