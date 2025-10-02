@@ -1,0 +1,44 @@
+﻿mse version: 0.3.5
+part:
+	type: symmetry
+	name: Rotation (5)
+	kind: rotation
+	copies: 5
+	center: (0.5000000000,0.4852941176)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Pentagon
+		combine: overlap
+		point:
+			position: (0.4674369748,0.0252100840)
+			lock: free
+			line after: line
+		point:
+			position: (0.4117647059,0.2082086930)
+			lock: free
+			line after: line
+		point:
+			position: (0.1798369031,0.1008729608)
+			lock: free
+			line after: line
+		point:
+			position: (0.2089464827,0.4023267260)
+			lock: free
+			line after: line
+		point:
+			position: (0.2899159664,0.2229145753)
+			lock: free
+			line after: line
+		point:
+			position: (0.4735899004,0.2517058650)
+			lock: free
+			line after: line
+		point:
+			position: (0.6323379821,0.4622010828)
+			lock: free
+			line after: line
+		point:
+			position: (0.7206027002,0.5927746753)
+			lock: free
+			line after: line
