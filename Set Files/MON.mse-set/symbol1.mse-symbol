@@ -1,0 +1,125 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: Triangle
+	combine: border
+	point:
+		position: (0.8746334311,0.1495601173)
+		lock: free
+		line after: line
+	point:
+		position: (0.8379765396,0.4794927905)
+		lock: free
+		line after: line
+	point:
+		position: (0.6994912587,0.4361719719)
+		lock: free
+		line after: line
+	point:
+		position: (0.7819647839,0.3825557284)
+		lock: free
+		line after: line
+	point:
+		position: (0.7128198826,0.3023608890)
+		lock: free
+		line after: line
+	point:
+		position: (0.8021914517,0.2243858388)
+		lock: free
+		line after: line
+	point:
+		position: (0.7148093842,0.1437156644)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Square
+	combine: overlap
+	point:
+		position: (0.2326711980,0.1347430809)
+		lock: free
+		line after: line
+	point:
+		position: (0.4191362537,0.5513455380)
+		lock: free
+		line after: line
+	point:
+		position: (0.2228975191,0.5522149358)
+		lock: free
+		line after: line
+	point:
+		position: (0.2821012321,0.6905924394)
+		lock: free
+		line after: line
+	point:
+		position: (0.1024917763,0.6877259366)
+		lock: free
+		line after: line
+	point:
+		position: (0.2124822103,0.8868337655)
+		lock: free
+		line after: line
+	point:
+		position: (0.1149560117,0.9524926686)
+		lock: free
+		line after: line
+	point:
+		position: (0.2519727433,0.9459764903)
+		lock: free
+		line after: line
+	point:
+		position: (0.2829676569,0.8697042907)
+		lock: free
+		line after: line
+	point:
+		position: (0.2352464132,0.7576396634)
+		lock: free
+		line after: line
+	point:
+		position: (0.4611020019,0.7893545778)
+		lock: free
+		line after: line
+	point:
+		position: (0.3865792400,0.6404244467)
+		lock: free
+		line after: line
+	point:
+		position: (0.5507432696,0.6472636223)
+		lock: free
+		line after: line
+	point:
+		position: (0.5837489092,0.6080387908)
+		lock: free
+		line after: line
+	point:
+		position: (0.5404692082,0.3876832845)
+		lock: free
+		line after: line
+	point:
+		position: (0.8187512075,0.4705273314)
+		lock: free
+		line after: line
+	point:
+		position: (0.6789640894,0.4284068895)
+		lock: free
+		line after: line
+	point:
+		position: (0.7651810306,0.3767323501)
+		lock: free
+		line after: line
+	point:
+		position: (0.6904146077,0.2898242110)
+		lock: free
+		line after: line
+	point:
+		position: (0.7840278681,0.2287600587)
+		lock: free
+		line after: line
+	point:
+		position: (0.7056330727,0.1423159666)
+		lock: free
+		line after: line
+	point:
+		position: (0.8552326602,0.1438719512)
+		lock: free
+		line after: line

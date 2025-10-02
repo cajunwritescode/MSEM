@@ -1,0 +1,492 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-mainframe-tokens
+stylesheet_version: 2025-01-11
+set_info:
+	set_code: MSEMAR
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: 
+	automatic_card_numbers: no
+styling:
+	magic-m15:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-emblem:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-emblem-acorntail:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	magic-m15-token:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	magic-m15-token-clear:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	magic-new-emblem:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-token-nyx:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+card:
+	has_styling: false
+	notes: !num 4
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-24 14:18:15
+	card_color: black
+	name: Black Mana
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(Use this to track <sym>B</sym> in your pool.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Blues Design
+	custom_card_number: 004
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !num 3
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-24 14:17:32
+	card_color: blue
+	name: Blue Mana
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(Use this to track <sym>U</sym> in your pool.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Blues Design
+	custom_card_number: 003
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !num 7
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-24 15:05:49
+	card_color: blue, green, hybrid, overlay
+	name: Can Be Cast From Exile
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(These cards can be cast from exile.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Exellero
+	custom_card_number: 007
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !num 1
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-24 14:46:25
+	card_color: colorless
+	name: Colorless Mana
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(Use this to track <sym>C</sym> in your pool.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Blues Design (Edited)
+	custom_card_number: 001
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		frames: legendary, M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	notes: !num 8
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-24 14:34:49
+	card_color: red, green, hybrid, overlay
+	name: Commander
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(This is your commander.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Asur Misoa
+	custom_card_number: 008
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		frames: legendary, M20
+		shrink_font_size: 2
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	notes: !num 9
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-24 14:35:25
+	card_color: black, red, hybrid, overlay
+	name: Commander Damage
+	image: image5
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(Use this to track how much damage you’ve taken from an individual commander.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Asur Misoa
+	custom_card_number: 009
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		frames: legendary, M20
+		shrink_font_size: 1
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	notes: !num 10
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-24 14:35:57
+	card_color: white, black, hybrid, overlay
+	name: Commander Tax
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(Use this to track your commander tax.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Asur Misoa
+	custom_card_number: 010
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	notes: !num 11
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-24 15:10:09
+	card_color: blue, black, hybrid, overlay
+	name: Copy
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(This is a copy of a spell or permanent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Asur Misoa
+	custom_card_number: 011
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !num 6
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-24 14:18:33
+	card_color: green
+	name: Green Mana
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(Use this to track <sym>G</sym> in your pool.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Blues Design
+	custom_card_number: 006
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !num 5
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-24 14:17:09
+	card_color: red
+	name: Red Mana
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(Use this to track <sym>R</sym> in your pool.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Blues Design
+	custom_card_number: 005
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !num 13
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-24 15:10:27
+	card_color: white, red, hybrid, overlay
+	name: Storm Count
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: <i-auto>(Use this to track how many spells have been cast this turn.)</i-auto>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Exellero
+	custom_card_number: 013
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !num 2
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-24 14:17:53
+	card_color: white
+	name: White Mana
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(Use this to track <sym>W</sym> in your pool.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Blues Design
+	custom_card_number: 002
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-01 20:49:01
+	time_modified: 2023-08-24 15:35:01
+	name: Dummy Card
+	image: 
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	rule_text: All done!
+	flavor_text: <i-flavor></i-flavor>
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !num 12
+	time_created: 2017-09-05 13:41:38
+	time_modified: 2023-08-31 23:01:46
+	card_color: blue, red, hybrid, overlay
+	name: Research Counter
+	image: image4
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(Use this to track how many research counters you have.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Valentina Remenar
+	custom_card_number: 012
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !num 14
+	time_created: 2020-06-03 03:05:41
+	time_modified: 2023-08-24 15:11:33
+	card_color: white, blue, hybrid, overlay
+	name: Journey
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(Whenever a creature you control deals combat damage to an opponent, put a journeyed card you own into your hand.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anato Finnstark
+	custom_card_number: 014
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !num 15
+	time_created: 2020-06-03 03:05:41
+	time_modified: 2023-08-24 14:23:36
+	card_color: white, green, hybrid, overlay
+	name: Additional Library
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Suomar
+	custom_card_number: 015
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	notes: !num 17
+	time_created: 2020-06-03 03:05:41
+	time_modified: 2023-08-27 22:08:54
+	card_color: black, green, hybrid, overlay
+	name: On an Adventure
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text: <i-auto>(After an Adventure resolves, you can place the exiled card here. You may cast the creature from exile.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Daarken
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !num 16
+	time_created: 2020-12-23 00:06:55
+	time_modified: 2023-08-24 15:17:16
+	name: The Monarch
+	image: image14
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rule_text:
+		At the beginning of your end step, draw a card.
+		Whenever a creature deals combat damage to you, its controller becomes the monarch.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: iang Sinan
+	custom_card_number: 016
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+version_control:
+	type: none
+apprentice_code: 
