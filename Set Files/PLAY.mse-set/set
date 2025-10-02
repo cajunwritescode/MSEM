@@ -1,0 +1,1085 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	set_code: PLAY
+	set_language: EN
+	masterpiece_set_code: BOT
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: masterpiece_symbol4.mse-symbol
+	shorten_types_for_rarity: yes
+styling:
+	magic-m15-altered:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+card:
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:26
+	card_color: blue
+	name: Playtest Card A4
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:20
+	card_color: blue
+	name: Playtest Card A2
+	image: image4
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:23
+	card_color: blue
+	name: Playtest Card A3
+	image: image5
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:28
+	card_color: blue
+	name: Playtest Card A5
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:30
+	card_color: blue
+	name: Playtest Card A6
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:33
+	card_color: blue
+	name: Playtest Card A7
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:36
+	card_color: blue
+	name: Playtest Card A8
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:38
+	card_color: blue
+	name: Playtest Card A9
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:41
+	card_color: blue
+	name: Playtest Card A10
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:42
+	card_color: blue
+	name: Playtest Card A11
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:44
+	card_color: blue
+	name: Playtest Card A12
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:45
+	card_color: blue
+	name: Playtest Card A13
+	image: image14
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:46
+	card_color: blue
+	name: Playtest Card A14
+	image: image15
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:48
+	card_color: blue
+	name: Playtest Card A15
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:31:10
+	card_color: blue
+	name: Playtest Card A1
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:04
+	card_color: red
+	name: Playtest Card B1
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:11
+	card_color: red
+	name: Playtest Card B2
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:14
+	card_color: red
+	name: Playtest Card B3
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:17
+	card_color: red
+	name: Playtest Card B4
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:20
+	card_color: red
+	name: Playtest Card B5
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:22
+	card_color: red
+	name: Playtest Card B6
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:25
+	card_color: red
+	name: Playtest Card B7
+	image: image25
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:29
+	card_color: red
+	name: Playtest Card B8
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:32
+	card_color: red
+	name: Playtest Card B9
+	image: image27
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:36
+	card_color: red
+	name: Playtest Card B10
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:40
+	card_color: red
+	name: Playtest Card B11
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:44
+	card_color: red
+	name: Playtest Card B12
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:47
+	card_color: red
+	name: Playtest Card B13
+	image: image31
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:49
+	card_color: red
+	name: Playtest Card B14
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-05-10 08:21:45
+	time_modified: 2020-05-10 08:32:50
+	card_color: red
+	name: Playtest Card B15
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Playtest</word-list-type-en>
+	sub_type: 
+	rarity: special
+	rule_text: <i-auto>(Replace this card in both <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>players’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> files with a new card render to play test new cards.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandara Tang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: -5
+		frames: borderless art
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !script "s>a>y/a>l>Wrap the Presents/l>f>/spawn Small Gifts;/spawn Big Presents;/spawn Massive Surprises/f>/s>","r"
+	time_created: 2020-07-31 00:38:21
+	time_modified: 2021-05-29 17:54:26
+	card_color: multicolor
+	name: Acin, the Toymaker Avatar
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Vanguard</word-list-type-en>
+	sub_type: 
+	rarity: rare
+	rule_text:
+		Your starting life is 24.
+		<sym-auto>X</sym-auto>, Discard a card: Create a token that’s a copy of a creature card with mana value X chosen at random. If X is 11 or greater, choose a creature with mana value X or greater instead. Activate only as a sorcery and only once each turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Caroline Gariba
+	custom_card_number: 040
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 45
+		chop_bottom: 45
+		frames: borderless art
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !script "s>l>CMC 4/l>f>/ap k>Toymaker CMC 4/k> z>Command/z>/f>/s>s>l>CMC 5/l>f>/ap k>Toymaker CMC 5/k> z>Command/z>/f>/s>s>l>CMC 6/l>f>/ap k>Toymaker CMC 6/k> z>Command/z>/f>/s>s>l>CMC 7/l>f>/ap k>Toymaker CMC 7/k> z>Command/z>/f>/s>","r"
+	time_created: 2020-07-31 00:38:21
+	time_modified: 2021-05-29 17:54:57
+	card_color: multicolor
+	name: Big Presents
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rarity: rare
+	rule_text: <i-auto>(Right-click to choose a random creature with mana value </sym>4<sym>, </sym>5<sym>, </sym>6, or <sym-auto>7</sym-auto>.)</i-auto><sym>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Caroline Gariba
+	custom_card_number: 042
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 31
+		chop_bottom: 31
+		frames: borderless art
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !script "s>l>CMC 8/l>f>/ap k>Toymaker CMC 8/k> z>Command/z>/f>/s>s>l>CMC 9/l>f>/ap k>Toymaker CMC 9/k> z>Command/z>/f>/s>s>l>CMC 10/l>f>/ap k>Toymaker CMC 10/k> z>Command/z>/f>/s>s>l>CMC 11+/l>f>/ap k>Toymaker CMC 11+/k> z>Command/z>/f>/s>","r"
+	time_created: 2020-07-31 00:38:21
+	time_modified: 2021-05-29 17:54:44
+	card_color: multicolor
+	name: Massive Surprises
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rarity: rare
+	rule_text: <i-auto>(Right-click to choose a random creature with mana value </sym>8, <sym-auto>9</sym-auto>, <sym-auto>10</sym-auto>, or <sym-auto>11</sym-auto>+. 11+ will pull any creature with mana value 11 or greater.)</i-auto><sym>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Caroline Gariba
+	custom_card_number: 043
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 45
+		chop_bottom: 45
+		frames: borderless art
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !script "s>l>CMC 0/l>f>/ap k>Toymaker CMC 0/k> z>Command/z>/f>/s>s>l>CMC 1/l>f>/ap k>Toymaker CMC 1/k> z>Command/z>/f>/s>s>l>CMC 2/l>f>/ap k>Toymaker CMC 2/k> z>Command/z>/f>/s>s>l>CMC 3/l>f>/ap k>Toymaker CMC 3/k> z>Command/z>/f>/s>","r"
+	time_created: 2020-07-31 00:38:21
+	time_modified: 2021-05-29 17:55:12
+	card_color: multicolor
+	name: Small Gifts
+	image: image34
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Reminder</word-list-type-en>
+	sub_type: 
+	rarity: rare
+	rule_text: <i-auto>(Right-click to choose a random creature with mana value </sym>0<sym>, </sym>1<sym>, </sym>2<sym>, and 3.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Caroline Gariba
+	custom_card_number: 041
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 13
+		chop_bottom: 14
+		shrink_typeline_text: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: mechanic that doesn’t belong in a sensible set
+	time_created: 2019-10-16 22:42:26
+	time_modified: 2020-10-27 14:33:33
+	card_color: red, artifact, horizontal
+	name: LackeyBot
+	casting_cost: 3R
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Goblin</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Construct</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: masterpiece
+	rule_text:
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>LackeyBot</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters the battlefield, search your library for up to three cards, reveal them, then shuffle them into your library.
+		<sym-auto>R</sym-auto>, Sacrifice <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>LackeyBot</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>: It deals 5 damage to any target.
+	flavor_text: <i-flavor>For all your finding and exploding needs!</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Ishton
+	card_code_text: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+version_control:
+	type: none
+apprentice_code: 

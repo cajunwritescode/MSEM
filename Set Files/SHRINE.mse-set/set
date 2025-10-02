@@ -1,0 +1,1675 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	copyright: 
+	set_code: Shrine
+	set_language: EN
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: 
+	auto_errata: yes
+	automatic_copyright: no
+	automatic_card_numbers: no
+	custom_watermark_1: kxp/skalor_smol.png,File found,500x500px
+	blend_with_colors: yes
+	use_flavor_bar: yes
+styling:
+	magic-extended-art:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-altered:
+		chop_top: 
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-black:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-classic:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-expedition:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-future:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-godzilla:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-grayscale:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker-promo-black:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-scroll-demon:
+		text_box_mana_symbols: magic-mana-scroll-demon.mse-symbol-font
+		overlay: 
+	magic-m15-textless:
+		visible_text: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		promo: no
+		overlay: 
+	magic-new:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-promo-dka:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-old:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-planeshifted:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-windy-ultima:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+card:
+	stylesheet: old
+	stylesheet_version: 2024-05-29
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		tap_symbol: old
+		overlay: 
+	notes:
+		!hidetag (Dominaria)
+		!design Timespiraled
+		
+		!num 1
+	time_created: 2020-04-14 01:26:46
+	time_modified: 2024-08-30 03:53:54
+	name: Wayfarer’s Shrine
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice Wayfarer’s Shrine: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>“No man ever steps in the same river twice, for it’s not the same river and he’s not the same man.”— Heraclitus</i-flavor>
+	illustrator: Alex Gadbois
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Timespiraled                                                                                               1
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	has_styling: false
+	notes:
+		!hidetag (Jidai)
+		!design Timespiraled
+		!num 2
+	time_created: 2019-06-13 01:12:12
+	time_modified: 2022-01-28 18:10:01
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Jidai
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Jude Smith
+	custom_card_number: 002
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: map
+		other_options: ancestral generic mana, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		promo: no
+		overlay: 
+	notes:
+		!hidetag (Xoltan)
+		!design Timespiraled
+		!num 3
+	time_created: 2019-06-13 01:12:12
+	time_modified: 2022-01-31 18:02:11
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Xoltan
+	card_color: multicolor
+	name: Wayfarer’s Shrine
+	image: image4
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>The temples that sit atop the Great Dragon’s library grant access to her many secrets below.</i-flavor>
+	power: 
+	toughness: 
+	illustrator: Alfven Ato
+	custom_card_number: 003
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	has_styling: false
+	notes:
+		!hidetag (Festenya)
+		!design Timespiraled
+		!num 4
+	time_created: 2020-04-16 01:44:31
+	time_modified: 2022-01-31 18:02:14
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Festenya
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>The <error-spelling:en_US>Festenian</error-spelling:en_US> tourism bureau makes a fortune from their convenient offices on almost every corner.</i-flavor>
+	illustrator: Alexander Minze Thümler
+	custom_card_number: 004
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		frames: fullart
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Nangjiao)
+		!design Timespiraled
+		!num 5
+	time_created: 2020-04-16 01:44:31
+	time_modified: 2022-01-28 18:11:32
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Nangjiao
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Taisa Kislova (DarP)
+	custom_card_number: 005
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		frames: puma
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Langor)
+		!design Timespiraled
+		!num 6
+	time_created: 2020-04-16 01:44:31
+	time_modified: 2022-01-28 18:12:00
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Langor
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image5
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>Water is the goddess of <error-spelling:en_US>Langor</error-spelling:en_US> and oases the temples where she works her miracles.</i-flavor>
+	illustrator: Alexandr Pachin
+	custom_card_number: 006
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!hidetag (Kahembo)
+		!design Timespiraled
+		!num 7
+	time_created: 2020-04-16 01:44:31
+	time_modified: 2022-01-28 18:12:35
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Kahembo
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: su j Ahn
+	custom_card_number: 007
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: new
+	stylesheet_version: 2024-05-29
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: magic-overlay-foil-oldfeed.mse-include
+	notes:
+		!hidetag (Kamigawa)
+		!design Timespiraled
+		!num 8
+	time_created: 2020-04-16 01:44:31
+	time_modified: 2021-12-01 00:34:43
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: land
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>The <error-spelling:en_US>Kami</error-spelling:en_US> wars left many places of worship displaced and destroyed.</i-flavor>
+	illustrator: Grady Frederick
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 8                                                                            Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes:
+		!hidetag (Wilds)
+		!design Timespiraled
+		!num 9
+	time_created: 2020-04-16 02:31:32
+	time_modified: 2022-01-31 18:02:39
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice Wayfarer’s Shrine: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Salvatorre Yazzie
+	custom_card_number: 009
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: Wilds
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-expedition
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes:
+		!hidetag (Skyrim)
+		!design Timespiraled
+		!num 10
+	time_created: 2020-04-16 02:31:32
+	time_modified: 2022-01-31 18:02:46
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Maurice Diemeer
+	custom_card_number: 010
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: Nirn
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes:
+		!hidetag (Rhyse)
+		!design Timespiraled
+		!num 11
+	time_created: 2020-04-16 01:44:31
+	time_modified: 2022-01-31 18:02:51
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice Wayfarer’s Shrine: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Patrik Pulkkinen
+	custom_card_number: 011
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: Rhyse
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!hidetag (Glacia)
+		!design Timespiraled
+		!num 12
+	time_created: 2020-04-16 02:54:43
+	time_modified: 2022-01-28 18:13:31
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Glacia
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image15
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Magnus Schramm
+	custom_card_number: 012
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: new
+	stylesheet_version: 2024-05-29
+	has_styling: false
+	notes:
+		!hidetag (Alara)
+		!design Timespiraled
+		!num 13
+	time_created: 2020-04-16 11:12:12
+	time_modified: 2021-12-01 00:35:03
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>Once proud monuments, the ruins of ancient <error-spelling:en_US>ziggurats</error-spelling:en_US> now serve as humble stops for wandering Knights of the Reliquary.</i-flavor>
+	illustrator: Andrew Bosley
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 13                                                                            Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 0
+		chop_bottom: 0
+		shrink_typeline_text: 
+		frames: puma
+		other_options: brown legendary vehicle pt, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Caitisan)
+		!design Timespiraled
+		!num 14
+	time_created: 2018-03-24 21:41:58
+	time_modified: 2022-01-28 18:13:53
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Caitisan
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text:
+		<i-flavor>“Aye, the <error-spelling:en_US>guidestones</error-spelling:en_US> just be a formality. <error-spelling:en_US>Gezroil’s</error-spelling:en_US> claim is wide as the sea.”<soft-line>
+		—Crimson Jack</soft-line></i-flavor>
+	watermark: none
+	illustrator: Rhiannon Remo
+	custom_card_number: 014
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-black
+	stylesheet_version: 2024-05-27
+	has_styling: false
+	notes:
+		!hidetag (Jidai Black)
+		!design Timespiraled
+		!num 15
+	time_created: 2020-04-27 10:47:59
+	time_modified: 2022-01-28 18:14:02
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: land
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Margaux DOURY
+	custom_card_number: 015
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: Jidai
+	copyright_2: ™ & © 2020 Wizards of the Coast
+	copyright_3: ™ & © 2020 Wizards of the Coast
+card:
+	has_styling: false
+	notes:
+		!hidetag (Maedryd)
+		!design Timespiraled
+		!num 16
+	time_created: 2019-06-13 01:12:12
+	time_modified: 2022-01-31 18:03:00
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Maedryd
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Quentin de Warren
+	custom_card_number: 016
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	has_styling: true
+	styling_data:
+		frames: puma
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Daisite)
+		!design Timespiraled
+		!num 17
+	time_created: 2020-05-05 00:32:47
+	time_modified: 2022-01-31 18:03:04
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Daisite
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Enrico Tammekänd
+	custom_card_number: 017
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2020 Wizards of the Coast
+	copyright_3: ™ & © 2020 Wizards of the Coast
+card:
+	stylesheet: m15-black
+	stylesheet_version: 2024-05-27
+	has_styling: false
+	notes:
+		!hidetag (Yakizma Black)
+		!design Timespiraled
+		!num 18
+	time_created: 2020-04-27 10:47:59
+	time_modified: 2022-01-28 18:14:39
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: land
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Simon Cowell
+	custom_card_number: 018
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: Yakizma
+	copyright_2: ™ & © 2020 Wizards of the Coast
+	copyright_3: ™ & © 2020 Wizards of the Coast
+card:
+	has_styling: false
+	notes:
+		!hidetag (Vraniveer)
+		!design Timespiraled
+		!num 19
+	time_created: 2020-04-16 01:44:31
+	time_modified: 2022-01-28 18:15:13
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Vraniveer
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chris Box
+	custom_card_number: 019
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!hidetag (Terra)
+		!design Timespiraled
+		!num 20
+	time_created: 2020-04-16 01:44:31
+	time_modified: 2022-01-28 18:15:20
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Terra
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text:
+		<i-flavor>“Tell me, did you sail across the sun?”<soft-line>
+		—Lieutenant Saxon</soft-line></i-flavor>
+	illustrator: Diego Cabrera
+	custom_card_number: 020
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art, frameless art, fullart
+		other_options: auto nyx crowns, vorthos box
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Chikyu)
+		!design Timespiraled
+		!num 21
+	time_created: 2017-03-20 07:37:45
+	time_modified: 2022-01-31 18:03:12
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Chikyu
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image14
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anato Finnstark
+	custom_card_number: 021
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!hidetag (the Wasteland)
+		!design Timespiraled
+		!num 22
+	time_created: 2020-04-16 01:44:31
+	time_modified: 2022-01-28 18:15:46
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: The Wasteland
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nele Diel
+	custom_card_number: 022
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes:
+		!hidetag (Ayken Saint)
+		!design Timespiraled
+		!num 23
+	time_created: 2020-04-16 01:44:31
+	time_modified: 2022-01-31 18:03:19
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image27
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice Wayfarer’s Shrine: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: David Cofre
+	custom_card_number: 023
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: Ayken
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!hidetag (Ayken Urban)
+		!design Timespiraled
+		!num 24
+	time_created: 2020-04-16 01:44:31
+	time_modified: 2022-01-28 18:15:59
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Ayken
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: OurDesire
+	custom_card_number: 024
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5,5,
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Cloudscape)
+		!design Timespiraled
+		!num 25
+	time_created: 2020-11-14 17:59:55
+	time_modified: 2022-01-31 18:03:26
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Cirrusea
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text:
+		<i-flavor>“The sky’s only the limit for those who think it is.”<soft-line>
+		—<error-spelling:en_US>Sora</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Denis Loebner
+	custom_card_number: 025
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2020 Wizards of the Coast
+	copyright_3: ™ & © 2020 Wizards of the Coast
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5,5,
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Elmare)
+		!design Timespiraled
+		!num 26
+	time_created: 2020-05-07 18:28:16
+	time_modified: 2022-01-28 18:16:39
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Elmare
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text:
+		<i-flavor>“One day I wrote her name upon the strand,<soft-line>
+		</soft-line>But came the waves and washed my dream away:<soft-line>
+		</soft-line>Again I wrote it with a second hand,<soft-line>
+		</soft-line>But came the tide, and made my pains his prey.”<soft-line>
+		—Heaven’s Truth, verse one</soft-line></i-flavor>
+	illustrator: Thibauld Pourplanche
+	custom_card_number: 026
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes:
+		!hidetag (Shiryen)
+		!design Timespiraled
+		!num 27
+	time_created: 2020-05-07 18:28:16
+	time_modified: 2022-01-28 18:16:55
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Shiryen
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Szabo David
+	custom_card_number: 027
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5,5,
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Arkadai)
+		!design Timespiraled
+		!num 28
+	time_created: 2020-05-07 18:28:16
+	time_modified: 2022-01-28 18:17:13
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Arkadai
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text:
+		<i-flavor>“No need to pray, <error-spelling:en_US>Revela</error-spelling:en_US>. You’ll <error-spelling:en_US>respawn</error-spelling:en_US> no matter what.”<soft-line>
+		—<error-spelling:en_US>Selvar</error-spelling:en_US>, the Seeker</soft-line></i-flavor>
+	illustrator: Zsolt Kuczora
+	custom_card_number: 028
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5,5,
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Revio)
+		!design Timespiraled
+		!num 29
+	time_created: 2020-05-07 18:28:16
+	time_modified: 2022-01-28 18:17:26
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Revio
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text:
+		<i-flavor>“We pray for those who have yet to reach our safe haven, those who have since left it, and those who will never arrive.”<soft-line>
+		</soft-line>—Shrine inscription</i-flavor>
+	illustrator: Peter Kreitner
+	custom_card_number: 029
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5,5,
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Alkabah)
+		!design Timespiraled
+		!num 30
+	time_created: 2020-05-07 18:28:16
+	time_modified: 2022-01-28 18:17:38
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Alkabah
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image25
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text:
+		<i-flavor>“And so, with this hardened heart and tired soul, I take this pen to paper to praise the tales of the great, the mighty, and the divine.”<soft-line>
+		—The Tale of Kings</soft-line></i-flavor>
+	illustrator: Ryan Teo
+	custom_card_number: 030
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5,5,
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Aetenus)
+		!design Timespiraled
+		!num 31
+	time_created: 2021-12-05 17:39:33
+	time_modified: 2022-01-25 16:24:11
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Aetenus
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image31
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>“I had heard stories of <error-spelling:en_US>Custopa</error-spelling:en_US> and I thought him a fool. Live the life you have, don’t throw it away. But only after the war do I see that I was the fool. It took winning to see the value of what he died trying to protect.”</i-flavor>
+	illustrator: Jakub Grygier
+	custom_card_number: 031
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: Queen Emily#1312
+	copyright_3: Queen Emily#1312
+card:
+	has_styling: false
+	notes:
+		!hidetag (Kaag’dhri)
+		!design Timespiraled
+		!num 32
+	time_created: 2020-09-07 22:45:31
+	time_modified: 2022-01-25 16:21:04
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Kaag'dhri
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>A brief respite in the darkest of nights.</i-flavor>
+	illustrator: Mark Erskine
+	custom_card_number: 032
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Onora)
+		!design Timespiraled
+		!num 33
+	time_created: 2022-01-13 19:13:57
+	time_modified: 2022-01-25 16:22:59
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Onora
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text:
+		<i-flavor>“I like to think it’s called Temple <error-spelling:en_US>Highpoint</error-spelling:en_US> not because of its altitude, but because it’s the best part of every traveler’s journey!”<soft-line>
+		—<error-spelling:en_US>Kaone</error-spelling:en_US> of the Golden Sonata</soft-line></i-flavor>
+	illustrator: Christina Kraus
+	custom_card_number: 033
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-godzilla
+	stylesheet_version: 2024-06-06
+	has_styling: true
+	styling_data:
+		frame_options: no alias
+		chop_text: 3, 7,
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: never
+		overlay: 
+	notes:
+		!hidetag (Runatos)
+		!design Timespiraled
+		!num 34
+	time_created: 2020-07-01 00:00:00
+	time_modified: 2022-01-25 16:22:29
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image34
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text:
+		<i-flavor>“Beyond this marker lie foes you cannot prepare for. Fare thee well, traveler.”<soft-line>
+		—Rune carvings</soft-line></i-flavor>
+	illustrator: TylerEdlinArt
+	custom_card_number: 034
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: Runatos
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Virtualia)
+		!design Timespiraled
+		!num 35
+	time_created: 2020-07-01 00:00:00
+	time_modified: 2022-06-22 10:13:15
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Virtualia
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>In ten seconds flat, one can walk five hundred miles and meet a rainbow of faces, all without having to go outside.</i-flavor>
+	illustrator: akiyoku
+	custom_card_number: 035
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-scroll-demon
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes:
+		!hidetag (Ophorio)
+		!design Timespiraled
+		!num 36
+
+	time_created: 2017-03-20 07:37:45
+	time_modified: 2022-06-22 10:31:56
+	extra_data:
+		magic-m15-altered: vorthos_box: Ophorio
+	card_color: land
+	name: Wayfarer’s Shrine
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>Where once divided was now aligned, fate and freedom now intertwined.</i-flavor>
+	illustrator: Jeffrey Smith
+	custom_card_number: 036
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: Ophorio
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: 
+card:
+	stylesheet: old
+	stylesheet_version: 2024-05-29
+	has_styling: false
+	notes:
+		!hidetag (Novea)
+		!design Timespiraled
+		!num 37
+
+	time_created: 2017-03-20 07:37:45
+	time_modified: 2022-06-22 10:35:04
+	extra_data:
+		magic-m15-altered: vorthos_box: Novea
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image37
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>The shelter’s builder is unknown, but thanked all the same.</i-flavor>
+	illustrator: Thomas van den Heuvel
+	custom_card_number: 021
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: Timespiraled  Novea 37
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Daisite Camp)
+		!design Timespiraled
+		!num 38
+
+	time_created: 2017-03-20 07:37:45
+	time_modified: 2022-06-22 10:40:51
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Daisite
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>The paths one walks and worries they carry are all forgotten around the fire.</i-flavor>
+	illustrator: Temarinde
+	custom_card_number: 038
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Laptew)
+		!design Timespiraled
+		!num 39
+		
+		!curtains
+	time_created: 2017-03-20 07:37:45
+	time_modified: 2022-06-22 10:54:42
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Laptew
+	card_color: land
+	name: Wayfarer’s Shrine
+	image: image39
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>Critics and rubes, strangers and spies  all hush, marveled at curtain’s rise.</i-flavor>
+	illustrator: Thomas Dambreville
+	custom_card_number: 039
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: 
+card:
+	stylesheet: m15-black
+	stylesheet_version: 2024-05-27
+	has_styling: true
+	styling_data:
+		chop_top: 8,5,
+		popout_image_style: 0,0,375,523,
+		card_watermark: kxp/usona_light.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Usona)
+		!design Timespiraled
+		!num 40
+
+	time_created: 2017-03-20 07:37:45
+	time_modified: 2022-06-22 10:27:50
+	extra_data:
+		magic-m15-altered: vorthos_box: Ophorio
+		magic-m15-black:
+			vorthos_box: Usona
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image40
+	image_2: 
+	mainframe_image: mainframe_image1
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor><error-spelling:en_US>Usona’s</error-spelling:en_US> denizens grew more passive by the day, while the building storm grew ever more furious in turn.</i-flavor>
+	watermark: custom watermark card
+	illustrator: George Johnstone
+	custom_card_number: 040
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		card_watermark: kxp/arc.png
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Volaria)
+		!design Timespiraled
+		!num 41
+
+	time_created: 2017-03-20 07:37:45
+	time_modified: 2022-06-22 10:36:35
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Volaria
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image41
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>The most important thing to know in any city is the best places to stop for lunch.</i-flavor>
+	watermark: custom watermark card
+	illustrator: Thomas van den Heuvel
+	custom_card_number: 041
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5,2,
+		other_options: auto nyx crowns, vorthos box
+		card_watermark: kxp/aus.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Duwinda)
+		!design Timespiraled
+		!num 42
+		
+		frogs Arturo Gutierrez
+	time_created: 2017-03-20 07:37:45
+	time_modified: 2022-06-22 11:08:58
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Duwinda
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image42
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>Penguin colonies wander <error-spelling:en_US>Duwinda’s</error-spelling:en_US> coasts, maintaining markers to help them find their way.</i-flavor>
+	watermark: custom watermark card
+	illustrator: AntonKurbatov
+	custom_card_number: 042
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: 
+card:
+	stylesheet: m15-future
+	stylesheet_version: 2024-06-06
+	has_styling: false
+	notes:
+		!hidetag (Skalor)
+		!design Timespiraled
+		!num 43
+
+	time_created: 2017-03-20 07:37:45
+	time_modified: 2022-06-22 10:58:05
+	extra_data:
+		magic-m15-altered: vorthos_box: Ophorio
+		magic-m15-future:
+			vorthos_box: Skalor
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image43
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>“Run faster. Jump higher. Pay up.”</i-flavor>
+	watermark: custom watermark one
+	illustrator: Yujin Choo
+	custom_card_number: 043
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		frames: map
+		other_options: auto nyx crowns, vorthos box
+		card_watermark: kxp/tirvana.png
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Tirvana)
+		!design Timespiraled
+		!num 44
+
+	time_created: 2017-03-20 07:37:45
+	time_modified: 2022-06-22 10:50:52
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Tirvana
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image44
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>Most of <error-spelling:en_US>Tirvana’s</error-spelling:en_US> deities are happy to share their claim on the temporary shrines that appear across the extensive wilderness.</i-flavor>
+	watermark: custom watermark card
+	illustrator: Sabrina Langenberger
+	custom_card_number: 044
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 3
+		frames: 
+		other_options: vorthos box
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (Feanav)
+		!design Timespiraled
+		!num 45
+
+	time_created: 2022-06-22 10:03:04
+	time_modified: 2022-06-30 08:53:11
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: Feanav
+	name: Wayfarer’s Shrine
+	image: image45
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: special
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice Wayfarer’s Shrine: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor>A proudly displayed personal collection of the world’s curiosities, or rather, the world as one so fortunate sees it.</i-flavor>
+	illustrator: Dana Geiger
+	custom_card_number: 045
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+version_control:
+	type: none
+apprentice_code: 
