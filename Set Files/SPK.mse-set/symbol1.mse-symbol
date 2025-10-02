@@ -1,0 +1,40 @@
+﻿mse_version: 0.3.5
+part:
+	type: symmetry
+	name: Reflection (5)
+	kind: rotation
+	copies: 7
+	center: (0.5000000000,0.4789915966)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Square
+		combine: overlap
+		point:
+			position: (0.7539858831,0.4132725932)
+			lock: free
+			line_after: curve
+			handle_after: (0.1008756470,-0.0940284991)
+		point:
+			position: (0.7028644394,0.3311698444)
+			lock: direction
+			line_after: curve
+			handle_before: (0.0097546549,0.0334665643)
+			handle_after: (-0.0429886922,-0.1474869022)
+		point:
+			position: (0.8874770411,0.4432773109)
+			lock: direction
+			line_after: curve
+			handle_before: (0.1461302617,-0.2766084630)
+			handle_after: (-0.0177977452,0.0336891681)
+		point:
+			position: (0.7436974790,0.4932984572)
+			lock: direction
+			line_after: curve
+			handle_before: (0.0159842395,-0.0019759084)
+			handle_after: (-0.0715569860,0.0088455913)
+		point:
+			position: (0.5342540869,0.4028537851)
+			lock: free
+			line_after: line
+			handle_before: (0.0039889968,-0.0038513738)

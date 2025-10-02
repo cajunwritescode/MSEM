@@ -1,0 +1,105 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.1666666667,0.8666666667)
+		lock: free
+		line after: curve
+		handle before: (0.0666666667,-0.0666666667)
+		handle after: (0.0333333333,-0.1333333333)
+	point:
+		position: (0.5000000000,0.7333333333)
+		lock: free
+		line after: curve
+		handle before: (-0.1000000000,0.1000000000)
+		handle after: (0.1000000000,0.1000000000)
+	point:
+		position: (0.8333333333,0.8666666667)
+		lock: free
+		line after: curve
+		handle before: (-0.0333333333,-0.1333333333)
+		handle after: (-0.0666666667,-0.0666666667)
+	point:
+		position: (0.5000000000,0.8000000000)
+		lock: free
+		line after: curve
+		handle before: (0.1111111111,0.0111111111)
+		handle after: (-0.1111111111,0.0111111111)
+part:
+	type: shape
+	name: Square
+	combine: overlap
+	point:
+		position: (0.1666666667,0.2000000000)
+		lock: free
+		line after: curve
+		handle before: (0.0666666667,0.1000000000)
+		handle after: (0.0333333333,0.1333333333)
+	point:
+		position: (0.2333333333,0.5000000000)
+		lock: free
+		line after: curve
+		handle before: (-0.1000000000,-0.1000000000)
+		handle after: (0.0888888889,0.0888888889)
+	point:
+		position: (0.5000000000,0.7666666667)
+		lock: free
+		line after: curve
+		handle before: (0.0000000000,-0.1666666667)
+		handle after: (0.0000000000,-0.1666666667)
+	point:
+		position: (0.7666666667,0.5000000000)
+		lock: free
+		line after: curve
+		handle before: (-0.0888888889,0.0888888889)
+		handle after: (0.1000000000,-0.1000000000)
+	point:
+		position: (0.8333333333,0.2000000000)
+		lock: free
+		line after: curve
+		handle before: (-0.0333333333,0.1333333333)
+		handle after: (-0.0666666667,0.1000000000)
+	point:
+		position: (0.7000000000,0.4333333333)
+		lock: free
+		line after: curve
+		handle before: (0.1333333333,0.0333333333)
+		handle after: (-0.0666666667,-0.0333333333)
+	point:
+		position: (0.6333333333,0.1333333333)
+		lock: free
+		line after: curve
+		handle before: (0.0333333333,0.1000000000)
+		handle after: (-0.0333333333,0.1000000000)
+	point:
+		position: (0.5666666667,0.4333333333)
+		lock: free
+		line after: curve
+		handle before: (0.0666666667,-0.0333333333)
+		handle after: (-0.0666666667,-0.0333333333)
+	point:
+		position: (0.5000000000,0.0666666667)
+		lock: free
+		line after: curve
+		handle before: (0.0333333333,0.1000000000)
+		handle after: (-0.0333333333,0.1000000000)
+	point:
+		position: (0.4333333333,0.4333333333)
+		lock: free
+		line after: curve
+		handle before: (0.0666666667,-0.0333333333)
+		handle after: (-0.0666666667,-0.0333333333)
+	point:
+		position: (0.3666666667,0.1333333333)
+		lock: free
+		line after: curve
+		handle before: (0.0333333333,0.1000000000)
+		handle after: (-0.0333333333,0.1000000000)
+	point:
+		position: (0.3000000000,0.4333333333)
+		lock: free
+		line after: curve
+		handle before: (0.0666666667,0.0000000000)
+		handle after: (-0.1333333333,0.0333333333)
