@@ -1,0 +1,55 @@
+﻿mse version: 0.3.5
+part:
+	type: symmetry
+	name: Rotation (5)
+	kind: rotation
+	copies: 5
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Rectangle
+		combine: subtract
+		point:
+			position: (0.5000000000,0.5000000000)
+			lock: free
+			line after: line
+		point:
+			position: (0.2333333333,0.6333333333)
+			lock: free
+			line after: line
+		point:
+			position: (0.3666666667,0.7666666667)
+			lock: free
+			line after: line
+part:
+	type: symmetry
+	name: Rotation (5)
+	kind: rotation
+	copies: 5
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Square
+		combine: merge
+		point:
+			position: (0.2333333333,0.6333333333)
+			lock: free
+			line after: line
+		point:
+			position: (0.3666666667,0.7666666667)
+			lock: free
+			line after: line
+		point:
+			position: (0.5000000000,0.9000000000)
+			lock: free
+			line after: line
+		point:
+			position: (0.7666666667,0.7666666667)
+			lock: free
+			line after: line
+		point:
+			position: (0.5000000000,0.5000000000)
+			lock: free
+			line after: line
