@@ -1,0 +1,350 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Square
+	combine: overlap
+	point:
+		position: (0.4477987421,0.4519916143)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5477987421,0.4519916143)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5477987421,0.5519916143)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4477987421,0.5519916143)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: Circle
+	combine: intersection
+	point:
+		position: (0.8000000000,0.5000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,0.1656854331)
+		handle_after: (-0.0000000000,-0.1656854331)
+	point:
+		position: (0.5000000000,0.2000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.1656854331,0.0000000000)
+		handle_after: (-0.1656854331,-0.0000000000)
+	point:
+		position: (0.2000000000,0.5000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,-0.1656854331)
+		handle_after: (-0.0000000000,0.1656854331)
+	point:
+		position: (0.5000000000,0.8000000000)
+		lock: size
+		line_after: curve
+		handle_before: (-0.1656854331,0.0000000000)
+		handle_after: (0.1656854331,-0.0000000000)
+part:
+	type: symmetry
+	name: Rotation (4)
+	kind: rotation
+	copies: 4
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Circle
+		combine: difference
+		point:
+			position: (0.9333333333,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,0.0736379703)
+			handle_after: (-0.0000000000,-0.0736379703)
+		point:
+			position: (0.8000000000,0.3666666667)
+			lock: size
+			line_after: curve
+			handle_before: (0.0736379703,0.0000000000)
+			handle_after: (-0.0736379703,-0.0000000000)
+		point:
+			position: (0.6666666667,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,-0.0736379703)
+			handle_after: (-0.0000000000,0.0736379703)
+		point:
+			position: (0.8000000000,0.6333333333)
+			lock: size
+			line_after: curve
+			handle_before: (-0.0736379703,0.0000000000)
+			handle_after: (0.0736379703,-0.0000000000)
+	part:
+		type: shape
+		name: Circle
+		combine: overlap
+		point:
+			position: (0.9333333333,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,0.0736379703)
+			handle_after: (-0.0000000000,-0.0736379703)
+		point:
+			position: (0.8000000000,0.3666666667)
+			lock: size
+			line_after: curve
+			handle_before: (0.0736379703,0.0000000000)
+			handle_after: (-0.0736379703,-0.0000000000)
+		point:
+			position: (0.6666666667,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,-0.0736379703)
+			handle_after: (-0.0000000000,0.0736379703)
+		point:
+			position: (0.8000000000,0.6333333333)
+			lock: size
+			line_after: curve
+			handle_before: (-0.0736379703,0.0000000000)
+			handle_after: (0.0736379703,-0.0000000000)
+	part:
+		type: shape
+		name: Circle
+		combine: intersection
+		point:
+			position: (0.8000000000,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,0.1656854331)
+			handle_after: (-0.0000000000,-0.1656854331)
+		point:
+			position: (0.5000000000,0.2000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.1656854331,0.0000000000)
+			handle_after: (-0.1656854331,-0.0000000000)
+		point:
+			position: (0.2000000000,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,-0.1656854331)
+			handle_after: (-0.0000000000,0.1656854331)
+		point:
+			position: (0.5000000000,0.8000000000)
+			lock: size
+			line_after: curve
+			handle_before: (-0.1656854331,0.0000000000)
+			handle_after: (0.1656854331,-0.0000000000)
+	part:
+		type: shape
+		name: Rectangle
+		combine: overlap
+		point:
+			position: (0.5000000000,0.4498951782)
+			lock: free
+			line_after: line
+		point:
+			position: (0.9000000000,0.4498951782)
+			lock: free
+			line_after: line
+		point:
+			position: (0.9000000000,0.4832285115)
+			lock: free
+			line_after: line
+		point:
+			position: (0.9333333333,0.5165618449)
+			lock: free
+			line_after: line
+		point:
+			position: (0.9000000000,0.5165618449)
+			lock: free
+			line_after: line
+		point:
+			position: (0.9000000000,0.5498951782)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.5498951782)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.5136268344)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.4832285115)
+			lock: free
+			line_after: line
+	part:
+		type: shape
+		name: Circle
+		combine: intersection
+		point:
+			position: (0.8000000000,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,0.1656854331)
+			handle_after: (-0.0000000000,-0.1656854331)
+		point:
+			position: (0.5000000000,0.2000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.1656854331,0.0000000000)
+			handle_after: (-0.1656854331,-0.0000000000)
+		point:
+			position: (0.2000000000,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,-0.1656854331)
+			handle_after: (-0.0000000000,0.1656854331)
+		point:
+			position: (0.5000000000,0.8000000000)
+			lock: size
+			line_after: curve
+			handle_before: (-0.1656854331,0.0000000000)
+			handle_after: (0.1656854331,-0.0000000000)
+	part:
+		type: shape
+		name: Circle
+		combine: overlap
+		point:
+			position: (0.8000000000,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,0.1656854331)
+			handle_after: (-0.0000000000,-0.1656854331)
+		point:
+			position: (0.5000000000,0.2000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.1656854331,0.0000000000)
+			handle_after: (-0.1656854331,-0.0000000000)
+		point:
+			position: (0.2000000000,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,-0.1656854331)
+			handle_after: (-0.0000000000,0.1656854331)
+		point:
+			position: (0.5000000000,0.8000000000)
+			lock: size
+			line_after: curve
+			handle_before: (-0.1656854331,0.0000000000)
+			handle_after: (0.1656854331,-0.0000000000)
+	part:
+		type: shape
+		name: Circle
+		combine: intersection
+		point:
+			position: (0.8000000000,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,0.1656854331)
+			handle_after: (-0.0000000000,-0.1656854331)
+		point:
+			position: (0.5000000000,0.2000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.1656854331,0.0000000000)
+			handle_after: (-0.1656854331,-0.0000000000)
+		point:
+			position: (0.2000000000,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,-0.1656854331)
+			handle_after: (-0.0000000000,0.1656854331)
+		point:
+			position: (0.5000000000,0.8000000000)
+			lock: size
+			line_after: curve
+			handle_before: (-0.1656854331,0.0000000000)
+			handle_after: (0.1656854331,-0.0000000000)
+	part:
+		type: shape
+		name: Circle
+		combine: overlap
+		point:
+			position: (0.9333333333,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,0.0736379703)
+			handle_after: (-0.0000000000,-0.0736379703)
+		point:
+			position: (0.8000000000,0.3666666667)
+			lock: size
+			line_after: curve
+			handle_before: (0.0736379703,0.0000000000)
+			handle_after: (-0.0736379703,-0.0000000000)
+		point:
+			position: (0.6666666667,0.5000000000)
+			lock: size
+			line_after: curve
+			handle_before: (0.0000000000,-0.0736379703)
+			handle_after: (-0.0000000000,0.0736379703)
+		point:
+			position: (0.8000000000,0.6333333333)
+			lock: size
+			line_after: curve
+			handle_before: (-0.0736379703,0.0000000000)
+			handle_after: (0.0736379703,-0.0000000000)
+part:
+	type: shape
+	name: Circle
+	combine: overlap
+	point:
+		position: (0.8000000000,0.5000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,0.1656854331)
+		handle_after: (-0.0000000000,-0.1656854331)
+	point:
+		position: (0.5000000000,0.2000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.1656854331,0.0000000000)
+		handle_after: (-0.1656854331,-0.0000000000)
+	point:
+		position: (0.2000000000,0.5000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,-0.1656854331)
+		handle_after: (-0.0000000000,0.1656854331)
+	point:
+		position: (0.5000000000,0.8000000000)
+		lock: size
+		line_after: curve
+		handle_before: (-0.1656854331,0.0000000000)
+		handle_after: (0.1656854331,-0.0000000000)
+part:
+	type: symmetry
+	name: Reflection (6)
+	kind: reflection
+	copies: 6
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2333333333,0.0666666667)
+	part:
+		type: symmetry
+		name: Rotation (6)
+		kind: rotation
+		copies: 6
+		center: (0.5000000000,0.5000000000)
+		handle: (0.2000000000,0.0000000000)
+		part:
+			type: shape
+			name: Triangle
+			combine: overlap
+			point:
+				position: (0.7000000000,0.3666666667)
+				lock: free
+				line_after: line
+			point:
+				position: (0.9666666667,0.5000000000)
+				lock: free
+				line_after: line
+			point:
+				position: (0.7000000000,0.6333333333)
+				lock: free
+				line_after: line

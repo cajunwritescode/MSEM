@@ -1,0 +1,201 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.4000000000,0.8666666667)
+		lock: free
+		line after: curve
+		handle before: (0.0000000000,-0.1333333333)
+		handle after: (0.0666666667,-0.1000000000)
+	point:
+		position: (0.3333333333,0.6000000000)
+		lock: direction
+		line after: curve
+		handle before: (-0.0249986292,0.0792948942)
+		handle after: (0.0205742376,-0.0652608581)
+	point:
+		position: (0.4666666667,0.4333333333)
+		lock: direction
+		line after: curve
+		handle before: (-0.0038037146,0.0534154675)
+		handle after: (0.0072500051,-0.1018116365)
+	point:
+		position: (0.4000000001,0.1666666667)
+		lock: free
+		line after: line
+		handle before: (0.0000000000,0.0950238004)
+	point:
+		position: (0.2666666667,0.1666666667)
+		lock: free
+		line after: curve
+		handle after: (0.0000000000,0.1000000000)
+	point:
+		position: (0.3666666667,0.4333333333)
+		lock: free
+		line after: curve
+		handle before: (0.0000000000,-0.1000000000)
+		handle after: (0.0000000000,0.1000000000)
+	point:
+		position: (0.2666666667,0.6000000000)
+		lock: free
+		line after: curve
+		handle before: (0.0000000000,-0.0666666667)
+		handle after: (0.0000000000,0.1666666667)
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.6333333333,0.1666666667)
+		lock: free
+		line after: curve
+		handle before: (0.0000000000,0.1333333333)
+		handle after: (-0.0666666667,0.1333333333)
+	point:
+		position: (0.7000000000,0.4333333333)
+		lock: direction
+		line after: curve
+		handle before: (0.0249986292,-0.0792948942)
+		handle after: (-0.0205742376,0.0652608581)
+	point:
+		position: (0.5666666667,0.6000000000)
+		lock: direction
+		line after: curve
+		handle before: (0.0038037146,-0.0534154675)
+		handle after: (-0.0072500051,0.1018116365)
+	point:
+		position: (0.6333333333,0.8666666667)
+		lock: free
+		line after: line
+		handle before: (0.0000000000,-0.0950238004)
+	point:
+		position: (0.7666666667,0.8666666667)
+		lock: free
+		line after: curve
+		handle after: (0.0000000000,-0.1000000000)
+	point:
+		position: (0.6666666667,0.6000000000)
+		lock: free
+		line after: curve
+		handle before: (0.0000000000,0.1000000000)
+		handle after: (0.0000000000,-0.1000000000)
+	point:
+		position: (0.7666666667,0.4333333333)
+		lock: free
+		line after: curve
+		handle before: (0.0000000000,0.0666666667)
+		handle after: (0.0000000000,-0.1666666667)
+part:
+	type: shape
+	name: Square
+	combine: merge
+	point:
+		position: (0.3666666667,0.7666666667)
+		lock: free
+		line after: line
+	point:
+		position: (0.3666666667,0.7666666667)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.2666666666,0.4000000001)
+		lock: free
+		line after: line
+	point:
+		position: (0.8333333333,0.4000000001)
+		lock: free
+		line after: line
+	point:
+		position: (0.8333333333,0.4666666667)
+		lock: free
+		line after: line
+	point:
+		position: (0.2666666666,0.4666666667)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.2666666666,0.7333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.8333333333,0.7333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.8333333333,0.8000000000)
+		lock: free
+		line after: line
+	point:
+		position: (0.2666666666,0.8000000000)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.2000000000,0.5666666667)
+		lock: free
+		line after: line
+	point:
+		position: (0.7666666667,0.5666666667)
+		lock: free
+		line after: line
+	point:
+		position: (0.7666666667,0.6333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.2000000000,0.6333333333)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.2000000000,0.2333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.7666666667,0.2333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.7666666667,0.3000000000)
+		lock: free
+		line after: line
+	point:
+		position: (0.2000000000,0.3000000000)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: merge
+	point:
+		position: (0.2000000000,0.2333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.7666666667,0.2333333333)
+		lock: free
+		line after: line
+	point:
+		position: (0.7666666667,0.3000000000)
+		lock: free
+		line after: line
+	point:
+		position: (0.2000000000,0.3000000000)
+		lock: free
+		line after: line
