@@ -1,0 +1,173 @@
+﻿mse version: 0.3.5
+part:
+	type: symmetry
+	name: Rotation (2)
+	kind: rotation
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Rectangle
+		combine: subtract
+		point:
+			position: (-0.5333333333,0.5333333333)
+			lock: free
+			line after: line
+		point:
+			position: (-0.0333333333,0.5333333333)
+			lock: free
+			line after: line
+		point:
+			position: (-0.0333333333,0.4178503788)
+			lock: free
+			line after: line
+		point:
+			position: (-0.5333333333,0.4178503788)
+			lock: free
+			line after: line
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.6698589046,0.5000000000)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.0920474629)
+		handle after: (0.0000000000,-0.0920474629)
+	point:
+		position: (0.5000000000,0.3333333334)
+		lock: size
+		line after: curve
+		handle before: (0.0938104874,0.0000000000)
+		handle after: (-0.0938104874,0.0000000000)
+	point:
+		position: (0.3301410954,0.5000000000)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.0920474629)
+		handle after: (0.0000000000,0.0920474629)
+	point:
+		position: (0.5000000000,0.6666666667)
+		lock: size
+		line after: curve
+		handle before: (-0.0938104874,0.0000000000)
+		handle after: (0.0938104874,0.0000000000)
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Rectangle
+		combine: subtract
+		point:
+			position: (0.1666666667,0.3333333333)
+			lock: free
+			line after: line
+		point:
+			position: (0.2666666667,0.2333333333)
+			lock: free
+			line after: line
+		point:
+			position: (0.5333333333,0.5000000000)
+			lock: free
+			line after: line
+		point:
+			position: (0.4333333333,0.6000000000)
+			lock: free
+			line after: line
+	part:
+		type: shape
+		name: Rectangle
+		combine: subtract
+		point:
+			position: (0.4333333333,0.8666666667)
+			lock: free
+			line after: line
+		point:
+			position: (0.5666666667,0.8666666667)
+			lock: free
+			line after: line
+		point:
+			position: (0.5666666667,0.5000000000)
+			lock: free
+			line after: line
+		point:
+			position: (0.4333333333,0.5000000000)
+			lock: free
+			line after: line
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+part:
+	type: symmetry
+	name: Reflection (4)
+	kind: reflection
+	copies: 4
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Ellipse
+		combine: subtract
+		point:
+			position: (0.6666666667,0.1777777778)
+			lock: size
+			line after: curve
+			handle before: (0.0000000000,0.0245459901)
+			handle after: (0.0000000000,-0.0245459901)
+		point:
+			position: (0.5000000000,0.1333333333)
+			lock: size
+			line after: curve
+			handle before: (0.0736379703,0.0000000000)
+			handle after: (-0.0736379703,0.0000000000)
+		point:
+			position: (0.3333333333,0.1777777778)
+			lock: size
+			line after: curve
+			handle before: (0.0000000000,-0.0245459901)
+			handle after: (0.0000000000,0.0245459901)
+		point:
+			position: (0.5000000000,0.2666666667)
+			lock: size
+			line after: curve
+			handle before: (-0.0736379703,0.0000000000)
+			handle after: (0.0736379703,0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.8057460284,0.5000000000)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.1656854331)
+		handle after: (0.0000000000,-0.1656854331)
+	point:
+		position: (0.5000000000,0.2000000000)
+		lock: size
+		line after: curve
+		handle before: (0.1688588771,0.0000000000)
+		handle after: (-0.1688588771,0.0000000000)
+	point:
+		position: (0.1942539716,0.5000000000)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.1656854331)
+		handle after: (0.0000000000,0.1656854331)
+	point:
+		position: (0.5000000000,0.8000000000)
+		lock: size
+		line after: curve
+		handle before: (-0.1688588771,0.0000000000)
+		handle after: (0.1688588771,0.0000000000)

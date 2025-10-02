@@ -1,0 +1,3980 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	title: Pyramids of Atuum
+	description: designed by Daij_Djan
+	artist: 
+	copyright: 
+	set_code: POA
+	set_language: EN
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: 
+	auto_errata: yes
+styling:
+	magic-m15:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-altered:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-clear:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-emblem:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-emblem-acorntail:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-emblem-cajun:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-emblem-udelude:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeshifted:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeshifted-duplex:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker-clear:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-promo-dka:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-token:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-token-clear:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-emblem:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-planeswalker-artbg:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		copyright color: white
+	magic-new-planeswalker-clear:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-02-20 23:01:18
+	name: Savannah Scout
+	casting_cost: 1WW
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Cat creatures you control have <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+		When <atom-cardname><nospellcheck>Savannah Scout</nospellcheck></atom-cardname> enters, create a 2/2 white Cat creature token.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: aditya777 (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 18
+		chop_bottom: 18
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-03-25 00:03:27
+	name: Expulse to the Desert
+	casting_cost: 5W
+	image: image121
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Exile target creature.
+		Draw a card.
+	flavor_text:
+		<i-flavor>“They are free to die wherever they want. Except here.”<soft-line>
+		—<error-spelling:en_US>Achet</error-spelling:en_US>-<error-spelling:en_US>Aton</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Indre Lelertaviciute
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Reprint
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-25 23:57:47
+	name: Suntail Hawk
+	casting_cost: W
+	image: image65
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-1><nospellcheck><key>Flying</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can’t be blocked except by creatures with flying or reach.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text:
+		<i-flavor>“Zealous messengers of our god.”<soft-line>
+		—<error-spelling:en_US>Menhet</error-spelling:en_US> priest</soft-line></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Heather Hudson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-12-14 21:43:33
+	name: Utsenchep Warrior
+	casting_cost: 1W
+	image: image92
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-1><nospellcheck><key>First strike</key></nospellcheck><atom-reminder-core> <i-auto>(This creature deals combat damage before creatures without first strike.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor>“Don’t back down — stand your ground and fight!”</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Sergio Quijada
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-12-14 21:38:28
+	name: Awestruck
+	casting_cost: 1W
+	image: image97
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature has <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> and its activated abilities can’t be activated.
+	flavor_text: <i-flavor>As the god’s silhouette appeared before the horizon, a deep silence fell on the desert.</i-flavor>
+	illustrator: Rainer Petter Ribeiro
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-02-20 23:02:27
+	name: Sprawled Arming
+	casting_cost: WW
+	image: image112
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Sprawled Arming</nospellcheck></atom-cardname> enters, put a +1/+1 counter on enchanted creature.
+		Enchanted creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
+		<sym-auto>5</sym-auto>: Return <atom-cardname><nospellcheck>Sprawled Arming</nospellcheck></atom-cardname> to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Paizo Publishing, LLC
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes:
+		Scry cycle
+		Reprint
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-01-28 12:18:58
+	name: Judge Unworthy
+	casting_cost: 1W
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Choose target attacking or blocking creature. <kw-a><nospellcheck><key>Scry <param-number>3</param-number></key></nospellcheck></kw-a>, then reveal the top card of your library. Judge Unworthy deals damage equal to that card’s mana value to that creature.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Brolo (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-17 22:57:07
+	name: Peaceful Sunbath
+	casting_cost: 1W
+	image: image125
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Tap target creature. You gain life equal to its toughness.
+	flavor_text: <i-flavor>Sometimes <error-spelling:en_US>Atuum’s</error-spelling:en_US> beautiful landscape can even deceive about its cruelty.</i-flavor>
+	illustrator: gadax (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-03-18 02:45:36
+	name: Caravan Sumpter
+	casting_cost: 4W
+	image: image68
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Camel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <sym-auto>1W</sym-auto>, <sym-auto>T</sym-auto>: Put a +1/+1 counter on target creature without a +1/+1 counter. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 5
+	illustrator: Nicole Cardiff
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Tribute
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-10-01 23:04:26
+	name: Observing Guardian
+	casting_cost: 2WW
+	image: image62
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Tribute <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>two</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Observing Guardian</nospellcheck></atom-cardname> enters, if tribute wasn’t paid, create a 2/2 white Cat creature token.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: paulobarrios (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Mirage
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-13 00:39:08
+	name: Preserving Cloak
+	casting_cost: 1U
+	image: image37
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +0/+1 and has <kw-0><nospellcheck><key>hexproof</key></nospellcheck></kw-0>.
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Katerina Romanova
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes:
+		Reprint
+		
+		Timespiraled > Might consider new art here.
+		
+		Daij_Djan > While I get your concerns, I believe this to still be ok compared to some official cards. Original artwork (http://davidgaillet.deviantart.com/art/Snake-priestess-264190223) doesn’t have "mature" tag as well.
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-04-23 20:46:18
+	name: Divination
+	casting_cost: 2U
+	image: image95
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Draw two cards.
+	flavor_text:
+		<i-flavor>“<error-spelling:en_US>Setheret</error-spelling:en_US> might have vanished without a trace. Yet one day, he will return.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Jachsechep</error-spelling:en_US>, god’s wife</i-flavor>
+	illustrator: David Gaillet
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-11-08 21:24:55
+	name: Streaming Waters
+	casting_cost: UU
+	image: image53
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Return target creature to its owner’s hand.
+		Draw a card.
+	flavor_text: <i-flavor>The pyramids are known for their manifold, malicious traps.</i-flavor>
+	illustrator: Avionetca (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-13 23:02:46
+	name: Dripping Turtle
+	casting_cost: 4U
+	image: image52
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Turtle</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: Whenever you cast a spell during an opponent’s turn, creatures you control get +0/+1 until end of turn.
+	flavor_text: <i-flavor>Water continues to drop from its shell hours after it has left the ocean already.</i-flavor>
+	power: 2
+	toughness: 5
+	illustrator: Adam Vehige
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-26 00:01:58
+	name: Priestess of Menhet
+	casting_cost: 3U
+	image: image49
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>
+		<kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor>“Granted wings to experience the heavens.”</i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: Mizhak (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Mirage
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-12 22:13:37
+	name: Crippling Spirit
+	casting_cost: 2U
+	image: image39
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets -6/-0.
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Luis María Dumont
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-10-01 21:23:12
+	name: Scaled Lurker
+	casting_cost: 1UU
+	image: image96
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Crocodile</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When <atom-cardname><nospellcheck>Scaled Lurker</nospellcheck></atom-cardname> enters, tap target creature an opponent controls. That creature doesn’t untap during its controller’s next untap step.
+	flavor_text: <i-flavor>Possessing intelligence doesn’t make <error-spelling:en_US>Senmut’s</error-spelling:en_US> descendants any kinder.</i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Alexander Alexandrov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Mirage
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-12-19 00:02:32
+	name: Wall of Fog
+	casting_cost: U
+	image: image69
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wall</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Illusion</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-1><nospellcheck><key>Defender</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can’t attack.)</i-auto></atom-reminder-core></kw-1>
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>0</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 3
+	illustrator: Dustin4Pictor (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-03-18 02:45:15
+	name: Winged Envoy
+	casting_cost: 1U
+	image: image104
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Sphinx</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>
+		<kw-1><nospellcheck><key>Hexproof</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can’t be the target of spells or abilities your opponents control.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Caroline Lahaise
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Scry cycle 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2021-01-29 23:48:49
+	name: Spell Dilution
+	casting_cost: 2U
+	image: image86
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Choose target spell. <kw-1><nospellcheck><key>Scry <param-number>3</param-number></key></nospellcheck>, then reveal the top card of your library. Counter the chosen spell unless its controller pays <sym-auto>X</sym-auto>, where X is that card’s mana value.<atom-reminder-core> <i-auto>(To scry <param-number>3</param-number>, look at the top <param-number>three</param-number> cards of your library, then put any number of them on the bottom and the rest on top in any order.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: GENZOMAN (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Reprint
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-02-12 14:33:43
+	name: Tendrils of Corruption
+	casting_cost: 3B
+	image: image4
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: <atom-cardname><nospellcheck>Tendrils of Corruption</nospellcheck></atom-cardname> deals X damage to target creature and you gain X life, where X is the number of Swamps you control.
+	flavor_text: <i-flavor>Darkness isn’t always hiding a threat. Sometimes darkness is the threat itself.</i-flavor>
+	illustrator: Andrew Murray
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Tribute
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-03-17 01:40:36
+	name: Haggard Jackal
+	casting_cost: 2B
+	image: image103
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Hound</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Tribute <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>a</param-number> +1/+1 counter on it.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Haggard Jackal</nospellcheck></atom-cardname> enters, if tribute wasn’t paid, each opponent discards a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Ilona Mikolajczyk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-19 08:59:56
+	name: Ruthless Monstrosity
+	casting_cost: 4BB
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <sym-auto>2</sym-auto>, Remove a counter from another permanent you control: <atom-cardname><nospellcheck>Ruthless Monstrosity</nospellcheck></atom-cardname> gets +2/+2 until end of turn.
+	flavor_text: <i-flavor>Hiding underneath the sands during daytime, hunting in the night.</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Adam Vehige
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2022-08-28 18:38:39
+	name: Kill the Competition
+	casting_cost: 3BB
+	image: image43
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Destroy target creature. If you do, you may put a +1/+1 counter on a creature you control.
+	flavor_text: <i-flavor>The priests of <error-spelling:en_US>Atuum</error-spelling:en_US> know more gods than there are stars in the sky. The existence of rivalry is to be expected.</i-flavor>
+	illustrator: Joannie Goulet
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 15
+		chop_bottom: 15
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-01-20 23:34:06
+	name: Giant Scarab
+	casting_cost: 4B
+	image: image70
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-0><nospellcheck><key>Flying</key></nospellcheck></kw-0>
+		<kw-1><nospellcheck><key>Deathtouch</key></nospellcheck><atom-reminder-core> <i-auto>(Any amount of damage this deals to a creature is enough to destroy it.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor>Some scarabs don’t even leave behind the bones of their victims.</i-flavor>
+	watermark: none
+	power: 2
+	toughness: 2
+	illustrator: Mike Lim
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Scry cycle
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-03-17 01:39:56
+	name: Terrifying Ankh
+	casting_cost: 4B
+	image: image88
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Choose target opponent. <kw-1><nospellcheck><key>Scry <param-number>3</param-number></key></nospellcheck>, then reveal the top card of your library. The chosen player discards an amount of cards equal to that card’s mana value.<atom-reminder-core> <i-auto>(To scry <param-number>3</param-number>, look at the top <param-number>three</param-number> cards of your library, then put any number of them on the bottom and the rest on top in any order.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Veli Nyström
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-03-18 13:00:35
+	name: Essence Dehydration
+	casting_cost: 2B
+	image: image115
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rule_text: At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.
+	flavor_text: <i-flavor>Is there a more gruesome sight than your own life pouring out of your body?</i-flavor>
+	illustrator: GENZOMAN (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-10-24 21:45:36
+	name: Double Arming
+	casting_cost: BB
+	image: image108
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Double Arming</nospellcheck></atom-cardname> enters, put a +1/+1 counter on enchanted creature.
+		Enchanted creature has <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
+		<sym-auto>5</sym-auto>: Return <atom-cardname><nospellcheck>Double Arming</nospellcheck></atom-cardname> to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: David Gaillet
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 15
+		chop_bottom: 15
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Reprint 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2022-03-31 18:59:58
+	name: Despise
+	casting_cost: B
+	image: image75
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Target opponent reveals their hand. You choose a creature or planeswalker card from it. That player discards that card.
+	flavor_text:
+		<i-flavor>“You dare disobey your </i>god<i>?”<soft-line>
+		—<error-spelling:en_US>Achet</error-spelling:en_US>-<error-spelling:en_US>Aton</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Javier Charro
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: Tribute 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-23 23:25:54
+	name: Lasis Persecutor
+	casting_cost: B
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Tribute <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>a</param-number> +1/+1 counter on it.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Lasis Persecutor</nospellcheck></atom-cardname> enters, if tribute wasn’t paid, it gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>. <i-auto>(This effect lasts indefinitely.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Dusan Markovic
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-03-18 02:19:03
+	name: Haughty Priest
+	casting_cost: R
+	image: image74
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: Whenever you cast a spell during an opponent’s turn, <atom-cardname><nospellcheck>Haughty Priest</nospellcheck></atom-cardname> deals 1 damage to that player.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Tachet’s</error-spelling:en_US> flames won’t hurt me. They only burn his foes.”</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: A.Heublein
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-10-01 23:07:51
+	name: Basat Priest
+	casting_cost: 3R
+	image: image25
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Cat creatures you control have <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
+		When <atom-cardname><nospellcheck>Basat Priest</nospellcheck></atom-cardname> enters, create a 2/2 white Cat creature token.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Robert Kim
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-10-01 23:08:09
+	name: Desert Warriors
+	casting_cost: 2R
+	image: image116
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Create two 1/1 red and white Sand Warrior creature tokens.
+	flavor_text: <i-flavor>Appearing out of nowhere, always eager for a fight.</i-flavor>
+	illustrator: Danil Shunkov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Mirage
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-01-07 15:23:20
+	name: Haze Raptor
+	casting_cost: 2R
+	image: image40
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Lizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Illusion</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-1><nospellcheck><key>Haste</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can attack and <sym>T</sym> as soon as it comes under your control.)</i-auto></atom-reminder-core></kw-1>
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Marta Mospinek
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Mirage
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-12 14:29:53
+	name: Imaginary Flames
+	casting_cost: 1R
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +2/+0 and has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: capprotti (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Mirage
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-11-05 22:42:37
+	name: Sandmouth Dragon
+	casting_cost: 3RR
+	image: image80
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Illusion</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		When <atom-cardname><nospellcheck>Sandmouth Dragon</nospellcheck></atom-cardname> enters, another target creature you control gets +3/+0 until end of turn.
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>2R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Mark Bulahao
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes:
+		Timespiraled > Seems good for a common. Might want to make it RR or 2R.
+		
+		Daij_Djan > Compared to stuff like |Convincing Mirage|, |Evil Presence| or |Spreading Seas|, the current cost should be just right imho.
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-04-03 01:47:35
+	name: Sanding
+	casting_cost: 1R
+	image: image54
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Destroy target land. Its controller creates a colorless Desert land token with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”
+	flavor_text:
+		<i-flavor>“Sand. It’s everywhere, get used to it.”<soft-line>
+		—unknown</soft-line></i-flavor>
+	illustrator: Darkdeliverians (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Scry cycle
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-01-28 12:19:20
+	name: Inspiring Melodies
+	casting_cost: 2RR
+	image: image90
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: <kw-a><nospellcheck><key>Scry <param-number>3</param-number></key></nospellcheck></kw-a>, then reveal the top card of your library. Discard your hand, then draw cards equal to that card’s mana value.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Wu Xi, Athena
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-17 21:54:53
+	name: Tamed Jaguar
+	casting_cost: RR
+	image: image93
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor>It never really loses its ferocity. At best, it gets a little picky in who to hurt.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: riikozor (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-14 00:38:26
+	name: Dune Peregrination
+	casting_cost: 2R
+	image: image126
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +2/+2 and can’t be blocked as long as defending player controls a Desert.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: SweetSeri (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Tribute 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-03-25 23:06:43
+	name: Tireless Vulture
+	casting_cost: 2BB
+	image: image46
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Bird</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Tribute <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>two</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Tireless Vulture</nospellcheck></atom-cardname> enters, if tribute wasn’t paid, each opponent loses 3 life. You gain life equal to the life lost this way.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: james wolf strehle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: Daij_Djan 1.3: added period 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-09-28 09:59:02
+	name: Excellent Architecture
+	casting_cost: U
+	image: image105
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: <kw-a><nospellcheck><key>Scry <param-number>5</param-number></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor><error-spelling:en_US>Atuum’s</error-spelling:en_US> master builders are famous for their design of breathtaking structures.</i-flavor>
+	illustrator: Miguel Coimbra
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Tribute
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-21 23:21:48
+	name: Atuum Serpent
+	casting_cost: 5U
+	image: image64
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Serpent</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Tribute <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>three</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Atuum Serpent</nospellcheck></atom-cardname> enters, if tribute was paid, it gains <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>. <i-auto>(This effect lasts indefinitely.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 6
+	illustrator: Lin Shunding
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes:
+		Mirage
+		
+		Timespiraled > Might want to up the Mirage cost. It should probably be 2UU at least. Instant speed recursion for 3 mana and a blocker for a turn is really too much.
+		
+		Daij_Djan > Fair. With also |Archaeomancer| in mind, Mirage cost changed (1UU —> 2UU)
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-04-23 21:04:33
+	name: Sandborn Mage
+	casting_cost: 3UU
+	image: image84
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Illusion</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Sandborn Mage</nospellcheck></atom-cardname> enters, you may return target instant or sorcery card from your graveyard to your hand.
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>2UU</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: 0BO (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-19 13:58:35
+	name: Diligent Believer
+	casting_cost: 1W
+	image: image59
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: <atom-cardname><nospellcheck>Diligent Believer</nospellcheck></atom-cardname> gets +1/+1 for each +1/+1 counter on other creatures you control.
+	flavor_text: <i-flavor>“I walk <error-spelling:en_US>amongst</error-spelling:en_US> the awe-inspiring, bathing in their glory.”</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Linda Lithén
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: Tribute 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-10-01 21:22:15
+	name: Leonin Sandfighter
+	casting_cost: 4W
+	image: image57
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Tribute <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>two</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Leonin Sandfighter</nospellcheck></atom-cardname> enters, if tribute was paid, it gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>. Otherwise it gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>. <i-auto>(This effect lasts indefinitely.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: George Evangelista
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2020-07-01 20:40:40
+	name: Cunning Chanter
+	casting_cost: 1U
+	image: image44
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Siren</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		Whenever <atom-cardname><nospellcheck>Cunning Chanter</nospellcheck></atom-cardname> becomes tapped, each opponent <kw-0><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-0>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Eric Ridgeway
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2020-07-01 20:40:10
+	name: Sharp Eyed Sentinel
+	casting_cost: 1UU
+	image: image102
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
+		Spell you cast cost <sym-auto>1</sym-auto> less to cast as long as it’s not your turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Juan Arrabal Hernández
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Tribute
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-01-20 23:57:16
+	name: Dignified Serpent
+	casting_cost: 3WW
+	image: image101
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Tribute <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>three</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Dignified Serpent</nospellcheck></atom-cardname> enters, if tribute wasn’t paid, put a +1/+1 counter on each other creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Julie Dillon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-03-18 12:59:04
+	name: Sudden Drought
+	casting_cost: 1B
+	image: image127
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Target creature gets -3/-3 until end of turn. If that creature would die this turn, exile it instead.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: theGorer (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Charm cycle 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2020-07-01 20:40:56
+	name: Wachet Charm
+	casting_cost: U
+	image: image114
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Choose one —<soft-line>
+		</soft-line>• Target player <kw-0><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-0>.<soft-line>
+		</soft-line>• Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: GENZOMAN (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Tribute
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-21 23:17:10
+	name: Descendant of Caaseb
+	casting_cost: 4B
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Tribute <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>two</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-expert></kw-A>
+		At the beginning of your upkeep you lose life equal to the number of +1/+1 counters on <atom-cardname><nospellcheck>Descendant of Caaseb</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 5
+	illustrator: Jose Ochoa
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2022-09-30 21:31:12
+	name: Mummification
+	casting_cost: B
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		As an additional cost to cast this spell, exile a creature card from your graveyard.
+		Create a tapped 2/3 black Mummy creature token.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Carlos Valenzuela
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Mirage 
+		Timespiraled > Two of these together is an infinite ETB combo. I suggest maybe changing it to return at the beginning of the next end step.
+		
+		Daij_Djan > To be fair, |Felidar Guardian| has the same issue — but this really wasn’t intentional and needs to be changed. Could change it to end step delay or a |Detention Sphere|-like wording, will use the second version to not have an end step ad a cleanup step trigger on the same card. —> added "not named CARDNAME" clause, dropped now superfluous "another" term.
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2025-02-28 20:44:49
+	name: Dawn Silhouette
+	casting_cost: 2W
+	image: image58
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Illusion</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Dawn Silhouette</nospellcheck></atom-cardname> enters, you may exile target creature not named <atom-cardname><nospellcheck>Dawn Silhouette</nospellcheck></atom-cardname> you control. Return that card to the battlefield under your control at the beginning of the next end step.
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Jason Engle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Charm cycle 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-03-09 14:30:51
+	name: Amosis Charm
+	casting_cost: B
+	image: image110
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Choose one —<soft-line>
+		</soft-line>• Target opponent discards a card.<soft-line>
+		</soft-line>• <atom-cardname><nospellcheck>Amosis Charm</nospellcheck></atom-cardname> deals 1 damage to any target and you gain 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: GENZOMAN (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Charm cycle
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-02-20 23:01:44
+	name: Menhet Charm
+	casting_cost: W
+	image: image113
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Choose one —<soft-line>
+		</soft-line>• Target creature gets +0/+3 until end of turn.<soft-line>
+		</soft-line>• Target creature gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <soft-line><kw-a><nospellcheck><key>lifelink</soft-line></key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: GENZOMAN (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-17 23:02:37
+	name: Mounted Charge
+	casting_cost: 2WW
+	image: image135
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Creatures you control get +2/+2 and gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+	flavor_text:
+		<i-flavor>“Just run them over.”<soft-line>
+		—<error-spelling:en_US>Achet</error-spelling:en_US>-<error-spelling:en_US>Aton</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: serranef (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2022-09-30 21:31:20
+	name: Wurm Spawning
+	casting_cost: 3RR
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		As an additional cost to cast this spell, sacrifice a land.
+		Create a 6/6 red Wurm creature token with “This creature can’t be blocked by creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.”
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chris Cold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-06 20:08:58
+	name: Mounted Marksman
+	casting_cost: 1RR
+	image: image76
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Archer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Mounted Marksman</nospellcheck></atom-cardname> enters, it deals 2 damage to target creature you don’t control.
+	flavor_text: <i-flavor>“You may try to escape, but my arrow will find you.”</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Nicole Cardiff
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Mirage 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-02-20 23:06:53
+	name: Whistled Dragons
+	casting_cost: RR
+	image: image106
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Illusion</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Alector Fencer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Charm cycle
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-03-09 14:31:35
+	name: Basat Charm
+	casting_cost: R
+	image: image119
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Choose one —<soft-line>
+		</soft-line>• Target creature gets +2/-1 until end of turn.<soft-line>
+		</soft-line>• <atom-cardname><nospellcheck>Basat Charm</nospellcheck></atom-cardname> deals 3 damage to target player or planeswalker.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anastia Sudakova Lerno
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Reprint
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-13 23:48:47
+	name: Heat of Battle
+	casting_cost: 1R
+	image: image136
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text: Whenever a creature blocks, <atom-cardname><nospellcheck>Heat of Battle</nospellcheck></atom-cardname> deals 1 damage to that creature’s controller.
+	flavor_text:
+		<i-flavor>“Save your thoughts for later. Only instincts and reflexes matter now.”<soft-line>
+		—<error-spelling:en_US>Utsenchep</error-spelling:en_US> disciple</soft-line></i-flavor>
+	illustrator: Chris Kuhlmann
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2021-01-31 21:09:46
+	name: Doomed Journey
+	casting_cost: 2BB
+	image: image120
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets -2/-2.
+		At the beginning of the upkeep of enchanted creature’s controller, that player discards a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alector Fencer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-06 01:19:50
+	name: Caravan Engulfer
+	casting_cost: 4RR
+	image: image123
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Caravan Engulfer</nospellcheck></atom-cardname> enters, creatures you don’t control can’t block this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 1
+	illustrator: GENZOMAN (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-28 10:30:08
+	name: Survive
+	casting_cost: W
+	image: image63
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: <kw-A><nospellcheck><key>Regenerate</key></nospellcheck> target creature.<atom-reminder-action> <i-auto>(The next time that permanent would be destroyed this turn, it isn’t. Instead tap it.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>Never give up — no matter what.</i-flavor>
+	illustrator: imrooniel (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Tribute
+		colorshift 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-25 23:11:04
+	name: Giant Dromad
+	casting_cost: 2W
+	image: image48
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Camel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Tribute <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>a</param-number> +1/+1 counter on it.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Giant Dromad</nospellcheck></atom-cardname> enters, if tribute wasn’t paid, you may destroy target artifact or enchantment.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: GENZOMAN (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-25 22:59:02
+	name: Camelriding Archer
+	casting_cost: 3W
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Archer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-1><nospellcheck><key>Reach</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can block creatures with flying.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor>His aim transcends the heavens.</i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: Jacob Kohlberg
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		colorshift
+		“If the Njel were ever to dry up, our kingdom would be doomed.”\n—priest of Senmut
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2021-02-28 02:51:41
+	name: Life-Giving Waters
+	casting_cost: 1U
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Untap up to two target lands you control. Those lands become the basic land type of your choice until end of turn.
+		Draw a card.
+	flavor_text:
+		<i-flavor>“If the <error-spelling:en_US>Njel</error-spelling:en_US> were ever to dry up, our kingdom would be doomed.”<soft-line>
+		</soft-line>—priest of <error-spelling:en_US>Senmut</i-flavor></error-spelling:en_US>
+	illustrator: YU QI WANG
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-04-13 22:11:57
+	name: Pharaoh Guardian
+	casting_cost: 5U
+	image: image72
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: Creatures with power less than <atom-cardname><nospellcheck>Pharaoh Guardian</nospellcheck></atom-cardname>’s power can’t block it.
+	flavor_text: <i-flavor>He gave away his eyesight to not be blinded by the living god’s appearance.</i-flavor>
+	power: 5
+	toughness: 3
+	illustrator: capprotti (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-02-23 10:02:04
+	name: Blurring Mists
+	casting_cost: U
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Prevent all combat damage that would be dealt to and dealt by creatures this turn.
+	flavor_text: <i-flavor>You can’t fight what you can’t see.</i-flavor>
+	power: 
+	toughness: 
+	illustrator: Lee J. Yuan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-11-06 20:15:50
+	name: Njel Crocodile
+	casting_cost: 1B
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Crocodile</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When <atom-cardname><nospellcheck>Njel Crocodile</nospellcheck></atom-cardname> enters, you may have it <kw-A><nospellcheck><key>fight</key></nospellcheck> target creature.<atom-reminder-action> <i-auto>(Each deals damage equal to its power to the other.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor>A dignified descendant of <error-spelling:en_US>Senmut</error-spelling:en_US> to some, a ferocious beast to others.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Sandro Rybak
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-10 22:31:52
+	name: Gruesome Transport
+	casting_cost: 3B
+	image: image94
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +3/+3 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+	flavor_text:
+		<i-flavor>“If they wouldn’t want to get hurt, they wouldn’t get into my way.”<soft-line>
+		—<error-spelling:en_US>Achet</error-spelling:en_US>-<error-spelling:en_US>Aton</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: mucuss33 (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-04-03 01:45:12
+	name: Depraved Disciple
+	casting_cost: B
+	image: image45
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <sym-auto>T</sym-auto>, Exile a card from your graveyard: Add <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor>Many priests are humble followers of their god. Others prefer to be worshiped as such themselves.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: monkeydoodles (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2021-05-29 17:46:12
+	name: Dune Scorpion
+	casting_cost: 1R
+	image: image47
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Scorpion</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-1><nospellcheck><key>Reach</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can block creatures with flying.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text:
+		<i-flavor>“What stings more than the midday sun or a sand flood?”<soft-line>
+		—Desert riddle</soft-line></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: laclillac (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-06 12:08:19
+	name: Sixpod Sprinter
+	casting_cost: 2RR
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-0><nospellcheck><key>Haste</key></nospellcheck></kw-0>
+		<atom-cardname><nospellcheck>Sixpod Sprinter</nospellcheck></atom-cardname> can’t be blocked except by creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>Able to outrun all enemies, they make for formidable mounts.</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Adam Vehige
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Reprint
+		colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2022-06-05 21:37:05
+	name: Brute Force
+	casting_cost: R
+	image: image111
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Target creature gets +3/+3 until end of turn.
+	flavor_text: <i-flavor>Being subtle has never been her forte.</i-flavor>
+	illustrator: ZHOU
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-10 21:02:58
+	name: Alpha Lion
+	casting_cost: WW
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: 
+	flavor_text: <i-flavor>With her avatar being female, only few males worship <error-spelling:en_US>Basat</error-spelling:en_US> and her descendants. The other way around even male descendants are worshiped by <error-spelling:en_US>Basat’s</error-spelling:en_US> believers, even though their stand is considered inferior by some.</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Ilona Mikolajczyk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: short text only
+		overlay: 
+	notes: colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-09-28 18:56:00
+	name: Stream of Light
+	casting_cost: XW
+	image: image77
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Target player gains X life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Bob Greyvenstein
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Mirage
+		colorshift 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-04-03 01:45:42
+	name: Bath in the Solitude
+	casting_cost: 3U
+	image: image100
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		Creatures you control have “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor>The waters of <error-spelling:en_US>Waen</error-spelling:en_US>-Re melt away all stress until only enlightenment remains.</i-flavor>
+	illustrator: NaomiVanDoren (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 9
+		chop_bottom: 9
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		colorshift  
+		
+		Timespiraled > This is pretty much a better Rampant Growth. I’m not sure the drawback is severe enough.
+		
+		Daij_Djan > I personally think turning the land into a |City of Brass| works as drawback — limiting to only basics would make it really weak, especially at uncommon. I might consider basics or Deserts as potential targets, though — buth this wouldn’t do much within this set.. Currently I lean towards no change.
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2022-05-21 23:40:52
+	name: Poisoned Well
+	casting_cost: 2B
+	image: image85
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Search your library for a land card and put that card onto the battlefield tapped with a venom counter on it. It gains “Whenever this land is tapped for mana, you lose 1 life.” Then shuffle.
+	flavor_text: <i-flavor>On <error-spelling:en_US>Atuum</error-spelling:en_US>, there exists no greater crime.</i-flavor>
+	illustrator: Fantasy Flight Games
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-12 23:32:44
+	name: Diligent Fishermen
+	casting_cost: 1U
+	image: image42
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Diligent Fishermen</nospellcheck></atom-cardname> enters, look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Sam Hogg
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-26 00:16:39
+	name: Dance for the Heavens
+	casting_cost: 1R
+	image: image81
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Exile target card from your graveyard. You may play it this turn.
+	flavor_text: <i-flavor>“Don’t think. Feel. Let your body move by the sky’s rhythms.”</i-flavor>
+	illustrator: Wu Xi, Athena
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 12
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-02-23 10:16:41
+	name: Gates to the Afterlife
+	casting_cost: 1BB
+	image: image89
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wall</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-1><nospellcheck><key>Defender</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can’t attack.)</i-auto></atom-reminder-core></kw-1>
+		<kw-1><nospellcheck><key>Hexproof</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can’t be the target of spells or abilities your opponents control.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor>Sealing the <error-spelling:en_US>tombs’</error-spelling:en_US> <error-spelling:en_US>vally</error-spelling:en_US>, they represent the border between the living and the dead.</i-flavor>
+	power: 1
+	toughness: 6
+	illustrator: Alector Fencer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-14 01:51:13
+	name: Fire from Above
+	casting_cost: 1RR
+	image: image60
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: <atom-cardname><nospellcheck>Fire from Above</nospellcheck></atom-cardname> deals 2 damage to target opponent and each creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> that player controls.
+	flavor_text: <i-flavor>It’s not as if he had to worry about his landing anymore.</i-flavor>
+	illustrator: Baton123 (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 10
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Tribute 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-04-03 01:42:44
+	name: Righteous Priestess
+	casting_cost: 6W
+	image: image118
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Tribute <param-number>4</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>four</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Righteous Priestess</nospellcheck></atom-cardname> enters, if tribute wasn’t paid, the chosen player can’t cast creature spells during their next two turns.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Inna Vjuzhanina
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 30
+		chop_bottom: 25
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		Timespiraled > Might want to compare to Indestructibility as a 3W aura that affects all permanents. I’m thinking WW for this effect?
+		
+		Daij_Djan > Fair. |Shielded by Faith| is also worth keeping in mind here. As I don’t want this card to be too color heavy, cost changed (1W —> 2W).
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-05-25 22:04:05
+	name: Divine Protection
+	casting_cost: 2W
+	image: image132
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Put a divinity counter on target creature. It gains “This creature has <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as it has divinity counter on it.” <i-auto>(This effect lasts indefinitely.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Vuk Kostic
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes:
+		Timespiraled > Pretty one sided board wipe, I’ll keep my eye on this.
+		
+		Daij_Djan > I think |Crux of Fate| says it’s fine — but keeping an eye on it definitely is fair.
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-02-20 23:01:57
+	name: Menhet’s Edict
+	casting_cost: 3WW
+	image: image107
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Destroy all creatures without <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>“Those of you not worthy of my wings... be gone!”</i-flavor>
+	illustrator: EthicallyChallenged (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: four basics cycle
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-03-05 13:50:00
+	name: Angel of Sands
+	casting_cost: 4W
+	image: image91
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
+		At the beginning of your upkeep, if you control four or more Plains, put a +1/+1 counter on each other creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 3
+	toughness: 5
+	illustrator: Emanuella Kozas
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-14 01:04:04
+	name: Eternal Banishment
+	casting_cost: 2WW
+	image: image124
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Eternal Banishment</nospellcheck></atom-cardname> enters, put a +1/+1 counter on enchanted creature.
+		Remove a +1/+1 counter from enchanted creature: Exile target creature an opponent controls until <atom-cardname><nospellcheck>Eternal Banishment</nospellcheck></atom-cardname> leaves the battlefield. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: draxmusthurt (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Mirage
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2015-10-13 22:43:03
+	name: Blurry Counterpart
+	casting_cost: 2UU
+	image: image55
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Shapeshifter</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Illusion</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		You may have <atom-cardname><nospellcheck>Blurry Counterpart</nospellcheck></atom-cardname> enter as a copy of any creature on the battlefield.
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Alexander Alexandrov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 15
+		chop_bottom: 15
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-14 01:03:56
+	name: Divine Denial
+	casting_cost: 2UU
+	image: image130
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Counter target spell.
+		At the beginning of your upkeep, if you control three or more creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, you may return <atom-cardname><nospellcheck>Divine Denial</nospellcheck></atom-cardname> from your graveyard to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Vuk Kostic
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 15
+		chop_bottom: 15
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Avatar cycle
+		four basics cycle 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-10-30 00:52:18
+	name: Avatar of Senmut
+	casting_cost: UU
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Crocodile creatures you control get +1/+1.
+		<atom-cardname><nospellcheck>Avatar of Senmut</nospellcheck></atom-cardname> and Crocodile creatures you control can’t be blocked as long as you control four or more Islands.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Andy Timm
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 15
+		chop_bottom: 15
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Reprint 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-13 23:43:00
+	name: Ancestral Memories
+	casting_cost: 2UUU
+	image: image134
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Look at the top seven cards of your library. Put two of them into your hand and the rest into your graveyard.
+	flavor_text: <i-flavor>The Great Library contains thousands years worth of knowledge.</i-flavor>
+	illustrator: Frederic St-Arnaud
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-14 00:27:04
+	name: Gift of the Sphinx
+	casting_cost: 4U
+	image: image129
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Whenever you cast a spell during an opponent’s turn, put a charge counter on <atom-cardname><nospellcheck>Gift of the Sphinx</nospellcheck></atom-cardname>.
+		At the beginning of your upkeep, draw a card for each charge counter on <atom-cardname><nospellcheck>Gift of the Sphinx</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nicole Cardiff
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 15
+		chop_bottom: 15
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Mirage 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-14 01:07:05
+	name: Antithesis
+	casting_cost: 3BB
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Creatures you don’t control get -1/-1.
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>1B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: tarel abdel-kawi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-14 01:07:11
+	name: Sinister Pact
+	casting_cost: BB
+	image: image128
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Pay any amount of life. Look at twice that many cards from the top of your library and put one into your hand. Exile the rest.
+	flavor_text: <i-flavor>“It shall be done. And now pay.”</i-flavor>
+	illustrator: Andrzej-Korytkowski (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		other_options: un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		Daij_Djan 1.3:Fortress change
+		!script "s>l>Mummy Reminder/l>f>/spawn black Mummy POA/f>/s>","t"
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2021-01-29 23:44:40
+	name: Menes, the Great Pyramid
+	casting_cost: 4BBB
+	image: image31
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Fortress</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	rule_text:
+		Whenever one or more creatures attack Menes, the Great Pyramid, create a tapped 2/3 black Mummy creature token.
+		You get an emblem with “Black creatures you control get +1/+1.”
+		Exile target creature card from a graveyard. Create a tapped token that’s a copy of it except it’s a black Mummy.
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_2: +1
+	loyalty_cost_3: -3
+	loyalty: 5
+	level_1_text: Whenever one or more creatures attack Menes, the Great Pyramid, create a tapped 2/3 black Mummy creature token.
+	level_2_text: <margin:130:0:0>You get an emblem with “Black creatures you control get +1/+1.”</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Exile target creature card from a graveyard. Create a tapped token that’s a copy of it except it’s a black Mummy.</margin:130:0:0>
+	level_4_text: 
+	level_5_text: 
+	level_6_text: 
+	illustrator: Paul Fisher
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+	special_text:
+		Whenever one or more creatures attack Menes, the Great Pyramid, create a tapped 2/3 black Mummy creature token.
+		[+1]: <margin:130:0:0>You get an emblem with “Black creatures you control get +1/+1.”</margin:130:0:0>
+		[-3]: <margin:130:0:0>Exile target creature card from a graveyard. Create a tapped token that’s a copy of it except it’s a black Mummy.</margin:130:0:0>
+card:
+	has_styling: false
+	notes:
+		Tribute
+		Avatar cycle
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2019-12-30 21:38:25
+	name: Avatar of Amosis
+	casting_cost: 2BB
+	image: image34
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Tribute <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>three</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Avatar of Amosis</nospellcheck></atom-cardname> enters, if tribute wasn’t paid, you may destroy target creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Chris Bjors
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: four basics cycle
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-10-30 00:52:28
+	name: Adept Necromancer
+	casting_cost: B
+	image: image87
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: At the beginning of your upkeep, if you control four or more Swamps, you may exile target creature card from your graveyard. If you do, create a tapped token that’s a copy of it except it’s a black Mummy.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Simon Eckert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2021-01-29 23:45:00
+	name: Ferocious Desert-Hunter
+	casting_cost: 4RR
+	image: image41
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		<kw-1><nospellcheck><key>Menace</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can’t be blocked except by two or more creatures.)</i-auto></atom-reminder-core></kw-1>
+		<sym-auto>4RR</sym-auto>: <atom-cardname><nospellcheck>Ferocious Desert-Hunter</nospellcheck></atom-cardname> gets +X/+0 until end of turn, where X is its power.
+	flavor_text: <i-flavor>It might have lost the ability to fly, but not its greed for prey.</i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Jb Pain
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: four basics cycle
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2020-04-14 20:43:06
+	name: Warrior’s Pride
+	casting_cost: 2R
+	image: image99
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Creatures you control get +1/+0 and attack each turn if able.
+		As long as you control four or more Mountains, attacking creatures you control get an additional +1/+0 and have <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jason Engle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes:
+		Timespiraled > This is just a better Reverberate. Mirage cost might want to be 2R or 1RR
+		
+		Daij_Djan > Fair. Changed Mirage cost (RR —> 1RR) and normal casting cost to (1RR —> 3R) in the process to make the normal cost matter more.
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-04-23 20:27:57
+	name: Pyramid Lord
+	casting_cost: 3R
+	image: image117
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wizard</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Illusion</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Pyramid Lord</nospellcheck></atom-cardname> enters, copy target instant or sorcery spell. You may choose new targets for the copy.
+		<kw-0><nospellcheck><key>Mirage <param-cost><sym-auto>1RR</sym-auto></param-cost></key></nospellcheck></kw-0> <i-auto>(You may cast this spell for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: RyanMahonArt (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes:
+		Tribute
+		Daij_Djan 1.3: capitalized Fortress according to changes 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2017-10-01 21:22:43
+	name: Rockpounding Saurian
+	casting_cost: 3RR
+	image: image98
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Lizard</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Tribute <param-number>3</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>three</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Rockpounding Saurian</nospellcheck></atom-cardname> enters, if tribute wasn’t paid, you may destroy up to one target artifact, up to one target land and up to one target Fortress.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Jeff Teo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Avatar cycle
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-04-17 22:25:17
+	name: Avatar of Basat
+	casting_cost: R
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-1><nospellcheck><key>Menace</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can’t be blocked except by two or more creatures.)</i-auto></atom-reminder-core></kw-1>
+		<atom-cardname><nospellcheck>Avatar of Basat</nospellcheck></atom-cardname> can’t block.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Grishin Alexey
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: Legend cycle 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2024-04-22 23:54:49
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/Him
+	name: Zarchepet, Master of Sands
+	casting_cost: 3RR
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<sym-auto>1R</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a land: Create a colorless Desert land token with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”
+		<sym-auto>1R</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a Desert: Destroy up to two target lands.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 4
+	illustrator: Elin Tan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: colorshift 
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2018-02-20 23:08:14
+	name: Desert Wurms
+	casting_cost: 8RRR
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wurm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<atom-cardname><nospellcheck>Desert Wurms</nospellcheck></atom-cardname> can’t be blocked by creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		When <atom-cardname><nospellcheck>Desert Wurms</nospellcheck></atom-cardname> enters, create two 6/6 red Wurm creature tokens with “This creature can’t be blocked by creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.”
+		When <atom-cardname><nospellcheck>Desert Wurms</nospellcheck></atom-cardname> is put into a graveyard from anywhere, shuffle it into its owner’s library.
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: minenanoah (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Avatar cycle
+		colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2016-02-21 23:15:43
+	name: Avatar of Utsenchep
+	casting_cost: 4WW
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Avatar of Utsenchep</nospellcheck></atom-cardname> can block any number of creatures.
+		All creatures able to block <atom-cardname><nospellcheck>Avatar of Utsenchep</nospellcheck></atom-cardname> do so.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 7
+	illustrator: Eryk Szczygiel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Mirage 
+		colorshift !export
+		Daij_Djan 1.3: Name change (MIsts — Dust) due to it appearing twice in MSEM
+		!append  (You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2024-08-24 10:03:38
+	name: Through the Dust
+	casting_cost: 4UUU
+	image: image51
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: mythic rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Through the Dust</nospellcheck></atom-cardname> enters, it becomes an Aura with <kw-a><nospellcheck><key>enchant <param-name>creature.</param-name></key></nospellcheck></kw-a> Reveal the top seven cards of your library, put a creature card revealed this way onto the battlefield and attach <atom-cardname><nospellcheck>Through the Dust</nospellcheck></atom-cardname> to it. Then put the rest on the bottom of your library in any order. When <atom-cardname><nospellcheck>Through the Dust</nospellcheck></atom-cardname> is no longer on the battlefield, enchanted creature’s controller sacrifices it.
+		<kw-0><nospellcheck><key>Mirage <param-cost><sym-auto>1UUU</sym-auto></param-cost></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Disse86 (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		other_options: un-indent nonloyalty abilities, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: Daij_Djan 1.3: legendary Planeswalker change
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2021-05-29 14:54:10
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: She/Her
+	name: Jachsechep, God’s Wife
+	casting_cost: 3UB
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Jachsechep</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_1: +2
+	loyalty_cost_2: -1
+	loyalty_cost_3: -10
+	loyalty: 3
+	level_1_text: <margin:130:0:0>Sacrifice a creature. If you do, you may draw two cards.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Gain control of target creature for as long as you control <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jachsechep</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, God’s Wife.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>You get an emblem with “Whenever a creature enters under an opponent’s control, gain control of it.”</margin:130:0:0>
+	level_4_text: 
+	illustrator: Leonid Kozienko
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+	special_text:
+		[+2]: <margin:130:0:0>Sacrifice a creature. If you do, you may draw two cards.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Gain control of target creature for as long as you control <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jachsechep</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, God’s Wife.</margin:130:0:0>
+		[-10]: <margin:130:0:0>You get an emblem with “Whenever a creature enters under an opponent’s control, gain control of it.”</margin:130:0:0>
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: Legend cycle
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2021-05-29 14:54:00
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: She/Her
+	name: High-Priestess Nebti
+	casting_cost: 1WW
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>High-Priestess Nebti</nospellcheck></atom-cardname> attacks or blocks, create a 2/2 white Cat creature token.
+		<sym-auto>1RR</sym-auto>, Tap an untapped Cat creature you control: That creature fights target creature you don’t control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Bryan Marvin P. Sola
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: planeshifted
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Legend cycle
+		colorshift
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2021-05-29 14:53:47
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/Him
+	name: Achet-Aton, Living God
+	casting_cost: 2BBB
+	image: image50
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-1><nospellcheck><key>Menace</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can’t be blocked except by two or more creatures.)</i-auto></atom-reminder-core></kw-1>
+		When <atom-cardname><nospellcheck>Achet-Aton, Living God</nospellcheck></atom-cardname> enters, if your life total is less than <nosym>5</nosym>, your life total becomes 5.
+		As long as you have 5 or more life, damage that would reduce your life total to less than 5 reduces it to 5 instead.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: GENZOMAN (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: !alter
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2019-09-01 08:55:26
+	name: Desert Slaughterer
+	casting_cost: B
+	image: image122
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Desert Slaughterer</nospellcheck></atom-cardname> can’t block.
+		<sym-auto>B</sym-auto>, Remove a +1/+1 counter from a creature you control: Return <atom-cardname><nospellcheck>Desert Slaughterer</nospellcheck></atom-cardname> from your graveyard to the battlefield with a +1/+1 counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Veli Nyström
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2015-09-14 09:44:07
+	time_modified: 2015-09-14 09:46:22
+	card_color: red
+	name: Wurm
+	image: image5
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wurm</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: This creature can’t be blocked by creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Nathan Rosario
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-14 09:52:38
+	time_modified: 2015-10-06 10:20:19
+	name: Plains
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol white
+	illustrator: Joakim Olofsson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-14 09:52:38
+	time_modified: 2015-09-24 23:09:57
+	name: Island
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol blue
+	illustrator: lepyoshka (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-14 09:52:38
+	time_modified: 2015-09-24 23:10:53
+	name: Swamp
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol black
+	illustrator: Yury Krylou
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-14 09:52:38
+	time_modified: 2015-10-04 16:04:17
+	name: Mountain
+	image: image15
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol red
+	illustrator: Chris Cold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-14 09:52:40
+	time_modified: 2015-09-24 23:08:58
+	name: Plains
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol white
+	illustrator: Andre de Freitas Cardozo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-14 09:52:40
+	time_modified: 2015-10-04 16:03:42
+	name: Island
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol blue
+	illustrator: Chris Cold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-14 09:52:40
+	time_modified: 2015-10-04 16:03:59
+	name: Swamp
+	image: image14
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol black
+	illustrator: Chris Cold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-09-14 09:52:40
+	time_modified: 2015-09-24 23:07:44
+	name: Mountain
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol red
+	illustrator: Logan Feliciano
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2015-09-24 23:01:11
+	time_modified: 2016-02-21 23:12:43
+	card_color: white
+	name: Cat
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Meghann Beardsley
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Tribute
+	time_created: 2015-10-04 16:07:02
+	time_modified: 2015-10-26 00:34:25
+	name: Slaughter
+	casting_cost: 2WWBB
+	image: image79
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Incarnation</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-A><nospellcheck><key>Tribute <param-number>4</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(As this creature enters, an opponent of your choice may put <param-number>four</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Slaughter</nospellcheck></atom-cardname> enters, if tribute was paid, destroy all other creatures. Otherwise, destroy all creatures you don’t control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Ivan Laliashvili
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2015-10-04 16:07:02
+	time_modified: 2024-08-30 21:38:47
+	name: Desert Temple
+	casting_cost: 
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land>Desert</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Desert Temple</nospellcheck></atom-cardname> enters tapped.
+		<margin:0:0:5>As <atom-cardname><nospellcheck>Desert Temple</nospellcheck></atom-cardname> enters, an opponent of your choice chooses Oasis or Desiccation.</margin:0:0:5>
+		<li><bullet>• </bullet>Oasis — <sym-auto>T</sym-auto>: Add one mana of any color.
+		</li><li><bullet>• </bullet>Desiccation — <sym-auto>T</sym-auto>: Add <sym-auto>CC</sym-auto>. You lose 1 life.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Markus Holzum
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes:
+		Timespiraled > Not sure here. Ætherize is 3U for hand. This completely ruins their draws for X turns. 4WU?
+		
+		Daij_Djan > I remember to have pondered quite a bit of this one as well — using |Ætherize| as comparison. I personally think rarity bump plus one more mana, which introduces a new color, is fine here. Definitely willing to keep the card in mind and increase the cost given it proves too powerful, though.
+	time_created: 2015-10-04 16:07:02
+	time_modified: 2017-04-23 20:27:53
+	name: Daunting Gaze
+	casting_cost: 3WU
+	image: image56
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Put all attacking creatures on top of their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> libraries.
+	flavor_text: <i-flavor>As her gaze fell upon them, they finally understood their atrocity. Reverent they backed down to redeem themselves.</i-flavor>
+	illustrator: Eric Ridgeway
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: Daij_Djan 1.3: Fortress change
+	time_created: 2015-10-04 16:07:02
+	time_modified: 2018-04-03 01:50:08
+	name: Kalro, Desert Outpost
+	casting_cost: 2RW
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Fortress</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_2: +1
+	loyalty_cost_3: -2
+	loyalty: 3
+	level_1_text: Whenever a creature attacks <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kalro</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Desert Outpost, it deals 1 damage to that creature.
+	level_2_text: <margin:130:0:0>Create a 1/1 red and white Sand Warrior creature token.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Destroy target nonbasic land. Its controller creates a colorless Desert land token with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”</margin:130:0:0>
+	illustrator: Tuomas Korpi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: POA - EN                    ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+	special_text:
+		Whenever a creature attacks <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kalro</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Desert Outpost, it deals 1 damage to that creature.
+		[+1]: <margin:130:0:0>Create a 1/1 red and white Sand Warrior creature token.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Destroy target nonbasic land. Its controller creates a colorless Desert land token with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”</margin:130:0:0>
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-10-04 16:07:02
+	time_modified: 2016-03-31 09:18:22
+	name: Staff of Authority
+	casting_cost: 4
+	image: image109
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		Equipped creature has “You may choose not to untap this creature during your untap step” and “<sym-auto>T</sym-auto>: Gain control of target creature with power 5 or greater for as long as you control this creature and it remains tapped.”
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: javier Charro
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes: Mirage
+	time_created: 2015-10-04 16:07:02
+	time_modified: 2015-10-13 21:55:58
+	name: Mesmerizing Shimmer
+	casting_cost: 4UR
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Mesmerizing Shimmer</nospellcheck></atom-cardname> enters, untap enchanted creature. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		You control enchanted creature.
+		<kw-A><nospellcheck><key>Mirage <param-cost><sym-auto>2UR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chris Cold
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 2
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Legend cycle
+		
+		Timespiraled > No proper legend name?
+		
+		Daij_Djan > Name is very much intentional — I think it works in the same way |The Gitrog Monster| does.
+	time_created: 2015-10-04 16:07:02
+	time_modified: 2021-05-29 14:54:30
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: She/Her
+	name: Sphinx of Riddles
+	casting_cost: 5UU
+	image: image78
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Sphinx</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Sphinx of Riddles</nospellcheck></atom-cardname> enters, secretly choose a card name. You may reveal the chosen name any time.
+		Whenever a spell an opponent controls with the chosen name resolves, you may draw two cards.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 7
+	illustrator: laclillac (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	has_styling: false
+	notes:
+		 
+	time_created: 2015-10-04 16:07:02
+	time_modified: 2018-03-09 14:32:25
+	name: Mummy’s Grin
+	casting_cost: BR
+	image: image82
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Destroy target planeswalker. <atom-cardname><nospellcheck>Mummy’s Grin</nospellcheck></atom-cardname> deals 2 damage to that <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>planeswalker’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> controller.
+	flavor_text: <i-flavor>Those not knowing of <error-spelling:en_US>Atuum’s</error-spelling:en_US> threats are quick to be enlightened or dead.</i-flavor>
+	illustrator: Adam Vehige
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2015-10-04 16:23:31
+	time_modified: 2018-04-03 01:49:02
+	name: Desert
+	image: image27
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land>Desert</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Karbo (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2015-09-24 23:01:11
+	time_modified: 2016-02-21 23:12:53
+	card_color: white, red, hybrid, horizontal
+	name: Sand Warrior
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Sand</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Riyahd Cassiem
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2015-10-12 16:11:59
+	time_modified: 2015-10-28 11:00:04
+	card_color: black
+	name: Mummy
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Mummy</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	power: 2
+	toughness: 3
+	illustrator: totmoartsstudio2 (DeviantArt)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2015 Wizards of the Coast
+	copyright_2: ™ & © 2015 Wizards of the Coast
+	copyright_3: ™ & © 2016 Wizards of the Coast
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!exportname Copy Mummy
+		!tokenlink MummyCopy
+	time_created: 2017-09-28 17:21:35
+	time_modified: 2017-09-28 17:28:18
+	card_color: black
+	name: Mummy
+	image: image138
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Mummy</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <i-auto>(This is a copy of a creature except it’s a black Mummy.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: dylanpierpont
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-emblem-cajun
+	stylesheet_version: 2024-06-06
+	has_styling: true
+	styling_data:
+		mask: custom
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+		imagemask: yes
+		custom_mask: 
+		old_image_size: yes
+	notes: !exportname Fortress Emblem
+	time_created: 2017-09-18 20:08:17
+	time_modified: 2018-06-04 02:25:03
+	name: Emblem
+	image: image139
+	image_2: image 21
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Emblem</word-list-type-en>
+	sub_type: <word-list-planeswalker>Fortress</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rule_text: Black creatures you control get +1/+1.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Paul Fisher
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-emblem-cajun
+	stylesheet_version: 2024-06-06
+	has_styling: true
+	styling_data:
+		mask: custom
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+		imagemask: yes
+		custom_mask: 
+		old_image_size: yes
+	notes: !exportname Jachsechep Emblem
+	time_created: 2017-09-18 20:08:17
+	time_modified: 2018-06-04 02:25:19
+	name: Emblem
+	image: image140
+	image_2: image 22
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Emblem</word-list-type-en>
+	sub_type: <word-list-planeswalker>Jachsechep</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rule_text: Whenever a creature enters under an opponent’s control, gain control of it.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Leonid Kozienko
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+keyword:
+	keyword: Mirage
+	match: Mirage <atom-param>cost</atom-param>
+	reminder: You may cast this spell as though it had flash for its mirage cost. If you do, sacrifice it at the beginning of the next cleanup step.
+	rules: 
+	mode: expert
+version_control:
+	type: none
+apprentice_code: 
