@@ -1,0 +1,101 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: Square
+	combine: overlap
+	point:
+		position: (0.3936749199,0.2765520442)
+		lock: free
+		line after: line
+	point:
+		position: (0.3719323125,0.4113769088)
+		lock: free
+		line after: line
+	point:
+		position: (0.3611022622,0.4643056680)
+		lock: free
+		line after: line
+	point:
+		position: (0.3451729687,0.5188698977)
+		lock: free
+		line after: line
+	point:
+		position: (0.3330178314,0.5408735813)
+		lock: free
+		line after: line
+	point:
+		position: (0.3196389765,0.5625151203)
+		lock: free
+		line after: line
+	point:
+		position: (0.2826665274,0.6144855753)
+		lock: free
+		line after: line
+	point:
+		position: (0.2144476114,0.6655290869)
+		lock: free
+		line after: line
+	point:
+		position: (0.0747079262,0.6994812685)
+		lock: free
+		line after: line
+	point:
+		position: (0.4644459785,0.6999557630)
+		lock: free
+		line after: line
+	point:
+		position: (0.4667339497,0.2769269497)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Square
+	combine: overlap
+	point:
+		position: (0.6155488692,0.6982332478)
+		lock: free
+		line after: line
+	point:
+		position: (0.6373069472,0.5634724053)
+		lock: free
+		line after: line
+	point:
+		position: (0.6472786607,0.5105608138)
+		lock: free
+		line after: line
+	point:
+		position: (0.6583608808,0.4615447377)
+		lock: free
+		line after: line
+	point:
+		position: (0.6980609393,0.3982767994)
+		lock: free
+		line after: line
+	point:
+		position: (0.7225424108,0.3675857047)
+		lock: free
+		line after: line
+	point:
+		position: (0.7499754965,0.3425760528)
+		lock: free
+		line after: line
+	point:
+		position: (0.7849470601,0.3199580933)
+		lock: free
+		line after: line
+	point:
+		position: (0.8207983561,0.3030843250)
+		lock: free
+		line after: line
+	point:
+		position: (0.9150102949,0.2773649165)
+		lock: free
+		line after: line
+	point:
+		position: (0.5483366435,0.2757855859)
+		lock: free
+		line after: line
+	point:
+		position: (0.5483366435,0.6982332478)
+		lock: free
+		line after: line
