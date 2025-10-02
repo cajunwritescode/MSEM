@@ -1,0 +1,72 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Star
+	combine: overlap
+	point:
+		position: (0.5203219517,0.3337674057)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5503498888,0.4449011566)
+		lock: free
+		line_after: line
+	point:
+		position: (0.6475223343,0.4449011566)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5689081745,0.5135855917)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5989361115,0.6247193426)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5203219517,0.5560349073)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4417077920,0.6247193426)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4717357290,0.5135855917)
+		lock: free
+		line_after: line
+	point:
+		position: (0.3931215690,0.4449011566)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4902940147,0.4449011566)
+		lock: free
+		line_after: line
+part:
+	type: symmetry
+	name: Rotation (3)
+	kind: rotation
+	copies: 3
+	center: (0.5204498978,0.4815950920)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Square
+		combine: overlap
+		point:
+			position: (0.8751319464,0.7615074255)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3761156531,0.8854537112)
+			lock: free
+			line_after: line
+		point:
+			position: (0.9592465656,0.4470787689)
+			lock: free
+			line_after: line
+		point:
+			position: (0.6962140241,0.0648675755)
+			lock: free
+			line_after: line
