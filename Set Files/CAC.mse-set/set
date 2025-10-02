@@ -1,0 +1,2866 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	title: Carpe Arcanum
+	description:
+		!opening
+		!cadence
+		!orchestrate
+		!conjure
+		!animus
+		!rahit
+		!ardy
+		!salva
+	set_code: CAC
+	set_language: ENG
+	symbol: symbol3.mse-symbol
+	masterpiece_symbol: 
+	auto_errata: yes
+	sort_multicolor_in_pairs: yes
+	sort_hybrid_in_pairs: yes
+	use_flavor_bar: yes
+styling:
+	magic-m15:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-altered:
+		chop_top: 0
+		chop_bottom: 0
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-emblem-cajun:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-extra:
+		text box mana symbols: magic-mana-small-extra-m15.mse-symbol-font
+		pt box symbols: magic-pt-symbols-extra.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planeswalker:
+		popout_image_style: -163,-124,278,497,
+		other_options: un-indent nonloyalty abilities, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-miracle:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-paradox:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-split-fuse:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-split-pichoro:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-textless-land:
+		overlay: 
+	magic-m15-token:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-ttk-conspiracy:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-ttk-frames:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-vehicles:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-god-black:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-miracle:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+card:
+	has_styling: false
+	notes: !conjure
+	time_created: 2016-04-04 09:36:06
+	time_modified: 2021-09-26 15:27:03
+	name: Ceaseless Valiant
+	casting_cost: 1WW
+	image: image5
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Ceaseless Valiant</nospellcheck></atom-cardname> enters, another target permanent gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><nospellcheck><key>Recite <param-cost><sym-auto>1W</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this creature from your graveyard for its recite cost. If you do, exile it when it enters or if it would leave the battlefield.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Saeed Ramez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !orchestrate 
+	time_created: 2015-08-17 14:09:36
+	time_modified: 2021-04-21 19:03:03
+	name: Surge of the Leylines
+	casting_cost: 2G
+	image: image34
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Search your library for a basic land card and put it onto the battlefield, then shuffle.
+		<kw-A><nospellcheck><key>Orchestrate <param-cost><sym-auto>1G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Shahab Alizadeh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2015-08-17 14:09:36
+	time_modified: 2018-12-31 01:45:50
+	name: Bloated Keystone
+	casting_cost: 1BB
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Target player discards two cards.
+		<kw-A><nospellcheck><key>Orchestrate <param-cost><sym-auto>1BB</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Shahab Alizadeh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2016-09-23 17:11:53
+	time_modified: 2018-12-31 01:46:20
+	card_color: blue
+	name: Sprout Thought
+	casting_cost: 1U
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Draw a card. <kw-0><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-0>.
+		<kw-A><nospellcheck><key>Orchestrate <param-cost><sym-auto>U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>Every achievement — from a child’s first words to the creation of new planes — stems from an idea.</i-flavor>
+	illustrator: Counterplay Games
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !opening
+	time_created: 2016-09-24 22:26:43
+	time_modified: 2018-07-18 12:20:47
+	extra_data:
+		magic-m15-extra: emblem: other magic symbols aetherprint
+	name: Almgrove Librarian
+	casting_cost: 1W
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Almgrove Librarian</nospellcheck></atom-cardname> enters, look at the top card of each of your libraries, then for each of those cards, put it on the top or bottom of one of your libraries.
+	flavor_text: <i-flavor>To create a plane is no easy task, and a hundred generations of study requires a hundred forms of categorization.</i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Charlie Bowater
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2016-09-24 22:34:46
+	time_modified: 2017-12-31 22:24:30
+	name: Visceral Offering
+	casting_cost: XBB
+	image: image62
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Target player draws X cards and loses X life.
+	flavor_text: <i-flavor>Though not outright banned — very little is — the art of blood magic is often frowned upon.</i-flavor>
+	illustrator: Robertto Gatto
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !conjure
+	time_created: 2016-09-24 22:34:46
+	time_modified: 2021-09-26 15:27:50
+	name: Whistling Blades
+	casting_cost: 3BB
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Whistling Blades</nospellcheck></atom-cardname> enters, you may destroy target creature or planeswalker.
+		<kw-A><nospellcheck><key>Recite <param-cost><sym-auto>1BB</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this creature from your graveyard for its recite cost. If you do, exile it when it enters or if it would leave the battlefield.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Counterplay Games
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2016-09-24 23:12:40
+	time_modified: 2018-12-31 01:46:10
+	name: Shatter Facade
+	casting_cost: 2W
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	rarity: rare
+	rule_text:
+		Destroy target creature if it has mana value </sym>4<sym> or greater. If Shatter Facade was cast from exile, destroy that creature if it has mana value </sym>3<sym> or less instead.
+		<kw-A><nospellcheck><key>Orchestrate <param-cost><sym-auto>B</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Daniel Conway
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2016-09-24 23:12:40
+	time_modified: 2017-12-31 22:24:42
+	name: Entrancing Virtuoso
+	casting_cost: R
+	image: image63
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		<sym-auto>W</sym-auto>, <sym-auto>T</sym-auto>: Tap target creature.
+	flavor_text: <i-flavor>A spectacle for mind, body, and soul.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Lian - OXAN STUDIO on ArtStation
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ardy 
+	time_created: 2016-09-24 23:19:29
+	time_modified: 2022-06-30 19:49:44
+	name: Ardy’s Invocation
+	casting_cost: RG
+	image: image95
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Create a 1/1 red and green Elemental creature token. Creatures you control get +1/+1 and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><nospellcheck><key>Orchestrate <param-cost><sym-auto>RG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Huy Tran Viet
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !rahit
+	time_created: 2016-09-24 23:33:47
+	time_modified: 2018-02-28 00:25:15
+	name: Rahit’s Prodigy
+	casting_cost: 1UU
+	image: image60
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Rahit’s Prodigy</nospellcheck></atom-cardname> enters, return target instant or sorcery card from your graveyard to your hand, then discard a card.
+	flavor_text: <i-flavor>More than most, he grasps the balance between energy, creation, and will.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Randy Vargas
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2016-09-24 23:19:29
+	time_modified: 2018-03-09 01:29:59
+	name: Almgrove Sentinel
+	casting_cost: 1UR
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		Whenever you cast an instant or sorcery spell, you may untap <atom-cardname><nospellcheck>Almgrove Sentinel</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>: <atom-cardname><nospellcheck>Almgrove Sentinel</nospellcheck></atom-cardname> deals 1 damage to any target.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 3
+	illustrator: Kent Davis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !cadence 
+	time_created: 2016-09-24 23:19:29
+	time_modified: 2017-12-31 22:26:01
+	name: Spellsword Elite
+	casting_cost: WU
+	image: image39
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Cadence</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell, if its mana value is greater than this creature’s power, put a +1/+1 counter on this creature.)</i-auto></atom-reminder-custom></kw-A>
+		Remove a +1/+1 counter from <atom-cardname><nospellcheck>Spellsword Elite</nospellcheck></atom-cardname>: The next noncreature spell you cast this turn costs <sym-auto>1</sym-auto> less to cast.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Bo Chen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		 
+	time_created: 2015-08-17 14:09:36
+	time_modified: 2018-01-08 23:44:42
+	name: Headwind Glider
+	casting_cost: W
+	image: image59
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Cadence</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell, if its mana value is greater than this creature’s power, put a +1/+1 counter on this creature.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 1
+	illustrator: Michael MacRae
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes:
+		Homeplane: Kaladesh
+		Gender: Male
+		Age: 34
+		
+		Bio: A natural-born teacher, Rahit excells at guiding others and encouraging them to succeed. While his technical prowess was nothing remarkable, he had a knack for the manipulation of aether. However, an experiment gone wrong nearly cost him his life, only saved by the ignition of his spark.
+		In the years since, he has made Arcanum his home, becoming a well known face amidst the academics of the plane. Believing that all have the potential for greatness, no matter their walk of life, he hosts free to attend public lectures on a wide variety of topics when he’s not busy writing thesises.
+		
+		Design Philosophy: Not being one interested in supremacy, his abilities should reflect his helpful, guiding nature. Effects should be group-hug in style. More specifically, letting everyone do the same thing, but with him doing it slightly better.
+		In terms of this particular card, the first two abilities reflect this idea fairly obviously. Less obvious is the ult, but when you get down to it, you and your opponent are both losing a CMC X card; you’re just in charge of when and how it happens.
+		
+		!rahit
+	time_created: 2016-09-24 23:45:10
+	time_modified: 2021-06-23 00:40:26
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: He/Him
+	name: Rahit, Immaculate Architect
+	casting_cost: 1UU
+	image: image32
+	image_2: image 22
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Rahit</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	rule_text:
+		Each player may draw a card. For each opponent that does, put a loyalty counter on <atom-legname><nospellcheck>Rahit</nospellcheck></atom-legname>.
+		Each player draws three cards, then puts two cards from his or her hand on top of his or her library in any order.
+		You get an emblem with “Discard a card with mana value </sym>X<sym>: Counter target spell with mana value </sym>X or less<sym>.”
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_1: +1
+	loyalty_cost_2: -1
+	loyalty_cost_3: -6
+	loyalty: 3
+	level_1_text: <margin:130:0:0>Each player may draw a card. For each opponent who does, put a loyalty counter on <atom-legname><nospellcheck>Rahit</nospellcheck></atom-legname>.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Each player draws three cards, then puts two cards from their hand on top of their library in any order.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>You get an emblem with “Discard a card with mana value </sym>X<sym>: Counter target spell with mana value </sym>X<sym> or less.”</margin:130:0:0>
+	level_4_text: 
+	illustrator: Julie Dillon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		[+1]: <margin:130:0:0>Each player may draw a card. For each opponent who does, put a loyalty counter on <atom-legname><nospellcheck>Rahit</nospellcheck></atom-legname>.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Each player draws three cards, then puts two cards from their hand on top of their library in any order.</margin:130:0:0>
+		[-6]: <margin:130:0:0>You get an emblem with “Discard a card with mana value </sym>X<sym>: Counter target spell with mana value </sym>X<sym> or less.”</margin:130:0:0>
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 120,2,230,138,
+		other_options: un-indent nonloyalty abilities, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		
+		Homeplane: Arcanum
+		Gender: Trans Male
+		Age: 17
+		
+		Bio: Ardy is a young planeswalker with a talent for geomancy. Born on the plane of Arcanum, he still lives there with his mother.
+		His parents have been seperated for several years now, due to the inherent tension between his father's desire to live a quiet life in the country and his mother's need for the hustle and bustle of the Arpechian Academy. While Ardy stayed with his mother, he still regularly visits his father.
+		His spark was ignited when he was fourteen, waking one night to the smell of smoke. By the time he realized what was happening and had woken his mother, the fire had trapped them. His sparks ignition whisked him away before the fire could reach him; and while his mother received burns severe enough to cause her to lose her arm (which she has since had a artificial replacement made for), she also managed to escape the fire via more mundane means.
+		Worried about the dangers the Multiverse could hold for someone so young, Ardy's mother enlisted the help of another planeswalker who worked as a professor at the Arpechian Academy: Rahit. She convinced Ardy not to 'walk without Rahit's oversight, though as he's gotten older, he's been sneaking off on solo 'walks more and more. Meanwhile, his mother and Rahit have been growing closer, and recently Rahit has moved in with them.
+		
+		Design Philosophy: As a bright and cheerful character, Ardy’s abilities should not be overly aggressive in nature. No burn, no fight, very limited destroy effects (if any). The abilities should also feel loose and full of potential, to reflect Ardy’s creative mindset.
+		With this particular card, the ult is about as aggressive as I’d be willing to go. Perhaps even too aggressive, but it does a good job of capturing Ardy’s occasional over-the-top showing off.
+		
+		!ardy
+	time_created: 2016-09-24 23:45:44
+	time_modified: 2021-05-29 16:40:02
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: He/HIm
+	name: Ardy, Youthful Geomancer
+	casting_cost: RG
+	image: image30
+	image_2: image 21
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Ardy</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	rule_text:
+		Untap target land.
+		Exile the top card of your library. You may play that card until end of turn. If it’s a land card, you gain 2 life.
+		Untap each land you control. Lands you control become 3/3 Elemental creatures with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn. They’re still lands.         
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_1: +1
+	loyalty_cost_2: -1
+	loyalty_cost_3: -7
+	loyalty: 2
+	level_1_text: <margin:130:0:0>Untap target land.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Exile the top card of your library. You may play that card until end of turn. If a land card is exiled this way, you gain 2 life.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Untap each land you control. Lands you control become 3/3 Elemental creatures with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn. They’re still lands.</margin:130:0:0>
+	illustrator: Magnus Norén
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		[+1]: <margin:130:0:0>Untap target land.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Exile the top card of your library. You may play that card until end of turn. If a land card is exiled this way, you gain 2 life.</margin:130:0:0>
+		[-7]: <margin:130:0:0>Untap each land you control. Lands you control become 3/3 Elemental creatures with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn. They’re still lands.</margin:130:0:0>
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 184,39,87,60,
+		other_options: un-indent nonloyalty abilities, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		
+		Homeplane: Festenya
+		Gender: Nonbinary
+		Age: 25
+		
+		Bio: Born in the slums of Stalbrit on Festenya, Salva was a protester against the social structure, especially in how it affected the elves. During a riot, Salva was trapped inside a burning building, igniting their spark.
+		Now, whenever they return to Festenya, they are caught in the uncomfortable position of being allowed to move amongst the higher echelons of society due to their spark while still being isolated and scorned for their local elvish blood.
+		Is currently on Arcanum to make use of their vast knowledge on magic as part of their continuining attempts to extend their elvish lifespan to put them on par with Festenya humans, if not more.
+		
+		Design Philosophy: Since their bio is based upon feeling resentful towards the privilege and power humans have over elves on Festenya, their abilities should focus around the idea of taking from others to bolster themself. Alternatively, punishing others for their greed/affluence.
+		<soft-line>
+		!salva</soft-line>
+	time_created: 2016-09-30 21:42:28
+	time_modified: 2021-05-29 16:39:42
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: They/Them
+	name: Salva Tore
+	casting_cost: 3BB
+	image: image45
+	image_2: image 23
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Salva</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_1: +1
+	loyalty_cost_2: -2
+	loyalty_cost_3: -5
+	loyalty_cost_4: 
+	loyalty: 5
+	level_1_text: <margin:130:0:0><kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>, then draw a card. You lose 1 life.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Target player sacrifices a creature, then loses life equal to the greatest power among creatures they control.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Choose a nonland card name. Exile all creatures and planeswalkers with that name, then search target player’s graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles.</margin:130:0:0>
+	level_4_text: 
+	illustrator: Anna (Ganna) Pazyniuk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		[+1]: <margin:130:0:0><kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>, then draw a card. You lose 1 life.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Target player sacrifices a creature, then loses life equal to the greatest power among creatures they control.</margin:130:0:0>
+		[-5]: <margin:130:0:0>Choose a nonland card name. Exile all creatures and planeswalkers with that name, then search target player’s graveyard, hand, and library for any number of cards with that name and exile them. That player shuffles.</margin:130:0:0>
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !salva
+	time_created: 2017-05-11 14:45:52
+	time_modified: 2018-10-28 15:46:56
+	name: Salva Tore’s Study
+	casting_cost: 1BB
+	image: image31
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Study</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Archive 5 <i-auto>(As this enters, shuffle the top five cards of your main library into a new face up library. Sacrifice this after the archived library is empty.)</i-auto>
+		Whenever you draw a card from another one of your libraries, you draw a card from the archived library and you lose 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: toshi13go on DeviantArt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ardy
+	time_created: 2017-05-11 14:29:13
+	time_modified: 2020-04-14 02:49:02
+	name: Ardy’s Study
+	casting_cost: GG
+	image: image64
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Study</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Archive 5 <i-auto>(As this enters, shuffle the top five cards of your main library into a new face up library. Sacrifice this after the archived library is empty.)</i-auto>
+		You may play lands from the archived library.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Carolina Eade
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-09-28 01:02:18
+	time_modified: 2021-01-29 23:47:50
+	name: Mechanized Ideal
+	casting_cost: 3
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: <atom-cardname><nospellcheck>Mechanized Ideal</nospellcheck></atom-cardname> gets +X/+Y, where X is the highest base power among other creatures you control and Y is the highest base toughness among other creatures you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Katherine C.K.Y.
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !conjure
+	time_created: 2017-09-28 01:08:19
+	time_modified: 2021-09-26 15:27:23
+	name: Compulsion’s Voice
+	casting_cost: 3UR
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Compulsion’s Voice</nospellcheck></atom-cardname> enters, gain control of target permanent until end of turn. Untap that permanent. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><nospellcheck><key>Recite <param-cost><sym-auto>1UR</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this creature from your graveyard for its recite cost. If you do, exile it when it enters or if it would leave the battlefield.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Katherine C.K.Y.
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-09-28 01:29:59
+	time_modified: 2017-12-31 22:27:17
+	name: Spellslinger’s Gauntlet
+	casting_cost: 3
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Spellslinger’s Gauntlet</nospellcheck></atom-cardname> enters, exile an instant or sorcery card with mana value </sym>3<sym> or less from your hand.
+		Whenever equipped creature attacks, you may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Marie Magny
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 0
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !cadence  
+	time_created: 2017-09-28 18:21:57
+	time_modified: 2018-05-02 02:34:49
+	name: Cavorting Beauty
+	casting_cost: R
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Cadence</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell, if its mana value is greater than this creature’s power, put a +1/+1 counter on this creature.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever you cast a spell, if its mana value is less than <atom-cardname><nospellcheck>Cavorting Beauty</nospellcheck></atom-cardname>’s power, remove a +1/+1 counter from <atom-legname><nospellcheck>Cavorting Beauty</nospellcheck></atom-legname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Bo Chen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-09-28 23:27:48
+	time_modified: 2021-09-26 15:27:40
+	name: Gruff Smith
+	casting_cost: 1G
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dwarf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Gruff Smith</nospellcheck></atom-cardname> enters, you may destroy target artifact. If you do, that artifact’s controller creates a colorless Equipment artifact token with “Equipped creature gets +1/+1” and <kw-a><nospellcheck><key>equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Recite <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this creature from your graveyard for its recite cost. If you do, exile it when it enters or if it would leave the battlefield.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Stef Tastan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		 
+	time_created: 2017-09-29 15:08:09
+	time_modified: 2021-01-11 23:48:41
+	extra_data:
+		magic-m15-extra: creator: 
+	name: Spellwork Bulwark
+	casting_cost: 2
+	image: image14
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Golem</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Cadence</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell, if its mana value is greater than this creature’s power, put a +1/+1 counter on this creature.)</i-auto></atom-reminder-custom></kw-A>
+		Remove a +1/+1 counter from <atom-cardname><nospellcheck>Spellwork Bulwark</nospellcheck></atom-cardname>: It loses <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a> and gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Bo Chen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2016-12-17 18:49:08
+	time_modified: 2018-03-09 01:34:04
+	card_color: green, land
+	name: Lumbering Hillock
+	image: image15
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Animus</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Lumbering Hillock</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<sym-auto>2GG</sym-auto>: <atom-cardname><nospellcheck>Lumbering Hillock</nospellcheck></atom-cardname> becomes a creature in addition to its other types until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: FW Matthews on ArtStation
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !animus
+	time_created: 2017-09-29 15:20:10
+	time_modified: 2018-03-09 01:33:52
+	name: Bygone Guardian
+	image: image58
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Animus</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Bygone Guardian</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<sym-auto>2WW</sym-auto>: <atom-cardname><nospellcheck>Bygone Guardian</nospellcheck></atom-cardname> becomes a creature in addition to its other types until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 5
+	illustrator: Pedro Krüger Garcia
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-09-29 15:20:10
+	time_modified: 2018-03-09 01:33:46
+	name: Aerie’s Pillar
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Animus</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Aerie’s Pillar</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<sym-auto>2UU</sym-auto>: <atom-cardname><nospellcheck>Aerie’s Pillar</nospellcheck></atom-cardname> becomes a creature in addition to its other types until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Counterplay Games
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-09-29 15:20:10
+	time_modified: 2018-03-09 01:33:58
+	name: Forgotten Pit
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Animus</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Forgotten Pit</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		<sym-auto>2BB</sym-auto>: <atom-cardname><nospellcheck>Forgotten Pit</nospellcheck></atom-cardname> becomes a creature in addition to its other types until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: Kent Davis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-09-29 15:20:10
+	time_modified: 2018-03-09 01:34:09
+	extra_data:
+		magic-m15-extra: creator: Marcel Mercado
+	name: Rousing Rubble
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Animus</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Rousing Rubble</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>
+		<sym-auto>2RR</sym-auto>: <atom-cardname><nospellcheck>Rousing Rubble</nospellcheck></atom-cardname> becomes a creature in addition to its other types until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Marcel Mercado
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-03 11:56:55
+	time_modified: 2020-04-17 21:12:15
+	name: Prismatic Leyline
+	casting_cost: 1G
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
+		Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color that land could produce.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Counterplay Games
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !animus
+	time_created: 2017-10-04 11:07:54
+	time_modified: 2018-03-09 11:44:09
+	extra_data:
+		magic-m15-extra: creator: Marcel Mercado
+	name: Keystone Conjurer
+	casting_cost: GG
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: At the beginning of combat on your turn, untap target land. If that land is an Animus, it becomes a creature and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Marcel Mercado
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-04 12:01:45
+	time_modified: 2017-10-05 23:23:53
+	extra_data:
+		magic-m15-extra: emblem: mana symbol white
+	name: Plains
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol white
+	illustrator: Daniel Conway
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-04 12:01:45
+	time_modified: 2017-10-04 12:04:00
+	extra_data:
+		magic-m15-extra: emblem: mana symbol blue
+	name: Island
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol blue
+	illustrator: Daniel Conway
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-04 12:01:45
+	time_modified: 2017-10-05 23:23:57
+	extra_data:
+		magic-m15-extra: emblem: mana symbol black
+	name: Swamp
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol black
+	illustrator: Daniel Conway
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-04 12:01:45
+	time_modified: 2017-10-05 23:24:01
+	extra_data:
+		magic-m15-extra:
+			emblem: mana symbol red
+			creator: Daniel Conway
+	name: Mountain
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol red
+	illustrator: Daniel Conway
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-04 12:01:45
+	time_modified: 2017-10-04 12:04:03
+	extra_data:
+		magic-m15-extra: emblem: mana symbol green
+	name: Forest
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol green
+	illustrator: Daniel Conway
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-10-04 12:10:45
+	time_modified: 2018-07-20 22:32:37
+	name: Submergence
+	casting_cost: 1U
+	image: image25
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Target player draws a card. Put target spell or nonland permanent that player controls on top of its owner’s library.
+	flavor_text: <i-flavor>For a brief moment she saw into another world, and knew success was nearly within reach.</i-flavor>
+	illustrator: Daniel Conway
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-05 01:35:18
+	time_modified: 2020-10-28 02:44:15
+	name: Clockwork Spellwork
+	casting_cost: 1U
+	image: image27
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>artifact</param-name></key></nospellcheck></kw-a>
+		Enchanted artifact is a creature with base power and toughness 3/3 in addition to its other types.
+		Enchanted artifact has <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a> and “Once each turn, when you cast a noncreature spell, you may untap this artifact.”
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Marcel Mercado
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-05 01:43:34
+	time_modified: 2018-01-08 23:45:06
+	name: Artisan of Marrow
+	casting_cost: 2WW
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Gorgon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Artisan of Marrow</nospellcheck></atom-cardname> enters, exile another target creature until <atom-cardname><nospellcheck>Artisan of Marrow</nospellcheck></atom-cardname> leaves the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Thomas Randby
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !animus
+	time_created: 2017-10-05 01:48:34
+	time_modified: 2017-12-31 22:26:53
+	name: Lodestone Convergence
+	casting_cost: GU
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Whenever a land you control becomes a creature, put a +1/+1 counter on it.
+		<sym-auto>2GU</sym-auto>: Target land you control becomes a 3/3 Elemental creature in addition to its other types until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: James Wolf Strehle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-06 17:02:37
+	time_modified: 2017-12-31 22:25:44
+	name: Conjuring of Locusts
+	casting_cost: 2GG
+	image: image37
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Destroy all noncreature, nonland permanents.
+	flavor_text:
+		<i-flavor>“Decay is nothing but creation in reverse.”<soft-line>
+		—<error-spelling:en_US>Rahit</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Alex Alexandrov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-06 17:20:56
+	time_modified: 2018-03-09 01:40:47
+	name: Runic Depths
+	casting_cost: 2U
+	image: image40
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
+		Whenever enchanted land becomes tapped, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>.
+		Enchanted land has “<sym-auto>G</sym-auto>, <sym-auto>T</sym-auto>: Each player reveals the top card of their library. Each player that revealed a land card this way may put that card into their hand.”
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Shahab Alizadeh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-12 00:59:14
+	time_modified: 2017-12-31 22:25:06
+	name: Exhilarating Prescience
+	casting_cost: 1RR
+	image: image41
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Whenever you cast a spell, put a lore counter on <atom-cardname><nospellcheck>Exhilarating Prescience</nospellcheck></atom-cardname>.
+		At the beginning of your upkeep, exile the top X cards of your library, where X is the number of lore counters on <atom-cardname><nospellcheck>Exhilarating Prescience</nospellcheck></atom-cardname>. You may play those cards until your next turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Lea Faske
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-12 16:26:18
+	time_modified: 2017-12-31 22:26:04
+	name: Exhaustive Research
+	casting_cost: 1UB
+	image: image44
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: If a player would draw one or more cards, instead that player draws that many cards plus one and loses 1 life.
+	flavor_text: <i-flavor>Where curiosity is left unfettered, consequences are soon to follow.</i-flavor>
+	illustrator: Marcel Mercado
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 0
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !salva
+	time_created: 2017-10-17 00:40:58
+	time_modified: 2018-07-18 12:22:48
+	name: Salva Tore’s Vexation
+	casting_cost: 1BB
+	image: image42
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: <atom-cardname><nospellcheck>Salva Tore’s Vexation</nospellcheck></atom-cardname> deals X damage to target creature or planeswalker, where X is that permanent’s mana value. You gain X life.
+	flavor_text:
+		<i-flavor>“Congratulations; you’ve made a mess of my notes. I may have agreed to keep the peace, but surely no one will miss one failed thief.”<soft-line>
+		—<error-spelling:en_US>Salva</error-spelling:en_US> Tore</soft-line></i-flavor>
+	illustrator: Lea Faske
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-09-07 18:44:04
+	time_modified: 2018-07-18 12:22:06
+	name: Misleading Tactics
+	casting_cost: RW
+	image: image48
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Cast this spell only during the declare blockers step.
+		After this step there’s an additional declare attackers step followed by an additional declare blockers step. <i-auto>(A creature can’t attack or block again if it’s already attacking or blocking.)</i-auto>
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Veli Nyström
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-11-02 11:26:51
+	time_modified: 2021-09-26 15:27:16
+	name: Archive Guardian
+	casting_cost: 2BG
+	image: image49
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Archive Guardian</nospellcheck></atom-cardname> enters, return target card from your graveyard to your hand.
+		<kw-A><nospellcheck><key>Recite <param-cost><sym-auto>1BG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this creature from your graveyard for its recite cost. If you do, exile it when it enters or if it would leave the battlefield.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Veli Nyström
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-11-02 11:34:43
+	time_modified: 2017-12-31 22:25:11
+	name: Autumn Fae
+	casting_cost: 1R
+	image: image50
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Faerie</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>
+		<kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 1
+	illustrator: Nick Gan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-11-16 01:27:57
+	time_modified: 2017-12-31 22:26:07
+	name: Stall Fate
+	casting_cost: WU
+	image: image47
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Return target spell to its owner’s hand. Its controller can’t cast spells this turn. <i-auto>(Spells cast before this resolves are unaffected.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Lorenzo Mastroianni
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 0
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-11-16 13:54:17
+	time_modified: 2024-08-30 03:15:02
+	name: Warded Tome
+	casting_cost: 2
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Warded Tome</nospellcheck></atom-cardname> doesn’t untap during your untap step.
+		<sym-auto>T</sym-auto>: Draw a card.
+		<sym-auto>5</sym-auto>: Untap <atom-cardname><nospellcheck>Warded Tome</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor>In a society obsessed with learning and discovery, secrets are little more than a stalling tactic.</i-flavor>
+	illustrator: Reza Afshar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-09-13 00:50:11
+	time_modified: 2022-01-31 20:29:39
+	name: Thunderous Charge
+	casting_cost: G
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Target creature gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn. If Thunderous Charge was cast from exile, that creature gets an additional +4/+4 until end of turn.
+		<kw-A><nospellcheck><key>Orchestrate <param-cost><sym-auto>GG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Felipe Escobar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-11-16 14:07:48
+	time_modified: 2017-12-31 22:22:46
+	name: Sigil of Radiance
+	casting_cost: 1W
+	image: image51
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: Cards can’t leave graveyards.
+	flavor_text: <i-flavor>“Let your ambition be laid to rest alongside the rest of you.”</i-flavor>
+	illustrator: Marcel Mercado
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 10
+		chop_bottom: 12
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-12-05 00:33:15
+	time_modified: 2024-08-24 03:47:16
+	name: Aether Ascendant
+	casting_cost: 2U
+	image: image52
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When you cast <atom-cardname><nospellcheck>Aether Ascendant</nospellcheck></atom-cardname>, you may have it become a copy of target instant or sorcery spell. If you do, choose new targets for it. <i-auto>(It won’t enter.)</i-auto>
+	flavor_text: <i-flavor>“Mass is just energy waiting to happen.”</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Anna Podedworna
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5,5,
+		chop_bottom: 0
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-12-17 19:09:21
+	time_modified: 2023-07-31 17:50:51
+	extra_data:
+		magic-m15-extra: creator: Manuel Castañón
+	name: Confirm Hypothesis
+	casting_cost: 1U
+	image: image53
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Draw a card, then copy target activated or triggered ability you don’t control. You may choose new targets for the copy.
+		Exile Confirm Hypothesis.
+	flavor_text: <i-flavor>“What conclusions were you hoping to draw from a sample size of </i>one<i>?”</i-flavor>
+	illustrator: Manuel Castañón
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-17 23:49:16
+	time_modified: 2023-11-30 21:08:37
+	extra_data:
+		magic-m15-extra:
+			creator: Manuel Castañón
+			frame: land, multicolor
+	card_color: land, multicolor
+	name: Channeling Stone
+	image: image54
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add one mana of any color that a basic land you control could produce.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Manuel Castañón
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-18 00:25:58
+	time_modified: 2022-11-01 00:11:53
+	extra_data:
+		magic-m15-extra: creator: Anna Podedworna
+	name: Chart the Vast
+	casting_cost: 4GU
+	image: image55
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text: Look at the top three cards of your library. You may exile one that doesn’t share a mana value with any cards exiled with Chart the Vast. Put the rest on the bottom of your library. If you exiled a card, repeat this process. Otherwise, put all cards exiled this way into your hand.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Anna Podedworna
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 0
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-12-18 11:44:39
+	time_modified: 2017-12-31 22:22:44
+	name: Disruptive Echoes
+	casting_cost: 1W
+	image: image56
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: Permanents enter tapped.
+	flavor_text: <i-flavor>A common quality students are tested on is their ability to perform under pressure. To weave their magic smoothly even under the roughest of conditions.</i-flavor>
+	illustrator: exellero on ArtStation
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-12-18 12:07:30
+	time_modified: 2017-12-31 22:25:25
+	name: Arpechian Yatte
+	casting_cost: 3GG
+	image: image57
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Arpechian Yatte</nospellcheck></atom-cardname> enters, put a +1/+1 counter on each other creature you control.
+		Whenever another creature you control enters, put a +1/+1 counter on <atom-cardname><nospellcheck>Arpechian Yatte</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Svetlin Velinov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-21 18:21:15
+	time_modified: 2021-11-30 23:55:31
+	name: Cadre Hawk
+	casting_cost: 1W
+	image: image4
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Cadre Hawk</nospellcheck></atom-cardname> enters, you may search your library and/or graveyard for a card named <atom-cardname><nospellcheck>Cadre Hawk</nospellcheck></atom-cardname>, reveal it, and put it into your hand. If you searched a library this way, shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Lian - OXAN STUDIO on ArtStation
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		 
+	time_created: 2017-12-23 21:57:07
+	time_modified: 2020-04-14 02:45:25
+	name: Almgrove Champion
+	casting_cost: W
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Cadence</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell, if its mana value is greater than this creature’s power, put a +1/+1 counter on this creature.)</i-auto></atom-reminder-custom></kw-A>
+		<atom-cardname><nospellcheck>Almgrove Champion</nospellcheck></atom-cardname> can only attack or block alone.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Zezhou Chen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 12
+		chop_bottom: 12
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-12-23 22:53:44
+	time_modified: 2023-04-30 19:00:57
+	name: Face the Dawn
+	casting_cost: 3WB
+	image: image43
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		This spell costs <sym-auto>2</sym-auto> less to cast if your life total is less than or equal to half your starting life total.
+		Destroy all creatures.
+	flavor_text: <i-flavor>“Bleakness is the calm before inspiration.”</i-flavor>
+	illustrator: Julie Dillon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-23 22:59:25
+	time_modified: 2021-08-03 20:31:03
+	name: Paternal Pride
+	casting_cost: 1R
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +1/+0 and has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		Once each turn, when enchanted creature becomes tapped, you may add <sym-auto>RR</sym-auto>. Until end of turn, you don’t lose this mana as steps and phases end.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Julie Dillon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 0
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-12-24 04:38:01
+	time_modified: 2018-03-09 01:24:16
+	name: Essence of Constellations
+	casting_cost: 6UU
+	image: image65
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast for each other card in your hand.
+		If you have fewer than seven cards in hand, draw cards equal to the difference.
+	flavor_text: <i-flavor>In their search to understand the inner workings of planes, academics turned to the stars.</i-flavor>
+	power: 
+	toughness: 
+	illustrator: Julie Dillon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-12-24 21:02:50
+	time_modified: 2018-02-28 00:30:31
+	name: Arpechian Tiger
+	casting_cost: 2RR
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Arpechian Tiger</nospellcheck></atom-cardname> attacks, you may sacrifice a land. If you do, <atom-cardname><nospellcheck>Arpechian Tiger</nospellcheck></atom-cardname> deals 3 damage to target creature or planeswalker.
+	flavor_text: <i-flavor>Rowdy and reckless, the students of the <error-spelling:en_US>Arpechian</error-spelling:en_US> Academy are said to be overly inspired by the local wildlife.</i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: X TRAIN on ArtStation
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: !promo
+	time_created: 2017-12-24 21:38:09
+	time_modified: 2017-12-26 15:10:53
+	name: Plains
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: special
+	watermark: mana symbol white
+	illustrator: Counterplay Games
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: !promo
+	time_created: 2017-12-24 21:38:09
+	time_modified: 2017-12-26 15:10:59
+	name: Island
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: special
+	watermark: mana symbol blue
+	illustrator: Counterplay Games
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: !promo
+	time_created: 2017-12-24 21:38:09
+	time_modified: 2017-12-26 15:11:02
+	name: Swamp
+	image: image75
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: special
+	watermark: mana symbol black
+	illustrator: Counterplay Games
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: !promo
+	time_created: 2017-12-24 21:38:09
+	time_modified: 2017-12-26 15:11:06
+	name: Mountain
+	image: image70
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: special
+	watermark: mana symbol red
+	illustrator: Counterplay Games
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: !promo
+	time_created: 2017-12-24 21:38:09
+	time_modified: 2020-07-23 16:18:20
+	name: Forest
+	image: image74
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: special
+	watermark: mana symbol green
+	illustrator: Anton Fadeev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-26 00:27:39
+	time_modified: 2017-12-31 22:24:54
+	name: Scaletongue Mistress
+	casting_cost: 4RR
+	image: image72
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
+		Whenever you cast a noncreature spell, create a 3/3 red Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: Nick Silva
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-12-26 01:02:03
+	time_modified: 2017-12-31 22:27:10
+	name: Giltwork Legacy
+	casting_cost: 1
+	image: image68
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		Equipped creature gets +2/+1.
+		Whenever equipped creature becomes untapped, you draw a card and you gain 2 life.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor>After every duel, its grandeur grows.</i-flavor>
+	illustrator: Yang Fan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !orchestrate 
+	time_created: 2017-12-26 15:59:12
+	time_modified: 2021-10-31 23:28:34
+	name: Crystal Conjuration
+	casting_cost: RR
+	image: image69
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Put three +1/+1 counters on target land. It becomes a 0/0 colorless Elemental creature with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> that’s still a land.
+		<kw-A><nospellcheck><key>Orchestrate—<param-cost>Sacrifice a land</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Forrest Imel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-26 16:11:53
+	time_modified: 2021-09-26 16:18:44
+	name: Thought Blossom
+	casting_cost: UB
+	image: image76
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Counter target instant or sorcery spell. If that spell is countered this way, exile it instead of putting it into its owner’s graveyard. You may cast that spell for as long as it remains exiled and you may spend blue and black mana as though it were mana of any color to cast it.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Billy Wimblett
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !orchestrate 
+	time_created: 2017-12-26 16:25:09
+	time_modified: 2018-12-31 01:46:32
+	name: Stormsurge
+	casting_cost: 2R
+	image: image80
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Stormsurge</nospellcheck></atom-cardname> deals 3 damage to any target.
+		<kw-A><nospellcheck><key>Orchestrate <param-cost><sym-auto>R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nick Silva
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 0
+		chop_bottom: 0
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-12-26 16:33:21
+	time_modified: 2018-07-18 12:23:02
+	name: Young Necromancer
+	casting_cost: 1B
+	image: image77
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: Whenever a nontoken creature you control dies, create a 1/1 black Skeleton creature token.
+	flavor_text: <i-flavor>Her assistants are rarely the sharpest ghouls in the shed, but they get the job done.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Nick Silva
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-26 16:35:32
+	time_modified: 2018-07-18 12:21:49
+	name: Ignition Ritual
+	casting_cost: 1BR
+	image: image79
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		As an additional cost to cast this spell, pay X life.
+		<atom-cardname><nospellcheck>Ignition Ritual</nospellcheck></atom-cardname> deals X damage to each creature and each planeswalker.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dominik Mayer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 0
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !cadence 
+	time_created: 2017-12-26 16:35:32
+	time_modified: 2017-12-31 22:26:24
+	name: Jara Jadefist
+	casting_cost: 1RG
+	image: image85
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Cadence</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever you cast a spell, if its mana value is greater than this creature’s power, put a +1/+1 counter on this creature.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>In <error-spelling:en_US>Almgrove</error-spelling:en_US>, knowledge begets power. In <error-spelling:en_US>Arpechia</error-spelling:en_US>, power comes from within. In <error-spelling:en_US>Jara</error-spelling:en_US>, power simply is.</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Alex Flores
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-26 16:35:32
+	time_modified: 2017-12-31 22:26:30
+	name: Ironwood Elemental
+	casting_cost: 2GW
+	image: image89
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Protection from <param-name>mana values lower than <atom-cardname><nospellcheck>Ironwood Elemental</nospellcheck></atom-cardname>’s power</param-name></key></nospellcheck></kw-0> <i-auto>(This permanent can’t be blocked, targeted, dealt damage, or enchanted by anything with mana value lower than this creature’s power.)</i-auto>
+		<atom-cardname><nospellcheck>Ironwood Elemental</nospellcheck></atom-cardname>’s power and toughness are each equal to the number of creatures you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: *
+	toughness: *
+	illustrator: Victor Maury
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-26 16:35:32
+	time_modified: 2021-09-26 15:27:28
+	name: Vitality Maestro
+	casting_cost: 2GW
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Vitality Maestro</nospellcheck></atom-cardname> enters, you gain 5 life.
+		<kw-A><nospellcheck><key>Recite <param-cost><sym-auto>GW</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this creature from your graveyard for its recite cost. If you do, exile it when it enters or if it would leave the battlefield.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Jason Kang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-26 16:35:32
+	time_modified: 2017-12-31 22:26:35
+	name: Lunar Arbiter
+	casting_cost: 3WB
+	image: image78
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		If a player would lose life, that player loses 3 life instead.
+		If a player would gain life, that player gains 3 life instead.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Charlie Bowater
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 0
+		chop_bottom: 0
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-12-26 16:35:32
+	time_modified: 2021-04-28 15:14:45
+	name: False Vitality
+	casting_cost: 3BG
+	image: image88
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Put target permanent card from a graveyard onto the battlefield under your control.
+	flavor_text: <i-flavor>To bring back what was once real is the first step to bringing about what was never real.</i-flavor>
+	illustrator: Joshua Brian Smith
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-26 16:35:32
+	time_modified: 2023-02-28 23:46:45
+	name: Blessing of Valor
+	casting_cost: RW
+	image: image82
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Up to two target creatures you control each get +2/+0 and gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><nospellcheck><key>Orchestrate—<param-cost>Tap an untapped red and white creature you control or an untapped red creature you control and untapped white creature you control</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kim Sokol
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !final 
+	time_created: 2017-12-26 16:35:32
+	time_modified: 2021-04-28 00:46:57
+	name: Reckless Festivities
+	casting_cost: 2BR
+	image: image81
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Starting with you, each player either passes or reveals the top card of their library. Each player that revealed a card this way pays life equal to its mana value. If a player can’t, that player passes. Then each player who hasn’t passed yet puts that card into their hand. Repeat this process until each player has passed.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Charlie Bowater
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-28 19:11:30
+	time_modified: 2017-12-31 22:25:23
+	name: Jara Incarnation
+	casting_cost: 5GGG
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		Other creatures you control have base power and toughness 8/8.
+	flavor_text: <i-flavor>It takes brains to come up with brawn like this.</i-flavor>
+	power: 8
+	toughness: 8
+	illustrator: Tomislav Jagnjic
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-31 20:41:03
+	time_modified: 2021-04-21 19:02:33
+	name: Corrosive Pact
+	casting_cost: 2BB
+	image: image87
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		At the beginning of your upkeep, choose one —
+		<li><bullet>• </bullet>You lose 1 life.
+		</li><li><bullet>• </bullet>You draw two cards and you lose 3 life.
+		</li><li><bullet>• </bullet>Search your library for a card, put it into your hand, then shuffle. You lose 5 life.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alex Flores
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-31 20:42:38
+	time_modified: 2021-10-31 23:27:47
+	name: Breaker of Secrets
+	casting_cost: 2B
+	image: image84
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Breaker of Secrets</nospellcheck></atom-cardname> enters, each player <kw-0><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-0> from each of their libraries.
+		<kw-1><nospellcheck><key>Recite <param-cost><sym-auto>U</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this creature from your graveyard for its recite cost. If you do, exile it when it enters or if it would leave the battlefield.)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Jean Go
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 0
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-12-31 20:58:54
+	time_modified: 2025-09-24 20:05:59
+	name: Ceaseless Stalker
+	casting_cost: 1B
+	image: image86
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Assassin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: Whenever a player casts a spell from their graveyard, you may cast <atom-cardname><nospellcheck>Ceaseless Stalker</nospellcheck></atom-cardname> from your graveyard. <i-auto>(You still pay its costs.)</i-auto>
+	flavor_text: <i-flavor>He tracks his marks no matter which side of the grave they step.</i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Joshua Brian Smith
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2017-12-31 21:29:57
+	time_modified: 2017-12-31 21:36:35
+	card_color: black
+	name: Skeleton
+	image: image90
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Skeleton</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Joseph Meehan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2017-12-31 21:29:57
+	time_modified: 2017-12-31 21:47:58
+	card_color: red
+	name: Dragon
+	image: image91
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Eli Ring
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-12-31 21:49:48
+	time_modified: 2018-02-09 09:36:56
+	name: Possibility Matrix
+	casting_cost: 3
+	image: image92
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		At the beginning of your upkeep, exile the top card of each of your libraries.
+		Put X cards exiled with <atom-cardname><nospellcheck>Possibility Matrix</nospellcheck></atom-cardname> on the bottom of their owner’s library: You may cast a nonland card exiled with <atom-cardname><nospellcheck>Possibility Matrix</nospellcheck></atom-cardname> with mana value </sym>X<sym> or less without paying its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Beau Lamb
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2017-12-31 21:29:57
+	time_modified: 2018-01-05 00:32:24
+	card_color: artifact
+	name: Equipment
+	image: image94
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text:
+		Equipped creature gets +1/+1.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Yuri Shwedoff
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 4
+		chop_bottom: 4
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !rahit
+	time_created: 2017-05-11 14:45:52
+	time_modified: 2018-10-28 15:46:50
+	name: Rahit’s Study
+	casting_cost: 1UU
+	image: image93
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Study</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Archive 5 <i-auto>(As this enters, shuffle the top five cards of your main library into a new face up library. Sacrifice this after the archived library is empty.)</i-auto>
+		At the beginning of your upkeep, put the top card of any of your libraries on the bottom of the archived library, then you may put any card in the archived library on top of the archived library.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Counterplay Games
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-emblem-cajun
+	stylesheet_version: 2024-06-06
+	has_styling: true
+	styling_data:
+		popout_image_style: 0,60,247,193,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2018-07-26 21:25:13
+	time_modified: 2018-07-26 21:40:43
+	name: Emblem
+	image: image46
+	image_2: 
+	mainframe_image: mainframe image6
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Emblem</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Rahit</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: Discard a card with mana value </sym>X<sym>: Counter target spell with mana value </sym>X<sym> or less.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Julie Dillon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2017-12-31 21:29:57
+	time_modified: 2022-06-30 19:50:24
+	card_color: red, green, hybrid, horizontal
+	name: Elemental
+	image: image97
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: 
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Huy Tran Viet
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+keyword:
+	keyword: Cadence
+	match: Cadence
+	reminder: Whenever you cast a spell, if its mana value is greater than this creature’s power, put a +1/+1 counter on this creature.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Catalogue
+	match: Catalogue <atom-param>number</atom-param>
+	reminder: As this enters the library zone, put the top {english_number_multiple(param1)} card(s) of a library you own face up on top of this card as a new library. As this becomes empty, put it into its owner’s graveyard.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Orchestrate
+	match: Orchestrate <atom-param>cost</atom-param>
+	reminder: You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Recite
+	match: Recite <atom-param>cost</atom-param>
+	reminder: You may cast this creature from your graveyard for its recite cost. If you do, exile it when it enters the battlefield or if it would leave the battlefield.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 
