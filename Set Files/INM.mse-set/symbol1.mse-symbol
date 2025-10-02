@@ -1,0 +1,21 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Square
+	combine: subtract
+	point:
+		position: (0.2402542373,0.1830508475)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2402542373,0.7830508475)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8402542373,0.7830508475)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8402542373,0.1830508475)
+		lock: free
+		line_after: line

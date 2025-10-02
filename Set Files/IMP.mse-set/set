@@ -1,0 +1,4162 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	title: 
+	description: 
+	copyright: 
+	set_code: IMP
+	set_language: ENG
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: 
+	auto_errata: yes
+styling:
+	magic-m15:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		center text: never
+		overlay: 
+	magic-m15-altered:
+		chop_top: 5
+		chop_bottom: 5
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-augment:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-bigtext:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-classicshifted:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-clear:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-devoid:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-doublefaced:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-extra:
+		text box mana symbols: magic-mana-small-extra-m15.mse-symbol-font
+		pt box symbols: magic-pt-symbols-extra.mse-symbol-font
+		overlay: 
+	magic-m15-legendary:
+		chop top: 5
+		chop bottom: 5
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-dfc:
+		other_options: use hovering pt, back color indicator
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+		clear: yes
+	magic-m15-mainframe-tokens:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-miracle:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-nyx:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker-clear:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-textless-land:
+		overlay: 
+	magic-m15-token:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-token-clear:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-ttk-conspiracy:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-ttk-frames:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-conspiracy:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 21:24:37
+	card_color: white
+	name: Sheraku Elite
+	casting_cost: W
+	image: image85
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: <kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Sheraku Elite</nospellcheck></atom-cardname> dealt damage to an opponent this turn, put a +1/+1 counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Adam Schumpert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 22:42:37
+	card_color: blue
+	name: Wizened Calligrapher
+	casting_cost: 2U
+	image: image110
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Wizened Calligrapher</nospellcheck></atom-cardname> enters, you may search your library for an instant or sorcery card, reveal it, then shuffle and put that card on top of it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Veronica V. Jones
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 22:43:37
+	card_color: black
+	name: Disciple of Hashiro
+	casting_cost: 1B
+	image: image4
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Disciple of Hashiro</nospellcheck></atom-cardname> dealt damage to an opponent this turn, put a +1/+1 counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:15:21
+	card_color: green
+	name: Masamori Ranger
+	casting_cost: 2G
+	image: image117
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Masamori Ranger</nospellcheck></atom-cardname> dealt damage to an opponent this turn, search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: James Hall
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 21:17:10
+	card_color: white
+	name: Festival of Fading Lights
+	casting_cost: 2W
+	image: image76
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Destroy target enchantment and all other enchantments with the same name as that enchantment.
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: IFS
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:22:09
+	card_color: green
+	name: Shinrin Blademaster
+	casting_cost: 1GG
+	image: image108
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		If one or more counters would be put on a creature you control, put that many plus one of each of those kinds of counters on that creature instead.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Sergio Camarena
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:07:56
+	card_color: red
+	name: Sudden Seism
+	casting_cost: R
+	image: image137
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rule_text:
+		Target creature can’t block this turn.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1R</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Carlos Nuñez de Castro Torres
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:08:17
+	card_color: red
+	name: Teikoku Skirmisher
+	casting_cost: 1R
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Teikoku Skirmisher</nospellcheck></atom-cardname> dealt damage to an opponent this turn, put a +1/+1 counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Jason Juta
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 22:59:09
+	card_color: red
+	name: Festival of Roaring Dragons
+	casting_cost: 2R
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Destroy target artifact and all other artifacts with the same name as that artifact.
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Damien Mammoliti
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtN
+		!Name
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:13:40
+	card_color: green
+	name: Festival of Timeless Day
+	casting_cost: 2G
+	image: image81
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Adam Denton
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!Watermark
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 22:55:46
+	card_color: black
+	name: Serpent’s Grasp
+	casting_cost: 1B
+	image: image124
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Target creature gets -2/-2 until end of turn. When that creature dies this turn, its controller loses 2 life or gets a poison counter.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Carlos Nuñez de Castro Torres
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:01:51
+	card_color: red
+	name: Miyoga Dragonsoul
+	casting_cost: R
+	image: image133
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		Dragon spells you cast cost <sym-auto>1</sym-auto> less to cast.
+		<sym-auto>1R</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Miyoga Dragonsoul</nospellcheck></atom-cardname> becomes a 2/2 red Dragon creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “<sym-auto>R</sym-auto>: <atom-cardname><nospellcheck>Miyoga Dragonsoul</nospellcheck></atom-cardname> gets +1/+0 until end of turn.” Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: William O'Connor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:10:45
+	card_color: green
+	name: Day of the Emperor
+	casting_cost: 1G
+	image: image45
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Prevent all combat damage that would be dealt this turn.
+		<kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chris Ostrowski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 27
+		chop_bottom: 27
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:10:02
+	card_color: red
+	name: Yamisaran Guard
+	casting_cost: 2R
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When <atom-cardname><nospellcheck>Yamisaran Guard</nospellcheck></atom-cardname> enters, create a colorless Equipment artifact token with “Equipped creature gets +1/+1” and <kw-a><nospellcheck><key>equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Marcel Mercado
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: vehicle
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 11:26:55
+	time_modified: 2023-12-10 23:27:23
+	name: Raiun Bay Junk
+	casting_cost: 2
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rule_text:
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Raiun Bay Junk</nospellcheck></atom-cardname> dealt damage to an opponent this turn, put a +1/+1 counter on it.
+		Tap an untapped creature you control: <atom-cardname><nospellcheck>Raiun Bay Junk</nospellcheck></atom-cardname> becomes an artifact creature until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: George Rushing
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: vehicle
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:55
+	time_modified: 2023-12-10 23:25:50
+	name: Dragon’s Wake
+	casting_cost: 3
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Vehicle</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Dragon’s Wake</nospellcheck></atom-cardname> dealt damage to an opponent this turn, gain control of target land for as long as <atom-cardname><nospellcheck>Dragon’s Wake</nospellcheck></atom-cardname> remains on the battlefield.
+		Tap three untapped creatures you control: <atom-cardname><nospellcheck>Dragon’s Wake</nospellcheck></atom-cardname> becomes an artifact creature until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Gong Studios
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 21:23:30
+	name: Oshiruko Cleansing
+	casting_cost: 1W
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Exile target nontoken permanent you control, then return that card to the battlefield under its owner’s control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Wen Juinn
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 22:41:56
+	name: Tranquil Ascetic
+	casting_cost: U
+	image: image107
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: <kw-1><nospellcheck><key>Hexproof</key></nospellcheck><atom-reminder-core> <i-auto>(This creature can’t be the target of spells or abilities your opponents control.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 2
+	illustrator: Matt Zeilinger
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 22:39:15
+	name: Seeker of Mysteries
+	casting_cost: U
+	image: image102
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Jason Engle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 22:56:25
+	name: Soul Leak
+	casting_cost: 1B
+	image: image103
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Destroy target creature unless its controller pays <sym-auto>3</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Lake Hurwitz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 22:58:47
+	name: Elemental Loremaster
+	casting_cost: 2R
+	image: image129
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Elemental Loremaster</nospellcheck></atom-cardname> enters, return an instant or sorcery card at random from your graveyard to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Richard Garcia
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 23:07:18
+	name: Searing Script
+	casting_cost: R
+	image: image136
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Target permanent you control deals 2 damage to any target.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>2RR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2RR</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Wen Juinn
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: !ArtistU
+	time_created: 2017-04-06 12:05:57
+	time_modified: 2023-12-10 21:16:34
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: She/Her
+	name: Empress Kogane
+	casting_cost: 1WW
+	image: image49
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<atom-cardname><nospellcheck>Empress Kogane</nospellcheck></atom-cardname> can’t attack or block.
+		Whenever an opponent casts a spell, you may gain life equal to that spell’s mana value.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Mario Wibisono
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:05:57
+	time_modified: 2023-12-10 23:11:08
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/Him
+	name: Emperor Kenshiro
+	casting_cost: 1GG
+	image: image87
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Emperor Kenshiro</nospellcheck></atom-cardname> dealt damage to an opponent this turn, you may put a creature card from your hand onto the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Shen Fei
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 21:16:13
+	name: Emperor’s Retainer
+	casting_cost: W
+	image: image75
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: Legendary creatures you control get +1/+1.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 21:16:53
+	name: Exemplar of Honor
+	casting_cost: 1WW
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: <kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Albert Tavira
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 21:36:58
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/Him
+	name: Lord Shigure
+	casting_cost: 3U
+	image: image99
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
+		Whenever you cast a noncreature spell, noncreature spells you cast cost <sym-auto>1</sym-auto> less to cast until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Jason Engle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 22:39:44
+	name: Sensei of the Seven Winds
+	casting_cost: 3UU
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: Untap all permanents you control during each other player’s untap step.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: Marcel Mercado
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 22:48:41
+	name: The Moon Rises
+	casting_cost: 1B
+	image: image115
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>The Moon Rises</nospellcheck></atom-cardname> enters, exile all opponent’s graveyards.
+		At the beginning of your upkeep, each opponent loses 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chris Ostrowski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 22:57:01
+	name: Storm of Shadows
+	casting_cost: 2B
+	image: image119
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Until end of turn, creatures target player controls lose all abilities and have base power and toughness 0/2.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>4BB</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>4BB</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Luis Nuñez de Castro Torres
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU 
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2024-05-29 17:02:27
+	name: Wild Lightning
+	casting_cost: RR
+	image: image140
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>2RR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2RR</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Diego Gisbert Llorens
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 23:15:40
+	name: Raiun Bay Admiral
+	casting_cost: GG
+	image: image145
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Raiun Bay Admiral</nospellcheck></atom-cardname> dealt damage to an opponent this turn, put a +1/+1 counter on each other creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Shen Fei
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 12:07:55
+	time_modified: 2024-08-30 03:23:53
+	name: Palace of Heavenly Sovereigns
+	casting_cost: 5
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: mythic rare
+	rule_text: Each instant and sorcery card you own that isn’t on the battlefield has inscribe. The inscribe cost is equal to its mana cost. <i-auto>(Exile that spell card inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alayna Lemmer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:07:25
+	time_modified: 2023-12-10 23:23:51
+	name: Shinrin Spellhunter
+	casting_cost: 1GU
+	image: image116
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Shinrin Spellhunter</nospellcheck></atom-cardname> enters, if an opponent cast a noncreature spell this turn, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-11 02:09:51
+	time_modified: 2023-12-10 23:26:08
+	name: Dragonwall Fragment
+	casting_cost: 3
+	image: image148
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Wall</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		A deck can have any number of cards named <atom-cardname><nospellcheck>Dragonwall Fragment</nospellcheck></atom-cardname>.
+		At the beginning of your upkeep, if you control twenty or more creatures named <atom-cardname><nospellcheck>Dragonwall Fragment</nospellcheck></atom-cardname>, you win the game.
+	flavor_text: <i-flavor>Peace, for all eternity.</i-flavor>
+	power: 0
+	toughness: 6
+	illustrator: Chris Ostrowski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!ArtU
+		!Crop
+	time_created: 2017-04-11 03:56:39
+	time_modified: 2023-12-10 23:29:14
+	name: Clutch of the Coil
+	image: image149
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1</sym-auto>: <atom-cardname><nospellcheck>Clutch of the Coil</nospellcheck></atom-cardname> becomes a 1/1 Snake creature with <kw-A><nospellcheck><key>poisonous <param-number>2</param-number></key></nospellcheck> until end of turn. It’s still a land.<atom-reminder-expert> <i-auto>(Whenever that creature deals combat damage to a player, that player gets <param-number>two</param-number> poison counters. A player with ten or more poison counters loses the game.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-11 03:57:14
+	time_modified: 2024-01-16 19:18:25
+	name: Sage’s Ashes
+	casting_cost: 1
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		Sage’s Ashes enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice Sage’s Ashes: Put target card from a graveyard on top of its owner’s library.
+		<sym-auto>3</sym-auto>, Exile Sage’s Ashes from your graveyard: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Erich Schreiner
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-11 03:57:14
+	time_modified: 2024-05-06 21:46:00
+	name: Cursed Scroll
+	casting_cost: 1
+	image: image109
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text: <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: Choose a card name, then reveal a card at random from your hand. If that card has the chosen name, Cursed Scroll deals 2 damage to any target.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Gong Studios
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 21:38:34
+	name: Pierce the Storm
+	casting_cost: XU
+	image: image100
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		Choose one —<soft-line>
+		</soft-line>• Counter target spell unless its controller pays <sym-auto>X</sym-auto>.<soft-line>
+		</soft-line>• Counter target spell with mana value </sym>X<sym>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dmitry Burmak
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Vault Masters Reprint
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:07:07
+	time_modified: 2023-12-10 21:33:51
+	name: Hinasa Mystic
+	casting_cost: 1U
+	image: image94
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
+		When <atom-cardname><nospellcheck>Hinasa Mystic</nospellcheck></atom-cardname> enters, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 1
+	illustrator: Wen Juinn
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtN
+	time_created: 2017-04-12 04:03:58
+	time_modified: 2023-12-10 21:14:28
+	card_color: white
+	name: Dreadful Authority
+	casting_cost: 3W
+	image: image74
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Put target attacking or blocking creature on the bottom of its owner’s library.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Miguel Coimbra
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-12 04:03:58
+	time_modified: 2023-12-10 21:32:30
+	card_color: blue
+	name: Festival of Winter’s Night
+	casting_cost: 2U
+	image: image90
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Return target nonland permanent and all other permanents with the same name as that permanent to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands.
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: A.C. Swedberg
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtN
+	time_created: 2017-04-12 04:52:31
+	time_modified: 2023-12-10 21:21:35
+	name: Harmony
+	casting_cost: 1W
+	image: image78
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Francisco Miyara
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes:
+		!Watermark
+		!ArtU
+		!Type
+		!Text
+	time_created: 2017-04-13 01:48:36
+	time_modified: 2023-12-10 23:40:25
+	name: Fang of Mautakesh
+	casting_cost: 1BG
+	image: image123
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Assassin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Poisonous <param-number>2</param-number></key></nospellcheck><atom-reminder-action> <i-auto>(Whenever this creature deals combat damage to a player, that player gets <param-number>two</param-number> poison counters.)</i-auto></atom-reminder-action></kw-A>
+		Snakes you control get +1/+1 and have <kw-0><nospellcheck><key>poisonous <param-number>1</param-number></key></nospellcheck></kw-0>. <i-auto>(Multiple instances of poisonous trigger separately.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 2
+	toughness: 2
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-13 02:03:37
+	time_modified: 2023-12-10 23:23:31
+	name: Servant of the White Hand
+	casting_cost: 1WB
+	image: image146
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: Noncreature spells your opponents cast cost <sym-auto>1</sym-auto> more to cast.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Greg Lambrakis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-13 02:03:37
+	time_modified: 2023-12-10 23:24:20
+	name: Taiyohata Champion
+	casting_cost: 1RW
+	image: image27
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		If you cast <atom-cardname><nospellcheck>Taiyohata Champion</nospellcheck></atom-cardname> during your declare attackers step, it enters tapped and attacking.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Slawomir Maniak
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtN
+		!Name
+	time_created: 2017-04-13 02:47:59
+	time_modified: 2023-12-10 23:19:56
+	name: Raiun Bay Merchant
+	casting_cost: 1G
+	image: image147
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: All creatures able to block <atom-cardname><nospellcheck>Raiun Bay Merchant</nospellcheck></atom-cardname> do so.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Jonathan Moore
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-13 09:24:03
+	time_modified: 2023-12-10 22:44:30
+	name: Imperial Kensai
+	casting_cost: B
+	image: image112
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		<i><kw-A><i-auto><nospellcheck><key>Art of war</i></key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Imperial Kensai</nospellcheck></atom-cardname> dealt damage to an opponent this turn, you may pay 1 life. If you do, put a +1/+1 counter on <atom-cardname><nospellcheck>Imperial Kensai</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: William O’connor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 04:12:12
+	time_modified: 2023-12-10 23:28:04
+	name: Ancient Ossuary
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>3</sym-auto>, Discard <atom-cardname><nospellcheck>Ancient Ossuary</nospellcheck></atom-cardname>: Search your library for a land card, reveal it, put it into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chris Ostrowski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-09 11:15:04
+	time_modified: 2023-12-10 21:18:08
+	card_color: white
+	name: Final Rest
+	casting_cost: W
+	image: image59
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		As an additional cost to cast this spell, sacrifice a creature.
+		Exile target creature.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Eddie Sharam
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtU
+		!Frame
+	time_created: 2017-03-20 07:37:45
+	time_modified: 2023-12-10 23:32:55
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chris Ostrowski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2017 Wizards of the Coast
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: always
+		overlay: 
+	notes: !ArtU
+	time_created: 2017-04-09 11:15:04
+	time_modified: 2023-12-10 23:06:50
+	card_color: red
+	name: Scorch
+	casting_cost: R
+	image: image135
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: <atom-cardname><nospellcheck>Scorch</nospellcheck></atom-cardname> deals 3 damage to any target.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Steve Argyle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-03 08:17:22
+	time_modified: 2023-12-10 22:43:14
+	name: Council’s Will
+	casting_cost: B
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Target opponent chooses a card type, then reveals their hand. You choose a card from it that’s not of the chosen type. That player discards that card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jason Engle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: false
+	notes:
+		!Watermark
+		!ArtU
+		!ArtU
+		!Text
+	time_created: 2017-04-13 04:10:32
+	time_modified: 2023-12-10 23:40:47
+	extra_data:
+		magic-m15-mainframe-dfc:
+			vorthos_box_2: He/Him
+	card_color_2: black, green, multicolor, horizontal
+	name: Aghavaan’s Wound
+	name_2: Aghavaan Unleashed
+	type_symbol: land
+	type_symbol_2: creature
+	image: image106
+	image_2: image_21
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>God</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		At the beginning of each end step, if you control five or more Snake creatures, transform <atom-cardname><nospellcheck>Aghavaan’s Wound</nospellcheck></atom-cardname>.
+	rule_text_2:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Aghavaan Unleashed</nospellcheck></atom-cardname> deals combat damage to a player, that player gets that many poison counters.
+		At the beginning of your end step, sacrifice another creature or transform <atom-legname><nospellcheck>Aghavaan Unleashed</nospellcheck></atom-legname>.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	watermark: none
+	watermark_2: none
+	power_2: 8
+	toughness_2: 8
+	illustrator: Jon Hodgson
+	illustrator_2: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-12 04:52:31
+	time_modified: 2023-12-10 22:57:58
+	name: Asharo’s Handmaiden
+	casting_cost: 1R
+	image: image126
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: Whenever you cast an Inscription spell, you may choose target creature you control. If you do, as that Inscription resolves, exile it inscribed onto that creature instead of putting it anywhere else.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Mario Wibisono
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:10:23
+	card_color: green
+	name: Bind in Jade
+	casting_cost: G
+	image: image141
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		Until end of turn, cards in graveyards lose all names, card types, and abilities.
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Diego Gisbert LLorens
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: short text only
+		overlay: 
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 22:43:56
+	card_color: black
+	name: Discorporate
+	casting_cost: 2B
+	image: image91
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Destroy target creature.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Adam Schumpert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 21:13:08
+	card_color: white
+	name: Dragonwall Samurai
+	casting_cost: 2W
+	image: image37
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Dragonwall Samurai</nospellcheck></atom-cardname> enters, prevent all combat damage target creature would deal this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Miguel Coimbra
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 22:58:24
+	name: Dragon’s Ire
+	casting_cost: R
+	image: image127
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		<atom-cardname><nospellcheck>Dragon’s Ire</nospellcheck></atom-cardname> deals 1 damage to any target.
+		Inscribed creature gets +2/+2.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>2R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2R</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mark Pennington
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-10 07:42:00
+	time_modified: 2023-12-10 21:32:12
+	name: Favor of the Court
+	casting_cost: 1U
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: At the beginning of each player’s draw step, that player draws an additional card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mario Wibisono
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 22:59:37
+	card_color: red
+	name: Fireheart Channeler
+	casting_cost: 1R
+	image: image82
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Fireheart Channeler</nospellcheck></atom-cardname> dies, you may exile it. If you do, put a blaze counter on target land without a blaze counter on it. As long as that land has a blaze counter on it, it has “At the beginning of your upkeep, this land deals 1 damage to you.” <i-auto>(The land continues to burn after <atom-cardname><nospellcheck>Fireheart Channeler</nospellcheck></atom-cardname> has left the battlefield.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Jason Engle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 21:33:23
+	card_color: blue
+	name: Flow of the River
+	casting_cost: U
+	image: image79
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Untap target creature you control. It gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Crystal Ben
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 22:59:54
+	name: Giku Weaponsmith
+	casting_cost: 3R
+	image: image130
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Giku Weaponsmith</nospellcheck></atom-cardname> enters, create two colorless Equipment artifact tokens with “Equipped creature gets +1/+1” and <kw-a><nospellcheck><key>equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Matt Zeilinger
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-12 04:03:58
+	time_modified: 2023-12-10 23:14:05
+	card_color: green
+	name: Hone the Blade
+	casting_cost: 1G
+	image: image14
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rule_text:
+		Target creature you control fights another target creature.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>3G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3G</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Michael Philippi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:07:25
+	time_modified: 2023-12-10 23:14:22
+	name: Imperial Legion
+	casting_cost: 2GG
+	image: image143
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Imperial Legion</nospellcheck></atom-cardname> dealt damage to an opponent this turn, put two +1/+1 counters on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Shen Fei
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtN
+		!Name
+	time_created: 2017-04-06 11:26:55
+	time_modified: 2023-12-10 23:32:32
+	name: Imperial Marketplace
+	image: image150
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rule_text:
+		<atom-cardname><nospellcheck>Imperial Marketplace</nospellcheck></atom-cardname> enters with a charge counter on it.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Remove a charge counter from <atom-cardname><nospellcheck>Imperial Marketplace</nospellcheck></atom-cardname>: Put a +1/+1 counter on target creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Marcel Mercado
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-12 04:52:49
+	time_modified: 2023-12-10 21:34:18
+	name: Imperial Taxes
+	casting_cost: 1U
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>land you don’t control</param-name></key></nospellcheck></kw-a>
+		Whenever enchanted land becomes tapped, you may draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Wen Juinn
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 23:14:41
+	name: Kenshiro’s Cavalry
+	casting_cost: 3G
+	image: image144
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key><param-prefix>Nonbasic land</param-prefix>walk</key></nospellcheck><atom-reminder-old> <i-auto>(This creature can’t be blocked as long as defending player controls a <param-prefix>nonbasic land</param-prefix>.)</i-auto></atom-reminder-old></kw-A>
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Kenshiro’s Cavalry</nospellcheck></atom-cardname> dealt damage to an opponent this turn, put a +1/+1 counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Marcel Mercado
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2024-01-31 22:01:13
+	name: Kiyomi’s Disciple
+	casting_cost: 3B
+	image: image80
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kiyomi’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Disciple enters, put target creature card from a graveyard onto the battlefield under your control. When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kiyomi’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Disciple is no longer on the battlefield, that creature’s controller sacrifices it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Sam Flegal
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 21:36:09
+	name: Kowareta Scrounger
+	casting_cost: 1U
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Mercenary</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: <kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Kowareta Scrounger</nospellcheck></atom-cardname> dealt damage to an opponent this turn, you may search your library for an artifact card, reveal it, put it into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 22:45:12
+	name: Kurayami Ronin
+	casting_cost: 1B
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: <kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Kurayami Ronin</nospellcheck></atom-cardname> dealt damage to an opponent this turn, you draw a card and you lose 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Drew Baker
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-12 04:03:58
+	time_modified: 2023-12-10 23:00:58
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/Him
+	card_color: red
+	name: Lord Asharo
+	casting_cost: 3RR
+	image: image131
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Whenever you cast an instant spell, exile that card inscribed onto <atom-cardname><nospellcheck>Lord Asharo</nospellcheck></atom-cardname> instead of putting it anywhere else as it resolves.
+		<sym-auto>T</sym-auto>: Cast a copy of an inscribed card without paying its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Jazz Siy
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 21:37:52
+	name: Masked Impersonator
+	casting_cost: 1U
+	image: image97
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shapeshifter</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Masked Impersonator</nospellcheck></atom-cardname> can’t be blocked.
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Masked Impersonator</nospellcheck></atom-cardname> dealt damage to an opponent this turn, you may have it become a copy of target creature you control except it has this ability.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Michael Komack
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 22:45:31
+	card_color: black
+	name: Masked Stalker
+	casting_cost: 2B
+	image: image113
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Masked Stalker</nospellcheck></atom-cardname> enters, target player discards a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Jason Engle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtN
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 23:01:33
+	name: Masterwork Artisan
+	casting_cost: R
+	image: image132
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Equipment spells you cast cost <sym-auto>1</sym-auto> less to cast.
+		<kw-a><nospellcheck><key>Equip <param-name>abilities you activate cost</param-name> <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a> less.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Matt Zeilinger
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!Watermark
+		!ArtU
+		!Type
+	time_created: 2017-04-12 04:52:31
+	time_modified: 2023-12-10 23:39:33
+	name: Mautakesh Strangler
+	casting_cost: 2G
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Poisonous <param-number>3</param-number></key></nospellcheck><atom-reminder-action> <i-auto>(Whenever this creature deals combat damage to a player, that player gets <param-number>three</param-number> poison counters.)</i-auto></atom-reminder-action></kw-A>
+		At the beginning of your upkeep, if an opponent is poisoned, you may have <atom-cardname><nospellcheck>Mautakesh Strangler</nospellcheck></atom-cardname> <kw-0><nospellcheck><key>fight</key></nospellcheck></kw-0> target creature you don’t control.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 3
+	toughness: 3
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 22:46:04
+	name: Midnight’s Pale Moon
+	casting_cost: 2BB
+	image: image114
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Each player loses 2 life, discards two cards, sacrifices two creatures, then sacrifices two lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Lino Drieghe
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 23:02:13
+	name: Mokuteki Ambusher
+	casting_cost: 1RR
+	image: image128
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Archer</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Mokuteki Ambusher</nospellcheck></atom-cardname> enters, until end of turn, other creatures you control gain “<sym-auto>T</sym-auto>: This creature deals 1 damage to any target.”
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Lee Smith
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 21:23:51
+	name: Protector of the Gates
+	casting_cost: W
+	image: image62
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: <atom-cardname><nospellcheck>Protector of the Gates</nospellcheck></atom-cardname> can’t attack unless it’s equipped, enchanted, or has a card inscribed onto it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Tony Foti
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:07:07
+	time_modified: 2023-12-10 22:38:53
+	name: Reversal of Fates
+	casting_cost: UU
+	image: image101
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Counter target spell. Its controller draws a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sergio Camarena
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 21:24:17
+	card_color: white
+	name: Sakura Spirit
+	casting_cost: 1W
+	image: image84
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Sakura Spirit</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> as long as it’s equipped, enchanted, or has a card inscribed onto it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Hannah Böving
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!Watermark
+		!ArtN
+		!Name
+		!Type
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:39:36
+	card_color: green
+	name: Sankataar Ambusher
+	casting_cost: 2G
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Poisonous <param-number>2</param-number></key></nospellcheck><atom-reminder-action> <i-auto>(Whenever this creature deals combat damage to a player, that player gets <param-number>two</param-number> poison counters.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Sankataar Ambusher</nospellcheck></atom-cardname> enters, if an opponent is poisoned, <atom-cardname><nospellcheck>Sankataar Ambusher</nospellcheck></atom-cardname> gets +2/+2 until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 2
+	toughness: 3
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtU
+		!Type
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:39:40
+	card_color: green
+	name: Sankataar Assailant
+	casting_cost: 3G
+	image: image120
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Poisonous <param-number>3</param-number></key></nospellcheck><atom-reminder-action> <i-auto>(Whenever this creature deals combat damage to a player, that player gets <param-number>three</param-number> poison counters.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Sankataar Assailant</nospellcheck></atom-cardname> enters, choose a counter on target permanent or player. Give that permanent or player another counter of that kind.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 3
+	toughness: 3
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtU
+		!Type
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:40:31
+	card_color: green
+	name: Sankataar Coilborn
+	casting_cost: 1G
+	image: image31
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Poisonous <param-number>2</param-number></key></nospellcheck><atom-reminder-action> <i-auto>(Whenever this creature deals combat damage to a player, that player gets <param-number>two</param-number> poison counters.)</i-auto></atom-reminder-action></kw-A>
+		<atom-cardname><nospellcheck>Sankataar Coilborn</nospellcheck></atom-cardname> gets +1/+1 as long as an opponent is poisoned.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 2
+	toughness: 2
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtU
+		!Watermark
+		!Type
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 23:39:18
+	name: Sankataar Nightbringer
+	casting_cost: 4B
+	image: image118
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Assassin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Poisonous <param-number>5</param-number></key></nospellcheck><atom-reminder-action> <i-auto>(Whenever this creature deals combat damage to a player, that player gets <param-number>five</param-number> poison counters.)</i-auto></atom-reminder-action></kw-A>
+		At the beginning of your upkeep, if an opponent is poisoned, you may destroy target Human.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 5
+	toughness: 2
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!Watermark
+		!ArtU
+		!Type
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:39:22
+	card_color: black
+	name: Sankataar Scourge
+	casting_cost: 1B
+	image: image65
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Poisonous <param-number>2</param-number></key></nospellcheck><atom-reminder-action> <i-auto>(Whenever this creature deals combat damage to a player, that player gets <param-number>two</param-number> poison counters.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Sankataar Scourge</nospellcheck></atom-cardname> dies, if it attacked this turn, target opponent gets a poison counter.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 2
+	toughness: 1
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:02:34
+	card_color: red
+	name: Sasori Ronin
+	casting_cost: 2R
+	image: image134
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Sasori Ronin</nospellcheck></atom-cardname> dealt damage to an opponent this turn, it deals 1 damage to any target.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Florian Stitz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!ArtU
+		!Crop
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 23:22:33
+	name: Shinrin Sage
+	casting_cost: G
+	image: image125
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: <sym-auto>T</sym-auto>: Add one mana of any color. Activate only if <atom-cardname><nospellcheck>Shinrin Sage</nospellcheck></atom-cardname> is enchanted, equipped, or has a card inscribed onto it.
+	flavor_text:
+		<i-flavor>“The sun has flown away; swaying in the evening sun; a leafless tree.”<soft-line>
+		</soft-line>— <error-spelling:en_US>Ayashi</error-spelling:en_US>, Winter Poet</i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Hai An
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 22:40:14
+	name: Shroud of Hinasa
+	casting_cost: 1U
+	image: image54
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		Return target nonland permanent to its owner’s hand.
+		Inscribed creature gets +1/+1 and has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>3U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3U</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 22:41:03
+	card_color: blue
+	name: Silk Crane Adept
+	casting_cost: 2U
+	image: image104
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-1><nospellcheck><key>Flash</key></nospellcheck><atom-reminder-core> <i-auto>(You may cast this spell any time you could cast an instant.)</i-auto></atom-reminder-core></kw-1>
+		When <atom-cardname><nospellcheck>Silk Crane Adept</nospellcheck></atom-cardname> enters, target creature gains <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Isuardi Therianto
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 23:07:34
+	name: Stonesculpting
+	casting_cost: 1RR
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Destroy target artifact or nonbasic land.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jason Engle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 22:42:47
+	card_color: blue
+	name: Student of Shigure
+	casting_cost: 2U
+	image: image105
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Student of Shigure</nospellcheck></atom-cardname> dealt damage to an opponent this turn, you may draw a card, then discard a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Immar Palomera
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+		
+		!Text (Token Change)
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 21:31:18
+	name: Taiyohata’s Dominion
+	casting_cost: 1W
+	image: image86
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Taiyohata’s Dominion</nospellcheck></atom-cardname> enters, draw a card, then choose a creature card name.
+		Once each turn, when a creature with the chosen name you control enters, you may create a 1/1 colorless Samurai creature token.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alayna Lemmer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 21:25:37
+	name: Teikoku Daimyo
+	casting_cost: 1WW
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: <kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Teikoku Daimyo</nospellcheck></atom-cardname> dealt damage to an opponent this turn, put a +1/+1 counter on each creature you control that attacked this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 21:26:20
+	card_color: white
+	name: Teikoku Samurai
+	casting_cost: 1W
+	image: image88
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Teikoku Samurai</nospellcheck></atom-cardname> dealt damage to an opponent this turn, put a +1/+1 counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Shen Fei
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!Watermark
+		!ArtU
+	time_created: 2017-04-12 04:52:31
+	time_modified: 2023-12-10 22:52:11
+	name: Touch of the Coil
+	casting_cost: 1B
+	image: image122
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		Target player gets a poison counter.
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:08:36
+	card_color: red
+	name: Violent Repercussions
+	casting_cost: R
+	image: image98
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Whenever enchanted creature becomes tapped, <atom-cardname><nospellcheck>Violent Repercussions</nospellcheck></atom-cardname> deals 3 damage to that creature’s controller.
+	flavor_text: <i-flavor>“When you act, you act for us all. Always remember this.”</i-flavor>
+	illustrator: Edwin David
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 9
+		chop_bottom: 9
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!Watermark
+		!ArtU
+		!Type
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 23:39:25
+	name: Vizier of Mautakesh
+	casting_cost: 1B
+	image: image121
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Poisonous <param-number>2</param-number></key></nospellcheck><atom-reminder-action> <i-auto>(Whenever this creature deals combat damage to a player, that player gets <param-number>two</param-number> poison counters.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>2B</sym-auto>: Choose a counter on target permanent or player. Give that permanent or player another counter of that kind.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 2
+	toughness: 1
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 21:27:57
+	card_color: white
+	name: Voice of Sheraku
+	casting_cost: W
+	image: image89
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		Prevent all damage that would be dealt to target attacking or blocking creature this turn.
+		Inscribed creature gets +1/+1 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>2W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2W</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:05:57
+	time_modified: 2023-12-10 23:08:51
+	name: Void Sculptor
+	casting_cost: R
+	image: image138
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: At the beginning of each end step, if you’ve cast a noncreature spell this turn, <atom-cardname><nospellcheck>Void Sculptor</nospellcheck></atom-cardname> deals 1 damage to each opponent.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:09:05
+	card_color: red
+	name: Wavebreaker
+	casting_cost: 1R
+	image: image139
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When <atom-cardname><nospellcheck>Wavebreaker</nospellcheck></atom-cardname> enters, add two mana of any one color. You can’t spend this mana to cast spells.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Shen Fei
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtN
+		
+		!Text (Token Change)
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 21:31:26
+	card_color: white
+	name: Will of the Emperor
+	casting_cost: 2W
+	image: image92
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: <soft-line>C</soft-line>reate two 1/1 colorless Samurai creature token. Those creatures gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 22:42:10
+	card_color: blue
+	name: Windwielder
+	casting_cost: 1U
+	image: image47
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Windwielder</nospellcheck></atom-cardname> enters, you may return target Inscription card from your graveyard to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Matt Zeilinger
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 22:44:13
+	card_color: black
+	name: Hashiro’s Infiltrator
+	casting_cost: 2B
+	image: image111
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Hashiro’s Infiltrator</nospellcheck></atom-cardname> dealt damage to an opponent this turn, that player discards a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Drew Baker
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 21:34:51
+	card_color: blue
+	name: Jidai Serpent
+	casting_cost: 4UU
+	image: image95
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Serpent</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast for each spell you cast this turn.
+		When <atom-cardname><nospellcheck>Jidai Serpent</nospellcheck></atom-cardname> enters, draw two cards.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 6
+	illustrator: Felipe Gaona
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-10 21:22:05
+	name: Kogane’s Swordmaster
+	casting_cost: 1W
+	image: image77
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Kogane’s Swordmaster</nospellcheck></atom-cardname> dealt damage to an opponent this turn, put a +1/+1 counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		opacity: 255
+		other_options: use short frame, un-indent nonloyalty abilities, mythic edition fullart
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!ArtU
+		!Frame
+	time_created: 2023-10-04 16:05:11
+	time_modified: 2024-02-29 17:40:37
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: She/Her
+	name: Ayashi, Winter Poet
+	casting_cost: 2
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Ayashi</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	loyalty_cost_2: 0
+	loyalty_cost_3: -1
+	loyalty_cost_4: -7
+	loyalty: 1
+	level_1_text: At the beginning of your upkeep, put a loyalty counter on each planeswalker you control.
+	level_2_text: <margin:130:0:0>Tap target creature.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Untap target basic land.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Draw up to six cards.</margin:130:0:0>
+	level_5_text: 
+	illustrator: Mario Wibisono
+	custom_card_number: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		At the beginning of your upkeep, put a loyalty counter on each planeswalker you control.
+		[0]: <margin:130:0:0>Tap target creature.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Untap target basic land.</margin:130:0:0>
+		[-7]: <margin:130:0:0>Draw up to six cards.</margin:130:0:0>
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		shrink_name_text: 2
+		shrink_typeline_text: 
+		frames: borderless art, frameless art
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!ArtU
+		!Frame
+	time_created: 2017-04-11 23:40:16
+	time_modified: 2023-12-09 09:26:55
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/Him
+	name: Azuma Hashiro, the Thronebreaker
+	casting_cost: 7
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Azuma Hashiro, the Thronebreaker</nospellcheck></atom-cardname> enters, you may cast up to two cards from your <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>opponents’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> graveyards without paying their mana costs. If those spells would be put into a graveyard, exile that card instead.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Jidai</error-spelling:en_US> will always be mine.”</i-flavor>
+	power: 7
+	toughness: 7
+	illustrator: Drew Baker
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-08 16:25:32
+	name: Seek the Future
+	casting_cost: 3U
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-0>, then draw two cards.
+		You have no maximum hand size for the rest of the game.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Charles Urbach
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Vault Masters Reprint
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+		!FT
+	time_created: 2017-04-11 10:01:10
+	time_modified: 2023-12-09 09:22:44
+	card_color: black
+	name: Ichi-no-Oni
+	casting_cost: 1B
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When <atom-cardname><nospellcheck>Ichi-no-Oni</nospellcheck></atom-cardname> enters, each player loses 2 life.
+	flavor_text: <i-flavor>While the Empire rallied against the Coil, <error-spelling:en_US>Azuma</error-spelling:en_US> <error-spelling:en_US>Hashiro’s</error-spelling:en_US> preparations came to an end.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Eric Lofgren
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+		!Name
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-09 10:04:26
+	card_color: black
+	name: Unearth the Fallen
+	casting_cost: 1B
+	image: image34
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Return up to two target creature cards from your graveyard to your hand. You lose 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Hugh Jamieson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-11 10:01:10
+	time_modified: 2023-12-08 17:34:07
+	card_color: red
+	name: Swirling Dragonfire
+	casting_cost: 6R
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: <atom-cardname><nospellcheck>Swirling Dragonfire</nospellcheck></atom-cardname> deals damage to any target equal to the number of instant and sorcery cards in your graveyard.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Edwin David
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU (Waifu2x)
+		!Type
+		!Watermark
+		!Type
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-10 23:39:29
+	card_color: green
+	name: Aghavaan’s Corrupter
+	casting_cost: 2G
+	image: image39
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Poisonous <param-number>1</param-number></key></nospellcheck><atom-reminder-action> <i-auto>(Whenever this creature deals combat damage to a player, that player gets <param-number>a</param-number> poison counter.)</i-auto></atom-reminder-action></kw-A>
+		At the beginning of your upkeep, destroy target artifact or enchantment if its controller is poisoned.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 1
+	toughness: 4
+	illustrator: Hoover & Spears
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 52
+		chop_bottom: 52
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !ArtU
+	time_created: 2017-04-10 07:42:19
+	time_modified: 2023-12-08 17:43:37
+	name: Legends Remembered
+	casting_cost: 1G
+	image: image41
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Return target card from your graveyard to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Wen Juinn
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtU
+	time_created: 2017-04-13 02:03:37
+	time_modified: 2023-12-08 19:23:14
+	name: Miyoga Firebird
+	casting_cost: 1UR
+	image: image42
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Phoenix</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Miyoga Firebird</nospellcheck></atom-cardname> attacks each combat if able.
+		Whenever you cast your third instant or sorcery spell this turn, you may return <atom-cardname><nospellcheck>Miyoga Firebird</nospellcheck></atom-cardname> from your graveyard to the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: IFS
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-11 03:57:14
+	time_modified: 2023-12-08 20:04:01
+	name: Celestial O-Yoroi
+	casting_cost: 3
+	image: image44
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		Equipped creature gets +3/+3.
+		Prevent all combat damage that would be dealt to equipped creature.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aurelien Hubert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtU
+		!Text (Token Change)
+	time_created: 2017-04-11 10:01:10
+	time_modified: 2023-12-10 21:30:43
+	name: Kogane’s Yoroi
+	casting_cost: 2W
+	image: image46
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text:
+		Equipped creature gets +2/+2.
+		<i><kw-A><i-auto><nospellcheck><key>Art of war</i></key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if equipped creature dealt damage to an opponent this turn, create a 1/1 colorless Samurai creature token.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aurelien Hubert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-11 10:01:10
+	time_modified: 2023-12-08 20:01:57
+	name: Shigure’s Yoroi
+	casting_cost: 2U
+	image: image48
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text:
+		Equipped creature gets +2/+2.
+		<i><kw-A><i-auto><nospellcheck><key>Art of war</i></key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if equipped creature dealt damage to an opponent this turn, draw a card.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aurelien Hubert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-11 10:01:10
+	time_modified: 2023-12-08 20:02:08
+	name: Kiyomi’s Yoroi
+	casting_cost: 2B
+	image: image50
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text:
+		Equipped creature gets +2/+2.
+		<i><kw-A><i-auto><nospellcheck><key>Art of war</i></key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if equipped creature dealt damage to an opponent this turn, you may return target creature card from your graveyard to your hand.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aurelien Hubert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-11 10:01:10
+	time_modified: 2023-12-08 20:02:20
+	name: Asharo’s Yoroi
+	casting_cost: 2R
+	image: image51
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text:
+		Equipped creature gets +2/+2.
+		<i><kw-A><i-auto><nospellcheck><key>Art of war</i></key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if equipped creature dealt damage to an opponent this turn, target nonbasic land an opponent controls doesn’t untap during its controller’s next untap step.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aurelien Hubert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-11 10:01:10
+	time_modified: 2023-12-08 20:02:36
+	name: Kenshiro’s Yoroi
+	casting_cost: 2G
+	image: image52
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text:
+		Equipped creature gets +2/+2.
+		<i><kw-A><i-auto><nospellcheck><key>Art of war</i></key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if equipped creature dealt damage to an opponent this turn, untap up to three target lands you control.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aurelien Hubert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-08 19:57:38
+	card_color: white
+	name: Imperial Strategist
+	casting_cost: W
+	image: image53
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: At the beginning of each upkeep you may pay <sym-auto>W</sym-auto>. If you do, tap target creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Jason Engle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-08 19:59:19
+	name: Teikoku Cavalry
+	casting_cost: 2W
+	image: image5
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Art of war</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if <atom-cardname><nospellcheck>Teikoku Cavalry</nospellcheck></atom-cardname> dealt damage to an opponent this turn, put a +1/+1 counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Andrew Olson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-08 20:03:43
+	card_color: white
+	name: Valor in Battle
+	casting_cost: W
+	image: image55
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rule_text:
+		Creatures you control get +1/+1 until end of turn.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>2W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2W</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aurelien Hubert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-08 20:03:27
+	name: Inner Thoughts
+	casting_cost: U
+	image: image56
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		Draw a card.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>1U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>1U</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aurelien Hubert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 11:26:42
+	time_modified: 2023-12-08 19:59:40
+	card_color: blue
+	name: Soaring Dreams
+	casting_cost: U
+	image: image57
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rule_text:
+		Create a 1/1 blue Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>2U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2U</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anna Christenson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtU
+		!Type
+	time_created: 2017-04-12 04:03:58
+	time_modified: 2023-12-10 23:39:14
+	card_color: black
+	name: Blade of the Serpent
+	casting_cost: B
+	image: image58
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Snake</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Poisonous <param-number>1</param-number></key></nospellcheck><atom-reminder-action> <i-auto>(Whenever this creature deals combat damage to a player, that player gets <param-number>a</param-number> poison counter.)</i-auto></atom-reminder-action></kw-A>
+		<atom-cardname><nospellcheck>Blade of the Serpent</nospellcheck></atom-cardname> gets +1/+1 as long as an opponent is poisoned.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 1
+	toughness: 1
+	illustrator: Charles Urbach
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!ArtU
+		!script "s>l>Spirit Reminder/l>f>/spawn colorless Spirit IMP/f>/s>","r"
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-08 20:17:44
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: She/Her
+	name: Lady Kiyomi
+	casting_cost: 1BB
+	image: image60
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever a nontoken creature you don’t control dies, create a token that’s a copy of that creature except it’s a colorless Spirit. Exile it at the beginning of your next end step.
+	flavor_text: <i-flavor>“Death is just another journey.”</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Charles Urbach
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtU
+		!ArtistCred
+		!Watermark
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-09 02:00:34
+	name: Snake Cult Initiation
+	casting_cost: 3B
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature has <kw-0><nospellcheck><key>poisonous <param-number>3</param-number></key></nospellcheck></kw-0>. <i-auto>(Whenever that creature deals combat damage to a player, that player gets three poison counters.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Carlos Nuñez de Castro Torres
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-08 17:46:41
+	name: Awakening the Dragon
+	casting_cost: 1G
+	image: image63
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		You may put a permanent card with mana value </sym>3<sym> or less from your hand onto the battlefield.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>3G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3G</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Calderon Studio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !ArtU
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-08 15:59:42
+	name: Chalkira Duelist
+	casting_cost: 1GG
+	image: image64
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: Whenever a creature an opponent controls becomes tapped, put a +1/+1 counter on <atom-cardname><nospellcheck>Chalkira Duelist</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Steve Argyle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtU
+		!Type
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-10 23:40:28
+	name: Scales of Aghavaan
+	casting_cost: 2GG
+	image: image43
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Poisonous <param-number>4</param-number></key></nospellcheck><atom-reminder-action> <i-auto>(Whenever this creature deals combat damage to a player, that player gets <param-number>four</param-number> poison counters.)</i-auto></atom-reminder-action></kw-A>
+		At the beginning of combat on each of your turns, if an opponent is poisoned, creatures you control gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 4
+	toughness: 4
+	illustrator: Conceptopolis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtU
+		!ArtistCred
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2023-12-09 01:59:52
+	name: Through the Mists
+	casting_cost: 1G
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell>Inscription</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		You may sacrifice a land. If you do, search your library for a land card, put that card onto the battlefield, then shuffle.
+		<kw-A><nospellcheck><key>Inscribe <param-cost><sym-auto>3G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>3G</sym-auto></param-cost>: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Carlos Nuñez de Castro Torres
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtN
+	time_created: 2017-04-06 12:06:29
+	time_modified: 2023-12-08 19:54:21
+	name: Flash of Steel
+	casting_cost: 1W
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		For each Equipment you control, you may attach it to target creature you control.
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Isuardi Therianto
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred (Noah Removal)
+		!ArtN
+	time_created: 2017-03-31 09:11:52
+	time_modified: 2024-10-30 18:38:29
+	name: Sunrise Orchard
+	image: image68
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Sunrise Orchard</nospellcheck></atom-cardname> enters tapped unless you control a basic land.
+		As <atom-cardname><nospellcheck>Sunrise Orchard</nospellcheck></atom-cardname> enters, choose a color.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chris Ostrowski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred (Noah Removal)
+		!ArtN
+		!Name
+	time_created: 2017-04-17 02:35:36
+	time_modified: 2024-01-31 22:01:50
+	card_color: land, multicolor
+	name: Shrouded Sanctuary
+	image: image69
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: land
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Charles Urbach
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		!ArtistCred (Noah Bradley)
+		!ArtN
+	time_created: 2017-04-06 11:26:55
+	time_modified: 2023-12-09 09:06:45
+	name: Heavenly Temple
+	image: image70
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		When <atom-cardname><nospellcheck>Heavenly Temple</nospellcheck></atom-cardname> enters, target creature gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>2</sym-auto>: Return <atom-cardname><nospellcheck>Heavenly Temple</nospellcheck></atom-cardname> from the battlefield to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Charles Urbach
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtN
+		!Frame
+	time_created: 2017-04-11 03:54:29
+	time_modified: 2023-12-08 19:41:33
+	name: Samurai
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Samurai</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Gong Studios
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtN
+		!Frame
+	time_created: 2017-09-28 18:15:01
+	time_modified: 2023-12-08 19:45:24
+	name: Spirit
+	image: image72
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <i-auto>(This is a token copy of a creature except it’s a colorless Spirit.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aurelien Hubert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!ArtistCredU
+		!Frame
+	time_created: 2017-05-13 20:02:55
+	time_modified: 2023-12-08 19:47:21
+	card_color: blue
+	name: Bird
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Allison O’ Neil
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!ArtistCred
+		!ArtN
+		!Frame
+	time_created: 2017-04-11 03:54:29
+	time_modified: 2023-12-08 20:01:17
+	name: Equipment
+	image: image40
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rule_text:
+		Equipped creature gets +1/+1.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aurelien Hubert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: 
+	time_created: 2017-04-11 01:52:02
+	time_modified: 2020-10-28 00:02:26
+	name: Plains
+	image: image93
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol white
+	illustrator: Hai Hoang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: 
+	time_created: 2017-04-11 01:52:02
+	time_modified: 2023-12-10 23:57:31
+	name: Island
+	image: image96
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol blue
+	illustrator: Hai Hoang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: 
+	time_created: 2017-05-20 21:33:24
+	time_modified: 2020-10-27 23:59:30
+	name: Swamp
+	image: image142
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol black
+	illustrator: Hai Hoang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: 
+	time_created: 2017-05-20 21:33:24
+	time_modified: 2020-10-27 23:59:20
+	name: Mountain
+	image: image151
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol red
+	illustrator: Hai Hoang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: 
+	time_created: 2017-04-11 01:52:02
+	time_modified: 2020-10-28 00:02:19
+	name: Forest
+	image: image152
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol green
+	illustrator: Hai Hoang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+keyword:
+	keyword: Inscribe
+	match: Inscribe <atom-param>cost</atom-param>
+	reminder: {param1}: Exile this card from your hand inscribed on a creature you control. Whenever that creature attacks, its controller may cast a copy of the inscribed card without paying its mana cost. Inscribe only as a sorcery.
+	rules: 
+	mode: expert
+keyword:
+	keyword: Art of war
+	match: Art of war
+	reminder: 
+	rules: 
+	mode: pseudo
+keyword:
+	keyword: Poisonous
+	match: Poisonous <atom-param>number</atom-param>
+	reminder: Whenever this creature deals combat damage to a player, that player gets {english_number_a(param1)} poison counter(s).
+	rules: 
+	mode: action
+version_control:
+	type: none
+apprentice_code: 
