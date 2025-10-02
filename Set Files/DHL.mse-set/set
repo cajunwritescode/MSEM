@@ -1,0 +1,4533 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	title: Descent from the Highlands
+	artist: 
+	set_code: DHL
+	set_language: English
+	symbol: symbol5.mse-symbol
+	masterpiece_symbol: 
+	auto_errata: yes
+	sort_multicolor_in_pairs: yes
+	use_flavor_bar: yes
+styling:
+	magic-m15:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-altered:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	magic-m15-clear:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-expedition:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-flavor-bar:
+		flavor bar offset: 
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-future-planeswalker:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-loyalty:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-planeswalker:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		frames: tall
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-mined-planeshifted:
+		text box mana symbols: magic-mana-small-mined.mse-symbol-font
+		overlay: 
+	magic-m15-miracle:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker:
+		use guild mana symbols: no
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker-clear:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-planeswalker-promo-black:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-pokemon:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-saga:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-scroll:
+		text box mana symbols: magic-mana-scroll.mse-symbol-font
+		overlay: 
+	magic-m15-textless-land: overlay: 
+	magic-m15-token:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	magic-m15-token-clear:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-token-copy:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-token-legendary:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		inverted common symbol: yes
+		overlay: 
+	magic-m15-treasure-maps:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-tri-leveler:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		level mana symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-unstable-basics:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-vehicles:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-flip:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-new-leveler:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-old-abu-split:
+		text box mana symbols: magic-mana-small-abu.mse-symbol-font
+		overlay: 
+	magic-windy-ultima:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		M09
+		MSEM swap toke/life
+	time_created: 2018-03-13 11:53:07
+	time_modified: 2020-07-01 20:13:04
+	name: Rain Zai, Spiritscale
+	casting_cost: WBG
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Rain</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	rule_text:
+		Put the top two cards of your library into your graveyard. Create a 1/1 green Spirit Snake creature token with <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>.
+		You may sacrifice a Spirit. When you do, return target permanent card from your graveyard to your hand.
+		Exile target nonland permanent until <atom-cardname><nospellcheck>Rain Zai, Spiritscale</nospellcheck></atom-cardname> leaves the battlefield. You gain 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_1: +1
+	loyalty_cost_2: 0
+	loyalty_cost_3: -2
+	loyalty: 3
+	level_1_text: <margin:130:0:0><kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Create a 1/1 green Spirit Snake creature token.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>You may sacrifice a Spirit. When you do, return target permanent card from your graveyard to your hand.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Exile another target nonland permanent until Rain <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Zai</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> leaves the battlefield. You gain 2 life.</margin:130:0:0>
+	level_4_text: 
+	level_5_text: 
+	level_6_text: 
+	illustrator: Conor Burke
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		[+1]: <margin:130:0:0><kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Create a 1/1 green Spirit Snake creature token.</margin:130:0:0>
+		[0]: <margin:130:0:0>You may sacrifice a Spirit. When you do, return target permanent card from your graveyard to your hand.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Exile another target nonland permanent until Rain <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Zai</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> leaves the battlefield. You gain 2 life.</margin:130:0:0>
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2018-03-13 12:13:49
+	time_modified: 2019-09-30 14:17:35
+	card_color: green
+	name: Spirit Snake
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Snake</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Anton Magdalina
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UM04
+	time_created: 2018-03-13 12:13:49
+	time_modified: 2019-02-10 14:42:33
+	name: Silent Griffin
+	casting_cost: 1WU
+	image: image81
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Griffin</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Silent Griffin</nospellcheck></atom-cardname> enters, draw three cards, then put two cards from your hand on top of your library.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Nadia Van Der Donk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: RL06
+	time_created: 2018-03-13 22:14:48
+	time_modified: 2019-06-04 18:43:43
+	name: Dust Barrens
+	image: image125
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Desert</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Target player exiles a nonland card from their graveyard.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Maxim Revin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UM09
+	time_created: 2018-03-13 22:14:48
+	time_modified: 2019-06-30 22:36:14
+	name: Gift to the Gloam
+	casting_cost: BR
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Sacrifice a creature. At the beginning of the next end step, return that card from a graveyard to the battlefield under your control with two +1/+1 counters on it, except it’s a black Demon instead of its other colors and types.
+	flavor_text: <i-flavor>The only thing more honorable than death in battle is to die twice.</i-flavor>
+	illustrator: Vinchenzo LaMolinara
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UA02
+	time_created: 2018-03-13 22:14:48
+	time_modified: 2018-09-16 15:56:45
+	name: Granite Watchers
+	casting_cost: 3
+	image: image116
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Granite Watchers</nospellcheck></atom-cardname>: It deals 3 damage to target creature.
+	flavor_text:
+		<i-flavor>“What are you worried about? They’re just big statues, you gecko.”<soft-line>
+		—Adventurer <error-spelling:en_US>Telam</error-spelling:en_US>, last words</soft-line></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Juan Pablo Roldan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		UM07
+		MSEM
+	time_created: 2018-03-13 22:14:48
+	time_modified: 2019-12-30 21:00:38
+	name: Hymn of Fury
+	casting_cost: 1RG
+	image: image46
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: <atom-cardname><nospellcheck>Hymn of Fury</nospellcheck></atom-cardname> deals 1 damage to each creature, then each creature you control gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a> until end of turn.
+	rule_text_3: 
+	flavor_text: <i-flavor>To the elves, the relentless beat of the <error-spelling:en_US>Pyresong</error-spelling:en_US> and the sounds of weapons cleaving flesh are a singular rhythm.</i-flavor>
+	illustrator: Dave Rapoza
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UM01
+	time_created: 2018-03-13 22:14:48
+	time_modified: 2019-03-31 19:55:52
+	name: Divine in Blood
+	casting_cost: 1UBB
+	image: image104
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: <atom-cardname><nospellcheck>Divine in Blood</nospellcheck></atom-cardname> deals 2 damage to target player, then that player draws four cards.
+	flavor_text: <i-flavor>No matter the contract, a demon’s price is the same—heart’s blood, the last few drops as the light leaves the eyes.</i-flavor>
+	illustrator: Bryan Marvin P Sola
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UM02
+	time_created: 2018-03-13 22:14:49
+	time_modified: 2019-05-10 21:44:27
+	name: Soulcarver
+	casting_cost: 4UB
+	image: image136
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Soulcarver</nospellcheck></atom-cardname> enters, destroy up to one target non-Demon creature. If you do, create a 2/2 black Demon creature token and draw a card.
+	flavor_text: <i-flavor>The demons of the <error-spelling:en_US>Gloam</error-spelling:en_US> don’t need to inhabit bodies- they simply enjoy massacring the living in the skins of the dead.</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Alex Charleux
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: UM05
+	time_created: 2018-03-13 22:14:49
+	time_modified: 2019-03-10 20:39:14
+	name: Armadillo Cloak
+	casting_cost: 1GW
+	image: image126
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +2/+2 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+		Whenever enchanted creature deals damage, you gain that much life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Wayne reynolds
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UM03
+	time_created: 2018-03-13 22:14:49
+	time_modified: 2019-06-28 22:32:57
+	name: Written in the Stars
+	casting_cost: WU
+	image: image57
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		You may look at the top card of your library at any time.
+		<soft-line>Whenever one or more creatures attack you, you may pay <sym-auto>1U</sym-auto>. When you do, draw a card.</soft-line>
+	flavor_text: <i-flavor>The sky tells the history of <error-spelling:en_US>Astento</error-spelling:en_US>- every moment of the past written in light, and every secret hidden by dusk.</i-flavor>
+	illustrator: Christian Schob
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: 
+	time_created: 2018-03-13 22:14:49
+	time_modified: 2019-07-05 03:37:02
+	name: Angelfire
+	casting_cost: XR
+	image: image129
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Angelfire</nospellcheck></atom-cardname> deals X damage to up to one target.
+		If only <sym-auto>R</sym-auto> was spent to cast this spell and X is 5 or more, <atom-cardname><nospellcheck>Angelfire</nospellcheck></atom-cardname> deals X damage to each opponent and each creature and planeswalker your opponents control instead.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ring
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UB02
+	time_created: 2018-03-13 22:14:49
+	time_modified: 2019-05-08 14:38:26
+	name: Upon the Altar
+	casting_cost: 2B
+	image: image95
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text: Whenever a creature dies, you may pay 1 life. If you do, draw a card.
+	flavor_text: <i-flavor>The stone twists lifeblood into crawling runes, foretelling an even darker and more twisted future.</i-flavor>
+	illustrator: Felipe Escobar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UB04
+	time_created: 2018-03-13 22:14:50
+	time_modified: 2019-07-16 23:50:36
+	name: Shattered Valkyrie
+	casting_cost: 4B
+	image: image115
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Sacrifice another creature: <atom-cardname><nospellcheck>Shattered Valkyrie</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><i-auto><nospellcheck><key>Glorious end</key></nospellcheck></i-auto></kw-A> — When Shattered Valkyrie dies, if it was tapped, draw a card for each creature that died this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Young Yun Kim
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UB03 MSEM
+	time_created: 2018-03-13 22:14:53
+	time_modified: 2021-04-28 00:32:11
+	name: Rend
+	casting_cost: B
+	image: image150
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Rend</nospellcheck></atom-cardname> deals 1 damage to any target and you gain 1 life.
+		Whenever you cast a black spell, you may pay <sym-auto>1</sym-auto> and exile <atom-cardname><nospellcheck>Rend</nospellcheck></atom-cardname> from your graveyard. If you do, destroy target creature or planeswalker if it was dealt damage this turn.
+	flavor_text: <i-flavor>“I never throw the first spear to kill. It’s no fun without a little clawing and gurgling.”</i-flavor>
+	illustrator: Cheesewoo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UB01
+	time_created: 2018-03-13 22:15:04
+	time_modified: 2019-03-25 20:14:13
+	name: Dark Huntress
+	casting_cost: 3BBB
+	image: image84
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Bloodprice <param-mana><sym-auto>4B</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card by sacrificing a creature and paying its bloodprice.)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of your upkeep, if there are five or more creature cards in your graveyard, create a 2/2 black Demon creature token.
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Andrew Mar
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: M02
+	time_created: 2018-03-13 22:15:04
+	time_modified: 2018-09-16 15:49:43
+	name: Aelani, Mother of All
+	casting_cost: 2GGG
+	image: image86
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>
+		As a noncreature spell resolves, exile it instead of putting it anywhere else.
+	flavor_text: <i-flavor>She bears the scars of an ancient calamity. To protect her children, she would live through it again.</i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Alena Aenami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UM08
+	time_created: 2018-03-13 22:15:04
+	time_modified: 2019-06-04 18:47:08
+	name: Pyresong Aspirant
+	casting_cost: RG
+	image: image131
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Each creature you control with a +1/+1 counter on it has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+		<sym-auto>1RG</sym-auto>: <atom-cardname><nospellcheck>Pyresong Aspirant</nospellcheck></atom-cardname> deals 1 damage to target creature. You may have that creature gain <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>“Today we make our name!”</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: applibot
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UU05
+	time_created: 2018-03-13 22:15:04
+	time_modified: 2019-03-18 12:38:24
+	name: Heartless Pact
+	casting_cost: 2U
+	image: image101
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Bloodprice <param-mana><sym-auto>U</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card by sacrificing a creature and paying its bloodprice.)</i-auto></atom-reminder-custom></kw-A>
+		Counter target spell unless its controller pays <sym-auto>4</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: X Carbn
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UG03
+	time_created: 2018-03-13 22:15:04
+	time_modified: 2021-04-21 19:07:32
+	name: Migration Range
+	casting_cost: 1G
+	image: image76
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		Search your library for a basic Forest or Plains card, put that card onto the battlefield tapped, then shuffle.
+		<sym-auto>3W</sym-auto>, Exile <atom-cardname><nospellcheck>Migration Range</nospellcheck></atom-cardname> from your graveyard: Create two 1/1 green and white Elk Spirit creature tokens. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Ellie Eady
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UW01
+	time_created: 2018-03-13 22:15:05
+	time_modified: 2019-05-08 14:34:36
+	name: Fade Into Mists
+	casting_cost: W
+	image: image82
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Exile target permanent. Return that card to the battlefield tapped under its owner’s control at the beginning of the next end step.
+	flavor_text: <i-flavor>There is a sanctuary beyond sight for those who submit themselves to it.</i-flavor>
+	illustrator: Jenna Barton
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 12
+		chop_bottom: 12
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UU02
+	time_created: 2018-03-13 22:15:05
+	time_modified: 2019-06-30 22:10:22
+	name: Rimebreath Tyrant
+	casting_cost: 4UU
+	image: image105
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Rimebreath Tyrant</nospellcheck></atom-cardname> attacks, you may discard a card. When you do, tap target creature. It doesn’t untap during its controller’s next untap step.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Pixel Charlie
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		RR01
+		MSEM
+	time_created: 2018-03-13 22:15:05
+	time_modified: 2020-09-26 04:19:53
+	name: Heart’s Desire
+	casting_cost: R
+	image: image88
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Cast this spell only if you control a legendary creature or if you control six or more lands.
+		Exile a planeswalker card you own from outside the game. You may cast that card this turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Reidun
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UA03
+	time_created: 2018-03-13 22:15:05
+	time_modified: 2019-06-30 22:40:09
+	name: Joyous Chromatelk
+	casting_cost: 3
+	image: image63
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Joyous Chromatelk</nospellcheck></atom-cardname> enters, choose a color.
+		All cards that aren’t on the battlefield, spells, and permanents are the chosen color in addition to their other colors.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
+	flavor_text: <i-flavor>It roams the mountains, spreading wild flowers for a purpose lost to time.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Jeremy Carter
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: .lsdfnm..Asdjfnlskdnf.,mCajunCajasd
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: RG02
+	time_created: 2018-03-13 22:16:38
+	time_modified: 2019-07-01 00:01:51
+	name: Aid of the Ancients
+	casting_cost: 3GG
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Cast this spell only if creatures you control have a total power of 10 or greater or you control six or more lands.
+		Create two 6/6 green and white Elk creature tokens.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Misha Oplev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		UW02
+		
+		MSEM
+	time_created: 2018-03-13 22:16:39
+	time_modified: 2019-06-30 21:50:07
+	name: Ferocity of the Redeemed
+	casting_cost: 2WW
+	image: image148
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Ferocity of the Redeemed</nospellcheck></atom-cardname> enters, return up to two target creature cards with mana value <nosym>1</nosym> or less from your graveyard to the battlefield.
+		<kw-A><nospellcheck><key>Revive <param-cost><sym-auto>2WW</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2WW</sym-auto></param-cost>, Exile this card from your graveyard: Create a token that’s a copy of it except it has no mana cost. Revive only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Katherine Swampmaid
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: UR05
+	time_created: 2018-03-13 22:16:39
+	time_modified: 2019-04-27 21:23:44
+	name: Grieving Revenant
+	casting_cost: 3RR
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Grieving Revenant</nospellcheck></atom-cardname> attacks, it deals 1 damage to each other creature you control.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Weeping bloody tears, the last of the angels exact their revenge on an innocent world.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Ariduka
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UW04
+	time_created: 2018-03-13 22:16:39
+	time_modified: 2019-03-22 11:22:08
+	name: Binding Stones
+	casting_cost: 1W
+	image: image72
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Binding Stones</nospellcheck></atom-cardname> enters, exile target creature with power 3 or less until <atom-cardname><nospellcheck>Binding Stones</nospellcheck></atom-cardname> leaves the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Benjamin Gillei
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		Reprint: M10 
+		RG03
+	time_created: 2018-03-13 22:16:40
+	time_modified: 2019-06-30 22:32:56
+	name: Great Sable Stag
+	casting_cost: 1GG
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		This spell can’t be countered.
+		<kw-1><nospellcheck><key>Protection from <param-name>blue and from black</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t be blocked, targeted, dealt damage, enchanted, or equipped by anything blue or black.)</i-auto></atom-reminder-expert></kw-1>
+	flavor_text: <i-flavor>Even before the Wardens, the forest had its guardians.</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Brent Hollowell
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 10
+		chop_bottom: 12
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: RR02
+	time_created: 2018-03-13 22:16:40
+	time_modified: 2019-06-21 13:25:14
+	name: Leija, the Bloodied Queen
+	casting_cost: 3R
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: Whenever <atom-cardname><nospellcheck>Leija, the Bloodied Queen</nospellcheck></atom-cardname> attacks, you may pay <sym-auto>RRRR</sym-auto>. If you do, it deals 4 damage to each other creature, each player, and each planeswalker.
+	flavor_text: <i-flavor>“My nation is still growing, like a precious, blooming flower. Ash is an excellent soil.”</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Amanda Schank
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UL01
+	time_created: 2018-03-13 22:16:40
+	time_modified: 2020-07-01 20:12:37
+	card_color: land, multicolor
+	name: Golden Glade
+	image: image138
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Golden Glade</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add two mana of any one color.
+	flavor_text:
+		<i-flavor>“A true treasure cannot be traded. It can only be shared.”<soft-line>
+		—<error-spelling:en_US>Aelani</error-spelling:en_US>, Mother of All</soft-line></i-flavor>
+	illustrator: Megatruh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		RW01
+		conditional cycle
+	time_created: 2018-03-13 22:16:41
+	time_modified: 2024-04-28 00:12:11
+	name: Children of the Clouds
+	casting_cost: XW
+	image: image157
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Cast this spell only if an opponent controls two or more nonwhite creatures or you control six or more lands.
+		Create X 1/1 white Bird creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. You gain X life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jeszika Le vye
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UU04
+	time_created: 2018-03-13 22:16:42
+	time_modified: 2018-12-26 15:41:43
+	name: Silent Musing
+	casting_cost: U
+	image: image132
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Return target creature to its owner’s hand. If you controlled that creature, draw a card.
+	flavor_text: <i-flavor>The mountain springs offer a unique magic—the ability to forget the body and dissolve into your memories.</i-flavor>
+	illustrator: Heiwei Hou
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		RU03
+		conditional cycle
+		
+		MSEM
+	time_created: 2018-03-13 22:16:42
+	time_modified: 2019-06-04 18:34:28
+	name: Spotless Mind
+	casting_cost: 2UU
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Cast this spell only if an opponent controls a creature with power 5 or greater or you control six or more lands.
+		Return all nonland permanents target player controls to their owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Allan Castillo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: RR03
+	time_created: 2018-03-13 22:16:42
+	time_modified: 2019-03-11 12:54:44
+	name: Twisted Archangel
+	casting_cost: 4RRR
+	image: image149
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Twisted Archangel</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as an opponent has four or more cards in hand.
+	flavor_text: <i-flavor>Their armor is forged of obsidian glass, the broken bodies of their kin fused by lava into jagged plates.</i-flavor>
+	power: 7
+	toughness: 7
+	illustrator: Anthony Avon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		RB02
+		
+		conditional cycle
+	time_created: 2018-03-13 22:16:42
+	time_modified: 2019-02-10 16:12:58
+	name: Desiccate
+	casting_cost: 2BB
+	image: image49
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Cast this spell only if you have 10 or less life or if you control six or more lands.
+		All creatures get -5/-5 until end of turn.
+	flavor_text:
+		<i-flavor>“For how precious a mortal soul is, it resides in a disappointingly fragile fortress.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Ulric</error-spelling:en_US> of <error-spelling:en_US>Ligas</i-flavor></error-spelling:en_US>
+	illustrator: MB Mikkesch
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		CL03
+		
+		MSEM
+	time_created: 2018-03-13 22:16:42
+	time_modified: 2019-06-04 18:30:49
+	name: Sodden Cavern
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Sodden Cavern</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Krishna Raju
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 10
+		chop_bottom: 10
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: UW03
+	time_created: 2018-03-13 22:16:42
+	time_modified: 2019-03-17 20:13:52
+	name: Stag of the Moon
+	casting_cost: 2W
+	image: image69
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		<sym-auto>2W</sym-auto>: Target Elk gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>Moonlight bends like steel around its antlers, weaving silver armor.</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Daniel Ignacio
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		Reprint: Ixalan
+		
+		RA02
+	time_created: 2018-03-13 22:16:42
+	time_modified: 2018-12-03 12:16:28
+	name: Vanquisher’s Banner
+	casting_cost: 5
+	image: image99
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		As Vanquisher’s Banner enters, choose a creature type.
+		Creatures you control of the chosen type get +1/+1.
+		Whenever you cast a creature spell of the chosen type, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ekaterina Chernikova
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: RM02
+	time_created: 2018-03-13 22:16:42
+	time_modified: 2019-06-21 12:44:39
+	name: Cloud Sovereign
+	casting_cost: 2WU
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Whale</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<sym-auto>U</sym-auto>: Put <atom-cardname><nospellcheck>Cloud Sovereign</nospellcheck></atom-cardname> on top of its owner’s library.
+		<kw-A><i-auto><nospellcheck><key>Foresee</key></nospellcheck></i-auto></kw-A> — As you draw <atom-cardname><nospellcheck>Cloud Sovereign</nospellcheck></atom-cardname>, you may reveal it and pay <sym-auto>1W</sym-auto>. When you do, create a 1/1 white Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Jade Mosch
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UM06
+	time_created: 2018-03-13 22:16:43
+	time_modified: 2019-09-30 14:21:16
+	name: Remembrance of Light
+	casting_cost: 1GW
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When Remembrance of Light enters, you may return target permanent card from your graveyard to your hand.
+		<kw-A><nospellcheck><key>Revive—<param-cost><sym-auto>4G</sym-auto>, Discard a card</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>4G</sym-auto>, Discard a card</param-cost>, Exile this card from your graveyard: Create a token that’s a copy of it except it has no mana cost. Revive only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: CaymArtworks
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 3
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: RG01
+	time_created: 2018-03-13 22:16:43
+	time_modified: 2018-12-16 00:17:40
+	name: Unbowed Hart
+	casting_cost: 2GG
+	image: image147
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Whenever you cast another creature spell, create a 1/1 green and white Elk Spirit creature token.
+		As long as you control five or more Elk, creatures you control get +3/+3 and have <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>Noble is the forest’s sovereign, and mighty are his people.</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: LacLillac
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: RB01
+	time_created: 2018-03-13 22:16:43
+	time_modified: 2020-09-16 21:59:39
+	name: Jejun, Dark Hunter
+	casting_cost: 4BB
+	image: image93
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Bloodprice <param-mana><sym-auto>BBBB</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card by sacrificing a creature and paying its bloodprice.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		Sacrifice another Demon: <atom-cardname><nospellcheck>Jejun, Dark Hunter</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Matt Forsyth
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: RL02
+	time_created: 2018-03-13 22:16:43
+	time_modified: 2019-07-16 23:48:14
+	name: The Aurora’s Heart
+	image: image91
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>, Pay <nosym>1 life: Add <sym-auto>U</sym-auto>.
+		<sym-auto>4UUU</sym-auto>, Exile <atom-cardname><nospellcheck>The Aurora’s Heart</nospellcheck></atom-cardname> from your hand: Target player draws seven cards.</nosym>
+	flavor_text: <i-flavor>A vast well of power, unguided and untouched since the Court fell.</i-flavor>
+	illustrator: Alena Aenami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: M05
+	time_created: 2018-03-13 22:16:43
+	time_modified: 2024-01-28 18:53:02
+	name: Amelie Mayn
+	casting_cost: 2RR
+	image: image77
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Mayn</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	rule_text:
+		Add <sym-auto>RR</sym-auto>. Until end of turn, creatures you control gain “<sym-auto>R</sym-auto>: This creature gets +1/+0 until end of turn.”
+		You may pay any amount of <sym>R</sym>. When you do, <atom-cardname><nospellcheck>Amelie Mayn</nospellcheck></atom-cardname> deals that much damage to up to that many different targets.
+		Add <sym-auto>RRRRRR</sym-auto>. You may activate one of <atom-cardname><nospellcheck>Amelie Mayn</nospellcheck></atom-cardname>’s loyalty abilities once this turn as though none of her loyalty abilities have been activated this turn.
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_1: +2
+	loyalty_cost_2: -3
+	loyalty_cost_3: -6
+	loyalty: 4
+	level_1_text: <margin:130:0:0>Add <sym-auto>RR</sym-auto>. Until end of turn, red mana doesn’t empty as steps and phases end, and creatures you control gain “<sym-auto>R</sym-auto>: This creature gets +1/+0 until end of turn.”</margin:130:0:0>
+	level_2_text: <margin:130:0:0>You may cast a monocolored red spell with mana value 6 or less from your hand without paying its mana cost.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>You may pay any amount of <sym>R</sym>. When you do, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Amelie</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mayn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals that much damage to each of up to that many different targets.</margin:130:0:0>
+	level_4_text: 
+	illustrator: Exellero
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		[+2]: <margin:130:0:0>Add <sym-auto>RR</sym-auto>. Until end of turn, red mana doesn’t empty as steps and phases end, and creatures you control gain “<sym-auto>R</sym-auto>: This creature gets +1/+0 until end of turn.”</margin:130:0:0>
+		[-3]: <margin:130:0:0>You may cast a monocolored red spell with mana value 6 or less from your hand without paying its mana cost.</margin:130:0:0>
+		[-6]: <margin:130:0:0>You may pay any amount of <sym>R</sym>. When you do, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Amelie</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mayn</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals that much damage to each of up to that many different targets.</margin:130:0:0>
+card:
+	has_styling: false
+	notes: CA02
+	time_created: 2018-03-13 22:16:43
+	time_modified: 2018-10-27 15:32:05
+	name: Hallowed Fragment
+	casting_cost: 3
+	image: image34
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text: <sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. You gain 1 life.
+	flavor_text: <i-flavor>Fragments from the <error-spelling:en_US>craterfields</error-spelling:en_US> can be found embedded in the mountainsides, surrounded by a soft, warm aura.</i-flavor>
+	illustrator: Andrey Lyapichev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		Reprint- kaladesh
+		
+		UU01
+	time_created: 2018-03-13 22:16:43
+	time_modified: 2019-02-10 16:31:01
+	name: Long-Finned Skywhale
+	casting_cost: 2UU
+	image: image50
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Whale</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Long-Finned Skywhale</nospellcheck></atom-cardname> can block only creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>Shamans of the <error-spelling:en_US>Windwise</error-spelling:en_US> watch their migratory routes, each movement of the herd a portent of the future.</i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Rachel Curtis
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: RM01
+	time_created: 2018-03-13 22:16:43
+	time_modified: 2019-05-10 21:44:24
+	name: Breach the Mind
+	casting_cost: UB
+	image: image74
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Counter target spell unless its controller discards two cards.
+	flavor_text: <i-flavor>In the brutal hierarchy of the Gloaming cults, no skill is as valued as being able to get inside your <error-spelling:en_US>enemies’</error-spelling:en_US> heads.</i-flavor>
+	illustrator: Matt Forsyth
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CB06
+	time_created: 2018-03-13 22:16:44
+	time_modified: 2019-03-13 23:26:51
+	name: Persistent Fiend
+	casting_cost: 1B
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rule_text: At the beginning of your upkeep, you may pay <sym-auto>U</sym-auto>. If you do, return <atom-cardname><nospellcheck>Persistent Fiend</nospellcheck></atom-cardname> from your graveyard to your hand.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>With a smile that wide, you just can’t keep it down for long.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Tania Sanchez-Fortun
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		CL02
+		
+		MSEM
+	time_created: 2018-03-13 22:16:44
+	time_modified: 2019-06-04 18:29:21
+	name: Fiery Chasm
+	image: image5
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Fiery Chasm</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Wang Wei
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CR05 
+	time_created: 2018-03-13 22:16:44
+	time_modified: 2023-11-30 21:21:59
+	name: Battle-Blind Leonin
+	casting_cost: 1R
+	image: image75
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Glorious end</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Battle-Blind Leonin</nospellcheck></atom-cardname> dies, if it was tapped, you may pay <sym-auto>B</sym-auto>. If you do, you draw a card and you lose 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Grimae
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		CL01
+		
+		MSEM
+	time_created: 2018-03-13 22:16:44
+	time_modified: 2019-06-30 22:42:27
+	name: Highland Vale
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Highland Vale</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Snow Skadi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CU05
+	time_created: 2018-03-13 22:16:44
+	time_modified: 2019-03-31 19:28:59
+	name: Windwise Mentor
+	casting_cost: 2U
+	image: image44
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<sym-auto>3W</sym-auto>: <kw-0><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-0>. You gain 2 life.
+	flavor_text: <i-flavor>Unfettered by reality, the inhabitants of the Aurora share their wisdom with those brave enough to visit them.</i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: Aurora Lion
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CG01
+	time_created: 2018-03-13 22:16:45
+	time_modified: 2020-04-14 03:00:20
+	name: Dryad of the Grove
+	casting_cost: 1G
+	image: image133
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dryad</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <sym-auto>T</sym-auto>: Untap target basic land.
+	flavor_text: <i-flavor>The groves of the Wardens have grown undisturbed for hundreds of years. Some have developed a desire to explore further from their roots.</i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Alexandru Negoita
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: RM04
+	time_created: 2018-03-13 22:16:45
+	time_modified: 2019-05-10 21:41:18
+	name: Glorybound Chorister
+	casting_cost: RGG
+	image: image118
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Bard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: Whenever <atom-cardname><nospellcheck>Glorybound Chorister</nospellcheck></atom-cardname> attacks, put a +1/+1 counter on each other attacking creature you control.
+	flavor_text: <i-flavor>The choristers are the composers of the <error-spelling:en_US>Pyrsesong</error-spelling:en_US>, singing the tales of triumphant warriors in battle for the first time.</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Reiko Haittori
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 9
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: M06
+	time_created: 2018-03-13 22:16:45
+	time_modified: 2019-02-10 16:08:28
+	name: The Tree of Wisdom
+	casting_cost: 4UUU
+	image: image106
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>
+		Your maximum hand size is thirteen.
+		<sym-auto>T</sym-auto>: If you have fewer than thirteen cards in hand, draw cards equal to the difference. Activate only as a sorcery.
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor>Seekers drown themselves in the pool at its roots to comprehend the web of fate. None emerge.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	power: 0
+	toughness: 13
+	illustrator: Katie Skybrush
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CU06
+	time_created: 2018-03-13 22:16:45
+	time_modified: 2018-09-16 19:33:36
+	name: Wild Skycub
+	casting_cost: UU
+	image: image65
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: As long as you control another creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <atom-cardname><nospellcheck>Wild Skycub</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text:
+		<i-flavor>“Their little paws are so cute when they’re not used to flying yet.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Amelie</error-spelling:en_US> <error-spelling:en_US>Mayn</i-flavor></error-spelling:en_US>
+	power: 2
+	toughness: 2
+	illustrator: Sandara
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CG02
+	time_created: 2018-03-13 22:16:45
+	time_modified: 2019-06-30 23:48:26
+	name: Dryad Outrider
+	casting_cost: 2G
+	image: image111
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dryad</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor>“The demonic incursions reach further into the glades each day. Soon, that accursed smoke will be visible from the Temple itself.”</i-flavor>
+	power: 2
+	toughness: 4
+	illustrator: Ketka
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CG08
+	time_created: 2018-03-13 22:16:45
+	time_modified: 2019-03-25 20:58:55
+	name: Waking Mists
+	casting_cost: G
+	image: image41
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Prevent all combat damage that would be dealt by non-Spirit creatures this turn.
+	flavor_text:
+		<i-flavor>“When the mists rise, more dangerous things than you walk with them. It would be wise not to anger them.”<soft-line>
+		</soft-line>—Warden ranger</i-flavor>
+	illustrator: Team GNOO
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		CL04
+		
+		MSEM
+	time_created: 2018-03-13 22:16:45
+	time_modified: 2019-06-30 22:42:24
+	name: Alpine Meadow
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Alpine Meadow</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kirk Quilaquil
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CG05
+	time_created: 2018-03-13 22:16:46
+	time_modified: 2021-12-01 01:47:20
+	name: Elvish Verseblade
+	casting_cost: 1G
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Defiance</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature takes damage, if it survives and wasn’t defiant, put a +1/+1 counter on it and it becomes defiant.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>4R</sym-auto>: <atom-cardname><nospellcheck>Elvish Verseblade</nospellcheck></atom-cardname> deals 1 damage to each creature. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Justine Cruz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		CL05
+		
+		MSEM!alter
+	time_created: 2018-03-13 22:16:46
+	time_modified: 2019-10-24 19:58:12
+	name: Tranquil Stream
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Tranquil Stream</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Concept Art House
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		CG07
+		Replace 
+	time_created: 2018-03-13 22:16:46
+	time_modified: 2023-10-01 16:23:37
+	name: Pyresong Ranger
+	casting_cost: 2G
+	image: image59
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Defiance</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature takes damage, if it survives and wasn’t defiant, put a +1/+1 counter on it and it becomes defiant.)</i-auto></atom-reminder-custom></kw-A>
+		As long as <atom-cardname><nospellcheck>Pyresong Ranger</nospellcheck></atom-cardname> has a +1/+1 counter on it, it has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and “<sym-auto>T</sym-auto>: Add <sym-auto>GG</sym-auto>.”
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Alex Petruk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CR09
+	time_created: 2018-03-13 22:16:46
+	time_modified: 2019-06-21 13:30:10
+	name: Magmatic Cache
+	casting_cost: R
+	image: image53
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		As an additional cost to cast this spell, sacrifice a land and discard a card.
+		Draw three cards.
+	flavor_text: <i-flavor>Past the blinding ash storms, the flowing lava fields, the shattered landscape, and the rage of the angels lay the treasures of a fallen age.</i-flavor>
+	illustrator: 俊超 杨
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CG03
+	time_created: 2018-03-13 22:16:46
+	time_modified: 2021-01-31 20:21:12
+	name: Exultation of Might
+	casting_cost: 5GG
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Revive <param-cost><sym-auto>4G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>4G</sym-auto></param-cost>, Exile this card from your graveyard: Create a token that’s a copy of it except it has no mana cost. Revive only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 7
+	toughness: 4
+	illustrator: Logan Feliciano
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UG01
+	time_created: 2018-03-13 22:16:46
+	time_modified: 2019-03-12 21:55:28
+	name: Leija’s Greenblade
+	casting_cost: 1G
+	image: image112
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Leija’s Greenblade</nospellcheck></atom-cardname> enters, you may pay <sym-auto>G</sym-auto>. If you do, destroy target artifact or enchantment.
+	flavor_text: <i-flavor>Her knives slice through enchantment as easily as they skin rabbits.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Gabriela Dea Julia
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CG04
+	time_created: 2018-03-13 22:16:46
+	time_modified: 2019-03-18 12:39:05
+	name: Resolution of Stone
+	casting_cost: 3G
+	image: image15
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Resolution of Stone</nospellcheck></atom-cardname> enters, put a +1/+1 counter on target creature you control.
+		<kw-A><nospellcheck><key>Revive <param-cost><sym-auto>4GG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>4GG</sym-auto></param-cost>, Exile this card from your graveyard: Create a token that’s a copy of it except it has no mana cost. Revive only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Aerozopher
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CR08
+	time_created: 2018-03-13 22:16:46
+	time_modified: 2018-09-16 15:19:58
+	name: Verse of Fire
+	casting_cost: 1R
+	image: image52
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: <atom-cardname><nospellcheck>Verse of Fire</nospellcheck></atom-cardname> deals 2 damage divided as you choose among up to two targets.
+	flavor_text: <i-flavor>The <error-spelling:en_US>Pyresong</error-spelling:en_US> is weeks long, and more than one verse is dedicated to the flames of glory.</i-flavor>
+	illustrator: Art Zealot
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CR06
+	time_created: 2018-03-13 22:16:47
+	time_modified: 2019-03-25 20:51:37
+	name: Warband Commander
+	casting_cost: 2R
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-A><i-auto><nospellcheck><key>Glorious end</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Warband Commander</nospellcheck></atom-cardname> dies, if it was tapped, put a +1/+1 counter on each creature you control that attacked this turn.
+	flavor_text: <i-flavor>“I am not afraid of the divine. I have wet my blades on <error-spelling:en_US>angelblood</error-spelling:en_US> once, and they have been thirsty since.”</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: MeteorSkies
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CR10
+	time_created: 2018-03-13 22:16:47
+	time_modified: 2019-02-09 00:16:04
+	name: Volcanic Pounce
+	casting_cost: R
+	image: image4
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Creatures you control gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		Draw a card.
+	flavor_text: <i-flavor>Through the ash came a flash of red teeth. <error-spelling:en_US>Jina</error-spelling:en_US> inhaled to scream and died with her breath in her throat.</i-flavor>
+	illustrator: Pauliina Linjama
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		CR04
+		
+		consider uncommon
+	time_created: 2018-03-13 22:16:47
+	time_modified: 2021-12-01 01:46:49
+	name: Elvish Songseeker
+	casting_cost: 1R
+	image: image43
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Defiance</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature takes damage, if it survives and wasn’t defiant, put a +1/+1 counter on it and it becomes defiant.)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of your upkeep, if <atom-cardname><nospellcheck>Elvish Songseeker</nospellcheck></atom-cardname> has a +1/+1 counter on it, exile the top card of your library. Until your next turn, you may play that card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Jedi Art Trick
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CR01
+	time_created: 2018-03-13 22:16:47
+	time_modified: 2021-12-01 01:47:16
+	name: Wastewolf
+	casting_cost: 4R
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Defiance</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature takes damage, if it survives and wasn’t defiant, put a +1/+1 counter on it and it becomes defiant.)</i-auto></atom-reminder-custom></kw-A>
+		Whenever <atom-cardname><nospellcheck>Wastewolf</nospellcheck></atom-cardname> attacks, it deals 1 damage to any other target.
+	flavor_text: <i-flavor>Too wild to tame, too fast to hunt, too ferocious to ignore.</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Allison Theus
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CR03
+	time_created: 2018-03-13 22:16:47
+	time_modified: 2018-12-09 20:35:00
+	name: Warband Lieutenant
+	casting_cost: R
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Glorious end</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Warband Lieutenant</nospellcheck></atom-cardname> dies, if it was tapped, put a +1/+1 counter on another target creature you control.
+	flavor_text: <i-flavor>“The angels are living tempests—the fury of an ash-storm tempered with the finality of obsidian. What more worthy foe could there be?”</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Lucas Buarke
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CR02
+	time_created: 2018-03-13 22:16:47
+	time_modified: 2019-03-25 21:27:59
+	name: Meteoric Smith
+	casting_cost: 1R
+	image: image27
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <sym-auto>3R</sym-auto>: Attacking creatures you control get +1/+0 until end of turn.
+	flavor_text: <i-flavor>The only <error-spelling:en_US>leonin</error-spelling:en_US> more respected that the one who leads the <error-spelling:en_US>warband</error-spelling:en_US> is the one who arms them.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: GrandTaurus
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CR07
+	time_created: 2018-03-13 22:16:47
+	time_modified: 2021-12-01 01:47:10
+	name: Rebellious Streak
+	casting_cost: 2R
+	image: image51
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Gain control of target creature until end of turn. Untap that creature. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>defiance</key></nospellcheck></kw-0> until end of turn. <i-auto>(Whenever that creature takes damage, if it survives and wasn’t defiant, put a +1/+1 counter on it and it becomes defiant.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: MIchael Gauss
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		CB07
+		
+		MSEM
+	time_created: 2018-03-13 22:16:47
+	time_modified: 2019-06-30 22:19:06
+	name: Ritual of Coalescence
+	casting_cost: 2BB
+	image: image54
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Bloodprice <param-mana><sym-auto>2B</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card by sacrificing a creature and paying its bloodprice.)</i-auto></atom-reminder-custom></kw-A>
+		Create X 2/2 black Demon creature tokens, where X is one plus the number of creatures that died this turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Roy Steur
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: CB02
+	time_created: 2018-03-13 22:16:47
+	time_modified: 2019-03-12 18:33:03
+	name: Emissary of Smoke
+	casting_cost: 4B
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-A><nospellcheck><key>Bloodprice <param-mana><sym-auto>2B</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card by sacrificing a creature and paying its bloodprice.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>At the heart of each summoning lies one inviolate rule—a life for a life.</i-flavor>
+	power: 5
+	toughness: 4
+	illustrator: WerWer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CB05
+	time_created: 2018-03-13 22:16:48
+	time_modified: 2019-06-04 18:43:24
+	name: Brutal Champion
+	casting_cost: 2BB
+	image: image25
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-A><i-auto><nospellcheck><key>Glorious end</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Brutal Champion</nospellcheck></atom-cardname> dies, if it was tapped, each opponent sacrifices a creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Pacelic
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CB01
+	time_created: 2018-03-13 22:16:48
+	time_modified: 2019-03-22 12:05:25
+	name: Conjured Shade
+	casting_cost: B
+	image: image128
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When <atom-cardname><nospellcheck>Conjured Shade</nospellcheck></atom-cardname> dies, target creature you don’t control gets -1/-1 until end of turn.
+	flavor_text: <i-flavor>Animated by a drop of blood and the foul miasma of the <error-spelling:en_US>Gloam</error-spelling:en_US>, the undying legions of <error-spelling:en_US>Ligos</error-spelling:en_US> march to war.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Ruslan Leschev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CB11
+	time_created: 2018-03-13 22:16:48
+	time_modified: 2019-06-30 22:12:38
+	name: Beckon the Shadows
+	casting_cost: B
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		<kw-A><nospellcheck><key>Bloodprice <param-mana><sym-auto>2BB</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card by sacrificing a creature and paying its bloodprice.)</i-auto></atom-reminder-custom></kw-A>
+		Return target creature card from your graveyard to your hand. If you cast this spell for its <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>bloodprice</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, return that card to the battlefield instead.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Oskar Jakubisiak
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CG10
+	time_created: 2018-03-13 22:16:48
+	time_modified: 2019-02-11 20:41:38
+	name: Moonlit Pursuit
+	casting_cost: 1G
+	image: image154
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Target creature you control gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn if it has a +1/+1 counter on it. Then it fights target creature you don’t control.
+	flavor_text: <i-flavor>The denizens of the forest, whether flesh or spirit, do not take kindly to intruders.</i-flavor>
+	illustrator: Christy Grandjean
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CB03
+	time_created: 2018-03-13 22:16:48
+	time_modified: 2019-03-12 20:01:25
+	name: Gloaming Smokeweaver
+	casting_cost: 1B
+	image: image39
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <atom-cardname><nospellcheck>Gloaming Smokeweaver</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> as long as there is a creature card in your graveyard.
+	flavor_text: <i-flavor>Most disciples of the Gloaming do not survive their apprenticeship. Those that do, therefore, have plenty of raw material to work with.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Markus Toivonen
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CU07
+	time_created: 2018-03-13 22:16:48
+	time_modified: 2019-06-30 22:09:05
+	name: Consuming Knowledge
+	casting_cost: 2U
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		<kw-A><nospellcheck><key>Bloodprice <param-mana><sym-auto>2U</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card by sacrificing a creature and paying its bloodprice.)</i-auto></atom-reminder-custom></kw-A>
+		Draw two cards. If you cast this spell for its <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>bloodprice</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, instead <kw-a><nospellcheck><key>scry <param-number>4</param-number></key></nospellcheck></kw-a>, then draw two cards.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Viviane T.S.
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CW02
+	time_created: 2018-03-13 22:16:49
+	time_modified: 2019-03-12 19:00:25
+	name: Oaken Spearman
+	casting_cost: 1W
+	image: image40
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>
+		<sym-auto>1G</sym-auto>: <atom-cardname><nospellcheck>Oaken Spearman</nospellcheck></atom-cardname> can attack this turn as though it didn’t have <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>Returned by the grace of <error-spelling:en_US>Hesediel</error-spelling:en_US>, he now fights with the strength of <error-spelling:en_US>oldwood</error-spelling:en_US> and the patience of a forest.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Concept Art House
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CB10
+	time_created: 2018-03-13 22:16:49
+	time_modified: 2019-02-20 13:47:47
+	name: Reaping Mask
+	casting_cost: B
+	image: image42
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature has <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> and “When this creature dies, create a 2/2 black Demon creature token.”
+		<sym-auto>1B</sym-auto>,<soft-line> Exile <atom-cardname><nospellcheck>Reaping Mask</nospellcheck></atom-cardname> from your graveyard: Create a 2/2 black Demon creature token.</soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kunkka
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CB09
+	time_created: 2018-03-13 22:16:49
+	time_modified: 2019-06-30 22:13:54
+	name: Diabolic Designs
+	casting_cost: 1B
+	image: image123
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Target player sacrifices a creature. You may return up to one target Demon creature card from your graveyard to your hand.
+	flavor_text: <i-flavor>“The inviolate rule—a life for a life. <error-spelling:en_US>Selene</error-spelling:en_US> will usher in a new age of smoke on the corpses of your kind.”</i-flavor>
+	illustrator: Zhihhui Su
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CW07
+	time_created: 2018-03-13 22:16:49
+	time_modified: 2019-03-17 19:52:47
+	name: Ancient Counsel
+	casting_cost: W
+	image: image60
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rule_text:
+		At the beginning of your upkeep, you gain 1 life.
+		<sym-auto>5WW</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Ancient Counsel</nospellcheck></atom-cardname>: Create a 6/6 green and white Elk creature token. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alessia Cimata
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		CG11
+		MSEM
+	time_created: 2018-03-13 22:16:49
+	time_modified: 2019-06-04 19:15:05
+	name: Ancient Gift
+	casting_cost: 1G
+	image: image45
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Target creature you control gets +3/+3 until end of turn. Then if that creature has power 10 or greater, each other creature you control gets +3/+3 until end of turn.
+	flavor_text: <i-flavor>It is the duty of the great to lend their strength to the small.</i-flavor>
+	illustrator: Juno Viinikka
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CU03
+	time_created: 2018-03-13 22:16:49
+	time_modified: 2019-06-30 22:09:36
+	name: Highland Elk
+	casting_cost: 1U
+	image: image55
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: Whenever <atom-cardname><nospellcheck>Highland Elk</nospellcheck></atom-cardname> deals damage to a creature, return that creature to its owner’s hand <i-auto>(if it’s still on the battlefield.)</i-auto>
+	flavor_text: <i-flavor>Its antlers are the morning frost, its hooves the sound of snowfall.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Ronald Kuang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CW10
+	time_created: 2018-03-13 22:16:49
+	time_modified: 2019-06-30 21:47:46
+	name: Bittersweet Reunion
+	casting_cost: 1W
+	image: image117
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		You gain 2 life. Then if you have more life than an opponent, draw a card.
+		At the beginning of your upkeep, if <atom-cardname><nospellcheck>Bittersweet Reunion</nospellcheck></atom-cardname> is in your graveyard, you may pay <sym-auto>1W</sym-auto> and exile it. If you do, you may copy it and cast the copy without paying its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Eli Baum
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CB08
+	time_created: 2018-03-13 22:16:50
+	time_modified: 2019-06-30 22:18:35
+	name: Rite of the Dark Harvest
+	casting_cost: 3BB
+	image: image37
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		<kw-A><nospellcheck><key>Bloodprice <param-mana><sym-auto>B</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card by sacrificing a creature and paying its bloodprice.)</i-auto></atom-reminder-custom></kw-A>
+		<soft-line>Destroy target creature.</soft-line>
+	flavor_text: <i-flavor>“There are myriad methods by which I could wring those precious drops of blood from you. Let me count the ways...”</i-flavor>
+	illustrator: RX
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CU10
+	time_created: 2018-03-13 22:16:50
+	time_modified: 2019-06-21 12:44:55
+	name: Read the Clouds
+	casting_cost: 1U
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		<kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw a card.
+		<kw-A><i-auto><nospellcheck><key>Foresee</key></nospellcheck></i-auto></kw-A> — As you draw <atom-cardname><nospellcheck>Read the Clouds</nospellcheck></atom-cardname>, you may reveal it and pay <sym-auto>1U</sym-auto>. When you do, <kw-a><nospellcheck><key>scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Artyom Rads
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CW11
+	time_created: 2018-03-13 22:16:50
+	time_modified: 2019-02-10 16:58:11
+	name: Remnants of Divinity
+	casting_cost: 3W
+	image: image62
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Exile target artifact, enchantment, or tapped creature.
+	flavor_text: <i-flavor>There was a time, long ago, when the glimpse of an angel was considered a good omen.</i-flavor>
+	illustrator: Konami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CU04
+	time_created: 2018-03-13 22:16:50
+	time_modified: 2019-03-12 18:37:27
+	name: Stalker in the Underbrush
+	casting_cost: 4U
+	image: image56
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-A><nospellcheck><key>Bloodprice <param-mana><sym-auto>2U</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card by sacrificing a creature and paying its bloodprice.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>A slain demon spends years plotting its revenge before a cultist summons them anew, and even longer enacting it.</i-flavor>
+	power: 4
+	toughness: 5
+	illustrator: CD Projekt Red
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 12
+		chop_bottom: 12
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: CW06
+	time_created: 2018-03-13 22:16:50
+	time_modified: 2019-06-04 18:52:41
+	name: Indomitable Bear
+	casting_cost: 1W
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bear</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: Sacrifice <atom-cardname><nospellcheck>Indomitable Bear</nospellcheck></atom-cardname>: Creatures you control gain <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>Even in a world with dragons, demons, and hydras, the mundane bear remains near the top of food chain.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Roberto Robert
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CU01
+	time_created: 2018-03-13 22:16:50
+	time_modified: 2019-03-14 01:35:46
+	name: Sage of the Aurora
+	casting_cost: U
+	image: image47
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
+		<sym-auto>U</sym-auto>: <atom-cardname><nospellcheck>Sage of the Aurora</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>Manifestations of the Aurora’s unguided power, they impart their prophetic sight to those brave enough to seek it.</i-flavor>
+	watermark: none
+	power: 1
+	toughness: 1
+	illustrator: LhuneArt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CW03
+	time_created: 2018-03-13 22:16:50
+	time_modified: 2019-03-12 22:46:27
+	card_color: white
+	name: Hushwing Sentinel
+	casting_cost: 4W
+	image: image64
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor>If you hear them coming, it is a warning. You will not hear them strike.</i-flavor>
+	power: 3
+	toughness: 4
+	illustrator: Sandara
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 12
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		CW04
+		MSEM
+	time_created: 2018-03-13 22:16:51
+	time_modified: 2024-08-24 04:19:49
+	name: Fidelity of the Pure
+	casting_cost: W
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		When <atom-cardname><nospellcheck>Fidelity of the Pure</nospellcheck></atom-cardname> dies, create a 1/1 green and white Elk Spirit creature token.
+		<kw-A><nospellcheck><key>Revive <param-cost><sym-auto>2W</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>2W</sym-auto></param-cost>, Exile this card from your graveyard: Create a token that’s a copy of it except it has no mana cost. Revive only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>Though they lose their memories, the spirits of the Wardens retain the virtues of their previous lives.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Crimson Chains
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 16
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		CW05
+		
+		MSEM
+	time_created: 2018-03-13 22:16:51
+	time_modified: 2019-06-21 12:28:26
+	name: Windwise Courier
+	casting_cost: 2W
+	image: image155
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Rabbit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Griffin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Windwise Courier</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as you’ve revealed a card from your hand this turn.
+	flavor_text: <i-flavor><error-spelling:en_US>Lagogryphs</error-spelling:en_US> are messengers of the oracles. To harm one risks the wrath of fate itself.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Vidagr
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		CW09
+		!script "s>l>Add four +1/+1 counters/l>f>/ccgreen=4/f>/s>s>l>Revive token/l>f>/spawn revived Strength of the Patient DHL/f>/s>","r"
+	time_created: 2018-03-13 22:16:51
+	time_modified: 2019-10-01 12:32:07
+	name: Strength of the Patient
+	casting_cost: 1W
+	image: image114
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		When <atom-cardname><nospellcheck>Strength of the Patient</nospellcheck></atom-cardname> enters, if it was revived, put four +1/+1 counters on it.
+		<kw-A><nospellcheck><key>Revive <param-cost><sym-auto>4WWW</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>4WWW</sym-auto></param-cost>, Exile this card from your graveyard: Create a token that’s a copy of it except it has no mana cost. Revive only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Tuomas Corpi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: RB03
+	time_created: 2018-03-13 22:16:52
+	time_modified: 2019-05-10 21:25:37
+	name: Onyx Ritualist
+	casting_cost: 2B
+	image: image89
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Spells your opponents cast cost an additional 2 life to cast.
+	flavor_text: <i-flavor>On <error-spelling:en_US>Astento</error-spelling:en_US>, there are no vampires. Blood is too precious a resource to be wasted on the dead.</i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Vyacheslav Safronov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CU11
+	time_created: 2018-03-13 22:16:52
+	time_modified: 2019-04-27 21:40:18
+	name: Aurora’s Whisper
+	casting_cost: 1UU
+	image: image58
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		Counter target creature spell. <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.
+		<kw-A><i-auto><nospellcheck><key>Foresee</key></nospellcheck></i-auto></kw-A> — As you draw <atom-cardname><nospellcheck>Aurora’s Whisper</nospellcheck></atom-cardname>, you may reveal it and pay <sym-auto>U</sym-auto>. When you do, return target creature with mana value <nosym>3</nosym> or less to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alibek
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CU02
+	time_created: 2018-03-13 22:16:52
+	time_modified: 2019-03-17 20:40:08
+	name: Smokeweaver Initiate
+	casting_cost: 2U
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When <atom-cardname><nospellcheck>Smokeweaver Initiate</nospellcheck></atom-cardname> dies, draw a card.
+	flavor_text: <i-flavor>“Death is not an impediment. It is but a stepping stone.”</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Zippo514
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CG09
+	time_created: 2018-03-14 00:08:21
+	time_modified: 2019-03-12 18:29:23
+	name: Sleeping Dryads
+	casting_cost: 1G
+	image: image134
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
+		Whenever enchanted land is tapped for mana, its controller adds <sym-auto>G</sym-auto>.
+		<sym-auto>G</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Sleeping Dryads</nospellcheck></atom-cardname>: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mauro Belfiore
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: M01
+	time_created: 2018-03-14 13:02:40
+	time_modified: 2019-12-30 20:49:15
+	name: Tea of Augury
+	casting_cost: U
+	image: image103
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text: <sym-auto>U</sym-auto>, Exile a card from your hand or graveyard that doesn’t share a type with a card exiled by <atom-cardname><nospellcheck>Tea of Augury</nospellcheck></atom-cardname>: Draw a card.
+	flavor_text: <i-flavor>The power of prophecy is much like tea; the impatient are inevitably burned.</i-flavor>
+	illustrator: Astri Lohne
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: sdffds
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CA03
+	time_created: 2018-03-14 13:02:41
+	time_modified: 2018-09-16 15:55:38
+	name: Carven Guardian
+	casting_cost: 5
+	image: image31
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <sym-auto>2</sym-auto>: <atom-cardname><nospellcheck>Carven Guardian</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>Most of what is left of the old world is shattered and disparate, but some more resilient works do remain.</i-flavor>
+	power: 4
+	toughness: 5
+	illustrator: Kai_skyrion
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: RL05
+	time_created: 2018-03-14 13:02:41
+	time_modified: 2019-03-09 19:18:28
+	name: Singers’ Grove
+	image: image98
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>, Pay <nosym>1 life: Add <sym-auto>G</sym-auto>.
+		<sym-auto>8G</sym-auto>, Exile <atom-cardname><nospellcheck>Singers’ Grove</nospellcheck></atom-cardname> from your hand: Creatures you control get +7/+7 until end of turn.</nosym>
+	flavor_text: <i-flavor>The <error-spelling:en_US>Pyresong</error-spelling:en_US> tells the glory of hundreds of generations of elves. Its recitation takes weeks, and is accompanied by raucous celebration.</i-flavor>
+	watermark: none
+	illustrator: Ben Andrews
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: RM05
+	time_created: 2018-03-14 13:02:42
+	time_modified: 2019-07-16 23:45:41
+	name: Toros the Warchief
+	casting_cost: 2BR
+	image: image113
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Attacking creatures you control have <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>.
+		<kw-A><i-auto><nospellcheck><key>Glorious end</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Toros the Warchief</nospellcheck></atom-cardname> dies, if it was tapped, return it to the battlefield at the beginning of the next end step.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: GrandTaurus
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: RL01
+	time_created: 2018-03-14 13:02:42
+	time_modified: 2019-03-09 19:19:55
+	name: Ligos, Shadow’s Source
+	image: image87
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>, Pay <nosym>1 life: Add <sym-auto>B</sym-auto>.
+		<sym-auto>7BB</sym-auto>, Exile <atom-cardname><nospellcheck>Ligos, Shadow’s Source</nospellcheck></atom-cardname> from your hand: Destroy all creatures you don’t control. They can’t be regenerated.</nosym>
+	flavor_text: <i-flavor>When a demon is slain, its consciousness returns to <error-spelling:en_US>Ligos</error-spelling:en_US>. No thoughts occupy that unhallowed place but vengeance.</i-flavor>
+	illustrator: Alena Aenami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: RL03
+	time_created: 2018-03-14 13:47:20
+	time_modified: 2019-03-09 19:20:09
+	name: The Court of Angels
+	image: image70
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>, Pay <nosym>1</nosym> life: Add <sym-auto>R</sym-auto>.
+		<sym-auto>6RR</sym-auto>, Exile <atom-cardname><nospellcheck>The Court of Angels</nospellcheck></atom-cardname> from your hand: Destroy all artifacts, creatures, and lands. They can’t be regenerated.
+	flavor_text: <i-flavor>Once a bastion of faith— now the smoldering shelter of its last, fallen survivors.</i-flavor>
+	illustrator: Ruxing Gao
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2018-03-15 19:42:46
+	time_modified: 2018-03-15 19:44:53
+	card_color: white
+	name: Bird
+	image: image14
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Jennifer Miller
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		M07
+		
+		MSEM
+	time_created: 2018-04-14 04:26:48
+	time_modified: 2019-07-31 15:29:01
+	name: Hesediel, the Reborn
+	casting_cost: 1WW
+	image: image108
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		Once each turn, when another nontoken creature you control dies, you may create a 2/2 white Elk Spirit creature token with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> named Fawn of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hesediel</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Christian Chihaira
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: RL04
+	time_created: 2018-04-14 04:26:48
+	time_modified: 2019-03-11 12:48:16
+	name: Rius, Temple of the Grandfather
+	image: image96
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>, Pay <nosym>1 life: Add <sym-auto>W</sym-auto>.
+		<sym-auto>6WWW</sym-auto>, Exile <atom-cardname><nospellcheck>Rius, Temple of the Grandfather</nospellcheck></atom-cardname> from your hand: Target player gains 20 life.</nosym>
+	flavor_text:
+		<i-flavor>“We do not worship Grandfather. He is the last prisoner left to the Wardens.”<soft-line>
+		— Rain <error-spelling:en_US>Zai</error-spelling:en_US>, <error-spelling:en_US>Spiritscale</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Fantasy Flight Games
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UW05
+	time_created: 2018-04-14 04:26:49
+	time_modified: 2019-03-31 19:17:44
+	name: Young Hieromancer
+	casting_cost: 1W
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: Whenever you cast an instant or sorcery spell, tap target creature an opponent controls.
+	flavor_text: <i-flavor>“Think of it as flattery. I consider you worth leaving alive.”</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Sarajean Chung
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CW08
+	time_created: 2018-05-01 00:50:24
+	time_modified: 2018-09-16 15:03:27
+	name: Grove’s Respite
+	casting_cost: W
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		You gain 3 life.
+		Draw a card.
+	flavor_text: <i-flavor>Despite the horrors of the Gloaming, the endless war of the angels and the <error-spelling:en_US>leonin</error-spelling:en_US>, the bloodthirsty elves of the <error-spelling:en_US>Pyresong</error-spelling:en_US>, and the poisonous plants and biting insects of the forest, some still call the Highlands beautiful.</i-flavor>
+	illustrator: RYOxJ
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: RA01
+	time_created: 2018-05-11 14:44:13
+	time_modified: 2019-06-21 12:51:35
+	name: Mind-Mute
+	casting_cost: 2
+	image: image79
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Mind-Mute</nospellcheck></atom-cardname> enters, choose a card name.
+		Activated abilities of sources with the chosen name can’t be activated unless they’re mana abilities.
+		<sym-auto>5</sym-auto>: Return <atom-cardname><nospellcheck>Mind-Mute</nospellcheck></atom-cardname> to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mattias S Gonzales
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 10
+		chop_bottom: 10
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: UR04
+	time_created: 2018-05-11 14:44:13
+	time_modified: 2018-09-16 15:22:19
+	name: Lavamancer Adept
+	casting_cost: R
+	image: image135
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		<sym-auto>R</sym-auto>, Discard a land card: Put a +1/+1 counter on <atom-cardname><nospellcheck>Lavamancer Adept</nospellcheck></atom-cardname>. It gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>The earth splits at her approach, pouring forth the weapons of her art.</i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Kang NK
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: RW03
+	time_created: 2018-05-11 14:44:13
+	time_modified: 2019-06-30 22:06:58
+	card_color: white
+	name: Tranquil Moment
+	casting_cost: W
+	image: image143
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Choose one —<soft-line>
+		</soft-line>• Each player skips their next combat step.<soft-line>
+		</soft-line>• Each opponent can’t cast instant or sorcery spells this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Murayama Ryota
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 12
+		chop_bottom: 12
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: RW02
+	time_created: 2018-05-11 14:44:14
+	time_modified: 2019-06-21 12:27:10
+	name: Vitality of Blossoms
+	casting_cost: 1W
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Vitality of Blossoms</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> as long as your life total is greater than your starting life total.
+	flavor_text: <i-flavor>As gentle as rain. As righteous as lightning.</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Alina Movsesova
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: asdkjfsdnf
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 13
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: M04
+	time_created: 2018-05-11 14:44:14
+	time_modified: 2020-04-18 17:23:34
+	name: Selene the Cruel
+	casting_cost: 1U
+	image: image94
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Whenever you cast a spell, sacrifice a permanent and draw a card.
+		Exile three cards from your graveyard: Counter target noncreature spell unless its controller pays <sym-auto>1</sym-auto>.
+	flavor_text: <i-flavor>“I’ve never understood why I am called heartless. I actually have quite the collection.”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Matt Forsyth
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: RU02
+	time_created: 2018-05-11 14:44:14
+	time_modified: 2021-05-31 20:25:56
+	name: Aryam the Dreamer
+	casting_cost: U
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
+		At the beginning of your upkeep, put a card from your hand on top of your library. You may shuffle.
+		<sym-auto>1</sym-auto>: Look at the top three cards of your library, then put them back in any order.
+		<sym-auto>2U</sym-auto>: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Megatruh
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 3
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UM10
+	time_created: 2018-05-11 14:44:14
+	time_modified: 2019-03-22 12:26:30
+	name: Blinded Avenger
+	casting_cost: 1BR
+	image: image130
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<kw-A><i-auto><nospellcheck><key>Glorious end</key></nospellcheck></i-auto></kw-A> — When <atom-cardname><nospellcheck>Blinded Avenger</nospellcheck></atom-cardname> dies, if it was tapped, destroy target creature you don’t control.
+	flavor_text: <i-flavor>As her last act of sanity, the angel tore out her eyes. She could no longer bear the sight of the carnage she wreaked.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Y-Mir
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 10
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UR03
+	time_created: 2018-05-11 14:44:14
+	time_modified: 2019-06-30 23:51:26
+	name: Surestrike Elite
+	casting_cost: 1R
+	image: image121
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Archer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
+		Whenever you cast a noncreature spell, <atom-cardname><nospellcheck>Surestrike Elite</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>“I carve each arrow with a name, taken from prey like you. My quiver is almost full, but I think I can make room for one more.”</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Julie Ozaneaux
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: M08
+	time_created: 2018-05-11 14:44:15
+	time_modified: 2021-04-21 19:07:06
+	name: Smoke’s Whispers
+	casting_cost: 1B
+	image: image107
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: Search target opponent’s library for a card with mana value <nosym>3</nosym> or less and exile it with a smoke counter on it. Then that player shuffles. You may play that card for as long as it remains exiled, and you may spend mana as if it were any color to cast it.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nat Vichayed
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: M03
+	time_created: 2018-05-11 14:44:15
+	time_modified: 2019-06-30 22:24:28
+	name: Crimson Sunrise
+	casting_cost: 4RR
+	image: image92
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: <atom-cardname><nospellcheck>Crimson Sunrise</nospellcheck></atom-cardname> deals 4 damage to each creature. Each player sacrifices four nonbasic lands.
+	flavor_text:
+		<i-flavor>“I saw the sky bleed that day. As angels fell screaming from the heavens and the earth splintered like rotten wood at their impact, I gathered the few children I could and ran.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Aelani</error-spelling:en_US>, Mother of All</i-flavor>
+	illustrator: Alena Aenami
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UG04
+	time_created: 2018-05-11 15:17:45
+	time_modified: 2021-12-01 01:47:29
+	name: Unproven Champion
+	casting_cost: 1G
+	image: image102
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Defiance</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature takes damage, if it survives and wasn’t defiant, put a +1/+1 counter on it and it becomes defiant.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Nathalia Gomez
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 10
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UU03!alter
+	time_created: 2018-05-11 15:17:45
+	time_modified: 2019-10-24 20:05:48
+	name: Snowline Ascetic
+	casting_cost: 1U
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Snowline Ascetic</nospellcheck></atom-cardname> enters, you may put target instant or sorcery card from your graveyard on top of your library.
+	flavor_text: <i-flavor>“I have spent my life studying these magics. Don’t force me to turn my theory into practice.”</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Wilson Lin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: CavalierediSpade
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes:
+		UR01
+		
+		Reprint- Ixalan
+	time_created: 2018-05-12 16:38:46
+	time_modified: 2019-02-08 00:20:20
+	name: Reckless Rage
+	casting_cost: R
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Reckless Rage deals 4 damage to target creature you don’t control and 2 damage to target creature you control.
+	flavor_text: <i-flavor>No mercy, no recognition, no remorse. Only fire, and an all-consuming fury.</i-flavor>
+	illustrator: Anato Finnstark
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 10
+		chop_bottom: 10
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: UB05
+	time_created: 2018-05-12 16:38:46
+	time_modified: 2019-05-10 21:41:45
+	name: Twilight Blade
+	casting_cost: 1B
+	image: image146
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: Whenever a creature you control dies, <atom-cardname><nospellcheck>Twilight Blade</nospellcheck></atom-cardname> deals 1 damage to each opponent and you gain 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Alexandr Elichev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2018-05-15 10:56:02
+	time_modified: 2019-02-09 00:59:09
+	card_color: black
+	name: Demon
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	power: 2
+	toughness: 2
+	illustrator: Chervelle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: CU09
+	time_created: 2018-06-04 14:15:51
+	time_modified: 2018-09-16 15:07:06
+	name: Streamlash
+	casting_cost: 2U
+	image: image97
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		Creatures your opponents control get -3/-0 until end of turn.
+		Draw a card.
+	flavor_text: <i-flavor>Water magic doesn’t look scary until you remember that at such high altitudes, the temperature is close to freezing.</i-flavor>
+	illustrator: Ran He
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		shrink_name_text: 
+		shrink_typeline_text: 1
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2018-06-19 19:29:02
+	time_modified: 2018-11-06 20:12:23
+	card_color: white
+	name: Fawn of Hesediel
+	image: image109
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: <kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Christoph Von Sperling
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UM14
+	time_created: 2018-07-06 18:47:40
+	time_modified: 2019-03-22 12:29:15
+	name: Vindictive Regent
+	casting_cost: 1WB
+	image: image124
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		Whenever a creature you control dies, <atom-cardname><nospellcheck>Vindictive Regent</nospellcheck></atom-cardname> gets +1/+1 until end of turn.
+		At the beginning of your end step, if you gained 3 or more life this turn, each opponent sacrifices a creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Sandara
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: UM12
+	time_created: 2018-07-06 18:47:41
+	time_modified: 2018-09-16 15:52:37
+	name: Arcanist’s Spellsurge
+	casting_cost: UR
+	image: image120
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Until end of turn, creatures you control get +1/+1 and gain <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>. If there are two or more instant and/or sorcery cards in your graveyard, draw a card.
+	flavor_text: <i-flavor>Some mages who escape the <error-spelling:en_US>demons’</error-spelling:en_US> clutches flee to the <error-spelling:en_US>Craterfields</error-spelling:en_US>, using the <error-spelling:en_US>leonin’s</error-spelling:en_US> <error-spelling:en_US>pyromancy</error-spelling:en_US> to ensure their continued freedom.</i-flavor>
+	illustrator: Raquel Cornejo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 11
+		chop_bottom: 13
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: UM13
+	time_created: 2018-07-06 18:47:41
+	time_modified: 2018-10-19 21:26:52
+	name: Hallowed Executioner
+	casting_cost: 3RW
+	image: image122
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Berserker</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Hallowed Executioner</nospellcheck></atom-cardname> enters, it deals 2 damage to each creature without <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>Some minds, though shattered, retain some recollection of their original purpose.</i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: Kylin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UM15
+	time_created: 2018-07-06 18:47:41
+	time_modified: 2020-07-01 20:13:34
+	name: Wealth of the Underbrush
+	casting_cost: BG
+	image: image68
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>five</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then return up to one permanent card from your graveyard to your hand.
+	flavor_text:
+		<i-flavor>Autumn rot and spreading molds<soft-line>
+		will feed the next spring’s marigolds.</soft-line></i-flavor>
+	illustrator: Dani McCole
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: UM11
+	time_created: 2018-07-06 18:47:42
+	time_modified: 2018-09-16 15:52:11
+	name: Hexfang Ascetic
+	casting_cost: 1GU
+	image: image119
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Hexfang Ascetic</nospellcheck></atom-cardname> enters, return target spell to its owner’s hand.
+	flavor_text: <i-flavor>Some few souls resist the allure of the demonic cults, preferring asceticism to study their own unique magics.</i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Badilla Floyd
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UG02
+	time_created: 2018-07-06 19:38:22
+	time_modified: 2021-12-01 01:47:23
+	name: Frilled Hydra
+	casting_cost: XGG
+	image: image127
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Hydra</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		Frilled Hydra enters with X +1/+1 counters on it.
+		<kw-A><nospellcheck><key>Defiance</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature takes damage, if it survives and wasn’t defiant, put a +1/+1 counter on it and it becomes defiant.)</i-auto></atom-reminder-custom></kw-A>
+		<atom-cardname><nospellcheck>Frilled Hydra</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as it’s defiant.
+	flavor_text: <i-flavor></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Mobius 9
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes: RM03e
+	time_created: 2018-07-09 21:01:23
+	time_modified: 2019-09-30 14:21:39
+	card_color: white, green, multicolor, horizontal
+	name: Scion of Fecundity
+	casting_cost: 1GW
+	image: image78
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Scion of Fecundity</nospellcheck></atom-cardname> enters, search your library for a creature card with mana value <nosym>2</nosym> or less, reveal that card, put it into your hand, then shuffle.
+		<kw-A><nospellcheck><key>Revive—<param-cost><sym-auto>1GW</sym-auto>, Discard a card</param-cost>.</key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1GW</sym-auto>, Discard a card</param-cost>, Exile this card from your graveyard: Create a token that’s a copy of it except it has no mana cost. Revive only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Aaron Miller
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: UG05
+	time_created: 2018-07-16 17:28:04
+	time_modified: 2021-07-05 21:57:34
+	name: Verdant Cloak
+	casting_cost: G
+	image: image85
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature has “<sym-auto>T</sym-auto>: Add one mana of any color. Put a +1/+1 counter on this creature.”
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ashley Atkins
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	time_created: 2018-08-04 01:31:24
+	time_modified: 2018-10-19 20:53:59
+	card_color: white, green, hybrid, horizontal
+	name: Elk Spirit
+	image: image80
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	power: 1
+	toughness: 1
+	illustrator: Rumen Toshkov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		shrink_typeline_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2019-02-10 22:16:31
+	time_modified: 2019-06-30 23:51:57
+	card_color: white, green, multicolor, horizontal
+	name: Elk
+	image: image100
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	power: 6
+	toughness: 6
+	illustrator: snowowl24
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2019-04-27 21:43:41
+	time_modified: 2019-04-28 15:19:41
+	name: Invoking the Name
+	casting_cost: B
+	image: image48
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: Search your library for a Demon card or a black card with mana value <nosym>6 or greater, reveal it, put that card in your hand, then shuffle.</nosym>
+	flavor_text: <i-flavor>Even broken and dead, he stirs.</i-flavor>
+	illustrator: Andrey Lazarev
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		UW02!revivetoken
+		MSEM
+	time_created: 2018-03-13 22:16:39
+	time_modified: 2020-01-01 13:34:59
+	card_color: white
+	name: Ferocity of the Redeemed
+	casting_cost: 
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When <atom-cardname><nospellcheck>Ferocity of the Redeemed</nospellcheck></atom-cardname> enters, return up to two target creature cards with mana value <nosym>1</nosym> or less from your graveyard to the battlefield.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Katherine Swampmaid
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: UM06!revivetoken
+	time_created: 2018-03-13 22:16:43
+	time_modified: 2020-01-01 13:35:25
+	card_color: white, green, multicolor, horizontal
+	name: Remembrance of Light
+	casting_cost: 
+	image: image90
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: When Remembrance of Light enters, you may return target permanent card from your graveyard to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: CaymArtworks
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: CG03!revivetoken
+	time_created: 2018-03-13 22:16:46
+	time_modified: 2021-01-31 20:21:21
+	card_color: green
+	name: Exultation of Might
+	casting_cost: 
+	image: image110
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 7
+	toughness: 4
+	illustrator: Logan Feliciano
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: CG04!revivetoken
+	time_created: 2018-03-13 22:16:46
+	time_modified: 2020-01-01 13:35:19
+	card_color: green
+	name: Resolution of Stone
+	casting_cost: 
+	image: image137
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Resolution of Stone</nospellcheck></atom-cardname> enters, put a +1/+1 counter on target creature you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Aerozopher
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		CW04!revivetoken
+		MSEM
+	time_created: 2018-03-13 22:16:51
+	time_modified: 2024-08-24 04:19:07
+	card_color: white
+	name: Fidelity of the Pure
+	casting_cost: 
+	image: image139
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When <atom-cardname><nospellcheck>Fidelity of the Pure</nospellcheck></atom-cardname> dies, create a 1/1 green and white Elk Spirit creature token.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Crimson Chains
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		CW09!revivetoken
+		!script "s>a>y/a>l>Add four +1/+1 counters/l>f>/ccgreen=4/f>/s>","r"
+	time_created: 2018-03-13 22:16:51
+	time_modified: 2020-01-01 13:35:34
+	card_color: white
+	name: Strength of the Patient
+	casting_cost: 
+	image: image140
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: When <atom-cardname><nospellcheck>Strength of the Patient</nospellcheck></atom-cardname> enters, if it was revived, put four +1/+1 counters on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Tuomas Corpi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: RM03e!revivetoken
+	time_created: 2018-07-09 21:01:23
+	time_modified: 2020-01-01 13:34:39
+	card_color: white, green, multicolor, horizontal
+	name: Scion of Fecundity
+	casting_cost: 
+	image: image141
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Scion of Fecundity</nospellcheck></atom-cardname> enters, search your library for a creature card with mana value <nosym>2</nosym> or less, reveal that card, put it into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Aaron Miller
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+keyword:
+	keyword: Foresee
+	match: Foresee
+	reminder: 
+	rules: Forsee — As you draw CARDNAME, you may reveal it and pay [cost]. When you do, [effect]
+	mode: pseudo
+keyword:
+	keyword: Bloodprice
+	match: Bloodprice <atom-param>mana</atom-param>
+	reminder: You may cast this card by sacrificing a creature and paying its bloodprice.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Glorious end
+	match: Glorious end
+	reminder: 
+	rules: Glorious end — CARDNAME dies, if it was tapped, [effect].
+	mode: pseudo
+keyword:
+	keyword: Revive
+	match: Revive <atom-param>cost</atom-param>
+	reminder: {param1}, Exile this card from your graveyard: Create a token that's a copy of it except it has no mana cost. Revive only as a sorcery.
+	rules: 
+	mode: custom
+keyword:
+	keyword: Defiance
+	match: Defiance
+	reminder: Whenever this creature takes damage, if it survives and wasn’t defiant, put a +1/+1 counter on it and it becomes defiant.
+	rules: 
+	mode: custom
+version_control:
+	type: none
+apprentice_code: 
