@@ -1,0 +1,129 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: Ellipse
+	combine: merge
+	point:
+		position: (0.8333333333,0.1333333333)
+		lock: direction
+		line after: curve
+		handle before: (0.0187677566,-0.0187677566)
+		handle after: (-0.0333333333,0.0333333333)
+	point:
+		position: (0.7000000000,0.3000000000)
+		lock: direction
+		line after: curve
+		handle before: (-0.0459110002,0.0229555001)
+		handle after: (0.0135834348,-0.0067917174)
+	point:
+		position: (0.7333333333,0.3333333333)
+		lock: direction
+		line after: curve
+		handle before: (-0.0143784247,0.0144798639)
+		handle after: (0.0561900040,-0.0565864220)
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.7333333333,0.2666666667)
+		lock: direction
+		line after: curve
+		handle before: (0.0666666667,0.0666666667)
+		handle after: (-0.0666666667,-0.0666666667)
+	point:
+		position: (0.3333333333,0.2666666667)
+		lock: direction
+		line after: curve
+		handle before: (-0.0000000000,-0.1000000000)
+		handle after: (0.0000000000,0.1000000000)
+	point:
+		position: (0.7333333333,0.6666666667)
+		lock: size
+		line after: curve
+		handle before: (-0.1000000000,-0.0000000000)
+		handle after: (0.1000000000,0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: subtract
+	point:
+		position: (0.7333333333,0.4666666667)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.1104569554)
+		handle after: (0.0000000000,-0.1104569554)
+	point:
+		position: (0.5000000000,0.2666666667)
+		lock: size
+		line after: curve
+		handle before: (0.1196617017,0.0000000000)
+		handle after: (-0.1196617017,0.0000000000)
+	point:
+		position: (0.2666666667,0.3000000000)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.1104569554)
+		handle after: (0.0000000000,0.1104569554)
+	point:
+		position: (0.7000000000,0.7333333333)
+		lock: size
+		line after: curve
+		handle before: (-0.1196617017,0.0000000000)
+		handle after: (0.1196617017,0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: merge
+	point:
+		position: (0.2333333333,0.8166666667)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.0276142389)
+		handle after: (0.0000000000,0.0276142389)
+	point:
+		position: (0.1833333333,0.8666666667)
+		lock: size
+		line after: curve
+		handle before: (0.0276142389,0.0000000000)
+		handle after: (-0.0276142389,0.0000000000)
+	point:
+		position: (0.1333333333,0.8166666667)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.0276142389)
+		handle after: (0.0000000000,-0.0276142389)
+	point:
+		position: (0.1833333333,0.7666666667)
+		lock: size
+		line after: curve
+		handle before: (-0.0276142389,0.0000000000)
+		handle after: (0.0276142389,0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.6666666667,0.7333333333)
+		lock: size
+		line after: curve
+		handle before: (-0.0666666667,0.0333333333)
+		handle after: (0.0666666667,-0.0333333333)
+	point:
+		position: (0.5666666667,0.4333333333)
+		lock: size
+		line after: curve
+		handle before: (0.0666666667,0.0666666667)
+		handle after: (-0.0666666667,-0.0666666667)
+	point:
+		position: (0.2666666667,0.3333333333)
+		lock: size
+		line after: curve
+		handle before: (0.0333333333,-0.0666666667)
+		handle after: (-0.0333333333,0.0666666667)
+	point:
+		position: (0.1666666667,0.8333333333)
+		lock: size
+		line after: curve
+		handle before: (-0.1333333333,-0.1666666667)
+		handle after: (0.1333333333,0.1666666667)

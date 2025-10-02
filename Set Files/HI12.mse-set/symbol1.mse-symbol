@@ -1,0 +1,72 @@
+﻿mse version: 0.3.5
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5085859897,0.3126101361)
+	handle: (-0.2317286889,0.0008891708)
+	part:
+		type: shape
+		name: Ellipse
+		combine: overlap
+		point:
+			position: (0.7333335894,0.4280823052)
+			lock: direction
+			line after: curve
+			handle before: (0.0316899341,0.0211087203)
+			handle after: (-0.0309114112,-0.0205901448)
+		point:
+			position: (0.6140562220,0.4452137095)
+			lock: direction
+			line after: curve
+			handle before: (0.0116592137,0.0126538586)
+			handle after: (-0.0410241328,-0.0445238921)
+		point:
+			position: (0.5873606959,0.3381686137)
+			lock: direction
+			line after: curve
+			handle before: (0.1448640466,-0.0710819048)
+			handle after: (-0.0319791259,0.0156915207)
+		point:
+			position: (0.5057779160,0.4473707549)
+			lock: direction
+			line after: curve
+			handle before: (-0.0022818113,-0.0430898565)
+			handle after: (0.0024815723,0.0468621538)
+		point:
+			position: (0.5274034721,0.5260184245)
+			lock: direction
+			line after: curve
+			handle before: (-0.0290785554,-0.0240199920)
+			handle after: (0.0286008158,0.0236253609)
+		point:
+			position: (0.5704660285,0.5661655380)
+			lock: direction
+			line after: curve
+			handle before: (-0.0207428699,-0.0306547679)
+			handle after: (0.0257722813,0.0380874636)
+		point:
+			position: (0.5757846819,0.6561020318)
+			lock: direction
+			line after: curve
+			handle before: (-0.0312111578,-0.0068148823)
+			handle after: (0.0091386500,0.0019954026)
+		point:
+			position: (0.8536443999,0.6083453502)
+			lock: direction
+			line after: curve
+			handle before: (-0.0919051091,0.0488081240)
+			handle after: (0.0724911047,-0.0384979123)
+		point:
+			position: (0.8314147355,0.5774745316)
+			lock: direction
+			line after: curve
+			handle before: (0.0594518734,-0.0044617102)
+			handle after: (-0.0601711876,0.0045156929)
+		point:
+			position: (0.6455785441,0.5318564722)
+			lock: direction
+			line after: curve
+			handle before: (0.0372081168,0.0517380841)
+			handle after: (-0.0181276739,-0.0252066269)
