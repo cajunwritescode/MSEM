@@ -1,0 +1,2547 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	set_code: Land Bundle
+	symbol: symbol2.mse-symbol
+	masterpiece_symbol: 
+	auto_errata: yes
+	automatic_card_numbers: no
+styling:
+	magic-m15:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-altered:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-unstable-basics:
+		text box mana symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 39
+		chop_bottom: 39
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-05-17 14:34:30
+	time_modified: 2018-04-19 20:29:40
+	name: Tranquil Stream
+	image: image15
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Tranquil Stream</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ferdinand Ladera
+	custom_card_number: 001
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-05-17 14:34:30
+	time_modified: 2018-04-19 20:29:45
+	name: Sodden Cavern
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Sodden Cavern</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ferdinand Ladera
+	custom_card_number: 002
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-05-17 14:34:30
+	time_modified: 2018-04-19 20:29:46
+	name: Fiery Chasm
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Fiery Chasm</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ferdinand Ladera
+	custom_card_number: 003
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-05-17 14:34:30
+	time_modified: 2018-04-19 20:29:46
+	name: Highland Vale
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Highland Vale</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ferdinand Ladera
+	custom_card_number: 004
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-05-17 14:34:30
+	time_modified: 2018-04-19 20:29:47
+	name: Alpine Meadow
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Alpine Meadow</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sebastian Wagner
+	custom_card_number: 005
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 39
+		chop_bottom: 39
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-05-17 14:34:30
+	time_modified: 2018-04-19 20:29:48
+	name: Desolate Barrens
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Desolate Barrens</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sebastian Wagner
+	custom_card_number: 006
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 39
+		chop_bottom: 39
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-05-17 14:34:30
+	time_modified: 2018-04-19 20:29:48
+	name: Roaring Cascade
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Roaring Cascade</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Unidcolor
+	custom_card_number: 007
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-05-17 14:34:30
+	time_modified: 2018-04-19 20:29:49
+	name: Somber Marsh
+	image: image25
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Somber Marsh</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sebastian Wagner
+	custom_card_number: 008
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-05-17 14:34:30
+	time_modified: 2018-04-19 20:29:50
+	name: Jagged Crag
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Jagged Crag</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ferdinand Ladera
+	custom_card_number: 009
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 39
+		chop_bottom: 39
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-05-17 14:34:30
+	time_modified: 2018-04-19 20:29:50
+	name: Rainforest Spring
+	image: image27
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Rainforest Spring</nospellcheck></atom-cardname> enters tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sebastian Wagner
+	custom_card_number: 010
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-09-01 15:17:13
+	time_modified: 2018-01-29 03:23:25
+	name: Wastes
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	watermark: mana symbol colorless
+	illustrator: Ehecod
+	custom_card_number: 011
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 20
+		chop_bottom: 20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-09-27 19:34:33
+	time_modified: 2018-04-19 20:29:53
+	card_color: land, multicolor
+	name: Command Tower
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: land
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: common
+	rule_text: <sym-auto>T</sym-auto>: Add one mana of any color in your commander’s color identity.
+	flavor_text: <i-flavor>When defeat is near and guidance is scarce, all eyes look in one direction.</i-flavor>
+	illustrator: Adam Paquette
+	custom_card_number: 012
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-01-28 19:11:26
+	time_modified: 2018-05-30 21:58:10
+	card_color: white, blue, land, horizontal
+	name: Ocean Monastery
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: land
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Ocean Monastery</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Ocean Monastery</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Ocean Monastery</nospellcheck></atom-cardname>: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Flavio Bolla
+	custom_card_number: 016
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-01-28 19:11:26
+	time_modified: 2018-05-30 21:58:13
+	card_color: black, red, land, horizontal
+	name: Shardstone Rift
+	image: image31
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: land
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Shardstone Rift</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Shardstone Rift</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shardstone Rift</nospellcheck></atom-cardname>: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Flavio Bolla
+	custom_card_number: 017
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-01-28 19:11:26
+	time_modified: 2018-05-30 21:58:18
+	card_color: red, green, land, horizontal
+	name: Timber Range
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: land
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Timber Range</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Timber Range</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Timber Range</nospellcheck></atom-cardname>: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Flavio Bolla
+	custom_card_number: 018
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-01-28 19:11:26
+	time_modified: 2018-05-30 21:58:22
+	card_color: white, black, land, horizontal
+	name: Barren Desolation
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: land
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Barren Desolation</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Barren Desolation</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Barren Desolation</nospellcheck></atom-cardname>: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Flavio Bolla
+	custom_card_number: 019
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-01-28 19:11:26
+	time_modified: 2018-05-30 21:58:28
+	card_color: blue, green, land, horizontal
+	name: Mysterious Cataract
+	image: image34
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: land
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Mysterious Cataract</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Mysterious Cataract</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Mysterious Cataract</nospellcheck></atom-cardname>: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Flavio Bolla
+	custom_card_number: 020
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-06-15 12:27:30
+	time_modified: 2018-04-19 20:29:54
+	name: Abandoned Skyroad
+	casting_cost: 
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Abandoned Skyroad</nospellcheck></atom-cardname> enters tapped if you control another nonbasic land.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text:
+		<i-flavor>“Take it from me. The places where that road leads were never worth pursuing.”<soft-line>
+		— <error-spelling:en_US>Negaris</error-spelling:en_US>, Racecourse veteran</soft-line></i-flavor>
+	illustrator: Wanbao
+	custom_card_number: 021
+	card_code_text: fluffyDeathbringer
+	card_code_text_2: fluffyDeathbringer
+	card_code_text_3: fluffyDeathbringer
+	copyright: ™ & © 2017 Wizards of the Coast
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: ™ & © 2017 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2017-06-15 12:27:30
+	time_modified: 2018-04-19 20:29:55
+	name: Abandoned Battlefield
+	casting_cost: 
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Abandoned Battlefield</nospellcheck></atom-cardname> enters tapped if you control another nonbasic land.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor>Time devours all memory of sides and motivations, leaving only rotting corpses, and then nothing at all.</i-flavor>
+	illustrator: Wildweasel339
+	custom_card_number: 022
+	card_code_text: fluffyDeathbringer
+	card_code_text_2: fluffyDeathbringer
+	card_code_text_3: fluffyDeathbringer
+	copyright: ™ & © 2017 Wizards of the Coast
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: ™ & © 2017 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-06-15 12:27:30
+	time_modified: 2018-04-19 20:29:56
+	name: Abandoned Cairn
+	casting_cost: 
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Abandoned Cairn</nospellcheck></atom-cardname> enters tapped if you control another nonbasic land.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor>There is never enough time to mourn in a world of beasts.</i-flavor>
+	illustrator: inSOLence
+	custom_card_number: 023
+	card_code_text: fluffyDeathbringer
+	card_code_text_2: fluffyDeathbringer
+	card_code_text_3: fluffyDeathbringer
+	copyright: ™ & © 2017 Wizards of the Coast
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: ™ & © 2017 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2017-06-15 12:27:30
+	time_modified: 2018-04-19 20:29:57
+	name: Abandoned Meadow
+	casting_cost: 
+	image: image4
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Abandoned Meadow</nospellcheck></atom-cardname> enters tapped if you control another nonbasic land.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor>A dream is a dangerous thing in <error-spelling:en_US>Osia</error-spelling:en_US>, and drowsy places are treated with due diligence.</i-flavor>
+	illustrator: vantasyartz
+	custom_card_number: 024
+	card_code_text: fluffyDeathbringer
+	card_code_text_2: fluffyDeathbringer
+	card_code_text_3: fluffyDeathbringer
+	copyright: ™ & © 2017 Wizards of the Coast
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: ™ & © 2017 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-06-15 12:27:30
+	time_modified: 2022-03-31 18:54:56
+	name: Abandoned Wilderness
+	casting_cost: 
+	image: image5
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Abandoned Wilderness</nospellcheck></atom-cardname> enters tapped if you control another nonbasic land.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
+	flavor_text:
+		<i-flavor>“May every harsh place be made empty and every soul be rescued into a better life.”<soft-line>
+		— <error-spelling:en_US>Argentum</error-spelling:en_US>, elder of the Resting Place</soft-line></i-flavor>
+	illustrator: mozyy-ryzel
+	custom_card_number: 025
+	card_code_text: fluffyDeathbringer
+	card_code_text_2: fluffyDeathbringer
+	card_code_text_3: fluffyDeathbringer
+	copyright: ™ & © 2017 Wizards of the Coast
+	copyright_2: ™ & © 2017 Wizards of the Coast
+	copyright_3: ™ & © 2017 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: !export
+	time_created: 2018-02-19 00:19:50
+	time_modified: 2018-06-27 03:19:41
+	name: Ornate Interior
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto> to your mana pool.)</i-auto>
+		<atom-cardname><nospellcheck>Ornate Interior</nospellcheck></atom-cardname> enters tapped.
+		<kw-A><nospellcheck><key>Cycling <param-cost><sym-auto>W/B</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>W/B</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Rheann on dA
+	custom_card_number: 026
+	card_code_text: HonchkrowDavid
+	card_code_text_2: HonchkrowDavid
+	card_code_text_3: HonchkrowDavid
+	copyright: ™ & © 2018 Wizards of the Coast
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: !export
+	time_created: 2018-02-19 00:19:50
+	time_modified: 2018-06-27 03:19:26
+	name: Torchlit Shipyard
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto> to your mana pool.)</i-auto>
+		<atom-cardname><nospellcheck>Torchlit Shipyard</nospellcheck></atom-cardname> enters tapped.
+		<kw-A><nospellcheck><key>Cycling <param-cost><sym-auto>U/R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>U/R</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Darek Zabrocki
+	custom_card_number: 027
+	card_code_text: HonchkrowDavid
+	card_code_text_2: HonchkrowDavid
+	card_code_text_3: HonchkrowDavid
+	copyright: ™ & © 2018 Wizards of the Coast
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: !export
+	time_created: 2018-02-19 00:19:50
+	time_modified: 2018-06-27 03:19:31
+	name: Empty Courtyard
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto> to your mana pool.)</i-auto>
+		<atom-cardname><nospellcheck>Empty Courtyard</nospellcheck></atom-cardname> enters tapped.
+		<kw-A><nospellcheck><key>Cycling <param-cost><sym-auto>B/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>B/G</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	illustrator: Marco Bucci
+	custom_card_number: 028
+	card_code_text: HonchkrowDavid
+	card_code_text_2: HonchkrowDavid
+	card_code_text_3: HonchkrowDavid
+	copyright: ™ & © 2018 Wizards of the Coast
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: !export
+	time_created: 2018-02-19 00:19:50
+	time_modified: 2018-06-27 03:19:17
+	name: Courtroom Halls
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto> to your mana pool.)</i-auto>
+		<atom-cardname><nospellcheck>Courtroom Halls</nospellcheck></atom-cardname> enters tapped.
+		<kw-A><nospellcheck><key>Cycling <param-cost><sym-auto>R/W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>R/W</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chris Ostrowski
+	custom_card_number: 029
+	card_code_text: HonchkrowDavid
+	card_code_text_2: HonchkrowDavid
+	card_code_text_3: HonchkrowDavid
+	copyright: ™ & © 2018 Wizards of the Coast
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: !export
+	time_created: 2018-02-19 00:19:50
+	time_modified: 2018-06-27 03:19:36
+	name: Waterway Dam
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto> to your mana pool.)</i-auto>
+		<atom-cardname><nospellcheck>Waterway Dam</nospellcheck></atom-cardname> enters tapped.
+		<kw-A><nospellcheck><key>Cycling <param-cost><sym-auto>G/U</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>G/U</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Thomas Stoop
+	custom_card_number: 030
+	card_code_text: HonchkrowDavid
+	card_code_text_2: HonchkrowDavid
+	card_code_text_3: HonchkrowDavid
+	copyright: ™ & © 2018 Wizards of the Coast
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-02-24 17:13:59
+	time_modified: 2020-10-25 14:53:42
+	name: Legacy Foundations
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Legacy Foundations</nospellcheck></atom-cardname> enters, you may reveal a Plains or Swamp card from your hand. If you don’t, <atom-cardname><nospellcheck>Legacy Foundations</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: C Cornet
+	custom_card_number: 031
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-02-24 17:13:59
+	time_modified: 2020-10-25 23:12:40
+	name: Horizon of Origins
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Horizon of Origins</nospellcheck></atom-cardname> enters, you may reveal an Island or Mountain card from your hand. If you don’t, <atom-cardname><nospellcheck>Horizon of Origins</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Andreas Rocha
+	custom_card_number: 032
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 14
+		chop_bottom: 14
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2018-02-24 17:13:59
+	time_modified: 2020-10-25 23:04:36
+	name: Deserted Trail
+	image: image55
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Deserted Trail</nospellcheck></atom-cardname> enters, you may reveal a Swamp or Forest card from your hand. If you don’t, <atom-cardname><nospellcheck>Deserted Trail</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sickbrush
+	custom_card_number: 033
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-02-24 17:13:59
+	time_modified: 2020-10-25 14:54:04
+	name: Imperial Barracks
+	image: image14
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Imperial Barracks</nospellcheck></atom-cardname> enters, you may reveal a Mountain or Plains card from your hand. If you don’t, <atom-cardname><nospellcheck>Imperial Barracks</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Byzwa
+	custom_card_number: 034
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-02-24 17:13:59
+	time_modified: 2020-10-25 14:54:16
+	name: Flourishing Waterways
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Flourishing Waterways</nospellcheck></atom-cardname> enters, you may reveal a Forest or Island card from your hand. If you don’t, <atom-cardname><nospellcheck>Flourishing Waterways</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nurkulahur
+	custom_card_number: 035
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 15
+		chop_bottom: 15
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2016-03-30 14:55:46
+	time_modified: 2018-04-19 20:26:55
+	name: Sigil of Creation
+	casting_cost: 3
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Sigil of Creation</nospellcheck></atom-cardname>: Add <sym-auto>GU</sym-auto>.
+	flavor_text:
+		<i-flavor>“My summons will ensure this plane remains safe and hidden.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Allagras</error-spelling:en_US>, Tidal Master</i-flavor>
+	illustrator: yangtianli
+	custom_card_number: 013
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 20
+		chop_bottom: 20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2016-03-30 14:55:46
+	time_modified: 2018-04-19 20:26:49
+	name: Sigil of Martyrdom
+	casting_cost: 3
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Sigil of Martyrdom</nospellcheck></atom-cardname>: Add <sym-auto>WB</sym-auto>.
+	flavor_text:
+		<i-flavor>“My suffering grows by the second, I don’t know if I’ll be able to resist much longer.”<soft-line>
+		</soft-line>—<error-spelling:en_US>Leem</error-spelling:en_US>, <error-spelling:en_US>Danuri</error-spelling:en_US> Leader</i-flavor>
+	illustrator: stonewurks
+	custom_card_number: 014
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: 
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: never
+		overlay: 
+	notes: 
+	time_created: 2016-01-16 23:05:34
+	time_modified: 2018-08-30 21:16:16
+	name: Academy Wastes
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tryingtofly
+	custom_card_number: 037
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: 
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: never
+		overlay: 
+	notes: 
+	time_created: 2018-08-06 21:57:48
+	time_modified: 2018-08-30 21:16:19
+	name: Grove of Reversal
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: PAvellKiD
+	custom_card_number: 038
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: 
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: never
+		overlay: 
+	notes: 
+	time_created: 2018-08-06 21:58:11
+	time_modified: 2018-08-30 21:16:24
+	name: Quintok Station
+	image: image37
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Iancjw
+	custom_card_number: 040
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: 
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: never
+		overlay: 
+	notes: 
+	time_created: 2014-07-08 22:46:57
+	time_modified: 2018-08-30 21:16:11
+	name: Spires of Telenia
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: ChrisCold
+	custom_card_number: 036
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		frames: 
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		center_text: never
+		overlay: 
+	notes: 
+	time_created: 2018-08-06 21:45:15
+	time_modified: 2018-08-30 21:16:21
+	name: Tirenan Market
+	image: image39
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: jbrown67
+	custom_card_number: 039
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2018-07-31 19:31:36
+	time_modified: 2019-01-15 13:01:17
+	name: Cleared Vault
+	image: image40
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Cleared Vault</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sofía Sanz
+	custom_card_number: 041
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: ™ & © 2018 Wizards of the Coast
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2018-07-31 19:31:36
+	time_modified: 2019-01-15 13:01:39
+	name: Forgotten Shrine
+	image: image41
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Forgotten Shrine</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Geoffrey Ernault
+	custom_card_number: 044
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: ™ & © 2018 Wizards of the Coast
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2018-07-31 19:31:36
+	time_modified: 2019-01-15 13:01:31
+	name: Grim Slums
+	image: image42
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Grim Slums</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: George Johnstone
+	custom_card_number: 043
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: ™ & © 2018 Wizards of the Coast
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2018-07-31 19:31:36
+	time_modified: 2019-01-15 13:01:46
+	name: Overgrown Refuge
+	image: image43
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Overgrown Refuge</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Grady Frederick
+	custom_card_number: 045
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: ™ & © 2018 Wizards of the Coast
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2018-07-31 19:31:36
+	time_modified: 2019-01-15 13:01:25
+	name: Unlit Alley
+	image: image44
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>, Pay 1 life: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Unlit Alley</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kev Chu
+	custom_card_number: 042
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: ™ & © 2018 Wizards of the Coast
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2018-07-07 21:11:52
+	time_modified: 2019-07-31 17:14:15
+	name: Clue
+	image: image45
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Clue</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rule_text: <sym-auto>2</sym-auto>, Sacrifice this artifact: Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tiana Maros
+	custom_card_number: 001
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2018 Wizards of the Coast
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+card:
+	has_styling: false
+	notes: 
+	time_created: 2020-06-20 19:21:40
+	time_modified: 2025-07-30 20:55:57
+	name: Shrouded Rooftops
+	image: image46
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Shrouded Rooftops</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.
+		<sym-auto>1WB</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Shrouded Rooftops</nospellcheck></atom-cardname> becomes a 3/3 white and black Illusion creature with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and “Whenever this creature attacks or blocks, torment yourself.” It’s still a land. <i-auto>(To torment yourself, lose 3 life unless you discard a card or sacrifice a nonland permanent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anato Finnstark
+	custom_card_number: 046
+	card_code_text: Wrenn
+	card_code_text_2: Wrenn
+	card_code_text_3: Wrenn
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2020-06-20 19:21:12
+	time_modified: 2025-07-30 20:56:45
+	name: Weathered Fortress
+	image: image47
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land </word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Weathered Fortress</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.
+		<sym-auto>UR</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Weathered Fortress</nospellcheck></atom-cardname> becomes a 1/4 blue and red Golem creature with “Whenever this creature attacks, switch its power and toughness until end of turn” and “Whenever this creature attacks or blocks, torment yourself.” It’s still a land. <i-auto>(To torment yourself, lose 3 life unless you discard a card or sacrifice a nonland permanent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anato Finnstark
+	custom_card_number: 047
+	card_code_text: Wrenn
+	card_code_text_2: Wrenn
+	card_code_text_3: Wrenn
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2020-06-21 08:19:11
+	time_modified: 2025-07-30 20:56:10
+	name: Deadwood Grove
+	image: image48
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Deadwood Grove</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.
+		<sym-auto>1BG</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Deadwood Grove</nospellcheck></atom-cardname> becomes a 2/3 black and green Horror creature with <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> and “Whenever this creature attacks or blocks, torment yourself.” It’s still a land. <i-auto>(To torment yourself, lose 3 life unless you discard a card or sacrifice a nonland permanent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anato Finnstark
+	custom_card_number: 048
+	card_code_text: Wrenn
+	card_code_text_2: Wrenn
+	card_code_text_3: Wrenn
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2020-06-20 19:12:51
+	time_modified: 2025-07-30 20:56:15
+	name: Dawnlit Battlefield
+	image: image49
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Dawnlit Battlefield</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.
+		<sym-auto>2RW</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Dawnlit Battlefield</nospellcheck></atom-cardname> becomes a 4/2 red and white Warrior creature with “This creature has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> as long as it’s attacking” and “Whenever this creature attacks or blocks, torment yourself.” It’s still a land. <i-auto>(To torment yourself, lose 3 life unless you discard a card or sacrifice a nonland permanent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anato Finnstark
+	custom_card_number: 049
+	card_code_text: Wrenn
+	card_code_text_2: Wrenn
+	card_code_text_3: Wrenn
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2020-06-20 19:19:28
+	time_modified: 2025-07-30 20:56:21
+	name: Lush Outskirts
+	image: image50
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Lush Outskirts</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.
+		<sym-auto>3GU</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Lush Outskirts</nospellcheck></atom-cardname> becomes a 5/7 green and blue Plant creature with <kw-0><nospellcheck><key>ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0> and “Whenever this creature attacks or blocks, torment yourself.” It’s still a land. <i-auto>(To torment yourself, lose 3 life unless you discard a card or sacrifice a nonland permanent.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anato Finnstark
+	custom_card_number: 050
+	card_code_text: Wrenn
+	card_code_text_2: Wrenn
+	card_code_text_3: Wrenn
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2016-03-30 14:55:46
+	time_modified: 2020-07-23 16:25:43
+	name: Arcane Signet
+	casting_cost: 2
+	image: image52
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rule_text: <sym-auto>T</sym-auto>: Add one mana of any color in your commander’s color identity.
+	flavor_text: <i-flavor>It started as a mere drop of water. The Magic Mirror crystallized it into much more.</i-flavor>
+	illustrator: Dan Scott
+	custom_card_number: 015
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-08-28 22:21:05
+	time_modified: 2021-04-28 15:35:43
+	name: Gleaming Hot Springs
+	image: image54
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Gleaming Hot Springs</nospellcheck></atom-cardname> enters tapped unless you control a Mountain.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Santella
+	custom_card_number: 051
+	card_code_text: Dravos & Mako
+	card_code_text_2: Dravos & Mako
+	card_code_text_3: Dravos & Mako
+	copyright: Dravos Argentium 2020
+	copyright_2: Dravos Argentium 2020
+	copyright_3: Dravos Argentium 2020
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-08-28 22:21:06
+	time_modified: 2021-04-28 15:35:46
+	name: Deeplife Cavern
+	image: image57
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Deeplife Cavern</nospellcheck></atom-cardname> enters tapped unless you control a Forest.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jorge Jacinto
+	custom_card_number: 052
+	card_code_text: Dravos & Mako
+	card_code_text_2: Dravos & Mako
+	card_code_text_3: Dravos & Mako
+	copyright: Dravos Argentium 2020
+	copyright_2: Dravos Argentium 2020
+	copyright_3: Dravos Argentium 2020
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-08-28 22:21:06
+	time_modified: 2021-04-28 15:35:11
+	name: Calmed Battleground
+	image: image58
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Calmed Battleground</nospellcheck></atom-cardname> enters tapped unless you control a Plains.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Olga Orlova
+	custom_card_number: 053
+	card_code_text: Dravos & Mako
+	card_code_text_2: Dravos & Mako
+	card_code_text_3: Dravos & Mako
+	copyright: Dravos Argentium 2020
+	copyright_2: Dravos Argentium 2020
+	copyright_3: Dravos Argentium 2020
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-08-28 22:21:07
+	time_modified: 2021-04-28 15:35:48
+	name: Frigid Highlands
+	image: image59
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Frigid Highlands</nospellcheck></atom-cardname> enters tapped unless you control an Island.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anato Finnstark
+	custom_card_number: 054
+	card_code_text: Dravos & Mako
+	card_code_text_2: Dravos & Mako
+	card_code_text_3: Dravos & Mako
+	copyright: Dravos Argentium 2020
+	copyright_2: Dravos Argentium 2020
+	copyright_3: Dravos Argentium 2020
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 
+		frames: 
+		other_options: auto nyx crowns
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-08-28 22:21:08
+	time_modified: 2021-04-28 15:35:52
+	name: Sunlit Ruins
+	image: image60
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Sunlit Ruins</nospellcheck></atom-cardname> enters tapped unless you control a Swamp.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Cosmin Hrincu
+	custom_card_number: 055
+	card_code_text: Dravos & Mako
+	card_code_text_2: Dravos & Mako
+	card_code_text_3: Dravos & Mako
+	copyright: Dravos Argentium 2020
+	copyright_2: Dravos Argentium 2020
+	copyright_3: Dravos Argentium 2020
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-03-26 21:16:54
+	time_modified: 2021-04-28 21:49:48
+	name: Chiseled Cliffside
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Chiseled Cliffside</nospellcheck></atom-cardname> enters tapped unless you have two or more opponents.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Quentin Mabille
+	custom_card_number: 064
+	card_code_text: Dodger
+	card_code_text_2: Dodger
+	card_code_text_3: Dodger
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-03-26 21:16:54
+	time_modified: 2021-04-28 21:49:44
+	name: Exotic Xenoreef
+	image: image51
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Exotic Xenoreef</nospellcheck></atom-cardname> enters tapped unless you have two or more opponents.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nakarin Sukantocorn
+	custom_card_number: 065
+	card_code_text: Dodger
+	card_code_text_2: Dodger
+	card_code_text_3: Dodger
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-03-26 21:16:54
+	time_modified: 2021-04-28 21:48:58
+	name: Forgotten Cryovault
+	image: image53
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Forgotten Cryovault</nospellcheck></atom-cardname> enters tapped unless you have two or more opponents.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ilya Nazarov
+	custom_card_number: 057
+	card_code_text: Dodger
+	card_code_text_2: Dodger
+	card_code_text_3: Dodger
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-03-26 21:16:54
+	time_modified: 2024-07-31 21:58:42
+	name: Ornamented Evergreen
+	image: image56
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Ornamented Evergreen</nospellcheck></atom-cardname> enters tapped unless you have two or more opponents.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Lei Xia
+	custom_card_number: 060
+	card_code_text: Dodger
+	card_code_text_2: Dodger
+	card_code_text_3: Dodger
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-03-26 21:16:54
+	time_modified: 2021-04-28 21:49:39
+	name: Haunted Woodlock
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Haunted Woodlock</nospellcheck></atom-cardname> enters tapped unless you have two or more opponents.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Fedor Barkhatov
+	custom_card_number: 063
+	card_code_text: Dodger
+	card_code_text_2: Dodger
+	card_code_text_3: Dodger
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-03-26 21:16:54
+	time_modified: 2021-04-28 21:49:11
+	name: Haughty Chateau
+	image: image62
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Haughty Chateau</nospellcheck></atom-cardname> enters tapped unless you have two or more opponents.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alexandre Coatou
+	custom_card_number: 061
+	card_code_text: Dodger
+	card_code_text_2: Dodger
+	card_code_text_3: Dodger
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-03-26 21:16:54
+	time_modified: 2021-04-28 21:49:18
+	name: Wildrune Thicket
+	image: image63
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Wildrune Thicket</nospellcheck></atom-cardname> enters tapped unless you have two or more opponents.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alexandr Elichev
+	custom_card_number: 059
+	card_code_text: Dodger
+	card_code_text_2: Dodger
+	card_code_text_3: Dodger
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-03-26 21:16:54
+	time_modified: 2021-04-28 21:48:50
+	name: Sky-High Spires
+	image: image64
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Sky-High Spires</nospellcheck></atom-cardname> enters tapped unless you have two or more opponents.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Feig Felipe Perez
+	custom_card_number: 056
+	card_code_text: Dodger
+	card_code_text_2: Dodger
+	card_code_text_3: Dodger
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-03-26 21:16:54
+	time_modified: 2021-04-28 21:49:23
+	name: Stormcharged Pyre
+	image: image65
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Stormcharged Pyre</nospellcheck></atom-cardname> enters tapped unless you have two or more opponents.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ronald Steele
+	custom_card_number: 062
+	card_code_text: Dodger
+	card_code_text_2: Dodger
+	card_code_text_3: Dodger
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2021-03-26 21:16:54
+	time_modified: 2021-04-28 21:49:31
+	name: Charbroiled Core
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Charbroiled Core</nospellcheck></atom-cardname> enters tapped unless you have two or more opponents.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Yangjun Tang
+	custom_card_number: 058
+	card_code_text: Dodger
+	card_code_text_2: Dodger
+	card_code_text_3: Dodger
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2019-06-28 05:27:47
+	time_modified: 2021-06-23 01:03:59
+	name: Cliffside Entrance
+	casting_cost: 
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Cliffside Entrance</nospellcheck></atom-cardname> enters tapped unless you have 15 or less life.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.
+	flavor_text: <i-flavor><error-spelling:en_US>Stonevault</error-spelling:en_US>, home to the steadfast <error-spelling:en_US>dwarves</error-spelling:en_US> and prison for evils too deadly to see the light of day.</i-flavor>
+	illustrator: Tim Kaminski
+	custom_card_number: 069
+	card_code_text: Parasign
+	card_code_text_2: Parasign
+	card_code_text_3: Parasign
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2019-06-28 05:27:47
+	time_modified: 2021-06-23 01:03:55
+	name: Frontier Base
+	casting_cost: 
+	image: image68
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Frontier Base</nospellcheck></atom-cardname> enters tapped unless you have 15 or less life.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor><error-spelling:en_US>Cetani</error-spelling:en_US> Minor, home to all peoples and headquarters of the <error-spelling:en_US>Adventurers’</error-spelling:en_US> Guild.</i-flavor>
+	illustrator: David Frasheski
+	custom_card_number: 070
+	card_code_text: Parasign
+	card_code_text_2: Parasign
+	card_code_text_3: Parasign
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2019-06-28 05:27:47
+	time_modified: 2021-06-23 01:04:09
+	name: Ominous Lair
+	casting_cost: 
+	image: image69
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Ominous Lair</nospellcheck></atom-cardname> enters tapped unless you have 15 or less life.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor><error-spelling:en_US>Yldar</error-spelling:en_US>, home to the devious <error-spelling:en_US>azra</error-spelling:en_US> and seat of <error-spelling:en_US>Zarad’s</error-spelling:en_US> growing empire.</i-flavor>
+	illustrator: Juliano Yi
+	custom_card_number: 066
+	card_code_text: Parasign
+	card_code_text_2: Parasign
+	card_code_text_3: Parasign
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2019-06-28 05:27:47
+	time_modified: 2021-06-23 01:04:05
+	name: Strange Harbor
+	casting_cost: 
+	image: image70
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Strange Harbor</nospellcheck></atom-cardname> enters tapped unless you have 15 or less life.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor><error-spelling:en_US>Zulixi</error-spelling:en_US>, once home to the ingenious gnomes and now ground zero for the <error-spelling:en_US>SOURCE’s</error-spelling:en_US> corruption.</i-flavor>
+	illustrator: Dasom Hyun
+	custom_card_number: 067
+	card_code_text: Parasign
+	card_code_text_2: Parasign
+	card_code_text_3: Parasign
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 7
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2019-06-28 05:27:47
+	time_modified: 2021-06-23 01:04:02
+	name: Toxic Jungle
+	casting_cost: 
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Toxic Jungle</nospellcheck></atom-cardname> enters tapped unless you have 15 or less life.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor><error-spelling:en_US>Thornweald</error-spelling:en_US>, home to the cunning elves and last refuge of the Cult of <error-spelling:en_US>Jormir</error-spelling:en_US>.</i-flavor>
+	illustrator: Michel Donze
+	custom_card_number: 068
+	card_code_text: Parasign
+	card_code_text_2: Parasign
+	card_code_text_3: Parasign
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 6
+		chop_bottom: 2
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2021-04-05 20:50:00
+	time_modified: 2021-06-23 01:03:52
+	name: Deserted Steppe
+	image: image72
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.)</i>
+		<atom-cardname><nospellcheck>Deserted Steppe</nospellcheck></atom-cardname> enters tapped unless you control two or more basic lands.
+	flavor_text:
+		<i-flavor>“You see the ruins of a once-glorious city. I see the aftermath of salvation.”<soft-line>
+		—His Holiness <error-spelling:en_US>Jorah</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: dodgeboxdigital
+	custom_card_number: 071
+	card_code_text: CanterburyEgg
+	card_code_text_2: CanterburyEgg
+	card_code_text_3: CanterburyEgg
+	copyright: ™ & © 2020 CanterburyEgg
+	copyright_2: ™ & © 2020 CanterburyEgg
+	copyright_3: ™ & © 2020 CanterburyEgg
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 6
+		chop_bottom: 2
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2021-04-05 20:50:00
+	time_modified: 2021-06-23 01:03:45
+	name: Gnarled Henge
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.)</i>
+		<atom-cardname><nospellcheck>Gnarled Henge</nospellcheck></atom-cardname> enters tapped unless you control two or more basic lands.
+	flavor_text:
+		<i-flavor>“These will serve as a fine reminder for our people to stay within our walls.”<soft-line>
+		—His Holiness <error-spelling:en_US>Jorah</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Anthony Avon
+	custom_card_number: 074
+	card_code_text: CanterburyEgg
+	card_code_text_2: CanterburyEgg
+	card_code_text_3: CanterburyEgg
+	copyright: ™ & © 2020 CanterburyEgg
+	copyright_2: ™ & © 2020 CanterburyEgg
+	copyright_3: ™ & © 2020 CanterburyEgg
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 6
+		chop_bottom: 2
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2021-04-05 20:50:00
+	time_modified: 2021-06-23 01:03:47
+	name: Mossy Shrine
+	image: image74
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.)</i>
+		<atom-cardname><nospellcheck>Mossy Shrine</nospellcheck></atom-cardname> enters tapped unless you control two or more basic lands.
+	flavor_text:
+		<i-flavor>“The War-Clans once worshiped many gods, before they learned <error-spelling:en_US>Ghariv’s</error-spelling:en_US> truth.”<soft-line>
+		—His Holiness <error-spelling:en_US>Jorah</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Gaetano Caltabiano
+	custom_card_number: 073
+	card_code_text: CanterburyEgg
+	card_code_text_2: CanterburyEgg
+	card_code_text_3: CanterburyEgg
+	copyright: ™ & © 2020 CanterburyEgg
+	copyright_2: ™ & © 2020 CanterburyEgg
+	copyright_3: ™ & © 2020 CanterburyEgg
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 6
+		chop_bottom: 6
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2021-04-05 20:50:00
+	time_modified: 2021-06-23 01:03:40
+	name: Secluded Cascade
+	image: image75
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.)</i>
+		<atom-cardname><nospellcheck>Secluded Cascade</nospellcheck></atom-cardname> enters tapped unless you control two or more basic lands.
+	flavor_text:
+		<i-flavor>“The land has many beauties that rival even those of <error-spelling:en_US>Ghariv</error-spelling:en_US>. I will not miss them.”<soft-line>
+		—His Holiness <error-spelling:en_US>Jorah</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: gerezon
+	custom_card_number: 075
+	card_code_text: CanterburyEgg
+	card_code_text_2: CanterburyEgg
+	card_code_text_3: CanterburyEgg
+	copyright: ™ & © 2020 CanterburyEgg
+	copyright_2: ™ & © 2020 CanterburyEgg
+	copyright_3: ™ & © 2020 CanterburyEgg
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 14
+		chop_bottom: 10
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2021-04-05 20:50:00
+	time_modified: 2021-06-23 01:03:50
+	name: Torrid Geysers
+	image: image76
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.)</i>
+		<atom-cardname><nospellcheck>Torrid Geysers</nospellcheck></atom-cardname> enters tapped unless you control two or more basic lands.
+	flavor_text:
+		<i-flavor>“Our land has been warped beyond recognition. I fear what might be done to our city.”<soft-line>
+		—His Holiness <error-spelling:en_US>Jorah</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Xiangyuan Jie
+	custom_card_number: 072
+	card_code_text: CanterburyEgg
+	card_code_text_2: CanterburyEgg
+	card_code_text_3: CanterburyEgg
+	copyright: ™ & © 2020 CanterburyEgg
+	copyright_2: ™ & © 2020 CanterburyEgg
+	copyright_3: ™ & © 2020 CanterburyEgg
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-04-29 14:38:00
+	time_modified: 2022-04-29 22:48:21
+	name: Descended Glacier
+	image: image77
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Descended Glacier</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
+		<kw-A><nospellcheck><key>Morph <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card face down as a 2/2 creature for <sym>3</sym>. Turn it face up any time for its morph cost.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: wang bo
+	custom_card_number: 076
+	card_code_text: elmikkino
+	card_code_text_2: elmikkino
+	card_code_text_3: elmikkino
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-04-29 14:38:00
+	time_modified: 2022-04-29 22:48:25
+	name: Descended Hollow
+	image: image78
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Descended Hollow</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
+		<kw-A><nospellcheck><key>Morph <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card face down as a 2/2 creature for <sym>3</sym>. Turn it face up any time for its morph cost.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Cze Peku
+	custom_card_number: 077
+	card_code_text: elmikkino
+	card_code_text_2: elmikkino
+	card_code_text_3: elmikkino
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-04-29 14:38:00
+	time_modified: 2022-04-29 22:48:28
+	name: Descended Fissure
+	image: image79
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Descended Fissure</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.
+		<kw-A><nospellcheck><key>Morph <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card face down as a 2/2 creature for <sym>3</sym>. Turn it face up any time for its morph cost.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Xu Tianhua
+	custom_card_number: 078
+	card_code_text: elmikkino
+	card_code_text_2: elmikkino
+	card_code_text_3: elmikkino
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-04-29 14:38:00
+	time_modified: 2022-04-29 22:48:33
+	name: Descended Gorge
+	image: image80
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Descended Gorge</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
+		<kw-A><nospellcheck><key>Morph <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card face down as a 2/2 creature for <sym>3</sym>. Turn it face up any time for its morph cost.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sylvain Sarrailh
+	custom_card_number: 079
+	card_code_text: elmikkino
+	card_code_text_2: elmikkino
+	card_code_text_3: elmikkino
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2022-04-29 14:38:00
+	time_modified: 2022-04-29 22:48:36
+	name: Descended Countryside
+	image: image81
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Descended Countryside</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
+		<kw-A><nospellcheck><key>Morph <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card face down as a 2/2 creature for <sym>3</sym>. Turn it face up any time for its morph cost.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Efflam Mercier
+	custom_card_number: 080
+	card_code_text: elmikkino
+	card_code_text_2: elmikkino
+	card_code_text_3: elmikkino
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-08-30 18:26:22
+	time_modified: 2023-08-31 02:40:55
+	name: Boneyard Pass
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Boneyard Pass</nospellcheck></atom-cardname> enters tapped unless you control a basic land.
+		<sym>T</sym>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor>Both <error-spelling:en_US>Abzan</error-spelling:en_US> convoys and <error-spelling:en_US>Mardu</error-spelling:en_US> cavalries lay claim to the stable passage of the Salt Road.</i-flavor>
+	illustrator: Grady Frederick
+	custom_card_number: 081
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-08-30 18:26:22
+	time_modified: 2023-08-31 02:41:02
+	name: Frostpoint Caldera
+	image: image84
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Frostpoint Caldera</nospellcheck></atom-cardname> enters tapped unless you control a basic land.
+		<sym>T</sym>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor>Both <error-spelling:en_US>Jeskai</error-spelling:en_US> sages and <error-spelling:en_US>Temur</error-spelling:en_US> shamans lay claim to the mystic energies of the Fire Rim.</i-flavor>
+	illustrator: Florent Blanchard
+	custom_card_number: 082
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-08-30 18:26:22
+	time_modified: 2023-08-31 02:41:06
+	name: Basin Fortress
+	image: image87
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Basin Fortress</nospellcheck></atom-cardname> enters tapped unless you control a basic land.
+		<sym>T</sym>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor>Both <error-spelling:en_US>Sultai</error-spelling:en_US> nobles and <error-spelling:en_US>Abzan</error-spelling:en_US> merchants lay claim to the lush bounties of the <error-spelling:en_US>Sagu</error-spelling:en_US> Jungle.</i-flavor>
+	illustrator: Mathieu Lauffray
+	custom_card_number: 083
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-08-30 18:26:22
+	time_modified: 2023-08-31 02:41:10
+	name: Spinerock Canyon
+	image: image88
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Spinerock Canyon</nospellcheck></atom-cardname> enters tapped unless you control a basic land.
+		<sym>T</sym>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.
+	flavor_text: <i-flavor>Both <error-spelling:en_US>Mardu</error-spelling:en_US> raiders and <error-spelling:en_US>Jeskai</error-spelling:en_US> historians lay claim to the buried past of The Scour.</i-flavor>
+	illustrator: Kevin Hou
+	custom_card_number: 084
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2023-08-30 18:26:22
+	time_modified: 2023-08-31 02:41:14
+	name: Thawing Valley
+	image: image89
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Thawing Valley</nospellcheck></atom-cardname> enters tapped unless you control a basic land.
+		<sym>T</sym>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor>Both <error-spelling:en_US>Temur</error-spelling:en_US> hunters and <error-spelling:en_US>Sultai</error-spelling:en_US> poachers lay claim to the untamed wilds of the <error-spelling:en_US>Qal</error-spelling:en_US> <error-spelling:en_US>Sisma</error-spelling:en_US>.</i-flavor>
+	illustrator: Tin Trung
+	custom_card_number: 085
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+version_control:
+	type: none
+apprentice_code: 

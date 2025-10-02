@@ -1,0 +1,2855 @@
+﻿mse_version: 2.0.2
+game: magic
+game_version: 2024-10-01
+stylesheet: m15-altered
+stylesheet_version: 2024-09-23
+set_info:
+	title: L3
+	set_code: Mana Pool
+	symbol: symbol1.mse-symbol
+	masterpiece_symbol: 
+	auto_errata: yes
+	automatic_card_numbers: no
+styling:
+	magic-m15-altered:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-mainframe-tokens:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	magic-m15-snow:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:23:59
+	time_modified: 2019-12-01 18:03:57
+	card_color: white, green, land, horizontal
+	name: Amber Hills
+	image: image40
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Amber Hills</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Amber Hills</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Amber Hills</nospellcheck></atom-cardname>: Search your library for a Forest or Plains card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dimitar Marinski
+	custom_card_number: 005
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:23:59
+	time_modified: 2024-05-04 18:01:33
+	card_color: red, green, land, horizontal
+	name: Timber Range
+	image: image89
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Timber Range</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Timber Range</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Timber Range</nospellcheck></atom-cardname>: Search your library for a Mountain or Forest card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: JunYeong Shin
+	custom_card_number: 004
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:23:59
+	time_modified: 2019-12-01 18:04:43
+	card_color: black, red, land, horizontal
+	name: Shardstone Rift
+	image: image5
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Shardstone Rift</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Shardstone Rift</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shardstone Rift</nospellcheck></atom-cardname>: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: choi keun hoon
+	custom_card_number: 003
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:23:59
+	time_modified: 2019-12-01 18:04:38
+	card_color: white, blue, land, horizontal
+	name: Ocean Monastery
+	image: image12
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Ocean Monastery</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Ocean Monastery</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Ocean Monastery</nospellcheck></atom-cardname>: Search your library for a Plains or Island card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alexey Shugurov
+	custom_card_number: 001
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:23:59
+	time_modified: 2019-12-01 18:04:32
+	card_color: blue, green, land, horizontal
+	name: Mysterious Cataract
+	image: image11
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Mysterious Cataract</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Mysterious Cataract</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Mysterious Cataract</nospellcheck></atom-cardname>: Search your library for a Forest or Island card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Samuel Michlap
+	custom_card_number: 010
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:23:59
+	time_modified: 2019-12-01 18:04:25
+	card_color: white, black, land, horizontal
+	name: Barren Desolation
+	image: image46
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Barren Desolation</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Barren Desolation</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Barren Desolation</nospellcheck></atom-cardname>: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chenzy Chen
+	custom_card_number: 006
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:23:59
+	time_modified: 2019-12-01 18:04:18
+	card_color: white, red, land, horizontal
+	name: Sunlit Highland
+	image: image10
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Sunlit Highland</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Sunlit Highland</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Sunlit Highland</nospellcheck></atom-cardname>: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Vitaly Zhdanov
+	custom_card_number: 009
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:23:59
+	time_modified: 2019-12-01 18:03:11
+	card_color: blue, red, land, horizontal
+	name: Magmatic Torrent
+	image: image7
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Magmatic Torrent</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Magmatic Torrent</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Magmatic Torrent</nospellcheck></atom-cardname>: Search your library for an Island or Mountain card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Devin Gao
+	custom_card_number: 007
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:23:59
+	time_modified: 2019-12-01 18:05:06
+	card_color: black, green, land, horizontal
+	name: Grim Bastion
+	image: image68
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Grim Bastion</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Grim Bastion</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Grim Bastion</nospellcheck></atom-cardname>: Search your library for a Swamp or Forest card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anthony Avon
+	custom_card_number: 008
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:23:59
+	time_modified: 2024-09-30 10:25:19
+	card_color: blue, black, land, horizontal
+	name: Floodwater Depths
+	image: image63
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Floodwater Depths</nospellcheck></atom-cardname> enters, you may pay 2 life. If you don’t, <atom-cardname><nospellcheck>Floodwater Depths</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Floodwater Depths</nospellcheck></atom-cardname>: Search your library for an Island or Swamp card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Erin Lin
+	custom_card_number: 002
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:41:05
+	time_modified: 2019-01-31 21:03:17
+	name: Frostfire Geysers
+	image: image69
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Frostfire Geysers</nospellcheck></atom-cardname> enters tapped unless you control a basic Island or a basic Mountain.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dominique Van Velsen
+	custom_card_number: 027
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:41:05
+	time_modified: 2019-01-31 21:17:46
+	name: Lush Oasis
+	image: image25
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Lush Oasis</nospellcheck></atom-cardname> enters tapped unless you control a basic Forest or a basic Island.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Samuel Pereira
+	custom_card_number: 030
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:41:05
+	time_modified: 2019-01-31 21:04:27
+	name: Gloomcover Steppe
+	image: image72
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Gloomcover Steppe</nospellcheck></atom-cardname> enters tapped unless you control a basic Plains or a basic Swamp.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Eric Basiletti
+	custom_card_number: 026
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:41:05
+	time_modified: 2018-08-06 23:43:23
+	name: Spiraling Canyon
+	image: image115
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Spiraling Canyon</nospellcheck></atom-cardname> enters tapped unless you control a basic Mountain or a basic Plains.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Kamila Szutenberg
+	custom_card_number: 029
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:41:05
+	time_modified: 2019-01-31 20:59:40
+	name: Flooded Morass
+	image: image47
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Flooded Morass</nospellcheck></atom-cardname> enters tapped unless you control a basic Island or a basic Swamp.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Vladis Fender
+	custom_card_number: 022
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:41:05
+	time_modified: 2019-01-31 20:59:57
+	name: Flourishing Crevasse
+	image: image64
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Flourishing Crevasse</nospellcheck></atom-cardname> enters tapped unless you control a basic Mountain or a basic Forest.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alex Kintner
+	custom_card_number: 024
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:41:05
+	time_modified: 2019-01-31 21:11:01
+	name: Heart of the Glade
+	image: image75
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Heart of the Glade</nospellcheck></atom-cardname> enters tapped unless you control a basic Forest or a basic Plains.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Peter Rossa
+	custom_card_number: 025
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:41:05
+	time_modified: 2024-05-04 17:58:51
+	name: Lavatorn Fields
+	image: image81
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Lavatorn Fields</nospellcheck></atom-cardname> enters tapped unless you control a basic Swamp or a basic Mountain.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Yeonji Rhee
+	custom_card_number: 023
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:41:05
+	time_modified: 2018-08-06 23:39:39
+	name: Pool of Light
+	image: image120
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Pool of Light</nospellcheck></atom-cardname> enters tapped unless you control a basic Plains or a basic Island.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Andreas Rocha
+	custom_card_number: 021
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 11:41:05
+	time_modified: 2019-01-31 21:03:35
+	name: Fungal Mire
+	image: image70
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Fungal Mire</nospellcheck></atom-cardname> enters tapped unless you control a basic Swamp or a basic Forest.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: James Combridge
+	custom_card_number: 028
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2020-07-25 01:09:04
+	name: Choked Estuary
+	image: image15
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Choked Estuary</nospellcheck></atom-cardname> enters, you may reveal an Island or Swamp card from your hand. If you don’t, <atom-cardname><nospellcheck>Choked Estuary</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Devin Gao
+	custom_card_number: 032
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2020-10-25 14:59:34
+	name: Flourishing Waterways
+	image: image60
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Flourishing Waterways</nospellcheck></atom-cardname> enters, you may reveal a Forest or Island card from your hand. If you don’t, <atom-cardname><nospellcheck>Flourishing Waterways</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Luca Pisanu
+	custom_card_number: 040
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2024-08-30 03:50:32
+	name: Foreboding Ruins
+	image: image65
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Foreboding Ruins</nospellcheck></atom-cardname> enters, you may reveal a Swamp or Mountain card from your hand. If you don’t, <atom-cardname><nospellcheck>Foreboding Ruins</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Amit Naik
+	custom_card_number: 033
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2020-07-25 01:08:52
+	name: Fortified Village
+	image: image34
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Fortified Village</nospellcheck></atom-cardname> enters, you may reveal a Forest or Plains card from your hand. If you don’t, <atom-cardname><nospellcheck>Fortified Village</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Veli Nyström
+	custom_card_number: 035
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2020-07-25 01:08:47
+	name: Game Trail
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Game Trail</nospellcheck></atom-cardname> enters, you may reveal a Mountain or Forest card from your hand. If you don’t, <atom-cardname><nospellcheck>Game Trail</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Cliff Childs
+	custom_card_number: 034
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2020-10-25 14:59:10
+	name: Legacy Foundations
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Legacy Foundations</nospellcheck></atom-cardname> enters, you may reveal a Plains or Swamp card from your hand. If you don’t, <atom-cardname><nospellcheck>Legacy Foundations</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Wei Guan
+	custom_card_number: 036
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2020-10-25 23:03:32
+	name: Deserted Trail
+	image: image91
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Deserted Trail</nospellcheck></atom-cardname> enters, you may reveal a Swamp or Forest card from your hand. If you don’t, <atom-cardname><nospellcheck>Deserted Trail</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Clint Cearley
+	custom_card_number: 038
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2020-10-25 23:13:09
+	name: Horizon of Origins
+	image: image139
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Horizon of Origins</nospellcheck></atom-cardname> enters, you may reveal an Island or Mountain card from your hand. If you don’t, <atom-cardname><nospellcheck>Horizon of Origins</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alexey Shugurov
+	custom_card_number: 037
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2020-07-25 01:08:33
+	name: Port Town
+	image: image140
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Port Town</nospellcheck></atom-cardname> enters, you may reveal a Plains or Island card from your hand. If you don’t, <atom-cardname><nospellcheck>Port Town</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Lucas Staniec
+	custom_card_number: 031
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2020-10-25 14:59:28
+	name: Imperial Barracks
+	image: image141
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Imperial Barracks</nospellcheck></atom-cardname> enters, you may reveal a Mountain or Plains card from your hand. If you don’t, <atom-cardname><nospellcheck>Imperial Barracks</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jack Eaves
+	custom_card_number: 039
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-01-31 20:55:29
+	name: Deathwind Expanse
+	image: image57
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Takumer Homma
+	custom_card_number: 046
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-01-31 21:09:48
+	name: Gryla Canyon
+	image: image27
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sergey Demidov
+	custom_card_number: 044
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2018-08-07 00:00:50
+	name: Moonshadow Abyss
+	image: image149
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nele Diel
+	custom_card_number: 042
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2018-08-07 00:01:02
+	name: Priest’s Altar
+	image: image150
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Gao Zhingping
+	custom_card_number: 045
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2018-08-07 00:01:13
+	name: Stormcaster’s Tower
+	image: image151
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Oscar Perez
+	custom_card_number: 047
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-30 22:45:16
+	time_modified: 2020-07-25 01:04:35
+	name: Angeltouched Cavern
+	casting_cost: 
+	image: image42
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>, <sym-auto>B</sym-auto>, or <sym-auto>G</sym-auto>. You can’t spend this mana to cast a monocolored spell.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 
+	toughness: 
+	illustrator: Young Kim
+	custom_card_number: 053
+	card_code_text: voltaic-qui
+	card_code_text_2: voltaic-qui
+	card_code_text_3: voltaic-qui
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-30 22:45:16
+	time_modified: 2020-07-25 01:05:08
+	name: Angeltouched Crag
+	casting_cost: 
+	image: image3
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>, <sym-auto>W</sym-auto>, or <sym-auto>B</sym-auto>. You can’t spend this mana to cast a monocolored spell.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 
+	toughness: 
+	illustrator: Nin Jackson
+	custom_card_number: 051
+	card_code_text: voltaic-qui
+	card_code_text_2: voltaic-qui
+	card_code_text_3: voltaic-qui
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-30 22:45:16
+	time_modified: 2020-07-25 01:05:18
+	name: Angeltouched Garden
+	casting_cost: 
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>, <sym-auto>G</sym-auto>, or <sym-auto>U</sym-auto>. You can’t spend this mana to cast a monocolored spell.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 
+	toughness: 
+	illustrator: Won Jun Tae
+	custom_card_number: 055
+	card_code_text: voltaic-qui
+	card_code_text_2: voltaic-qui
+	card_code_text_3: voltaic-qui
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-30 22:45:16
+	time_modified: 2020-07-25 01:05:30
+	name: Angeltouched Marsh
+	casting_cost: 
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>, <sym-auto>U</sym-auto>, or <sym-auto>R</sym-auto>. You can’t spend this mana to cast a monocolored spell.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 
+	toughness: 
+	illustrator: John Thacker
+	custom_card_number: 052
+	card_code_text: voltaic-qui
+	card_code_text_2: voltaic-qui
+	card_code_text_3: voltaic-qui
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-10-30 22:45:16
+	time_modified: 2020-07-25 01:05:40
+	name: Angeltouched Saltflat
+	casting_cost: 
+	image: image43
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>, <sym-auto>R</sym-auto>, or <sym-auto>W</sym-auto>. You can’t spend this mana to cast a monocolored spell.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	power: 
+	toughness: 
+	illustrator: Joon Ahn
+	custom_card_number: 054
+	card_code_text: voltaic-qui
+	card_code_text_2: voltaic-qui
+	card_code_text_3: voltaic-qui
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-01-31 20:45:22
+	name: Bustling Docks
+	image: image8
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Bustling Docks</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>W</sym-auto>, <sym-auto>T</sym-auto>, Reveal a white card from your hand: Target creature gets +1/+0 until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Roberto Gatto
+	custom_card_number: 056
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-01-31 20:56:08
+	name: Derelict Amphitheatre
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Derelict Amphitheatre</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>R</sym-auto>, <sym-auto>T</sym-auto>, Reveal a red card from your hand: <kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Casandre Bolan
+	custom_card_number: 059
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-01-31 21:14:56
+	name: Interlocked Waterways
+	image: image77
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Interlocked Waterways</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>U</sym-auto>, <sym-auto>T</sym-auto>, Reveal a blue card from your hand: Untap target creature.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ismail Inceoglu
+	custom_card_number: 057
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2018-08-07 00:03:47
+	name: Isolated Cloister
+	image: image160
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Isolated Cloister</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>G</sym-auto>, <sym-auto>T</sym-auto>, Reveal a green card from your hand: You gain 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Rémy A. S. Diaz
+	custom_card_number: 060
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2024-05-04 17:59:33
+	name: Shadowed Slums
+	image: image161
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Shadowed Slums</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>B</sym-auto>, <sym-auto>T</sym-auto>, Reveal a black card from your hand: Target player loses 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dongjun Lu
+	custom_card_number: 058
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2023-10-01 13:36:17
+	card_color: white, land
+	name: Mosecf, the Sunseeker’s Path
+	image: image162
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Mosecf, the Sunseeker’s Path</nospellcheck></atom-cardname> enters tapped.
+		Whenever a creature you control attacks, put a creation counter on <atom-legname><nospellcheck>Mosecf</nospellcheck></atom-legname>.
+		<sym-auto>T</sym-auto>, Remove ten creation counters from <atom-legname><nospellcheck>Mosecf</nospellcheck></atom-legname> and sacrifice it: Creatures you control get +2/+2 and gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Liu Kang
+	custom_card_number: 061
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2018-08-07 00:05:22
+	card_color: blue, land
+	name: Sea Of Skies Beyond
+	image: image163
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Sea Of Skies Beyond</nospellcheck></atom-cardname> enters tapped.
+		Whenever you cast a noncreature spell, put a creation counter on <atom-legname><nospellcheck>Sea Of Skies Beyond</nospellcheck></atom-legname>.
+		<sym-auto>T</sym-auto>, Remove ten creation counters from <atom-legname><nospellcheck>Sea Of Skies Beyond</nospellcheck></atom-legname> and sacrifice it: Shuffle your hand into your library, then draw five cards.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jacob Duncan
+	custom_card_number: 062
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2024-05-03 18:44:49
+	card_color: black, land
+	name: Cradle of Corruption
+	image: image54
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Cradle of Corruption</nospellcheck></atom-cardname> enters tapped.
+		Whenever a creature dies, put a creation counter on <atom-cardname><nospellcheck>Cradle of Corruption</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>, Remove ten creation counters from <atom-cardname><nospellcheck>Cradle of Corruption</nospellcheck></atom-cardname> and sacrifice it: Put up to two target creature cards from graveyards onto the battlefield under your control. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nele Diel
+	custom_card_number: 063
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2021-01-01 04:52:30
+	card_color: red, land
+	name: Ralora, Unforgiving Depths
+	image: image165
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Ralora, Unforgiving Depths</nospellcheck></atom-cardname> enters tapped.
+		Whenever a source deals damage to you, put a creation counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ralora</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		<sym-auto>T</sym-auto>, Remove ten creation counters from <atom-legname><nospellcheck>Ralora</nospellcheck></atom-legname> and sacrifice it: It deals 10 damage to target player or planeswalker.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Goran Bukvic
+	custom_card_number: 064
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-01-31 20:58:40
+	card_color: green, land
+	name: Elrayin, the Manaroot
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Elrayin, the Manaroot</nospellcheck></atom-cardname> enters tapped.
+		Whenever you tap another land for mana, put a creation counter on <atom-legname><nospellcheck>Elrayin</nospellcheck></atom-legname>.
+		<sym-auto>T</sym-auto>, Remove ten creation counters from <atom-legname><nospellcheck>Elrayin</nospellcheck></atom-legname> and sacrifice it: Untap all lands target player controls.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Finnian MacManus
+	custom_card_number: 065
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2019-01-31 20:50:46
+	card_color: land, multicolor
+	name: Collapsing Ground
+	image: image52
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Return <atom-cardname><nospellcheck>Collapsing Ground</nospellcheck></atom-cardname> to its owner’s hand: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sviatoslav Gerasimchuk
+	custom_card_number: 071
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 22:57:15
+	time_modified: 2020-08-31 19:07:56
+	card_color: land, multicolor
+	name: Command Tower
+	image: image53
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rule_text: <sym-auto>T</sym-auto>: Add one mana of any color in your commander’s color identity.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Michal Kus
+	custom_card_number: 072
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-01-31 20:54:12
+	name: Crumbling Vestige
+	image: image28
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: common
+	rule_text:
+		<atom-cardname><nospellcheck>Crumbling Vestige</nospellcheck></atom-cardname> enters tapped.
+		When <atom-cardname><nospellcheck>Crumbling Vestige</nospellcheck></atom-cardname> enters, add one mana of any color.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Konstantinos Skenteridis
+	custom_card_number: 073
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2023-01-01 21:18:51
+	card_color: land, multicolor
+	name: Derelict Town
+	image: image58
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add one mana of any color.
+		When you tap Derelict Town for mana, return it to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Deiv Calviz
+	custom_card_number: 074
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2024-08-30 03:49:41
+	name: Desert Temple
+	image: image59
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land>Desert</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Desert Temple</nospellcheck></atom-cardname> enters tapped. 
+		<margin:0:0:5>As <atom-cardname><nospellcheck>Desert Temple</nospellcheck></atom-cardname> enters, an opponent of your choice chooses Oasis or Desiccation.</margin:0:0:5>
+		<li><bullet>• </bullet>Oasis — <sym-auto>T</sym-auto>: Add one mana of any color.
+		</li><li><bullet>• </bullet>Desiccation — <sym-auto>T</sym-auto>: Add <sym-auto>CC</sym-auto>. You lose 1 life.</li>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alexey Shugurov
+	custom_card_number: 075
+	card_code_text: Daij_Djan
+	card_code_text_2: Daij_Djan
+	card_code_text_3: Daij_Djan
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2021-06-23 00:30:53
+	card_color: land, multicolor
+	name: Halls of Renown
+	image: image74
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add one mana of any color. Activate only if you have a counter.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Thomas Salonga
+	custom_card_number: 076
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !inpend Vanishing 5/add/ (This permanent enters with five time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
+	time_created: 2018-08-06 15:16:47
+	time_modified: 2024-05-04 18:01:18
+	card_color: land, multicolor
+	name: The High Prairies
+	image: image177
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Vanishing <param-number>5</param-number></key></nospellcheck></kw-0>
+		The High Prairies enters tapped.
+		<sym-auto>T</sym-auto>: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: ZUDartS Lee
+	custom_card_number: 077
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-01-31 21:13:31
+	card_color: land, multicolor
+	name: Hill of Souls
+	image: image79
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		Whenever a creature you control dies, put a soul counter on <atom-cardname><nospellcheck>Hill of Souls</nospellcheck></atom-cardname>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Remove a soul counter from <atom-cardname><nospellcheck>Hill of Souls</nospellcheck></atom-cardname>: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tore Wesolowski
+	custom_card_number: 078
+	card_code_text: umisa
+	card_code_text_2: umisa
+	card_code_text_3: umisa
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2022-02-01 06:29:01
+	card_color: land, multicolor
+	name: Shrine of the Six Pillars
+	image: image85
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add one mana of any color. Activate only if you’ve cast a noncreature spell this turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Grady Frederick
+	custom_card_number: 079
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2024-01-31 22:13:26
+	card_color: land, multicolor
+	name: Shrouded Sanctuary
+	image: image181
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sebastien Hue
+	custom_card_number: 080
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2024-05-04 17:59:57
+	card_color: land, multicolor
+	name: Temple of Brilliance
+	image: image182
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: Add two mana in any combination of colors.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: ZUDartS Lee
+	custom_card_number: 081
+	card_code_text: CanterburyEgg
+	card_code_text_2: CanterburyEgg
+	card_code_text_3: CanterburyEgg
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-01-31 20:35:03
+	name: Ahl’s Study
+	image: image39
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>, Discard a card: Add <sym-auto>C</sym-auto>.
+		Whenever you discard one or more cards, you may pay <sym-auto>2</sym-auto>. If you do, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alexander Dudar
+	custom_card_number: 091
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-01-31 20:49:03
+	name: Citadel of Denial
+	image: image17
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1CC</sym-auto>, <sym-auto>T</sym-auto>: Return target legendary creature to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chris Ostrowski
+	custom_card_number: 092
+	card_code_text: CanterburyEgg
+	card_code_text_2: CanterburyEgg
+	card_code_text_3: CanterburyEgg
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2021-04-28 00:53:47
+	name: Kellythross’ Workshop
+	image: image80
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>CC</sym-auto>. Spend this mana only to cast artifact spells. Activate only if you control three or more artifacts.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Donato Giancola
+	custom_card_number: 093
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2018-08-07 00:15:23
+	name: Whiterun Harbor
+	image: image186
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Each opponent may draw a card. For each player who does, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Cristian Chihaia
+	custom_card_number: 094
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-01-31 20:33:57
+	name: Adaptive Terrains
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: common
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Adaptive Terrains</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Flint Chen
+	custom_card_number: 096
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-01-31 20:36:57
+	name: Ancient Ossuary
+	image: image41
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>3</sym-auto>, Discard <atom-cardname><nospellcheck>Ancient Ossuary</nospellcheck></atom-cardname>: Search your library for a land card, reveal it, put it into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Erin Arik
+	custom_card_number: 097
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !alter
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-07-31 16:10:54
+	card_color: land, multicolor
+	name: Wayfarer’s Shrine
+	image: image191
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice <atom-cardname><nospellcheck>Wayfarer’s Shrine</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aurélie Bouquet
+	custom_card_number: 100
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2020-10-31 01:59:30
+	name: Clutch of the Coil
+	image: image21
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1</sym-auto>: Clutch of the Coil becomes a 1/1 Snake creature with <kw-0><nospellcheck><key>poisonous <param-number>2</param-number></key></nospellcheck></kw-0> until end of turn. It’s still a land.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Rajdeep Choudhury
+	custom_card_number: 101
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:36:42
+	time_modified: 2018-08-07 00:17:35
+	name: Edge of the World
+	image: image193
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Edge of the World</nospellcheck></atom-cardname> enters, each player draws a card.
+		<sym-auto>T</sym-auto>: Each player adds <sym-auto>C</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Christian Benavides
+	custom_card_number: 102
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: !alter
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2019-07-31 16:23:39
+	name: Forgotten Haunt
+	image: image66
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice a creature: Create a 1/1 colorless Spirit creature token.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dave Jones
+	custom_card_number: 103
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2019-01-31 21:11:37
+	name: Heavenly Temple
+	image: image76
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		When <atom-cardname><nospellcheck>Heavenly Temple</nospellcheck></atom-cardname> enters, target creature gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+		<sym-auto>2</sym-auto>: Return <atom-cardname><nospellcheck>Heavenly Temple</nospellcheck></atom-cardname> from the battlefield to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sam Keiser
+	custom_card_number: 104
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2018-08-07 00:17:56
+	name: Memorial of the Fallen
+	image: image197
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Memorial of the Fallen</nospellcheck></atom-cardname>: Shuffle your graveyard into your library.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tore Wesolowski
+	custom_card_number: 106
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2021-01-01 04:53:06
+	name: Midnight Keep
+	image: image198
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>3</sym-auto>: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then return Midnight Keep from your graveyard to the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Ryan Groskamp
+	custom_card_number: 107
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2021-06-23 00:30:43
+	name: Perilous Passage
+	image: image199
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Perilous Passage</nospellcheck></atom-cardname>: Destroy target nonbasic land. Activate only if an opponent controls four or more lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Alexey Shugurov
+	custom_card_number: 108
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2018-08-07 00:18:18
+	name: Planar Alignment
+	image: image200
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		<atom-cardname><nospellcheck>Planar Alignment</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>6</sym-auto>, <sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Planar Alignment</nospellcheck></atom-cardname>: Search your library for a card, put it into your hand, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Fay D. S.
+	custom_card_number: 109
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2018-08-07 00:18:36
+	name: Ripping Wilds
+	image: image203
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Ripping Wilds</nospellcheck></atom-cardname> enters tapped.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Ripping Wilds</nospellcheck></atom-cardname>: You may put up to two basic land cards from your hand onto the battlefield tapped.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Zoupe
+	custom_card_number: 112
+	card_code_text: Korakhos
+	card_code_text_2: Korakhos
+	card_code_text_3: Korakhos
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2019-01-31 21:20:18
+	name: Shikai’s Redoubt
+	image: image24
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		Discard <atom-cardname><nospellcheck>Shikai’s Redoubt</nospellcheck></atom-cardname>: Exile up to two target cards from graveyards.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chris Ostrowski
+	custom_card_number: 113
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 15:30:30
+	time_modified: 2024-10-30 18:39:11
+	name: Sunrise Orchard
+	image: image88
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		Sunrise Orchard enters tapped unless you control a basic land.
+		As Sunrise Orchard enters, choose a color.
+		<sym-auto>T</sym-auto>: Add one mana of the chosen color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sylvain Sarrailh
+	custom_card_number: 114
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:39:54
+	time_modified: 2018-08-07 00:18:46
+	name: Whiterun Gates
+	image: image206
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>9</sym-auto>, <sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Whiterun Gates</nospellcheck></atom-cardname>: Take an extra turn after this one.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jon Dunham
+	custom_card_number: 115
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 22:57:15
+	time_modified: 2018-08-07 00:19:01
+	name: Wastes
+	image: image207
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	watermark: mana symbol colorless
+	illustrator: Lee B
+	custom_card_number: 000
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2016-01-16 23:05:34
+	time_modified: 2018-08-30 21:19:59
+	name: Academy Wastes
+	image: image4
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Everlite
+	custom_card_number: 043
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:57:48
+	time_modified: 2018-08-30 21:20:09
+	name: Grove of Reversal
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: PAvellKiD
+	custom_card_number: 048
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:58:11
+	time_modified: 2024-05-04 17:59:02
+	name: Quintok Station
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Adam Kuczek
+	custom_card_number: 050
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2014-07-08 22:46:57
+	time_modified: 2024-05-04 17:59:46
+	name: Spires of Telenia
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: inetgrafx
+	custom_card_number: 041
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 21:45:15
+	time_modified: 2018-08-30 21:20:14
+	name: Tirenan Market
+	image: image14
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile two cards from your graveyard: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Zhla2chen
+	custom_card_number: 049
+	card_code_text: WindyDelcarlo
+	card_code_text_2: WindyDelcarlo
+	card_code_text_3: WindyDelcarlo
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-09-27 13:14:31
+	time_modified: 2023-11-30 21:07:15
+	card_color: land, multicolor
+	name: Channeling Stone
+	image: image50
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add one mana of any color that a basic land you control could produce.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Huang Qin
+	custom_card_number: 082
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-09-27 13:31:32
+	time_modified: 2022-01-31 18:30:34
+	name: Jade Temple
+	image: image16
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>CC</sym-auto>. You can’t spend this mana to cast spells or activate abilities of lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dimitar Marinski
+	custom_card_number: 116
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2018-09-27 13:31:32
+	time_modified: 2019-11-04 17:14:19
+	name: Chamber of Splendor
+	image: image49
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Chamber of Splendor</nospellcheck></atom-cardname> enters tapped.
+		When Chamber of Splendor enters, you may pay <sym-auto>1</sym-auto>. If you do, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto>
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Paperblue
+	custom_card_number: 117
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-09-27 13:38:56
+	time_modified: 2019-01-31 20:57:42
+	name: Dragonfly Shrine
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>: Target land you control becomes the basic land type of your choice until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Don Tang
+	custom_card_number: 118
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-09-27 13:31:32
+	time_modified: 2022-06-23 21:29:16
+	name: Palace of Reflections
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice Palace of Reflections: Choose a land you control. Search your library for a land card with the same name as the chosen land, put it onto the battlefield tapped, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jay Wong
+	custom_card_number: 119
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-09-27 13:31:32
+	time_modified: 2018-09-30 00:22:51
+	card_color: land
+	name: Shengin Heartland
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		As long as <atom-cardname><nospellcheck>Shengin Heartland</nospellcheck></atom-cardname> is in your graveyard, lands you control have “<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.”
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Anh Tran
+	custom_card_number: 120
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-09-27 13:14:31
+	time_modified: 2019-01-31 20:45:39
+	name: Bygone Guardian
+	image: image31
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Animus</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Bygone Guardian</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<sym-auto>2WW</sym-auto>: <atom-cardname><nospellcheck>Bygone Guardian</nospellcheck></atom-cardname> becomes a creature in addition to its other types until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 5
+	illustrator: Kisoo Lee
+	custom_card_number: 146
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2018-09-27 13:14:31
+	time_modified: 2019-01-31 20:34:15
+	name: Aerie’s Pillar
+	image: image37
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Animus</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Aerie’s Pillar</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<sym-auto>2UU</sym-auto>: <atom-cardname><nospellcheck>Aerie’s Pillar</nospellcheck></atom-cardname> becomes a creature in addition to its other types until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Prathamesh More
+	custom_card_number: 147
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2018-09-27 13:14:31
+	time_modified: 2019-01-31 20:30:53
+	name: Forgotten Pit
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Animus</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Forgotten Pit</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		<sym-auto>2BB</sym-auto>: <atom-cardname><nospellcheck>Forgotten Pit</nospellcheck></atom-cardname> becomes a creature in addition to its other types until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 4
+	illustrator: Roman Tishenin
+	custom_card_number: 148
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2018-09-27 13:14:31
+	time_modified: 2019-01-31 21:19:39
+	name: Rousing Rubble
+	image: image86
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Animus</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Rousing Rubble</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck><key>Double strike</key></nospellcheck></kw-a>
+		<sym-auto>2RR</sym-auto>: <atom-cardname><nospellcheck>Rousing Rubble</nospellcheck></atom-cardname> becomes a creature in addition to its other types until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Simone Mandl
+	custom_card_number: 149
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: 
+	time_created: 2018-09-27 13:14:31
+	time_modified: 2019-01-31 21:16:54
+	card_color: green, land
+	name: Lumbering Hillock
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Animus</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.)</i-auto>
+		<atom-cardname><nospellcheck>Lumbering Hillock</nospellcheck></atom-cardname> enters tapped.
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+		<sym-auto>2GG</sym-auto>: <atom-cardname><nospellcheck>Lumbering Hillock</nospellcheck></atom-cardname> becomes a creature in addition to its other types until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Brian Valeza
+	custom_card_number: 150
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 23:59:00
+	time_modified: 2018-09-30 00:31:30
+	name: Sedate Tundra
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Sedate Tundra</nospellcheck></atom-cardname> becomes tapped, you lose 1 life unless you control two or more basic lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dual Brush
+	custom_card_number: 151
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 23:59:00
+	time_modified: 2019-01-31 21:06:06
+	name: Murmuring Falls
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Murmuring Falls</nospellcheck></atom-cardname> becomes tapped, you lose 1 life unless you control two or more basic lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: David Chumilla Liccioli
+	custom_card_number: 152
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 23:59:00
+	time_modified: 2019-01-31 20:53:52
+	name: Crumbling Precipice
+	image: image55
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Crumbling Precipice</nospellcheck></atom-cardname> becomes tapped, you lose 1 life unless you control two or more basic lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Liam Wang
+	custom_card_number: 153
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 23:59:00
+	time_modified: 2024-05-04 17:59:15
+	name: Rampant Summit
+	image: image29
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Rampant Summit</nospellcheck></atom-cardname> becomes tapped, you lose 1 life unless you control two or more basic lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: inshoo1
+	custom_card_number: 154
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 23:59:00
+	time_modified: 2018-09-30 13:16:29
+	name: Resplendent Substratum
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Resplendent Substratum</nospellcheck></atom-cardname> becomes tapped, you lose 1 life unless you control two or more basic lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: badger922 he
+	custom_card_number: 155
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 23:59:00
+	time_modified: 2019-01-31 20:43:46
+	name: Arctic Mine
+	image: image44
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Arctic Mine</nospellcheck></atom-cardname> becomes tapped, you lose 1 life unless you control two or more basic lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sandro Rybak
+	custom_card_number: 156
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 23:59:00
+	time_modified: 2019-01-31 20:54:58
+	name: Crystal Cavern
+	image: image56
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Crystal Cavern</nospellcheck></atom-cardname> becomes tapped, you lose 1 life unless you control two or more basic lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Allen Song
+	custom_card_number: 157
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 23:59:00
+	time_modified: 2018-09-30 00:32:00
+	name: Nomad’s Township
+	image: image33
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Nomad’s Township</nospellcheck></atom-cardname> becomes tapped, you lose 1 life unless you control two or more basic lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Imad Awan
+	custom_card_number: 158
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 23:59:00
+	time_modified: 2019-01-31 21:01:50
+	name: Forgotten Steppe
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Forgotten Steppe</nospellcheck></atom-cardname> becomes tapped, you lose 1 life unless you control two or more basic lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Xavier Ward
+	custom_card_number: 159
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	time_created: 2018-08-06 23:59:00
+	time_modified: 2018-09-30 00:32:06
+	name: Shifting Glade
+	image: image35
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Shifting Glade</nospellcheck></atom-cardname> becomes tapped, you lose 1 life unless you control two or more basic lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Balasz Ketyi
+	custom_card_number: 160
+	card_code_text: HerziQuerzi
+	card_code_text_2: HerziQuerzi
+	card_code_text_3: HerziQuerzi
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2018-06-13 09:07:37
+	time_modified: 2024-05-04 18:01:43
+	name: Treasure
+	image: image2
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Treasure</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: common
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mauro dal Bo
+	custom_card_number: 002
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: clear
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !alter
+	time_created: 2017-01-23 20:54:37
+	time_modified: 2019-07-31 16:23:01
+	border_color: rgb(0,0,0)
+	card_color: colorless
+	name: Spirit
+	image: image90
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Elizabeth Sherry
+	custom_card_number: 001
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: ™ & © 2017 Wizards of the Coast
+	copyright_2: HIGH NOON — CAJUN
+	copyright_3: ™ & © 2017 Wizards of the Coast
+version_control:
+	type: none
+apprentice_code: 
