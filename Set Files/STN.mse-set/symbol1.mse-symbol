@@ -1,0 +1,144 @@
+﻿mse version: 0.3.5
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Square
+		combine: subtract
+		point:
+			position: (0.4090121385,0.2612045909)
+			lock: free
+			line after: line
+		point:
+			position: (0.4090121385,0.7394277961)
+			lock: free
+			line after: line
+		point:
+			position: (0.4986625028,0.8294698222)
+			lock: free
+			line after: line
+		point:
+			position: (0.5870711722,0.7394277961)
+			lock: free
+			line after: line
+		point:
+			position: (0.5870711722,0.2612045909)
+			lock: free
+			line after: line
+		point:
+			position: (0.4988032539,0.4500810634)
+			lock: free
+			line after: line
+	part:
+		type: shape
+		name: Square
+		combine: overlap
+		point:
+			position: (0.3401147338,0.0606547313)
+			lock: free
+			line after: line
+		point:
+			position: (0.3401147338,0.7849481341)
+			lock: free
+			line after: line
+		point:
+			position: (0.5027686443,0.9213213688)
+			lock: free
+			line after: line
+		point:
+			position: (0.6631697306,0.7849481341)
+			lock: free
+			line after: line
+		point:
+			position: (0.6631697306,0.0606547313)
+			lock: free
+			line after: line
+		point:
+			position: (0.5030240111,0.3467177692)
+			lock: free
+			line after: line
+	part:
+		type: shape
+		name: Rectangle
+		combine: subtract
+		point:
+			position: (0.6485399508,0.7938119134)
+			lock: free
+			line after: line
+		point:
+			position: (0.8168214179,0.6071038257)
+			lock: free
+			line after: line
+		point:
+			position: (0.8168214179,0.2087702467)
+			lock: free
+			line after: line
+		point:
+			position: (0.6485399508,0.3954783346)
+			lock: free
+			line after: line
+	part:
+		type: shape
+		name: Rectangle
+		combine: overlap
+		point:
+			position: (0.5919405630,0.9285449871)
+			lock: free
+			line after: line
+		point:
+			position: (0.8604980902,0.6653712800)
+			lock: free
+			line after: line
+		point:
+			position: (0.8604980902,0.1039016302)
+			lock: free
+			line after: line
+		point:
+			position: (0.5919405630,0.3670753372)
+			lock: free
+			line after: line
+	part:
+		type: shape
+		name: Rectangle
+		combine: subtract
+		point:
+			position: (0.9081120673,0.2644195001)
+			lock: free
+			line after: line
+		point:
+			position: (0.9936084199,0.1837652940)
+			lock: free
+			line after: line
+		point:
+			position: (0.9936084199,0.0441714757)
+			lock: free
+			line after: line
+		point:
+			position: (0.9081120673,0.1248256818)
+			lock: free
+			line after: line
+	part:
+		type: shape
+		name: Rectangle
+		combine: subtract
+		point:
+			position: (0.9081778550,0.5943536074)
+			lock: free
+			line after: line
+		point:
+			position: (1.0719506631,0.4398561885)
+			lock: free
+			line after: line
+		point:
+			position: (1.0719506631,0.1724568095)
+			lock: free
+			line after: line
+		point:
+			position: (0.9081778550,0.3269542285)
+			lock: free
+			line after: line
