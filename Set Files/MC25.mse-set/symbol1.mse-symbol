@@ -1,0 +1,74 @@
+﻿mse_version: 0.3.5
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Rectangle
+		combine: overlap
+		point:
+			position: (0.2128205128,0.1370370370)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.2753086420)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.5000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3333333333,0.3666666667)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3333333333,0.5666666667)
+			lock: free
+			line_after: line
+		point:
+			position: (0.4333333333,0.6333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.4333333333,0.8000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.1000000000,0.6000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2333333333,0.3666666667)
+			lock: free
+			line_after: line
+	part:
+		type: shape
+		name: Rectangle
+		combine: border
+		point:
+			position: (0.1333333333,0.0666666667)
+			lock: free
+			line_after: curve
+			handle_before: (0.0333333333,0.3333333333)
+			handle_after: (0.1666666667,0.0666666667)
+		point:
+			position: (0.5000000000,0.0666666667)
+			lock: free
+			line_after: line
+			handle_before: (-0.0666666667,0.1333333333)
+		point:
+			position: (0.5000000000,0.9333333333)
+			lock: free
+			line_after: curve
+			handle_after: (-0.1666666667,-0.1333333333)
+		point:
+			position: (0.0000000000,0.6666666667)
+			lock: free
+			line_after: curve
+			handle_before: (0.2666666667,0.1000000000)
+			handle_after: (0.0666666667,-0.1481481481)

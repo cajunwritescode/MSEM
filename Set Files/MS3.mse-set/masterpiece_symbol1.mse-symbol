@@ -1,0 +1,413 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.7300000000,0.5200000000)
+		lock: free
+		line_after: curve
+		handle_after: (0.0122775591,-0.0000000000)
+	point:
+		position: (0.7664062500,0.5235937500)
+		lock: direction
+		line_after: curve
+		handle_before: (-0.0110259232,-0.0053847532)
+		handle_after: (0.0364003190,0.0177769000)
+	point:
+		position: (0.8475000000,0.6125000000)
+		lock: free
+		line_after: line
+		handle_before: (-0.0285356151,-0.0285356151)
+	point:
+		position: (0.8925000000,0.6575000000)
+		lock: free
+		line_after: curve
+		handle_after: (0.0269700164,0.0269700164)
+	point:
+		position: (0.9700000000,0.7400000000)
+		lock: free
+		line_after: line
+		handle_before: (-0.0336691186,-0.0176362050)
+	point:
+		position: (0.9700000000,0.7600000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8200000000,0.7600000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0194044774,-0.0000000000)
+	point:
+		position: (0.7675000000,0.7425000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0136749670,0.0136749670)
+	point:
+		position: (0.5725000000,0.5475000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5400000000,0.5200000000)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.5725000000,0.4625000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7575000000,0.2775000000)
+		lock: free
+		line_after: curve
+		handle_after: (0.0136749670,-0.0136749670)
+	point:
+		position: (0.8100000000,0.2600000000)
+		lock: free
+		line_after: line
+		handle_before: (-0.0194044774,0.0000000000)
+	point:
+		position: (0.9800000000,0.2600000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0344108302,0.0254729522)
+	point:
+		position: (0.8925000000,0.3525000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0302282932,-0.0302282932)
+	point:
+		position: (0.8475000000,0.3975000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0285759269,0.0285759269)
+	point:
+		position: (0.7664062500,0.4864062500)
+		lock: direction
+		line_after: curve
+		handle_before: (0.0363342818,-0.0177446493)
+		handle_after: (-0.0110259232,0.0053847532)
+	point:
+		position: (0.7300000000,0.4900000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0122775591,0.0000000000)
+	point:
+		position: (0.5400000000,0.4900000000)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.5475000000,0.5725000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7425000000,0.7675000000)
+		lock: free
+		line_after: curve
+		handle_after: (0.0136749670,0.0136749670)
+	point:
+		position: (0.7600000000,0.8200000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0000000000,-0.0194044774)
+	point:
+		position: (0.7600000000,0.9700000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7400000000,0.9700000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0176230670,-0.0336440370)
+	point:
+		position: (0.6575000000,0.8925000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0269689374,0.0269689374)
+	point:
+		position: (0.6125000000,0.8475000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0285801848,-0.0285801848)
+	point:
+		position: (0.5235937500,0.7664062500)
+		lock: direction
+		line_after: curve
+		handle_before: (0.0177397584,0.0363242673)
+		handle_after: (-0.0053847532,-0.0110259232)
+	point:
+		position: (0.5200000000,0.7300000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0000000000,0.0122775591)
+	point:
+		position: (0.5200000000,0.5400000000)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.6125000000,0.1625000000)
+		lock: free
+		line_after: line
+		handle_before: (-0.0285868120,0.0285868120)
+	point:
+		position: (0.6475000000,0.1275000000)
+		lock: free
+		line_after: curve
+		handle_after: (0.0135566812,-0.0135566812)
+	point:
+		position: (0.6925000000,0.0925000000)
+		lock: direction
+		line_after: curve
+		handle_before: (-0.0135405380,0.0135405380)
+		handle_after: (0.0167669277,-0.0167669277)
+	point:
+		position: (0.7400000000,0.0400000000)
+		lock: free
+		line_after: line
+		handle_before: (-0.0109589317,0.0209215968)
+	point:
+		position: (0.7600000000,0.0400000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.7600000000,0.1900000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0000000000,0.0194044774)
+	point:
+		position: (0.7425000000,0.2425000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0136749670,-0.0136749670)
+	point:
+		position: (0.5475000000,0.4375000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5200000000,0.4700000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5200000000,0.2800000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0000000000,-0.0122775591)
+	point:
+		position: (0.5235937500,0.2435937500)
+		lock: direction
+		line_after: curve
+		handle_before: (-0.0053847532,0.0110259232)
+		handle_after: (0.0177149836,-0.0362735379)
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.2775000000,0.7575000000)
+		lock: free
+		line_after: line
+		handle_before: (-0.0136749670,0.0136749670)
+	point:
+		position: (0.4625000000,0.5725000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4900000000,0.5400000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4900000000,0.7300000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0000000000,0.0122775591)
+	point:
+		position: (0.4864062500,0.7664062500)
+		lock: direction
+		line_after: curve
+		handle_before: (0.0053847532,-0.0110259232)
+		handle_after: (-0.0177769000,0.0364003190)
+	point:
+		position: (0.3975000000,0.8475000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0285356151,-0.0285356151)
+	point:
+		position: (0.3525000000,0.8925000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0302282932,0.0302282932)
+	point:
+		position: (0.2600000000,0.9800000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0254729522,-0.0344108302)
+	point:
+		position: (0.2600000000,0.8100000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0000000000,-0.0194044774)
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.3175000000,0.0925000000)
+		lock: free
+		line_after: curve
+		handle_after: (0.0135405380,0.0135405380)
+	point:
+		position: (0.3625000000,0.1275000000)
+		lock: free
+		line_after: line
+		handle_before: (-0.0135566812,-0.0135566812)
+	point:
+		position: (0.3975000000,0.1625000000)
+		lock: free
+		line_after: curve
+		handle_after: (0.0286087681,0.0286087681)
+	point:
+		position: (0.4864062500,0.2435937500)
+		lock: direction
+		line_after: curve
+		handle_before: (-0.0177424706,-0.0363298208)
+		handle_after: (0.0053847532,0.0110259232)
+	point:
+		position: (0.4900000000,0.2800000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0000000000,-0.0122775591)
+	point:
+		position: (0.4900000000,0.4700000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4625000000,0.4375000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2775000000,0.2525000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0136749670,-0.0136749670)
+	point:
+		position: (0.2600000000,0.2000000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0000000000,0.0194044774)
+	point:
+		position: (0.2600000000,0.0300000000)
+		lock: free
+		line_after: line
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.0925000000,0.6925000000)
+		lock: direction
+		line_after: curve
+		handle_before: (-0.0168274994,0.0168274994)
+		handle_after: (0.0135566812,-0.0135566812)
+	point:
+		position: (0.1275000000,0.6475000000)
+		lock: free
+		line_after: line
+		handle_before: (-0.0135405380,0.0135405380)
+	point:
+		position: (0.1625000000,0.6125000000)
+		lock: free
+		line_after: curve
+		handle_after: (0.0286087681,-0.0286087681)
+	point:
+		position: (0.2435937500,0.5235937500)
+		lock: direction
+		line_after: curve
+		handle_before: (-0.0363298208,0.0177424706)
+		handle_after: (0.0110259232,-0.0053847532)
+	point:
+		position: (0.2800000000,0.5200000000)
+		lock: free
+		line_after: line
+		handle_before: (-0.0122775591,0.0000000000)
+	point:
+		position: (0.4700000000,0.5200000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4375000000,0.5475000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2425000000,0.7425000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0136749670,0.0136749670)
+	point:
+		position: (0.1900000000,0.7600000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0194044774,0.0000000000)
+	point:
+		position: (0.0400000000,0.7600000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.0400000000,0.7400000000)
+		lock: free
+		line_after: curve
+		handle_after: (0.0208865382,-0.0109405677)
+part:
+	type: shape
+	name: 
+	combine: merge
+	point:
+		position: (0.2000000000,0.2600000000)
+		lock: free
+		line_after: curve
+		handle_after: (0.0194044774,-0.0000000000)
+	point:
+		position: (0.2525000000,0.2775000000)
+		lock: free
+		line_after: line
+		handle_before: (-0.0136749670,-0.0136749670)
+	point:
+		position: (0.4375000000,0.4625000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.4700000000,0.4900000000)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2800000000,0.4900000000)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0122775591,-0.0000000000)
+	point:
+		position: (0.2435937500,0.4864062500)
+		lock: direction
+		line_after: curve
+		handle_before: (0.0110259232,0.0053847532)
+		handle_after: (-0.0363447983,-0.0177497852)
+	point:
+		position: (0.1625000000,0.3975000000)
+		lock: direction
+		line_after: curve
+		handle_before: (0.0285282926,0.0285282926)
+		handle_after: (-0.0167129085,-0.0167129085)
+	point:
+		position: (0.0300000000,0.2600000000)
+		lock: free
+		line_after: line
+		handle_before: (0.0325190185,0.0240725202)
