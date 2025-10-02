@@ -1,0 +1,197 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.6194968554,0.5000000000)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.0654173793)
+		handle after: (-0.0000000000,-0.0654173793)
+	point:
+		position: (0.5020964361,0.3815513627)
+		lock: size
+		line after: curve
+		handle before: (0.0648384644,0.0000000000)
+		handle after: (-0.0648384644,-0.0000000000)
+	point:
+		position: (0.3846960168,0.5000000000)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.0654173793)
+		handle after: (-0.0000000000,0.0654173793)
+	point:
+		position: (0.5020964361,0.6184486373)
+		lock: size
+		line after: curve
+		handle before: (-0.0648384644,0.0000000000)
+		handle after: (0.0648384644,-0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.6404612159,0.5000043857)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.0769956765)
+		handle after: (-0.0000000000,-0.0769956765)
+	point:
+		position: (0.5020964361,0.3605913878)
+		lock: size
+		line after: curve
+		handle before: (0.0764167616,0.0000000000)
+		handle after: (-0.0764167616,-0.0000000000)
+	point:
+		position: (0.3637316562,0.5000043857)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.0769956765)
+		handle after: (-0.0000000000,0.0769956765)
+	point:
+		position: (0.5020964361,0.6394173836)
+		lock: size
+		line after: curve
+		handle before: (-0.0764167616,0.0000000000)
+		handle after: (0.0764167616,-0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: subtract
+	point:
+		position: (0.9455226116,0.8575964977)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.0603433608)
+		handle after: (-0.0000000000,-0.0603433608)
+	point:
+		position: (0.8393830488,0.7483351831)
+		lock: size
+		line after: curve
+		handle before: (0.0586192648,-0.0000000000)
+		handle after: (-0.0586192648,0.0000000000)
+	point:
+		position: (0.7332434861,0.8575964977)
+		lock: size
+		line after: curve
+		handle before: (-0.0000000000,-0.0603433608)
+		handle after: (0.0000000000,0.0603433608)
+	point:
+		position: (0.8393830488,0.9668578123)
+		lock: size
+		line after: curve
+		handle before: (-0.0586192648,0.0000000000)
+		handle after: (0.0586192648,-0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: subtract
+	point:
+		position: (1.1268343815,0.9182389937)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.0960998669)
+		handle after: (-0.0000000000,-0.0960998669)
+	point:
+		position: (0.9570230608,0.7442348009)
+		lock: size
+		line after: curve
+		handle before: (0.0937842074,0.0000000000)
+		handle after: (-0.0937842074,-0.0000000000)
+	point:
+		position: (0.7872117400,0.9182389937)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.0960998669)
+		handle after: (-0.0000000000,0.0960998669)
+	point:
+		position: (0.9570230608,1.0922431866)
+		lock: size
+		line after: curve
+		handle before: (-0.0937842074,0.0000000000)
+		handle after: (0.0937842074,-0.0000000000)
+part:
+	type: shape
+	name: Rectangle
+	combine: subtract
+	point:
+		position: (0.5283016752,0.0723266233)
+		lock: free
+		line after: line
+	point:
+		position: (0.5283053385,0.6509432392)
+		lock: free
+		line after: line
+	point:
+		position: (0.4737947608,0.6509438169)
+		lock: free
+		line after: line
+	point:
+		position: (0.4737910976,0.0723272010)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.8354297694,0.5010482180)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.1840949257)
+		handle after: (-0.0000000000,-0.1840949257)
+	point:
+		position: (0.5031446541,0.1677148847)
+		lock: size
+		line after: curve
+		handle before: (0.1835160109,0.0000000000)
+		handle after: (-0.1835160109,-0.0000000000)
+	point:
+		position: (0.1708595388,0.5010482180)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.1840949257)
+		handle after: (-0.0000000000,0.1840949257)
+	point:
+		position: (0.5031446541,0.8343815514)
+		lock: size
+		line after: curve
+		handle before: (-0.1835160109,0.0000000000)
+		handle after: (0.1835160109,-0.0000000000)
+part:
+	type: shape
+	name: Square
+	combine: overlap
+	point:
+		position: (0.6140461216,0.3058700210)
+		lock: free
+		line after: line
+	point:
+		position: (0.6140461216,0.3733752621)
+		lock: free
+		line after: line
+	point:
+		position: (0.6815513627,0.3733752621)
+		lock: free
+		line after: line
+	point:
+		position: (0.6815513627,0.3058700210)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Triangle
+	combine: subtract
+	point:
+		position: (0.4995981673,0.3703453910)
+		lock: free
+		line after: line
+	point:
+		position: (0.3620379636,0.1483456602)
+		lock: free
+		line after: line
+	point:
+		position: (0.6387657019,0.1493497181)
+		lock: free
+		line after: line
