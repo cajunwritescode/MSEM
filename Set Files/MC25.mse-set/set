@@ -431,7 +431,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: 
+	notes: !exportname blue Elemental
 	time_created: 2024-10-29 17:11:50
 	time_modified: 2024-10-29 17:24:39
 	card_color: blue
@@ -14267,7 +14267,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: 
+	notes: !exportname white Spirit
 	time_created: 2024-10-29 17:11:50
 	time_modified: 2024-12-22 12:08:53
 	card_color: white
@@ -15427,7 +15427,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: 
+	notes: !exportname green Horror
 	time_created: 2024-10-29 17:11:50
 	time_modified: 2024-12-22 13:10:02
 	card_color: green
@@ -15459,7 +15459,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: 
+	notes: !exportname black Spirit
 	time_created: 2024-10-29 17:11:50
 	time_modified: 2024-12-22 13:06:41
 	card_color: black
@@ -17814,7 +17814,7 @@ card:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !exportname artifact Soldier
 	time_created: 2023-05-09 18:56:18
 	time_modified: 2024-07-03 10:03:21
 	name: Soldier
