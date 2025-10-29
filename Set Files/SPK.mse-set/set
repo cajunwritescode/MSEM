@@ -2923,14 +2923,18 @@ card:
 		overlay: 
 	notes:
 		!pidge
+		!update buffed: +1 now creates a tapped Junk.
+		
 		Full Name: Pidge (and Brownie)
 		Species: Kithkin Artificer (and Cat)
 		Gender: Female (and Cat)
 		Home Plane: Lowyn
 		Spark Plane: Skalor
 		Notes: A colorblind kithkin who loves tinkering with gadgets and magic. Runs the PB&J Delivery service across the Multiverse.
+		
+		!inpend token./add/ (It’s an artifact with “{T}, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.”)
 	time_created: 2018-08-23 03:36:05
-	time_modified: 2023-04-24 00:02:31
+	time_modified: 2025-10-29 00:40:08
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/her
@@ -2949,7 +2953,7 @@ card:
 	loyalty_cost_2: -1
 	loyalty_cost_3: -7
 	loyalty: 3
-	level_1_text: <margin:130:0:0>Create a 1/1 white Cat creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_1_text: <margin:130:0:0>Create a 1/1 white Cat creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and a tapped <kw-0><nospellcheck><key>Junk toke<param-*s>n</param-*s></key></nospellcheck></kw-0>.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>When you next activate a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> ability of target permanent this turn, copy that ability. You may choose new targets for the copy.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Exile up to seven target permanents. Return those cards to the battlefield under their owner’s control at the beginning of the next end step.</margin:130:0:0>
 	level_4_text: 
@@ -2963,7 +2967,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		[+1]: <margin:130:0:0>Create a 1/1 white Cat creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Create a 1/1 white Cat creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and a tapped <kw-0><nospellcheck><key>Junk toke<param-*s>n</param-*s></key></nospellcheck></kw-0>.</margin:130:0:0>
 		[-1]: <margin:130:0:0>When you next activate a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> ability of target permanent this turn, copy that ability. You may choose new targets for the copy.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Exile up to seven target permanents. Return those cards to the battlefield under their owner’s control at the beginning of the next end step.</margin:130:0:0>
 
@@ -7210,36 +7214,6 @@ card:
 	copyright_3: 
 
 card:
-	stylesheet: m15-emblem-cajun
-	stylesheet_version: 2024-06-06
-	has_styling: true
-	styling_data:
-		popout_image_style: 0,59,375,187,
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		overlay: 
-	notes: !noexport
-	time_created: 2018-09-15 01:20:21
-	time_modified: 2019-09-22 22:12:48
-	name: Emblem
-	image: image454
-	image_2: 
-	mainframe_image: image455
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Emblem</word-list-type-en>
-	sub_type: <word-list-planeswalker>Zero</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
-	rule_text: You may pay <sym>0</sym> rather than pay the cost of activated abilities you control that aren’t mana abilities.
-	rule_text_2: 
-	flavor_text: <i-flavor></i-flavor>
-	flavor_text_2: <i-flavor></i-flavor>
-	illustrator: Marco Gonzalez
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
@@ -7466,6 +7440,7 @@ card:
 	notes:
 		!related
 		1>Mabil Fardancer
+		!update
 	time_created: 2018-09-06 00:50:24
 	time_modified: 2018-09-15 23:22:48
 	card_color: land, multicolor
@@ -7897,6 +7872,33 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !update
+	time_created: 2025-10-29 00:43:02
+	time_modified: 2025-10-29 00:44:29
+	name: Junk
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Junk</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice this token: Exile the top card of your library. You may play that card this turn. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Quentin Godillon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 
 keyword:
 	keyword: Archive

@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!sanaito 
+		!design Cajun
+	time_created: 2019-11-17 18:21:23
+	time_modified: 2023-11-01 00:54:06
+	name: Morning Sun
+	casting_cost: 1W
+	image: image134
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: Put two +1/+1 or loyalty counters on target creature or planeswalker. It gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
+	flavor_text:
+		<i-flavor>“It seems we’re both looking for someone here. Perhaps we could help each other.”<soft-line>
+		—<error-spelling:en_US>Sanaito</error-spelling:en_US>, to Karina</soft-line></i-flavor>
+	watermark: other magic symbols color spotlight
+	illustrator: Sa-Dui
+	card_code_text: Story Spotlight 5/8
+	card_code_text_2: Story Spotlight 5/8
+	card_code_text_3: Story Spotlight 5/8
+	copyright: 
+	copyright_2: 
+	copyright_3: 

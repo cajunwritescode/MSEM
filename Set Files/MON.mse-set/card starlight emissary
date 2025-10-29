@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Clefairy
+	time_created: 2019-07-03 18:08:39
+	time_modified: 2020-09-14 23:26:47
+	card_color_2: blue
+	name: Starlight Emissary
+	name_2: 
+	casting_cost: 2UU
+	image: image190
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	rarity: uncommon
+	rule_text: Whenever <atom-cardname><nospellcheck>Starlight Emissary</nospellcheck></atom-cardname> harnesses a spell, draw a card.
+	rule_text_2: 
+	flavor_text:
+		<i-flavor>“Stories claim some monsters are from far-off worlds. But now I’ve seen those worlds, and seen we’re all here together. We should all act more like it.”<soft-line>
+		—<error-spelling:en_US>Sanaito</soft-line></i-flavor></error-spelling:en_US>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 3
+	power_2: 
+	toughness: 2
+	toughness_2: 
+	illustrator: Mark McGlashan
+	illustrator_2: 
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

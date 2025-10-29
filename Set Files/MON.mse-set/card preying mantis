@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Scyther
+	time_created: 2020-02-07 21:47:30
+	time_modified: 2023-09-23 14:11:52
+	name: Preying Mantis
+	casting_cost: 2G
+	image: image108
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		At the beginning of your end step, return <atom-cardname><nospellcheck>Preying Mantis</nospellcheck></atom-cardname> to its owner’s hand.
+	flavor_text: <i-flavor>The massive mantis flickered in and out of the trees, delivering strike after strike while dodging any counterattacks.</i-flavor>
+	power: 4
+	toughness: 3
+	illustrator: kawayoo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

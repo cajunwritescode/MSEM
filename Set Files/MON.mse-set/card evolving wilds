@@ -1,0 +1,22 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2020-02-04 20:32:03
+	time_modified: 2020-04-20 23:56:35
+	name: Evolving Wilds
+	image: image132
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice Evolving Wilds: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+	flavor_text: <i-flavor>Luna paced outside the tent, guarding her newfound friends under the now comforting light of the full moon.</i-flavor>
+	illustrator: YunniiisArt
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

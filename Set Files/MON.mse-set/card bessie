@@ -1,0 +1,45 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 15,6,345,332,
+		other_options: un-indent nonloyalty abilities, vorthos box
+		default_image_size: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !walker
+	time_created: 2017-11-16 01:15:17
+	time_modified: 2021-05-27 21:00:34
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: She/Her
+	name: Bessie
+	casting_cost: 2GG
+	image: image33
+	image_2: image49
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Bessie</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	loyalty_cost_1: 
+	loyalty_cost_2: +1
+	loyalty_cost_3: -6
+	loyalty: 3
+	level_1_text: <sym-auto>1G</sym-auto>: Until your next turn, <atom-cardname><nospellcheck>Bessie</nospellcheck></atom-cardname> becomes a 5/5 green Wurm creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>. You can’t activate this ability while <atom-cardname><nospellcheck>Bessie</nospellcheck></atom-cardname> is being attacked. <i-auto>(She doesn’t lose loyalty while she’s not a planeswalker.)</i-auto>
+	level_2_text: <margin:130:0:0>Creatures you control get +1/+1 and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Create five 3/3 green Wurm creature tokens with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_4_text: 
+	illustrator: Rael Lyra
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		<sym-auto>1G</sym-auto>: Until your next turn, <atom-cardname><nospellcheck>Bessie</nospellcheck></atom-cardname> becomes a 5/5 green Wurm creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>. You can’t activate this ability while <atom-cardname><nospellcheck>Bessie</nospellcheck></atom-cardname> is being attacked. <i-auto>(She doesn’t lose loyalty while she’s not a planeswalker.)</i-auto>
+		[+1]: <margin:130:0:0>Creatures you control get +1/+1 and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
+		[-6]: <margin:130:0:0>Create five 3/3 green Wurm creature tokens with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>

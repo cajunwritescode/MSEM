@@ -2282,12 +2282,14 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !Flag: Power level concern
+	notes:
+		!Flag: Power level concern
+		!update adjusted: Costs {U} less and regrows one card instead of X.
 	time_created: 2020-11-03 17:16:23
-	time_modified: 2021-05-19 07:26:20
+	time_modified: 2025-10-29 00:18:49
 	card_color: blue
 	name: Grand Arcana
-	casting_cost: XXUUU
+	casting_cost: XXUU
 	image: image428
 	image_2: 
 	mainframe_image: 
@@ -2297,7 +2299,7 @@ card:
 	rarity: rare
 	rule_text:
 		This spell costs <sym-auto>2</sym-auto> less to cast if you control a legendary creature.
-		Return up to X target instant and/or sorcery cards from your graveyard to your hand. Draw X cards. Exile <atom-cardname><nospellcheck>Grand Arcana</nospellcheck></atom-cardname>.
+		Return up to one target instant or sorcery card from your graveyard to your hand. Draw X cards. Exile <atom-cardname><nospellcheck>Grand Arcana</nospellcheck></atom-cardname>.
 	flavor_text:
 		<i-flavor>“Tell me, when did you first change the world forever?”<soft-line>
 		—<error-spelling:en_US>Baljurn</error-spelling:en_US>, the <error-spelling:en_US>Runelord</soft-line></i-flavor></error-spelling:en_US>

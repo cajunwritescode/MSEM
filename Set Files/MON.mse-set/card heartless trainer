@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2019-10-25 23:00:06
+	time_modified: 2024-07-05 06:49:30
+	name: Heartless Trainer
+	casting_cost: 1B
+	image: image204
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: At the beginning of your upkeep, if you have less life than an opponent, you lose 1 life and you draw a card.
+	flavor_text: <i-flavor>“What did I ever do to get stuck with a bunch of chumps like you?”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: shizen1102
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

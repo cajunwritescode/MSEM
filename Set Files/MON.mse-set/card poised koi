@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !grave
+	time_created: 2020-02-05 12:49:38
+	time_modified: 2020-05-11 03:21:20
+	name: Poised Koi
+	casting_cost: 2U
+	image: image65
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fish</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: Whenever <atom-cardname><nospellcheck>Poised Koi</nospellcheck></atom-cardname> attacks or blocks, look at the top two cards of your library, put any of them into your graveyard, then the rest back on top in any order.
+	flavor_text:
+		<i-flavor>“Many jobs are done by trained monsters instead of people. It does seem easier to hunt fish with a fish than with a worm.”<soft-line>
+		—Karina <error-spelling:en_US>Oblay</error-spelling:en_US>, field notes</soft-line></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Jessica Liang
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

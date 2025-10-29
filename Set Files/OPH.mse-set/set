@@ -714,11 +714,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update buffed: Wass {3}{W}{W}. Now protects planeswalkers. Trigger changed from gaining a glory counter if you didn’t lose life during each opponent’s turn.
 	time_created: 2016-08-03 11:54:07
-	time_modified: 2017-05-27 13:00:53
+	time_modified: 2025-10-28 22:43:15
 	name: Pristine Prison
-	casting_cost: 3WW
+	casting_cost: 2WW
 	image: image22
 	image_2: 
 	mainframe_image: 
@@ -727,8 +727,10 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		Creatures can’t attack you unless their controller pays <sym>2</sym> for each of those creatures.
-		At the beginning of each opponent’s end step, if you didn’t lose life this turn, you get a <kw-A><nospellcheck><key>glory counter</key></nospellcheck>.<atom-reminder-action> <i-auto>(You lose glory counters before life. A player with ten or more glory counters wins the game.)</i-auto></atom-reminder-action></kw-A>
+		Creatures can’t attack you or planeswalkers you control unless their controller pays <sym>2</sym> for each of those creatures.
+		<margin:0:0:5>At the beginning of your end step, choose one —</margin:0:0:5>
+		<li><bullet>• </bullet>You get a <kw-A><nospellcheck><key>glory counter</key></nospellcheck>.<atom-reminder-action> <i-auto>(You lose glory counters before life. A player with ten or more glory counters wins the game.)</i-auto></atom-reminder-action></kw-A>
+		</li><li><bullet>• </bullet>Exile target creature or planeswalker until you have fewer than five glory counters.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Guang Yang
 	card_code_text: 

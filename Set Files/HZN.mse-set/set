@@ -1669,8 +1669,8 @@ card:
 	special_text:
 		<i-auto>(As you complete a condition, decode it. After all are decoded, you solve the mystery and transform this.)</i-auto>
 		When <atom-cardname><nospellcheck>Mystery of the Crashed Craft</nospellcheck></atom-cardname> enters, create two 1/1 red Alien creature tokens with “This creature can’t block.”
-		{mg} — You cast an instant spell.
-		{mg} — You cast a sorcery spell.
+		You cast an instant spell.
+		You cast a sorcery spell.
 	special_text_2: 
 
 card:
@@ -2056,13 +2056,15 @@ card:
 	has_styling: true
 	styling_data:
 		shrink_name_text: 1
-		override_levels: three abilities
+		override_levels: automatic
 		other_options: un-indent nonloyalty abilities, vorthos box
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !design Emily
+	notes:
+		!design Emily
+		!update reworked: Was {B}{R}{G} with +2: You may sacrifice a permanent or discard a card. If you do, draw a card.;-X: Return target creature card with mana value X or less from your graveyard to the battlefield.;-8: You get an emblem with “Whenever a permanent you control dies, return a permanent card with lesser mana value from your graveyard to the battlefield.”
 	time_created: 2018-03-07 04:24:45
-	time_modified: 2021-05-29 14:27:23
+	time_modified: 2025-10-29 00:05:52
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: He/Him
@@ -2077,13 +2079,14 @@ card:
 	rarity: mythic rare
 	rule_text: sorcery	
 	flavor_text: <i-flavor></i-flavor>
-	loyalty_cost_1: +2
-	loyalty_cost_2: -X
-	loyalty_cost_3: -8
+	loyalty_cost_1: +1
+	loyalty_cost_2: -1
+	loyalty_cost_3: -5
 	loyalty: 3
-	level_1_text: <margin:130:0:0>You may sacrifice a permanent or discard a card. If you do, draw a card.</margin:130:0:0>
-	level_2_text: <margin:130:0:0>Return target creature card with mana value X or less from your graveyard to the battlefield.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>You get an emblem with “Whenever a permanent you control dies, return a permanent card with lesser mana value from your graveyard to the battlefield.”</margin:130:0:0>
+	level_1_text: <margin:130:0:0>You may sacrifice a permanent or discard a card. If you do, draw two cards.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>You may sacrifice a permanent or discard a card. If you do, destroy target nonland permanent.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Exchange your hand and graveyard.</margin:130:0:0>
+	level_4_text: 
 	power: 
 	toughness: 
 	illustrator: India-Lee Crews
@@ -2094,9 +2097,9 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		[+2]: <margin:130:0:0>You may sacrifice a permanent or discard a card. If you do, draw a card.</margin:130:0:0>
-		[-X]: <margin:130:0:0>Return target creature card with mana value X or less from your graveyard to the battlefield.</margin:130:0:0>
-		[-8]: <margin:130:0:0>You get an emblem with “Whenever a permanent you control dies, return a permanent card with lesser mana value from your graveyard to the battlefield.”</margin:130:0:0>
+		[+1]: <margin:130:0:0>You may sacrifice a permanent or discard a card. If you do, draw two cards.</margin:130:0:0>
+		[-1]: <margin:130:0:0>You may sacrifice a permanent or discard a card. If you do, destroy target nonland permanent.</margin:130:0:0>
+		[-5]: <margin:130:0:0>Exchange your hand and graveyard.</margin:130:0:0>
 
 card:
 	stylesheet: m15-altered

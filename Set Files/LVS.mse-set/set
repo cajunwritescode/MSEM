@@ -3875,8 +3875,9 @@ card:
 	notes:
 		Handle With Care — The Traveling Wilburys
 		!done
+		!update buffed: Used to check for six cards.
 	time_created: 2020-05-09 14:49:09
-	time_modified: 2020-05-24 18:12:44
+	time_modified: 2025-10-28 23:50:18
 	name: TT-23 Aegis
 	casting_cost: 2WU
 	image: image129
@@ -3888,7 +3889,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>TT-23 Aegis</nospellcheck></atom-cardname> can’t attack or block unless you have six or more cards in hand.
+		<atom-cardname><nospellcheck>TT-23 Aegis</nospellcheck></atom-cardname> can’t attack or block unless you have five or more cards in hand.
 		At the beginning of your end step, if you didn’t cast a spell this turn, draw a card.
 	flavor_text:
 		<i-flavor>Handle me with care.<soft-line>

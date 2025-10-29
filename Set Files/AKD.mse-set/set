@@ -7165,9 +7165,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update buffed: Now has ward {3}.
 	time_created: 2019-06-27 02:52:19
-	time_modified: 2019-10-05 02:03:44
+	time_modified: 2025-10-29 00:02:06
 	name: Nidhir, the One Beyond
 	casting_cost: 7BRG
 	image: image220
@@ -7180,7 +7180,7 @@ card:
 	rule_text:
 		This spell costs <sym-auto>X</sym-auto> less to cast, where X is the greatest power among creatures you controlled that died this turn.
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0>
 	flavor_text:
 		<i-flavor>“Even if you could defeat me, I assure you something worse would take my place.”<soft-line>
 		</soft-line>—<error-spelling:en_US>Zarad</error-spelling:en_US>, the Final Adversary</i-flavor>

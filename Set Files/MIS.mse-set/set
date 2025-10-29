@@ -4243,10 +4243,18 @@ card:
 	copyright_3: 
 
 card:
-	has_styling: false
-	notes: !design HerziQuerzi
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!design HerziQuerzi
+		!update buffed: Was other enchantments
 	time_created: 2016-05-12 16:39:30
-	time_modified: 2017-01-19 15:50:46
+	time_modified: 2025-10-28 22:39:17
 	name: Dismantle the Established
 	casting_cost: 2G
 	image: image125
@@ -4256,7 +4264,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
-	rule_text: Other enchantments have “At the beginning of your upkeep, pay <sym-auto>1</sym-auto> or sacrifice this enchantment.”
+	rule_text: Other noncreature, nonland permanents have “At the beginning of your upkeep, pay <sym-auto>1</sym-auto> or sacrifice this enchantment.”
 	flavor_text:
 		<i-flavor>“The world is far too grand and beautiful to be confined by law.”<soft-line>
 		—<error-spelling:en_US>Jhek</error-spelling:en_US>, <error-spelling:en_US>Ifram’s</error-spelling:en_US> trickster</soft-line></i-flavor>

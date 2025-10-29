@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Mismagius
+		!life
+	time_created: 2020-01-18 21:32:13
+	time_modified: 2020-01-24 17:58:56
+	card_color: black
+	name: Wraith of the Fens
+	casting_cost: 3B
+	image: image31
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <atom-cardname><nospellcheck>Wraith of the Fens</nospellcheck></atom-cardname> gets +2/+2 as long as you’ve gained life this turn.
+	flavor_text: <i-flavor>A master of illusion, the spirit feeds off fear of the nightmares it creates.</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: kunochai
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

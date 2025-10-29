@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !design Cajun
+	time_created: 2020-02-08 02:17:07
+	time_modified: 2020-04-19 03:47:33
+	name: One on One
+	casting_cost: 1W
+	image: image272
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text: <kw-A><i-auto><nospellcheck><key>Vanguard</key></nospellcheck></i-auto></kw-A> — Whenever a creature you control attacks alone, put a +1/+1 counter on it.
+	flavor_text: <i-flavor>In a duel between <error-spelling:en_US>Chikyu’s</error-spelling:en_US> trainers, honor demands that each side use only a single monster at a time.</i-flavor>
+	power: 
+	toughness: 
+	illustrator: R-nowong
+	card_code_text: ft: Philippe Saner
+	card_code_text_2: ft: Philippe Saner
+	card_code_text_3: ft: Philippe Saner
+	copyright: 
+	copyright_2: 
+	copyright_3: 

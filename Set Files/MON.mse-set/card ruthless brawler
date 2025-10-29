@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Primeape
+		!wildcard new art
+	time_created: 2017-11-13 00:55:15
+	time_modified: 2020-10-24 14:03:23
+	name: Ruthless Brawler
+	casting_cost: 2B
+	image: image55
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Ape</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: Whenever another creature with power 4 or greater you control attacks, <atom-cardname><nospellcheck>Ruthless Brawler</nospellcheck></atom-cardname> deals 1 damage to defending player.
+	flavor_text:
+		<i-flavor>“Everything is tossed aside in the name of furthering its strength. I can respect that.”<soft-line>
+		—Lucien, the duelist</soft-line></i-flavor>
+	power: 4
+	toughness: 2
+	illustrator: Haychel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

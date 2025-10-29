@@ -88,6 +88,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -130,6 +131,7 @@ card:
 		[+1]: <margin:130:0:0>Up to one target creature you control gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 		[0]: <margin:130:0:0>Create a 1/1 white Warrior creature token.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Search your library for an Aura or Equipment card with mana value X and put it onto the battlefield, then shuffle.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !rul If a creature would have normally gone to the graveyard, but that was replaced, eg ’If a creature would die, exile it instead,’ Wakeborne Kraken’s second ability will trigger.
@@ -157,6 +159,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -185,6 +188,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -218,6 +222,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -244,6 +249,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -279,6 +285,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -306,6 +313,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -341,6 +349,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -376,6 +385,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -418,6 +428,7 @@ card:
 		[+2]: <margin:130:0:0>Draw two cards. Each opponent discards two cards.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Target player sacrifices a creature.</margin:130:0:0>
 		[-8]: <margin:130:0:0>Create thirteen tapped 1/1 black Skeleton creature tokens. Take an extra turn after this one.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -455,6 +466,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -495,6 +507,7 @@ card:
 		[+1]: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. Untap up to one target creature.</margin:130:0:0>
 		[-2]: <margin:130:0:0><kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a> for each card type among permanents you control, then you may return a land card and/or a nonland card milled this way to their owner’s hand.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Until end of turn, you may cast spells from your hand and graveyard without paying their mana costs. If a card would be put into your graveyard from anywhere this turn, exile it instead.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -530,6 +543,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -565,6 +579,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -595,6 +610,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -622,6 +638,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -649,6 +666,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -677,6 +695,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !rul Use the `$shuffle 10` command to randomize additional libraries.
@@ -702,6 +721,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -725,6 +745,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -751,6 +772,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -789,6 +811,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -828,6 +851,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -863,6 +887,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -894,6 +919,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -922,6 +948,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -945,6 +972,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -970,6 +998,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -993,6 +1022,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1018,6 +1048,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1056,6 +1087,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1100,6 +1132,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1133,6 +1166,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1168,6 +1202,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1196,6 +1231,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1223,6 +1259,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1252,6 +1289,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1281,6 +1319,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1306,6 +1345,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1344,6 +1384,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1382,6 +1423,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1415,6 +1457,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1440,6 +1483,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1467,6 +1511,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1495,6 +1540,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1526,6 +1572,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1549,6 +1596,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1576,6 +1624,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1614,6 +1663,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1652,6 +1702,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1685,6 +1736,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1712,6 +1764,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1740,6 +1793,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1767,6 +1821,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1801,6 +1856,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1826,6 +1882,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1855,6 +1912,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1868,9 +1926,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !rul Valencia’s ability affects the total cost of the spell. It is applied after any other cost increasers or cost reducers are applied: First apply any cost increases. Next apply any cost reducers. Finally look at the amount of mana you have to pay. If it’s less than three mana, you’ll pay an extra {1}.
+	notes:
+		!rul Valencia’s ability affects the total cost of the spell. It is applied after any other cost increasers or cost reducers are applied: First apply any cost increases. Next apply any cost reducers. Finally look at the amount of mana you have to pay. If it’s less than three mana, you’ll pay an extra {1}.
+		!update buffed: Was 2/2 with unconditional first strike
 	time_created: 2018-04-30 23:02:48
-	time_modified: 2021-02-28 03:30:44
+	time_modified: 2025-10-28 23:58:17
 	name: Valencia of the <i>Concordant</i>
 	casting_cost: 1GW
 	image: image36
@@ -1881,12 +1941,12 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		Valencia has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
 		Each spell your opponents cast that would cost less than three mana to cast costs <sym-auto>1</sym-auto> more to cast.
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: <kw-A><nospellcheck><key>First mate</key></nospellcheck>—There are four or fewer different mana costs among nonland cards in your starting deck.<atom-reminder-action> <i-auto>(If this card outside the game is your chosen first mate, you may swap it with a card in your opening hand.)</i-auto></atom-reminder-action></kw-A>
-	power: 2
-	toughness: 2
+	power: 3
+	toughness: 3
 	illustrator: Sasha Beliaev
 	card_code_text: 
 	card_code_text_2: 
@@ -1894,6 +1954,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1933,6 +1994,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1969,6 +2031,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2006,6 +2069,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2043,6 +2107,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2071,6 +2136,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2096,6 +2162,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2132,6 +2199,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2157,6 +2225,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2182,6 +2251,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2215,6 +2285,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2248,6 +2319,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2284,6 +2356,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2311,6 +2384,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2346,6 +2420,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2373,6 +2448,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2400,6 +2476,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2423,6 +2500,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2454,6 +2532,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2485,6 +2564,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: f!reprint
@@ -2510,6 +2590,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2536,6 +2617,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2572,6 +2654,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2599,6 +2682,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2634,6 +2718,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2659,6 +2744,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2686,6 +2772,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2713,6 +2800,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2740,6 +2828,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2777,6 +2866,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2808,6 +2898,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2835,6 +2926,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2858,6 +2950,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2884,6 +2977,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2910,6 +3004,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2936,6 +3031,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2963,6 +3059,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2996,6 +3093,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3031,6 +3129,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3064,6 +3163,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3089,6 +3189,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3122,6 +3223,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3149,6 +3251,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3184,6 +3287,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3209,6 +3313,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3234,6 +3339,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: f!reprint
@@ -3259,6 +3365,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3284,6 +3391,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3317,6 +3425,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3342,6 +3451,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3377,6 +3487,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3402,6 +3513,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3429,6 +3541,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3454,6 +3567,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3493,6 +3607,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3521,6 +3636,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3548,6 +3664,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3573,6 +3690,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3598,6 +3716,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3631,6 +3750,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3656,6 +3776,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3692,6 +3813,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3719,6 +3841,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3752,6 +3875,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3785,6 +3909,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3810,6 +3935,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3843,6 +3969,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3871,6 +3998,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3898,6 +4026,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3925,6 +4054,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3948,6 +4078,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3971,6 +4102,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4002,6 +4134,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4027,6 +4160,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4053,6 +4187,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4080,6 +4215,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4113,6 +4249,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4138,6 +4275,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4163,6 +4301,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4190,6 +4329,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4223,6 +4363,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4259,6 +4400,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4302,6 +4444,7 @@ card:
 	copyright: Maik 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4337,6 +4480,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4372,6 +4516,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4409,6 +4554,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4445,6 +4591,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4471,6 +4618,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4502,6 +4650,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4536,6 +4685,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4569,6 +4719,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4602,6 +4753,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4627,6 +4779,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4660,6 +4813,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4687,6 +4841,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4712,6 +4867,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4747,6 +4903,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4775,6 +4932,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4803,6 +4961,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4836,6 +4995,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4863,6 +5023,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4896,6 +5057,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4931,6 +5093,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4956,6 +5119,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4989,6 +5153,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5020,6 +5185,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5048,6 +5214,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: f!reprint
@@ -5075,6 +5242,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5108,6 +5276,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 card:
 	has_styling: false
 	notes: 
@@ -5133,6 +5302,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5160,6 +5330,7 @@ card:
 	copyright: Kim Junghun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5185,6 +5356,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5220,6 +5392,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5253,6 +5426,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5282,6 +5456,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5309,6 +5484,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5336,6 +5512,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5363,6 +5540,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5386,6 +5564,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: f!reprint
@@ -5411,6 +5590,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5442,6 +5622,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5468,6 +5649,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5499,6 +5681,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5526,6 +5709,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5552,6 +5736,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5578,6 +5763,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5604,6 +5790,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: f!reprint
@@ -5630,6 +5817,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: f!reprint
@@ -5655,6 +5843,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5682,6 +5871,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5709,6 +5899,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5742,6 +5933,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5769,6 +5961,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5796,6 +5989,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5821,6 +6015,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5854,6 +6049,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5887,6 +6083,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5912,6 +6109,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5947,6 +6145,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: f!reprint
@@ -5972,6 +6171,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6005,6 +6205,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6036,6 +6237,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6059,6 +6261,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: f!reprint
@@ -6084,6 +6287,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6109,6 +6313,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6135,6 +6340,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6161,6 +6367,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6188,6 +6395,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6221,6 +6429,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6248,6 +6457,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6275,6 +6485,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6310,6 +6521,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6335,6 +6547,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6368,6 +6581,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6405,6 +6619,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6438,6 +6653,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6465,6 +6681,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6499,6 +6716,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6524,6 +6742,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6555,6 +6774,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6586,6 +6806,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: f!reprint
@@ -6611,6 +6832,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6644,6 +6866,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6675,6 +6898,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6703,6 +6927,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6739,6 +6964,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6766,6 +6992,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6801,6 +7028,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6836,6 +7064,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6861,6 +7090,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6886,6 +7116,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6921,6 +7152,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6956,6 +7188,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6985,6 +7218,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7018,6 +7252,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7045,6 +7280,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7082,6 +7318,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7116,6 +7353,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: f!reprint
@@ -7141,6 +7379,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7164,6 +7403,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7197,6 +7437,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7222,6 +7463,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7257,6 +7499,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7290,6 +7533,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7316,6 +7560,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7352,6 +7597,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7388,6 +7634,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7422,6 +7669,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: f!reprint
@@ -7448,6 +7696,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7473,6 +7722,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: f!reprint
@@ -7499,6 +7749,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7530,6 +7781,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 card:
 	has_styling: true
 	styling_data:
@@ -7559,6 +7811,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 card:
 	has_styling: true
 	styling_data:
@@ -7588,6 +7841,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 card:
 	has_styling: true
 	styling_data:
@@ -7617,6 +7871,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 card:
 	has_styling: true
 	styling_data:
@@ -7646,6 +7901,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7674,6 +7930,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7704,6 +7961,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7732,6 +7990,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7760,6 +8019,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7790,6 +8050,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7820,6 +8081,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7849,6 +8111,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
+
 keyword:
 	keyword: Voyage
 	match: voyages

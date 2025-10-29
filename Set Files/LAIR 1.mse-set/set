@@ -3008,9 +3008,11 @@ card:
 		default_image_size: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL11)
+	notes:
+		!hidetag (SL11)
+		!update
 	time_created: 2017-11-16 01:15:17
-	time_modified: 2021-05-22 17:34:50
+	time_modified: 2025-10-28 23:55:48
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			pride_pin: pan
@@ -3030,7 +3032,7 @@ card:
 	loyalty: 3
 	level_1_text: <margin:0:0:5>At the beginning of your end step, choose any number of permanents and/or players, then give each another counter of each kind it already has.</margin:0:0:5>
 	level_2_text: <margin:130:0:5><kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>. Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.</margin:130:0:5>
-	level_3_text: <margin:130:0:5>Exile the top X cards of your library. Until end of turn, you may play a card exiled with <atom-cardname><nospellcheck>Trainee Karina Oblay</nospellcheck></atom-cardname>.</margin:130:0:5>
+	level_3_text: <margin:130:0:5>Exile the top X cards of your library. Until the end of your next turn, you may play two cards exiled with Trainee Karina <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Oblay</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:130:0:5>
 	level_4_text: 
 	level_5_text: 
 	level_6_text: 
@@ -3045,7 +3047,7 @@ card:
 	special_text:
 		<margin:0:0:5>At the beginning of your end step, choose any number of permanents and/or players, then give each another counter of each kind it already has.</margin:0:0:5>
 		[+1]: <margin:130:0:5><kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>. Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.</margin:130:0:5>
-		[-X]: <margin:130:0:5>Exile the top X cards of your library. Until end of turn, you may play a card exiled with <atom-cardname><nospellcheck>Trainee Karina Oblay</nospellcheck></atom-cardname>.</margin:130:0:5>
+		[-X]: <margin:130:0:5>Exile the top X cards of your library. Until the end of your next turn, you may play two cards exiled with Trainee Karina <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Oblay</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:130:0:5>
 
 card:
 	stylesheet: m15-altered
@@ -4109,17 +4111,19 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
-		chop_top: 2,2,
+		chop_top: ,-5,
 		chop_bottom: 
 		other_options: auto nyx crowns
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL16)
+	notes:
+		!hidetag (SL16)
+		!update
 	time_created: 2021-06-02 23:04:31
-	time_modified: 2021-06-21 22:57:51
+	time_modified: 2025-10-28 23:44:59
 	name: Endless Discoveries
-	casting_cost: U
+	casting_cost: 1U
 	image: image149
 	image_2: 
 	mainframe_image: 
@@ -4128,8 +4132,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		<sym-auto>U</sym-auto>, Put a travel counter on <atom-cardname><nospellcheck>Endless Discoveries</nospellcheck></atom-cardname>: Draw a card. This ability costs <sym-auto>1</sym-auto> more to activate for each travel counter on Endless Discoveries.
-		<sym-auto>3UU</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Endless Discoveries</nospellcheck></atom-cardname>: Return target instant or sorcery card with mana value less than or equal to the number of travel counters on <atom-cardname><nospellcheck>Endless Discoveries</nospellcheck></atom-cardname> from your graveyard to your hand.
+		When Endless Discoveries enters, look at the top three cards of your library, then exile them face down.
+		<sym-auto>U</sym-auto>: Put a card exiled with Endless Discoveries into its owner’s hand. Then if there are no cards exiled with Endless Discoveries, shuffle it into its owner’s library.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 田 烏鴉
 	custom_card_number: 111
@@ -8317,7 +8321,7 @@ card:
 	copyright_3: 
 	special_text:
 		(As this Discovery enters and after your draw step, add a progress counter. Stop after you've discovered.)
-		I, II, Discovery — Look at the top five cards of your library. Put up to one creature card with mana value 2 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+		Look at the top five cards of your library. Put up to one creature card with mana value 2 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
 		At the beginning of combat on your turn, tap target creature an opponent controls.
 		​
 
@@ -9198,9 +9202,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL31)
+	notes:
+		!hidetag (SL31)
+		!update
 	time_created: 2021-08-20 23:39:30
-	time_modified: 2021-08-25 16:06:13
+	time_modified: 2025-10-28 23:49:29
 	name: TT-23 Aegis
 	casting_cost: 2WU
 	image: image302
@@ -9212,7 +9218,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>TT-23 Aegis</nospellcheck></atom-cardname> can’t attack or block unless you have six or more cards in hand.
+		<atom-cardname><nospellcheck>TT-23 Aegis</nospellcheck></atom-cardname> can’t attack or block unless you have five or more cards in hand.
 		At the beginning of your end step, if you didn’t cast a spell this turn, draw a card.
 	flavor_text: <i-flavor>It was erected as a display of victory long ago. Today, it stands as a reminder of what once was.</i-flavor>
 	power: 5
@@ -9763,9 +9769,10 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL32)
+		!update
 		!inpend starting deck./add/ (If this card outside the game is your chosen first mate, you may swap it with a card in your opening hand.)
 	time_created: 2021-09-19 00:12:47
-	time_modified: 2021-09-21 12:59:39
+	time_modified: 2025-10-28 23:58:58
 	name: Valencia of the <i>Concordant</i>
 	casting_cost: 1GW
 	image: image317
@@ -9777,11 +9784,11 @@ card:
 	rarity: rare
 	rule_text:
 		First mate—There are four or fewer different mana costs among nonland cards in your starting deck.
-		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		Valencia has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
 		Each spell your opponents cast that would cost less than three mana to cast costs <sym-auto>1</sym-auto> more to cast. 
 	flavor_text: <i-flavor></i-flavor>
-	power: 2
-	toughness: 2
+	power: 3
+	toughness: 3
 	illustrator: Brandon Liao
 	custom_card_number: 246
 	card_code_text: CanterburyEgg
@@ -13271,9 +13278,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL43)
+	notes:
+		!hidetag (SL43)
+		!update
 	time_created: 2021-11-01 00:35:22
-	time_modified: 2022-05-19 13:04:00
+	time_modified: 2025-10-28 22:56:25
 	name: Moment of Tranquility
 	casting_cost: U
 	image: image422
@@ -13284,7 +13293,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		Cast this spell only during your turn.
+		This spell costs <sym-auto>1U</sym-auto> less to cast during your turn.
 		Counter target spell.
 	flavor_text:
 		<i-flavor>When I was drowning, that’s when I could finally breathe<soft-line>

@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!vang
+		Quagsire
+		old art Flavia-Elric
+	time_created: 2020-02-05 11:42:32
+	time_modified: 2020-12-01 13:58:57
+	name: Sludge Drudger
+	casting_cost: 3U
+	image: image30
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Salamander</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: <kw-A><i-auto><nospellcheck><key>Vanguard</key></nospellcheck></i-auto></kw-A> — Whenever a creature you control attacks alone, you may exile target instant or sorcery card from your graveyard. If you do, you may cast that spell from exile until your next turn. If that spell would be put into a graveyard, exile it instead.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Mark McGlashan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

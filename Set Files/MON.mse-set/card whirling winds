@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !disc
+	time_created: 2020-02-05 12:41:52
+	time_modified: 2020-10-22 01:53:10
+	name: Whirling Winds
+	casting_cost: 1U
+	image: image254
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Return target creature to its owner’s hand. If you controlled that creature, draw a card.
+	flavor_text:
+		<i-flavor>“There’s no shame in standing down from a battle you can’t win. Grinding your monsters to dust will do you no favors.”<soft-line>
+		—<error-spelling:en_US>Masaru</error-spelling:en_US>, aspiring champion</soft-line></i-flavor>
+	illustrator: salanchu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

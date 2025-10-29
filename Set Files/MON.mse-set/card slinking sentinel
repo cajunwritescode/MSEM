@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 12
+		chop_bottom: 12
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!rwvang
+		Furret
+	time_created: 2020-02-05 12:39:10
+	time_modified: 2020-05-11 03:19:58
+	name: Slinking Sentinel
+	casting_cost: 1W
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Ferret</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-A><i-auto><nospellcheck><key>Vanguard</key></nospellcheck></i-auto></kw-A> — Whenever a creature you control attacks alone, it gets +1/+1 until end of turn. Untap that creature.
+	flavor_text:
+		<i-flavor>“A team with a few of these patrols most of the villages to detect attacks well in advance.”<soft-line>
+		—Karina <error-spelling:en_US>Oblay</error-spelling:en_US>, field notes</soft-line></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Rock-Bomber
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

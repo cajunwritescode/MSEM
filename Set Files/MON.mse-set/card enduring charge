@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Electabuzz
+	time_created: 2017-11-13 00:55:15
+	time_modified: 2020-10-22 02:05:28
+	name: Enduring Charge
+	casting_cost: 2R
+	image: image97
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		Whenever you cast a noncreature spell, <atom-cardname><nospellcheck>Enduring Charge</nospellcheck></atom-cardname> gets +1/+1 until end of turn.
+	flavor_text: <i-flavor>The power plant held more secrets than <error-spelling:en_US>Masaru</error-spelling:en_US> could have predicted...</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Manuel Veloz
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Fearow
+		!disc!van
+	time_created: 2019-07-07 16:50:22
+	time_modified: 2020-02-07 17:50:26
+	name: Sharp-Eyed Wingmate
+	casting_cost: 3UU
+	image: image71
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Sharp-Eyed Wingmate</nospellcheck></atom-cardname> enters, you may return target creature to its owner’s hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: JWiesner
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

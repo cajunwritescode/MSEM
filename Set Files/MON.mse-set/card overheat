@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Vulpix
+	time_created: 2017-11-11 18:31:45
+	time_modified: 2019-12-15 23:30:15
+	name: Overheat
+	casting_cost: XRR
+	image: image164
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text:
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		<atom-cardname><nospellcheck>Overheat</nospellcheck></atom-cardname> deals X damage to any target.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: arkeis-pokemon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

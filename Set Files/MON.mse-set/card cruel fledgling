@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!grave 
+		Spearow
+	time_created: 2017-11-13 00:55:15
+	time_modified: 2021-09-26 16:16:12
+	name: Cruel Fledgling
+	casting_cost: U
+	image: image73
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Cruel Fledgling</nospellcheck></atom-cardname> enters with a +1/+1 counter on it if six or more cards are in your graveyard.
+	flavor_text:
+		<i-flavor>“The bird is not naturally a scavenger, but they take to it disturbingly well.”<soft-line>
+		—Professor Maple</soft-line></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Kylogram
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

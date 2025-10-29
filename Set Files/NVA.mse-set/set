@@ -288,15 +288,15 @@ card:
 		overlay: 
 	notes:
 		Manifestation Cycle
-		
 		!remaster: rebalance
+		!update buffed: Was 3/3 for {3}{B}{B}, gave your creatures -1/-1, and reanimated from any grave on attack.
 	time_created: 2015-02-19 01:32:46
-	time_modified: 2021-05-27 20:55:02
+	time_modified: 2025-10-28 23:03:10
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/Her
 	name: Mother Night
-	casting_cost: 3BB
+	casting_cost: 2BB
 	image: image21
 	image_2: 
 	mainframe_image: 
@@ -306,12 +306,11 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Other creatures you control get -1/-1.
-		Whenever <atom-cardname><nospellcheck>Mother Night</nospellcheck></atom-cardname> attacks, put target creature card from a graveyard onto the battlefield under your control.
+		Whenever <atom-cardname><nospellcheck>Mother Night</nospellcheck></atom-cardname> deals damage to a player, put target creature card from their graveyard onto the battlefield under your control.
 	flavor_text: <i-flavor>Life is a cruel mistress.</i-flavor>
 	watermark: none
-	power: 3
-	toughness: 3
+	power: 4
+	toughness: 4
 	illustrator: Kekai Kotaki
 	card_code_text: 
 	card_code_text_2: 
@@ -3988,9 +3987,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!remaster: minor rebalance
-
+	notes: !remaster: minor rebalance
 	time_created: 2015-08-10 19:03:59
 	time_modified: 2017-10-14 16:58:17
 	card_color: blue

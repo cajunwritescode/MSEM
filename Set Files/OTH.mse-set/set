@@ -1730,8 +1730,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever a land you control enters, add a quest counter.
-		1, 2 — Create a 1/1 Scout creature token that’s all colors.
-		3 — Creatures you control get +2/+1 until end of turn.
+		Create a 1/1 Scout creature token that’s all colors.
+		Creatures you control get +2/+1 until end of turn.
 		Creatures you control get +1/+1 until end of turn.
 
 card:
@@ -2083,8 +2083,8 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I — Create two 1/1 white Human creature tokens.
-		II, III — Put a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on target creature you control. It becomes a legendary God in addition to its other types.
+		Create two 1/1 white Human creature tokens.
+		Put a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on target creature you control. It becomes a legendary God in addition to its other types.
 		Exile target creature an opponent controls that’s a God or that has power 4 or greater.
 
 card:
@@ -3656,7 +3656,7 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I, II, III — Create a 1/1 blue Pirate creature token or a 2/2 white Dwarf creature token.
+		Create a 1/1 blue Pirate creature token or a 2/2 white Dwarf creature token.
 		Until end of turn, creatures you control gain “Whenever this creature attacks, draw a card, then discard a card unless this creature is a Pirate.”
 		​
 
@@ -6637,7 +6637,7 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)</i-auto>
-		I, II, III, IV — Create a tapped colorless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Powercell</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> artifact token with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”
+		Create a tapped colorless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Powercell</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> artifact token with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”
 		Sacrifice three artifacts.
 		​
 
@@ -7932,8 +7932,8 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I, II — Create a 3/3 green Elk creature token.
-		III — <kw-a><nospellcheck><key>Scry <param-number>X</param-number></key></nospellcheck></kw-a>, where X is the number of Elk you control, then draw a card.
+		Create a 3/3 green Elk creature token.
+		<kw-a><nospellcheck><key>Scry <param-number>X</param-number></key></nospellcheck></kw-a>, where X is the number of Elk you control, then draw a card.
 		Revive <sym>6G</sym> <i-auto>(<sym-auto>6G</sym-auto>, Exile this card from your graveyard: Create a token that’s a copy of it, except it has no mana cost. Revive only as a sorcery.)</i-auto>
 
 card:
@@ -9310,7 +9310,7 @@ card:
 		<sym-auto>1</sym-auto>: Search your library for a legendary creature card, reveal it, put it into your hand, then shuffle.
 		<sym-auto>2</sym-auto>: Invigorate 5. <i-auto>(Choose a creature with the least power among creatures you control and put five +1/+1 counters on it.)</i-auto>
 		<sym-auto>3</sym-auto>: Draw cards equal to the greatest power among creatures you control.
-		Favor — Other permanents you control have <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
+		Other permanents you control have <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
 
 card:
 	has_styling: false
@@ -11999,7 +11999,7 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I, II, III — Create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto>
+		Create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto>
 		You may sacrifice any number of artifacts. If you do, draw that many cards.
 		​
 
@@ -12286,9 +12286,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Once each turn, when you draw a card, you may reveal it and a card you own from outside the game with a different name and the same mana cost. If you do, exchange those cards.
+	notes: !update buffed: Can now swap cards with different mana costs.
 	time_created: 2020-05-28 14:46:47
-	time_modified: 2022-01-31 17:39:55
+	time_modified: 2025-10-29 00:14:35
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/him
@@ -12303,7 +12303,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		Once each turn, when you draw a card, you may reveal it and a card you own from outside the game with a different name and the same mana cost. If you do, exile the first card and put the second into your hand. <i-auto>(Mana costs must be identical.)</i-auto>
+		Once each turn, when you draw a card, you may reveal it and a card you own from outside the game with the same colors and mana value but a different name. If you do, exile the first card and put the second into your hand. <i-auto>(A <sym>BB</sym> card can trade for a card that costs <sym>1B</sym>, but not <sym>UB</sym>.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3

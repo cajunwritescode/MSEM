@@ -1812,7 +1812,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2022-02-15 22:14:05
 	time_modified: 2025-09-29 21:44:16
 	name: Overactive Imagination
@@ -3764,9 +3764,10 @@ card:
 	has_styling: false
 	notes:
 		!codex Versatility
+		!update 101: Now creates Scout tokens.
 		!rul Adventures and Tales are not alternate costs.
 	time_created: 2021-07-22 17:59:41
-	time_modified: 2022-02-19 02:35:10
+	time_modified: 2025-10-29 00:28:20
 	name: Creativity
 	casting_cost: RRR
 	image: image120
@@ -3777,7 +3778,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: mythic rare
 	rule_text:
-		Whenever you cast a spell for an alternate cost, create two 1/1 red Elemental creature tokens. <i-auto>(This includes “without paying its mana cost.”)</i-auto>
+		Whenever you cast a spell for an alternate cost, create two 1/1 red Scout creature tokens. <i-auto>(This includes “without paying its mana cost.”)</i-auto>
 		Whenever you cast a red spell from your hand, reveal the top card of your library. If that card has a lesser mana value, you may cast it without paying its mana cost. Otherwise, draw a card, then discard a card.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark ten
@@ -3977,19 +3978,27 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !backup https://www.deviantart.com/snatti89/art/Farewell-727485345
+	notes:
+		!backup https://www.deviantart.com/snatti89/art/Farewell-727485345
+		!update buffed: Back to instant, tokens have decayed.
 	time_created: 2022-02-19 07:30:46
-	time_modified: 2024-04-28 00:17:24
+	time_modified: 2025-10-29 00:23:21
 	name: Here With You
 	casting_cost: 1R
 	image: image127
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
-	rule_text: Target opponent may draw two cards. If they do, you draw four cards. Otherwise, you create four 1/1 red Elemental creature tokens.
+	rule_text: Target opponent may draw two cards. If they do, you draw four cards. Otherwise, you create four 1/1 red Elemental creature tokens with <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>. <i-auto>(A creature with <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> can’t block. When it attacks, sacrifice it at end of combat.)</i-auto>
 	flavor_text: <i-flavor>“Hey, don’t you worry about what they say about us. We can get through this together, just like everything else, right?”</i-flavor>
 	watermark: custom watermark two
 	illustrator: むじ
@@ -5463,7 +5472,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature or land</param-name></key></nospellcheck></kw-a>
-		Whenever enchanted permanent becomes tapped for the first time each turn, it <kw-1><nospellcheck><key>explores</key></nospellcheck>.<atom-reminder-action> <i-auto>(Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</i-auto></atom-reminder-action></kw-1>
+		Whenever enchanted permanent becomes tapped for the first time each turn, it <kw-1><nospellcheck><key>explores</key></nospellcheck>.<atom-reminder-action> <i-auto>(Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then you may put that card in your graveyard.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark five
 	illustrator: artursadlos
@@ -9135,10 +9144,11 @@ card:
 		overlay: 
 	notes:
 		!codex Versatility
+		!update
 		Adventures and Tales are not alternate costs.
 		!hidetag (Zero)
 	time_created: 2021-07-22 17:59:41
-	time_modified: 2022-02-28 03:58:23
+	time_modified: 2025-10-29 00:28:31
 	name: Creativity
 	casting_cost: RRR
 	image: image288
@@ -9149,7 +9159,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: special
 	rule_text:
-		Whenever you cast a spell for an alternate cost, create two 1/1 red Elemental creature tokens.
+		Whenever you cast a spell for an alternate cost, create two 1/1 red Scout creature tokens.
 		Whenever you cast a red spell from your hand, reveal the top card of your library. If that card has a lesser mana value, you may cast it without paying its mana cost. Otherwise, draw a card, then discard a card.
 	flavor_text: <i-flavor>In the Multiverse, one learns to improvise fast.</i-flavor>
 	watermark: custom watermark nine
@@ -10927,18 +10937,20 @@ card:
 		shrink_typeline_text: 1
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !exportname Red Elemental
+	notes:
+		!exportname Red Elemental
+		!update
 	time_created: 2022-02-07 00:26:35
-	time_modified: 2022-02-24 02:24:28
+	time_modified: 2025-10-29 00:25:01
 	card_color: red
 	name: Elemental
-	image: image336
+	image: image1.png
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Token Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: 
+	rule_text: <kw-1><nospellcheck><key>Decayed</key></nospellcheck><atom-reminder-expert> <i-auto>(This creature can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

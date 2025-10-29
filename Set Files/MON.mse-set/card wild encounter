@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Umbreon 
+		!lucien!karina!snip
+		!design Cajun
+	time_created: 2019-06-03 00:50:06
+	time_modified: 2021-05-16 18:27:01
+	name: Wild Encounter
+	casting_cost: 3RR
+	image: image219
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: uncommon
+	rule_text: You may put a creature or planeswalker card from your hand onto the battlefield. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Sacrifice it at the beginning of the next end step. Whenever an ability of that permanent is activated this turn, you may copy that ability. You may choose new targets for the copy.
+	flavor_text: <i-flavor>Lucien smirked at the lonesome fox. Perhaps the night wasn’t wasted after all.</i-flavor>
+	watermark: other magic symbols color spotlight
+	illustrator: Kori Arredondo
+	card_code_text: Story Spotlight 2/8
+	card_code_text_2: Story Spotlight 2/8
+	card_code_text_3: Story Spotlight 2/8
+	copyright: 
+	copyright_2: 
+	copyright_3: 

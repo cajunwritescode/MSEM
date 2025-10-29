@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2020-02-08 02:24:00
+	time_modified: 2020-04-07 02:05:01
+	card_color: white
+	name: Egg Bomb
+	casting_cost: 2WW
+	image: image279
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Destroy all attacking creatures with power 3 or greater.
+	flavor_text:
+		<i-flavor>“There’s only so many times you can say ‘looks can be <error-spelling:en_US>deceiving’</error-spelling:en_US> before you just have to assume literally everything here is waiting for a fight.”<soft-line>
+		—Lucien, the duelist</soft-line></i-flavor>
+	illustrator: Lynn-Blackwing
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -3757,10 +3757,19 @@ card:
 	copyright_3: 
 
 card:
-	has_styling: false
-	notes: RU02
+	has_styling: true
+	styling_data:
+		chop_top: 5,5,
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: no
+		overlay: 
+	notes:
+		RU02
+		!update reworked: Changed from Wizard. Abilities were Hexproof; At the beginning of your upkeep, put a card from your hand on top of your library. You may shuffle.; {1}: Look at the top three cards of your library, then put them back in any order.; {2}{U}: Draw a card.
 	time_created: 2018-05-11 14:44:14
-	time_modified: 2021-05-31 20:25:56
+	time_modified: 2025-10-28 23:28:32
 	name: Aryam the Dreamer
 	casting_cost: U
 	image: image12
@@ -3768,13 +3777,18 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
-		At the beginning of your upkeep, put a card from your hand on top of your library. You may shuffle.
-		<sym-auto>1</sym-auto>: Look at the top three cards of your library, then put them back in any order.
-		<sym-auto>2U</sym-auto>: Draw a card.
+		When you draw your third card in a turn, if <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aryam</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> doesn’t have a stargazing counter, put one on him. He gains <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>instants.</param-name></key></nospellcheck></kw-a>
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aryam</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>. If he has a stargazing counter, <kw-a><nospellcheck><key>scry <param-number>3</param-number></key></nospellcheck></kw-a> instead.
+		<sym-auto>2U</sym-auto>: Draw a card. Then discard a card unless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aryam</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> has a stargazing counter.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2

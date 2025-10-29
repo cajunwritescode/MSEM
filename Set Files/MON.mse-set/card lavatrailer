@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Magcargo
+		While perhaps the slowest monster in all of Chikyu, being made of lava turns out to be an excellent defense mechanism.
+	time_created: 2020-01-18 00:56:54
+	time_modified: 2020-05-15 01:40:09
+	card_color: red
+	name: Lavatrailer
+	casting_cost: 3RR
+	image: image98
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Snail</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Lavatrailer</nospellcheck></atom-cardname> enters tapped.
+		Whenever a creature attacks you, if <atom-cardname><nospellcheck>Lavatrailer</nospellcheck></atom-cardname> is tapped, <atom-cardname><nospellcheck>Lavatrailer</nospellcheck></atom-cardname> deals 1 damage to it.
+	flavor_text:
+		<i-flavor>“In a cave I found a snail made of lava, it must have been a million degrees in there!”<soft-line>
+		—Karina <error-spelling:en_US>Oblay</error-spelling:en_US>, field notes</soft-line></i-flavor>
+	power: 4
+	toughness: 5
+	illustrator: Mamath
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

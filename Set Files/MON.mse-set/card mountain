@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		frames: map
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		“A big silver mountain cuts the country in half, making a good landmark to work with when trying to map Chikyu.”
+		—Karina Oblay, field notes
+		!num 263
+	time_created: 2017-11-10 22:52:55
+	time_modified: 2020-05-17 23:33:16
+	card_color: red, land
+	name: Mountain
+	image: image262
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	watermark: mana symbol red
+	illustrator: Loreleï Si
+	custom_card_number: 263/251
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

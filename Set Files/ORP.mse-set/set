@@ -1144,7 +1144,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever a creature enters under an opponent’s control, you may pay <sym-auto>1B</sym-auto>. If you do, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
+		Whenever a creature enters under an opponent’s control, you may pay <sym-auto>1B</sym-auto>. If you do, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>“Too dangerous, or when they least expect it?”</i-flavor>
 	power: 1
 	toughness: 1
@@ -1450,7 +1450,7 @@ card:
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<sym-auto>1U</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Fatewrench</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Fateseal <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>1U</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Fatewrench</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Fateseal <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of an opponent’s library, then put any number of them on the bottom of that player’s library and the rest on top in any order.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>No secret is safe from <error-spelling:en_US>Mei’s</error-spelling:en_US> students, not even those that haven’t been thought of yet.</i-flavor>
 	power: 3
 	toughness: 1
@@ -1988,7 +1988,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Student of Secrets</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Student of Secrets</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor><error-spelling:en_US>Mei</error-spelling:en_US> doesn’t leave victims hungry for blood, but students hungry for knowledge.</i-flavor>
 	power: 1
 	toughness: 2
@@ -2075,7 +2075,7 @@ card:
 	rule_text:
 		Choose one —
 		<li><bullet>• </bullet><kw-0><nospellcheck><key>Scry <param-number>3</param-number></key></nospellcheck></kw-0>. Draw a card.
-		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Fateseal <param-number>3</param-number></key></nospellcheck>. That player draws a card.<atom-reminder-action> <i-auto>(Look at the top <param-number>three</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-A></li>
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Fateseal <param-number>3</param-number></key></nospellcheck>. That player draws a card.<atom-reminder-action> <i-auto>(To fateseal <param-number>3</param-number>, look at the top <param-number>three</param-number> cards of an opponent’s library, then put any number of them on the bottom of that player’s library and the rest on top in any order.)</i-auto></atom-reminder-action></kw-A></li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Daniel Kamarudin
 	card_code_text: 
@@ -2099,7 +2099,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: Look at target opponent’s hand, then <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
+	rule_text: Look at target opponent’s hand, then <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>Open your mind to me.</i-flavor>
 	power: 
 	toughness: 
@@ -2428,7 +2428,7 @@ card:
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature an opponent controls</param-name></key></nospellcheck></kw-a>
-		Whenever enchanted creature attacks or blocks, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
+		Whenever enchanted creature attacks or blocks, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: kou-chann
 	card_code_text: 
@@ -2462,7 +2462,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		At the beginning of your upkeep, each player loses 3 life unless they sacrifice a creature.
-		Sacrifice a creature: <kw-A><nospellcheck><key>Fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-A>
+		Sacrifice a creature: <kw-A><nospellcheck><key>Fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jorge Jacinto
 	card_code_text: 
@@ -2570,7 +2570,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: Whenever <atom-cardname><nospellcheck>Fickle Feeder</nospellcheck></atom-cardname> blocks, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
+	rule_text: Whenever <atom-cardname><nospellcheck>Fickle Feeder</nospellcheck></atom-cardname> blocks, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>She steals only the darkest of thoughts.</i-flavor>
 	power: 3
 	toughness: 3
@@ -2651,7 +2651,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Last-Thought Feeder</nospellcheck></atom-cardname> dies, <kw-1><nospellcheck><key>fateseal <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Last-Thought Feeder</nospellcheck></atom-cardname> dies, <kw-1><nospellcheck><key>fateseal <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of an opponent’s library, then put any number of them on the bottom of that player’s library and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor><error-spelling:en_US>Mei’s</error-spelling:en_US> students require new knowledge more than food, sleep, or society.</i-flavor>
 	power: 3
 	toughness: 2
@@ -2725,7 +2725,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Target player sacrifices a creature. <kw-A><nospellcheck><key>Fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: Target player sacrifices a creature. <kw-A><nospellcheck><key>Fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>Every symbol spells doom to someone.</i-flavor>
 	illustrator: maCGot
 	card_code_text: 
@@ -3077,7 +3077,7 @@ card:
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Vampiric Rise</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>fateseal <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
+		When <atom-cardname><nospellcheck>Vampiric Rise</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>fateseal <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of an opponent’s library, then put any number of them on the bottom of that player’s library and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
 		Enchanted creature gets +1/+0 and has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Bao Pham
@@ -5337,9 +5337,11 @@ card:
 		default_image_size: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: 1.4 Now Legendary, Mainframe Planeswalkers
+	notes:
+		1.4 Now Legendary, Mainframe Planeswalkers
+		!update buffed: First ability changed from [+2]: Each opponent loses 2 life. Scry 2.
 	time_created: 2017-03-27 23:36:11
-	time_modified: 2021-08-25 17:21:36
+	time_modified: 2025-10-28 22:45:16
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/Her
@@ -5362,11 +5364,11 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	loyalty_cost_1: +2
+	loyalty_cost_1: +1
 	loyalty_cost_2: -3
 	loyalty_cost_3: -6
 	loyalty: 5
-	level_1_text: <margin:130:0:0>Each opponent loses 2 life. <kw-0><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-0>.</margin:130:0:0>
+	level_1_text: <margin:130:0:0>Target opponent loses 2 life, then discards a card. You draw a card unless they discarded a nonland card this way.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Return target creature to its owner’s hand. That player discards a card.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>You get an emblem with “Whenever a player discards a card, you may cast it without paying its mana cost.”</margin:130:0:0>
 	level_4_text: 
@@ -5378,7 +5380,7 @@ card:
 	copyright_2: ™ & ©2017 Wizards of the Coast
 	copyright_3: ™ & ©2017 Wizards of the Coast
 	special_text:
-		[+2]: <margin:130:0:0>Each opponent loses 2 life. <kw-0><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-0>.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Target opponent loses 2 life, then discards a card. You draw a card unless they discarded a nonland card this way.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Return target creature to its owner’s hand. That player discards a card.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You get an emblem with “Whenever a player discards a card, you may cast it without paying its mana cost.”</margin:130:0:0>
 
@@ -5541,7 +5543,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever an opponent discards one or more cards, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
+		Whenever an opponent discards one or more cards, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2

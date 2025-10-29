@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Ledian
+	time_created: 2019-12-15 21:42:19
+	time_modified: 2020-05-19 00:01:58
+	name: Spotted Slugger
+	casting_cost: GG
+	image: image117
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Insect</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Spotted Slugger</nospellcheck></atom-cardname> deals combat damage to a player, you may have it deal damage equal to its power to target creature.
+	flavor_text: <i-flavor>If denied a proper fight, the monster may start picking some on its own.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Laplace-i
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

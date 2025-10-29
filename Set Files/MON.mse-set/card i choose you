@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		shrink_name_text: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		eevee !vote 
+		https://www.pixiv.net/en/artworks/56236016
+	time_created: 2017-11-11 22:41:07
+	time_modified: 2021-05-31 15:04:08
+	name: I Choose You
+	casting_cost: 5UU
+	image: image47
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		Search target opponent’s library for a creature or planeswalker card and put it onto the battlefield under your control. That player shuffles.
+	flavor_text: <i-flavor>“Don’t worry, you’ll be safe with us now.”</i-flavor>
+	illustrator: aaadada
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

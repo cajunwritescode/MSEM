@@ -3044,10 +3044,11 @@ card:
 	notes:
 		 !done
 		Changed ability
+		!update buffed: Was {2}{U}{U} and triggered on end step.
 	time_created: 2018-11-30 22:58:32
-	time_modified: 2020-08-31 15:46:39
+	time_modified: 2025-10-28 23:19:51
 	name: Gorbes Index
-	casting_cost: 2UU
+	casting_cost: 2U
 	image: image119
 	image_2: 
 	mainframe_image: 
@@ -3055,7 +3056,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: At the beginning of your end step, you may exile an instant or sorcery card from your graveyard. If you do, search your library for an instant or sorcery card with mana value equal to 1 plus the exiled card’s mana value, reveal it, put it into your hand, then shuffle.
+	rule_text: At the beginning of your upkeep, you may exile an instant or sorcery card from your graveyard. If you do, search your library for an instant or sorcery card with mana value equal to 1 plus the exiled card’s mana value, reveal it, put it into your hand, then shuffle.
 	flavor_text:
 		<i-flavor>“Indexing the infinite is a daunting task indeed.”<soft-line>
 		—<error-spelling:en_US>Azamir</error-spelling:en_US>, “<error-spelling:en_US>Gorbes</error-spelling:en_US>, The Infinite Library”</soft-line></i-flavor>

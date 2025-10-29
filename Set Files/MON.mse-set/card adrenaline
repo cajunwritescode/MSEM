@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Quilava
+	time_created: 2017-11-11 23:05:51
+	time_modified: 2020-05-17 20:47:16
+	name: Adrenaline
+	casting_cost: 1R
+	image: image160
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		Each spell you cast with <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> costs <sym-auto>1</sym-auto> less to cast.
+		Each creature you control with <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> gets +1/+0.
+	flavor_text: <i-flavor>The heat of the moment is sure to bring out the best and the worst of everyone.</i-flavor>
+	power: 
+	toughness: 
+	illustrator: ffxazq
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

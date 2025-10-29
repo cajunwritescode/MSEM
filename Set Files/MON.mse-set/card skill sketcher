@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Smeargle
+	time_created: 2019-11-17 14:11:25
+	time_modified: 2020-09-23 14:48:57
+	name: Skill Sketcher
+	casting_cost: 2UU
+	image: image241
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dog</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Whenever a player casts an instant or sorcery spell from their hand, you may exile that card as it resolves instead of putting it anywhere else.
+		Whenever <atom-cardname><nospellcheck>Skill Sketcher</nospellcheck></atom-cardname> attacks, you may cast a card exiled with it. That spell costs <sym-auto>X</sym-auto> less to cast, where X is <atom-cardname><nospellcheck>Skill Sketcher</nospellcheck></atom-cardname>’s power.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Wrenhat
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

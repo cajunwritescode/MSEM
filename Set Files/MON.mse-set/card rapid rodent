@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Pikachu
+		!fast !wildcard new art
+	time_created: 2020-01-04 23:14:53
+	time_modified: 2020-10-30 02:59:47
+	card_color: red
+	name: Rapid Rodent
+	casting_cost: 2R
+	image: image39
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mouse</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Rapid Rodent</nospellcheck></atom-cardname> attacks, it gets +1/+0 until end of turn for each other creature you control with <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> and/or <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Toni Infante
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

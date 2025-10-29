@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Mewtwo
+	time_created: 2017-11-13 00:55:15
+	time_modified: 2021-01-11 23:51:03
+	name: Epic Encounter
+	casting_cost: 1G
+	image: image224
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: You may reveal a legendary card you own from outside the game and put it into your hand. Exile <atom-cardname><nospellcheck>Epic Encounter</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor>Hidden away in the darkest corner of the world, it awaits a worthy challenger.</i-flavor>
+	illustrator: lord-Phillock
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

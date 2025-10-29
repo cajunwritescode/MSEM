@@ -1,0 +1,29 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Dugtrio 
+	time_created: 2019-11-09 02:29:18
+	time_modified: 2021-04-28 02:06:04
+	name: Tunnel Moles
+	casting_cost: 1R
+	image: image166
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Mole</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Tunnel Moles</nospellcheck></atom-cardname> attacks, you may have it phase out. <i-auto>(Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Tunnel Moles</nospellcheck></atom-cardname> phases in, it gets +2/+2 until end of turn and can’t be blocked by creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: mak-sketches
+	card_code_text: Philippe Saner
+	card_code_text_2: Philippe Saner
+	card_code_text_3: Philippe Saner
+	copyright: 
+	copyright_2: 
+	copyright_3: 

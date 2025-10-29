@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Jigglypuff
+	time_created: 2017-11-11 01:34:43
+	time_modified: 2021-05-27 20:58:09
+	name: Innocence
+	casting_cost: 4W
+	image: image135
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text: Creatures can’t attack you or planeswalkers you control unless their controller pays <sym>X</sym> for each of those creatures, where X is the number of attacking creatures.
+	flavor_text:
+		<i-flavor>“It’s so cute!”<soft-line>
+		—<error-spelling:en_US>Telam</error-spelling:en_US>, last words</soft-line></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Daycolors
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

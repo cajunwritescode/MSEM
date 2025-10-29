@@ -482,9 +482,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL51)
+	notes:
+		!hidetag (SL51)
+		!update
 	time_created: 2022-02-18 14:51:44
-	time_modified: 2022-03-30 18:38:33
+	time_modified: 2025-10-28 23:10:16
 	name: Past, Present, Future
 	casting_cost: GU
 	image: image503
@@ -494,7 +496,9 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Exile the top card of your library, a card from your hand and a card from your graveyard. Put one of the exiled cards on top of your library, one into your hand, and the other into your graveyard.
+	rule_text:
+		Draw a card. Then exile the top card of your library, a card from your hand, and a card from your graveyard. Put one of the exiled cards on top of your library, one into your hand, and the other into your graveyard.
+		Exile Past, Present, Future.
 	flavor_text: <i-flavor>“In the past, mages looked to the future. Now, we find power through the past.”</i-flavor>
 	illustrator: Diego Sanchez
 	custom_card_number: 408
@@ -3850,7 +3854,7 @@ card:
 	stylesheet_version: 2024-09-23
 	has_styling: true
 	styling_data:
-		chop_top: 5,5,
+		chop_top: 2,-2,
 		frames: borderless art
 		popout_image_style: 80,30,160,35,
 		other_options: auto nyx crowns, vorthos box
@@ -3860,8 +3864,9 @@ card:
 	notes:
 		!design Cajun
 		!hidetag (SL60)
+		!update
 	time_created: 2016-10-22 20:57:24
-	time_modified: 2022-05-18 20:24:09
+	time_modified: 2025-10-28 23:06:47
 	name: Spirit of Infamy
 	casting_cost: 1B
 	image: image611
@@ -3873,10 +3878,11 @@ card:
 	rarity: rare
 	rule_text:
 		Whenever <atom-cardname><nospellcheck>Spirit of Infamy</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>post a bounty on target <param-name>creature.</param-name></key></nospellcheck><atom-reminder-action> <i-auto>(Put a bounty counter on that creature. It has “When this creature dies, each opponent draws a card” as long as it has a bounty counter on it.)</i-auto></atom-reminder-action></kw-A>
-		<atom-cardname><nospellcheck>Spirit of Infamy</nospellcheck></atom-cardname> gets +2/+0 for each bounty counter on it.
+		Spirit of Infamy gets +2/+2 for each bounty counter on it.
+		When Spirit of Infamy dies, you gain life equal to its power.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 3
+	power: 2
+	toughness: 2
 	illustrator: Denys Tsiperko
 	custom_card_number: 498
 	card_code_text: Cajun — High Noon
@@ -4679,8 +4685,9 @@ card:
 	notes:
 		!design Matt
 		!hidetag (SL63)
+		!update
 	time_created: 2019-02-08 11:14:42
-	time_modified: 2022-05-15 18:36:30
+	time_modified: 2025-10-28 23:53:12
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/her
@@ -4697,7 +4704,7 @@ card:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Dehmi, Origin Seeker</nospellcheck></atom-cardname> enters, counter target spell an opponent controls unless that spell’s controller has you create X 1/1 red Elemental creature tokens, where X is that spell’s mana value.
 	flavor_text: <i-flavor></i-flavor>
-	power: 2
+	power: 3
 	toughness: 1
 	illustrator: Suke
 	custom_card_number: 518
@@ -11374,9 +11381,14 @@ card:
 		default_image_size: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL84)
+	notes:
+		!hidetag (SL84)
+		!update
 	time_created: 2017-03-27 23:36:11
-	time_modified: 2024-08-30 08:15:36
+	time_modified: 2025-10-28 22:48:01
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: She/her
 	name: Mei Liva, the Forsaken
 	casting_cost: 3UB
 	image: image871
@@ -11397,11 +11409,11 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
-	loyalty_cost_1: +2
+	loyalty_cost_1: +1
 	loyalty_cost_2: -3
 	loyalty_cost_3: -6
 	loyalty: 5
-	level_1_text: <margin:130:0:0>Each opponent loses 2 life. <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_1_text: <margin:130:0:0>Target opponent loses 2 life, then discards a card. You draw a card unless they discarded a nonland card this way.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Return target creature to its owner’s hand. That player discards a card.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>You get an emblem with “Whenever a player discards a card, you may cast it without paying its mana cost.”</margin:130:0:0>
 	level_4_text: 
@@ -11414,7 +11426,7 @@ card:
 	copyright_2: ™ & ©2017 Wizards of the Coast
 	copyright_3: ™ & ©2017 Wizards of the Coast
 	special_text:
-		[+2]: <margin:130:0:0>Each opponent loses 2 life. <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Target opponent loses 2 life, then discards a card. You draw a card unless they discarded a nonland card this way.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Return target creature to its owner’s hand. That player discards a card.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You get an emblem with “Whenever a player discards a card, you may cast it without paying its mana cost.”</margin:130:0:0>
 
@@ -11429,10 +11441,13 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		
+		!update
 		!hidetag (SL84)
 	time_created: 2017-11-16 01:15:17
-	time_modified: 2023-03-29 16:24:50
+	time_modified: 2025-10-28 23:55:12
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: She/her
 	name: Trainee Karina Oblay
 	casting_cost: 1UR
 	image: image873
@@ -11448,7 +11463,7 @@ card:
 	loyalty: 3
 	level_1_text: At the beginning of your end step, choose any number of permanents and/or players, then give each another counter of each kind it already has.
 	level_2_text: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>Exile the top X cards of your library. Until end of turn, you may play a card exiled with <atom-cardname><nospellcheck>Trainee Karina Oblay</nospellcheck></atom-cardname>.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Exile the top X cards of your library. Until the end of your next turn, you may play two cards exiled with Trainee Karina <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Oblay</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:130:0:0>
 	level_4_text: 
 	level_5_text: 
 	level_6_text: 
@@ -11463,7 +11478,7 @@ card:
 	special_text:
 		At the beginning of your end step, choose any number of permanents and/or players, then give each another counter of each kind it already has.
 		[+1]: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.</margin:130:0:0>
-		[-X]: <margin:130:0:0>Exile the top X cards of your library. Until end of turn, you may play a card exiled with <atom-cardname><nospellcheck>Trainee Karina Oblay</nospellcheck></atom-cardname>.</margin:130:0:0>
+		[-X]: <margin:130:0:0>Exile the top X cards of your library. Until the end of your next turn, you may play two cards exiled with Trainee Karina <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Oblay</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:130:0:0>
 
 card:
 	stylesheet: m15-godzilla
@@ -13172,18 +13187,25 @@ card:
 	notes:
 		!design Cajun
 		!hidetag (SL91)
+		!update
 	time_created: 2022-02-19 07:30:46
-	time_modified: 2024-04-28 00:48:25
+	time_modified: 2025-10-29 00:31:22
 	name: Here With You
 	casting_cost: 1R
 	image: image927
 	image_2: 
 	mainframe_image: image928
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
-	rule_text: Target opponent may draw two cards. If they do, you draw four cards. Otherwise, you create four 1/1 red Elemental creature tokens.
+	rule_text: Target opponent may draw two cards. If they do, you draw four cards. Otherwise, you create four 1/1 red Elemental creature tokens with <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>. <i-auto>(A creature with <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> can’t block. When it attacks, sacrifice it at end of combat.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: none
 	illustrator: 香川悠作

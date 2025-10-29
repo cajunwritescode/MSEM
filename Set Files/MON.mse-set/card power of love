@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: eevee
+	time_created: 2020-02-08 02:23:53
+	time_modified: 2020-05-23 16:50:18
+	name: Power of Love
+	casting_cost: 3WW
+	image: image273
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Enchant <param-name>creature you control</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +3/+3 and has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>“We’re in this together, okay? We’ll keep each other safe, no matter what.”</i-flavor>
+	illustrator: AutobotTesla
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

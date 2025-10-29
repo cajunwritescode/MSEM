@@ -1,0 +1,33 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 12
+		chop_bottom: 12
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !resub 1BB to 2B
+	time_created: 2020-02-14 22:33:55
+	time_modified: 2024-07-05 06:48:58
+	name: Paleontologist
+	casting_cost: 2B
+	image: image37
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Paleontologist</nospellcheck></atom-cardname> enters, search your library for up to two artifact and/or Skeleton cards and put them into your graveyard, then shuffle.
+	flavor_text: <i-flavor>Some trainers create their own companions, using the bones of long-dead monsters.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Angel Ganev
+	card_code_text: Philippe Saner
+	card_code_text_2: Philippe Saner
+	card_code_text_3: Philippe Saner
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -185,15 +185,16 @@ card:
 		dfc_type: modal with standard flags
 		shrink_name_text: 3
 		shrink_typeline_text: 
+		back_chop: -3,5,
 		other_options: vorthos box, use hovering pt, unindent nonloyalty abilities, auto nyx crowns, automate type frames
 		level_1_chop: -5, 5
 		level_5_chop: -5, 5
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update buffed: Condor now triggers on Warrior death instead of targeting.
 	time_created: 2021-02-14 14:46:27
-	time_modified: 2025-01-30 18:30:24
+	time_modified: 2025-10-29 00:38:11
 	extra_data:
 		magic-m15-mainframe-dfc:
 			front_type_hint: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
@@ -217,7 +218,7 @@ card:
 		Whenever a Warrior you control dies, it deals 1 damage to any target.
 	rule_text_2:
 		<kw-A><nospellcheck><key>Legacy</key></nospellcheck><atom-reminder-custom> <i-auto>(You may play this side of this card only from your graveyard. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever a Warrior you control becomes the target of a spell or ability an opponent controls, that player loses 1 life and discards a card, then you draw a card and gain 1 life.
+		Whenever a Warrior you control dies, each opponent loses 1 life and discards a card, then you draw a card and gain 1 life.
 	flavor_text: <i-flavor>“Even after I’m gone, I’ll never avert my gaze from my people.”</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	watermark: custom watermark one

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2017-11-10 20:08:38
+	time_modified: 2021-09-26 16:17:09
+	name: Ice Path
+	image: image183
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Ice Path</nospellcheck></atom-cardname> enters tapped.
+		As <atom-cardname><nospellcheck>Ice Path</nospellcheck></atom-cardname> enters, choose a color.
+		You may spend <sym>C</sym> as though it were mana of the chosen color.
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Atev Maieed Ghailan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

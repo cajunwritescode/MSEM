@@ -6370,10 +6370,19 @@ card:
 	copyright_3: 
 
 card:
-	has_styling: false
-	notes: Chasing Cars — Snow Patrol
+	has_styling: true
+	styling_data:
+		chop_top: 9
+		chop_bottom: 9
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Chasing Cars — Snow Patrol
+		!update reworked: Changed from permafreezing nonbasic lands as long as Ataraxia remained in play.
 	time_created: 2023-02-08 13:53:35
-	time_modified: 2023-09-03 16:43:06
+	time_modified: 2025-10-29 00:46:25
 	name: Ataraxia
 	casting_cost: 1WU
 	image: image193
@@ -6383,7 +6392,9 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: Whenever a nonbasic land becomes tapped or enters tapped, it doesn’t untap during its controller’s untap steps for as long as <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ataraxia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> remains on the battlefield.
+	rule_text:
+		Whenever a nonbasic land enters or becomes tapped, put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it.
+		Permanents with <kw-a><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck></kw-a> don’t untap during untap steps.
 	flavor_text:
 		<i-flavor>“I miss the way that I felt nothing.”<soft-line>
 		—<error-spelling:en_US>Remi</error-spelling:en_US> Amber, <error-spelling:en_US>Slyten</error-spelling:en_US> Specialist</soft-line></i-flavor>
@@ -9390,9 +9401,11 @@ card:
 
 card:
 	has_styling: false
-	notes: The End Of The Movie from Crazy Ex Girlfriend
+	notes:
+		The End Of The Movie from Crazy Ex Girlfriend
+		!update
 	time_created: 2023-08-27 00:30:21
-	time_modified: 2024-08-30 21:37:46
+	time_modified: 2025-10-28 23:09:50
 	name: Past, Present, Future
 	casting_cost: GU
 	image: image319
@@ -9402,7 +9415,9 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: special
-	rule_text: Exile the top card of your library, a card from your hand, and a card from your graveyard. Put one of the exiled cards on top of your library, one into your hand, and the other into your graveyard.
+	rule_text:
+		Draw a card. Then exile the top card of your library, a card from your hand, and a card from your graveyard. Put one of the exiled cards on top of your library, one into your hand, and the other into your graveyard.
+		Exile Past, Present, Future.
 	flavor_text: <i-flavor>You’re looking for answers, but answers aren’t looking for you.</i-flavor>
 	watermark: custom watermark two
 	illustrator: Anatoly Muschenko

@@ -1,0 +1,59 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		front_font_cap: 
+		shrink_typeline_text: 
+		other_options: use hovering pt, back color indicator, unindent nonloyalty abilities, auto nyx crowns
+		custom_symbol_one: 
+		custom_symbol_two: 
+		level_1_chop: -5,,10,
+		level_2_chop: 
+		level_5_chop: -5,15,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Larvitar//Tyranitar
+		experiece
+	time_created: 2017-11-10 20:40:27
+	time_modified: 2023-09-23 12:32:06
+	card_color_2: black, red, multicolor, horizontal
+	name: Mountain Runt
+	name_2: Mountain Tyrant
+	casting_cost: 2R
+	transformation: custom symbol one
+	transformation_2: custom symbol two
+	image: image217
+	image_2: image218
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Whenever a land you control enters, put a +1/+1 counter on <atom-cardname><nospellcheck>Mountain Runt</nospellcheck></atom-cardname>, then it deals 1 damage to up to one target creature you don’t control.
+		When <atom-cardname><nospellcheck>Mountain Runt</nospellcheck></atom-cardname> has three or more +1/+1 counters on it, remove them all and transform it.
+	rule_text_2:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		At the beginning of your end step, <atom-cardname><nospellcheck>Mountain Tyrant</nospellcheck></atom-cardname> deals 1 damage to each creature you don’t control.
+	flavor_text: <i-flavor>One of the smallest monsters, it survives by eating anything and everything it can find.</i-flavor>
+	flavor_text_2: <i-flavor>One of the largest monsters, it survives by eating anything and everything it can find.</i-flavor>
+	watermark: none
+	watermark_2: none
+	power: 2
+	power_2: 7
+	toughness: 2
+	toughness_2: 7
+	illustrator: kenkat
+	illustrator_2: inosuke-0101
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

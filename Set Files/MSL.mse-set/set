@@ -5074,19 +5074,27 @@ card:
 
 card:
 	has_styling: false
-	notes: !Generic 
+	notes:
+		!Generic 
+		!update
 	time_created: 2023-08-05 10:12:07
-	time_modified: 2024-04-28 01:15:54
+	time_modified: 2025-10-29 00:30:44
 	name: Here With You
 	casting_cost: 1R
 	image: image128
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
-	rule_text: Target opponent may draw two cards. If they do, you draw four cards. Otherwise, you create four 1/1 red Elemental creature tokens.
+	rule_text: Target opponent may draw two cards. If they do, you draw four cards. Otherwise, you create four 1/1 red Elemental creature tokens with <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0>. <i-auto>(A creature with <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> can’t block. When it attacks, sacrifice it at end of combat.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Nozomi-M
 	custom_card_number: 
@@ -6951,9 +6959,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2023-08-05 10:15:21
-	time_modified: 2023-11-25 21:05:43
+	time_modified: 2025-10-28 23:33:13
 	name: Ethereal Stone
 	casting_cost: 5
 	image: image229
@@ -6963,7 +6971,7 @@ card:
 	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
-	rule_text: If you would search your library for one or more cards, you may search for an additional card. <i-auto>(It still follows the same restrictions and effects.)</i-auto>
+	rule_text: Once each turn, if you would search your library for one or more cards, you may search for an additional card. <i-auto>(It still follows the same restrictions and effects.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Andy Aslamov
 	custom_card_number: 
@@ -9739,9 +9747,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update
 	time_created: 2023-11-27 19:32:28
-	time_modified: 2023-12-29 17:08:51
+	time_modified: 2025-10-29 00:15:57
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/Him
@@ -9756,7 +9764,7 @@ card:
 	rarity: special
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		Once each turn, when you draw a card, you may reveal it and a card you own from outside the game with a different name and the same mana cost. If you do, exile the first card and put the second into your hand. <i-auto>(Mana costs must be identical.)</i-auto>
+		Once each turn, when you draw a card, you may reveal it and a card you own from outside the game with the same colors and mana value but a different name. If you do, exile the first card and put the second into your hand. <i-auto>(A <sym>BB</sym> card can trade for a card that costs <sym-auto>1B</sym-auto>, but not <sym>UB</sym>.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
@@ -10567,9 +10575,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update
 	time_created: 2023-11-27 19:32:28
-	time_modified: 2023-12-05 16:39:21
+	time_modified: 2025-10-28 23:29:45
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/Him
@@ -10580,13 +10588,18 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text:
-		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
-		At the beginning of your upkeep, put a card from your hand on top of your library. You may shuffle.
-		<sym-auto>1</sym-auto>: Look at the top three cards of your library, then put them back in any order.
-		<sym-auto>2U</sym-auto>: Draw a card.
+		When you draw your third card in a turn, if <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aryam</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> doesn’t have a stargazing counter, put one on him. He gains <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>instants.</param-name></key></nospellcheck></kw-a>
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aryam</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>. If he has a stargazing counter, <kw-a><nospellcheck><key>scry <param-number>3</param-number></key></nospellcheck></kw-a> instead.
+		<sym-auto>2U</sym-auto>: Draw a card. Then discard a card unless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aryam</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> has a stargazing counter.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
@@ -16543,12 +16556,6 @@ keyword:
 	match: torment <atom-param>one_word</atom-param>
 	reminder: {if param1.value == "yourself" then "You lose 3 life unless you discard a card or sacrifice a nonland permanent." else "They lose 3 life unless they discard a card or sacrifice a nonland permanent."}
 	rules: Survive the Night
-	mode: action
-keyword:
-	keyword: Trade
-	match: Trade for <atom-param>name</atom-param>
-	reminder: You may reveal the first card you draw each turn when you draw it. Whenever you reveal a {english_singular(param1)} card this way, put a +1/+1 counter on this creature.
-	rules: Festenya: The Golden Era
 	mode: action
 keyword:
 	keyword: Trial

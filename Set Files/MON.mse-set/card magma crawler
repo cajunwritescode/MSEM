@@ -1,0 +1,31 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Magmar
+		!fast
+	time_created: 2017-11-13 00:55:15
+	time_modified: 2020-05-17 21:02:09
+	name: Magma Crawler
+	casting_cost: 2RR
+	image: image13
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Magma Crawler</nospellcheck></atom-cardname> enters, creatures you control with <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> or <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> get +1/+1 until end of turn.
+	flavor_text:
+		<i-flavor>“It’s a good thing I picked Amber, all the fiery monsters like to hide in scary caves.”<soft-line>
+		—Karina <error-spelling:en_US>Oblay</error-spelling:en_US>, field notes</soft-line></i-flavor>
+	power: 4
+	toughness: 1
+	illustrator: Cyjon
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 35
+		chop_bottom: 35
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		font_cap: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Sableye 
+	time_created: 2017-11-13 00:55:15
+	time_modified: 2023-11-30 21:40:38
+	name: Snatch
+	casting_cost: 1BB
+	image: image179
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a> if a player lost life this turn. You draw two cards and you lose 2 life.
+	flavor_text: <i-flavor>It only has eyes for shiny things.</i-flavor>
+	illustrator: DJ-Xigu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

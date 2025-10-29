@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes:
+		!related
+		1>Experienced Team;
+	time_created: 2020-05-18 00:24:06
+	time_modified: 2020-05-18 15:30:02
+	card_color: white
+	name: Bear
+	image: image77
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bear</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	power: 4
+	toughness: 2
+	illustrator: Ayane45
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -446,9 +446,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update buffed: Attack trigger was "you may search defending player’s library for an instant or sorcery card that shares a name with a card in their graveyard and cast it without paying its mana cost. That player shuffles."
 	time_created: 2018-04-30 23:02:48
-	time_modified: 2021-05-31 20:35:04
+	time_modified: 2025-10-28 23:48:15
 	name: Manic River-Fishers
 	casting_cost: 2U/BR
 	image: image61
@@ -460,7 +460,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Manic River-Fishers</nospellcheck></atom-cardname> attacks, you may search defending player’s library for an instant or sorcery card that shares a name with a card in their graveyard and cast it without paying its mana cost. That player shuffles.
+		Whenever <atom-cardname><nospellcheck>Manic River-Fishers</nospellcheck></atom-cardname> attacks, exile target instant or sorcery card with mana value 3 or less from any graveyard chosen at random. You may cast a copy of the exiled card without paying its mana cost.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 2
@@ -8574,6 +8574,8 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: basic land
 	illustrator: Sofia Kruglova
 	card_code_text: 
@@ -8582,8 +8584,6 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
-	super_type: Basic Land
-	sub_type: Plains
 
 card:
 	stylesheet: m15-unstable-basics
@@ -8598,6 +8598,8 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: basic land
 	illustrator: Anton Fadeev
 	card_code_text: 
@@ -8606,8 +8608,6 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
-	super_type: Basic Land
-	sub_type: Island
 
 card:
 	stylesheet: m15-unstable-basics
@@ -8622,6 +8622,8 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: basic land
 	illustrator: Piotr Dura
 	card_code_text: 
@@ -8630,8 +8632,6 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
-	super_type: Basic Land
-	sub_type: Swamp
 
 card:
 	stylesheet: m15-unstable-basics
@@ -8646,6 +8646,8 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: basic land
 	illustrator: Renaud Perochon
 	card_code_text: 
@@ -8654,8 +8656,6 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
-	super_type: Basic Land
-	sub_type: Mountain
 
 card:
 	stylesheet: m15-unstable-basics
@@ -8670,6 +8670,8 @@ card:
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
 	rarity: basic land
 	illustrator: Philipp A. Urlich
 	card_code_text: 
@@ -8678,8 +8680,6 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
-	super_type: Basic Land
-	sub_type: Forest
 
 card:
 	stylesheet: m15-mainframe-tokens

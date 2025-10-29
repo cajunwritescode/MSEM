@@ -7287,11 +7287,11 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update buffed: Was {U} and only castable during your turn.
 	time_created: 2016-09-06 13:09:35
-	time_modified: 2018-04-18 00:37:11
+	time_modified: 2025-10-28 22:56:04
 	name: Moment of Tranquility
-	casting_cost: U
+	casting_cost: 1UU
 	image: image243
 	image_2: 
 	mainframe_image: 
@@ -7300,7 +7300,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		Cast this spell only during your turn.
+		This spell costs <sym-auto>1U</sym-auto> less to cast during your turn.
 		Counter target spell.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: APPLE XieBin on ArtStation

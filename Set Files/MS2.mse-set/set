@@ -2474,9 +2474,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !design fluffyDeathbringer
+	notes:
+		!design fluffyDeathbringer
+		!update
 	time_created: 2019-07-10 16:50:54
-	time_modified: 2024-05-29 17:52:53
+	time_modified: 2025-10-28 22:59:12
 	name: Blood Fugue
 	casting_cost: BR
 	image: image36
@@ -2487,7 +2489,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		Target creature gets +3/-3 until end of turn.
+		Target creature gets -3/-3 until end of turn. When it dies this turn, you may discard a card. If you do, draw a card.
 		Kindle 3—<sym>BR</sym>, Pay 3 life. <i-auto>(<sym-auto>BR</sym-auto>, Pay 3 life, Exile this card from your graveyard: Create three 1/1 colorless Elemental creature tokens. Kindle only as a sorcery.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Michał Sztuka

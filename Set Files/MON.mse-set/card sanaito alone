@@ -1,0 +1,64 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 195,20,135,68,
+		opacity: 100
+		other_options: un-indent nonloyalty abilities, vorthos box
+		default_image_size: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!ema!sanaito!walker
+		*I would have done anything for her, for she had done everything for me. But when she needed me most, I could do nothing. I could only watch as she and I were torn a world apart.
+		
+		I have finally returned to Chikyu. I know more than anything she is still here, lost, afraid, alone.<soft-line>
+		</soft-line>
+		But not for long.*
+		Gardevoir
+		+1: Target creature gets +0/+1 and gains flying until your next turn.
+		+1: You gain 2 life. Scry 1.
+		-6: Return each tapped permanent your opponents control to their owners’ hands.
+	time_created: 2017-11-10 21:46:27
+	time_modified: 2021-05-27 21:00:15
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: She/Her
+	name: Sanaito, Alone
+	casting_cost: 1WU
+	image: image142
+	image_2: image194
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Sanaito</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	rule_text:
+		Up to one target creature gets +0/+1 and gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until your next turn.
+		You gain 2 life. <kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>.
+		Return each tapped permanent your opponents control to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands.
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_1: +2
+	loyalty_cost_2: +1
+	loyalty_cost_3: -1
+	loyalty_cost_4: -2
+	loyalty: 2
+	level_1_text: <margin:130:0:0>Draw a card, then discard a card unless you pay <sym-auto>2</sym-auto>.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Target creature gets +1/+1 and gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Tap target permanent. It doesn’t untap during its controller’s next untap step.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Return target artifact, enchantment, or tapped creature to its owner’s hand.</margin:130:0:0>
+	level_5_text: 
+	illustrator: GrayDustOA
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		[+2]: <margin:130:0:0>Draw a card, then discard a card unless you pay <sym-auto>2</sym-auto>.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Target creature gets +1/+1 and gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Tap target permanent. It doesn’t untap during its controller’s next untap step.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Return target artifact, enchantment, or tapped creature to its owner’s hand.</margin:130:0:0>

@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2020-02-09 00:09:28
+	time_modified: 2020-09-14 22:50:21
+	name: Expert Belt
+	casting_cost: 2
+	image: image277
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text:
+		<kw-A><i-auto><nospellcheck><key>Vanguard</key></nospellcheck></i-auto></kw-A> — Whenever a creature you control attacks alone, you may put a charge counter on <atom-cardname><nospellcheck>Expert Belt</nospellcheck></atom-cardname> and attach it to that creature.
+		Equipped creature has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>.
+		Equipped creature gets +1/+0 for each charge counter on <atom-cardname><nospellcheck>Expert Belt</nospellcheck></atom-cardname>.
+		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Wataru Kawahara
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

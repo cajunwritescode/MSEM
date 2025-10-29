@@ -68,6 +68,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -99,6 +100,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -132,6 +134,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -165,6 +168,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -199,6 +203,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -234,6 +239,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -273,6 +279,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -306,6 +313,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -342,6 +350,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -375,6 +384,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -408,6 +418,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -437,6 +448,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -471,6 +483,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -520,6 +533,7 @@ card:
 		[0]: <margin:130:0:0>Put target artifact, instant, or sorcery card from your graveyard on top of your library. If you have an insight counter, you may return that card to your hand instead.</margin:130:0:0>
 		[0]: <margin:130:0:0>You get an insight counter.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Target creature can’t be blocked this turn. Until end of turn, whenever that creature deals damage to an opponent, you draw a card.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -553,6 +567,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -588,6 +603,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -622,6 +638,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -653,6 +670,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT: Gynoidpoet
@@ -678,6 +696,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -712,6 +731,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -746,6 +766,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -782,6 +803,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -831,6 +853,7 @@ card:
 		[0]: <margin:130:0:0>Any number of target players each discard a card. If you have an insight counter, return up to one creature card from your graveyard to your hand.</margin:130:0:0>
 		[0]: <margin:130:0:0>You get an insight counter.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Target creature gets -3/-3 until end of turn.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -867,6 +890,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -894,6 +918,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -926,6 +951,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -934,9 +960,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update adjusted: Now a sorcery, and allows paying 3 life to avoid decayed.
 	time_created: 2024-03-13 19:33:00
-	time_modified: 2024-04-22 00:37:51
+	time_modified: 2025-10-29 01:01:31
 	name: Visions of the End
 	casting_cost: B
 	image: image49
@@ -946,7 +972,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. Create a 3/2 colorless Horror creature token. Put a <kw-A><nospellcheck><key>decayed</key></nospellcheck> counter on it.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
+	rule_text: Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. Create a 3/2 colorless Horror creature token. Put a <kw-A><nospellcheck><key>decayed</key></nospellcheck> counter on it unless you pay 3 life.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>“ I see it! I see it! <error-spelling:en_US>N’gha</error-spelling:en_US>! <error-spelling:en_US>N’gha</error-spelling:en_US>!”</i-flavor>
 	illustrator: Adam S. Doyle
 	card_code_text: 
@@ -955,6 +981,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -989,6 +1016,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1021,6 +1049,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1054,6 +1083,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1087,6 +1117,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1114,6 +1145,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1143,6 +1175,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1174,6 +1207,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1201,6 +1235,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1239,6 +1274,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1266,6 +1302,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1299,6 +1336,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1322,6 +1360,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1368,6 +1407,7 @@ card:
 		[0]: <margin:130:0:0>Bennett Brooks deals 2 damage to each opponent. If you have an insight counter, create two <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
 		[0]: <margin:130:0:0>You get an insight counter.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Sacrifice an artifact. If you do, return target artifact card from your graveyard to the battlefield.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -1402,6 +1442,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1435,6 +1476,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1468,6 +1510,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1500,6 +1543,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1534,6 +1578,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1581,6 +1626,7 @@ card:
 		[0]: <margin:130:0:0>Return target permanent card with mana value 3 or less from your graveyard to your hand. If you have an insight counter, return that permanent card to the battlefield instead.</margin:130:0:0>
 		[0]: <margin:130:0:0>You get an insight counter.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Target creature can’t attack or block until your next turn.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -1615,6 +1661,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1645,6 +1692,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1676,6 +1724,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1714,6 +1763,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1741,6 +1791,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1775,6 +1826,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1808,6 +1860,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1855,6 +1908,7 @@ card:
 		[0]: <margin:130:0:0>Put two +1/+1 counters on target creature you control. Then put your choice of a <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> counter on it. If you have an insight counter, you may put all of those counters on that creature instead.</margin:130:0:0>
 		[0]: <margin:130:0:0>You get an insight counter. </margin:130:0:0>
 		[-2]: <margin:130:0:0>Destroy target noncreature, nonland permanent.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -1888,6 +1942,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1922,6 +1977,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1953,6 +2009,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1991,6 +2048,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2024,6 +2082,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2055,6 +2114,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2088,6 +2148,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2121,6 +2182,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2153,6 +2215,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2183,6 +2246,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2208,6 +2272,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2239,6 +2304,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2270,6 +2336,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2302,6 +2369,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2334,6 +2402,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2365,6 +2434,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2391,6 +2461,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2423,6 +2494,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2461,6 +2533,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2498,6 +2571,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2522,6 +2596,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2554,6 +2629,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2585,6 +2661,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2623,6 +2700,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2671,6 +2749,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2719,6 +2798,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2767,6 +2847,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2817,6 +2898,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2867,6 +2949,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2901,6 +2984,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2934,6 +3018,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2957,6 +3042,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2990,6 +3076,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3025,6 +3112,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3058,6 +3146,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3087,6 +3176,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3116,6 +3206,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3155,6 +3246,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3194,6 +3286,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3232,6 +3325,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3271,6 +3365,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3311,6 +3406,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -3337,6 +3433,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -3363,6 +3460,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -3389,6 +3487,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -3415,6 +3514,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -3441,6 +3541,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3477,6 +3578,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3510,6 +3612,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3545,6 +3648,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3581,6 +3685,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3618,6 +3723,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3653,6 +3759,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3686,6 +3793,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3719,6 +3827,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3752,6 +3861,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3787,6 +3897,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3826,6 +3937,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3862,6 +3974,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3902,6 +4015,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3940,6 +4054,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3978,6 +4093,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4019,6 +4135,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4057,6 +4174,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4098,6 +4216,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4138,6 +4257,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4178,6 +4298,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4216,6 +4337,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4253,6 +4375,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4287,6 +4410,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4321,6 +4445,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4355,6 +4480,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4395,6 +4521,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4418,6 +4545,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4441,6 +4569,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4474,6 +4603,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4507,6 +4637,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4540,6 +4671,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4574,6 +4706,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4608,6 +4741,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4641,6 +4775,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Improve
 	match: Improve <atom-param>cost</atom-param>

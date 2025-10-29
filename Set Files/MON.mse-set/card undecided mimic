@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Ditto
+		!lucien
+	time_created: 2019-06-03 00:56:25
+	time_modified: 2020-09-15 00:41:29
+	name: Undecided Mimic
+	casting_cost: 2UU
+	image: image202
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Ooze</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shapeshifter</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text: You may have <atom-cardname><nospellcheck>Undecided Mimic</nospellcheck></atom-cardname> enter or phase in as a copy of any creature on the battlefield, except it has this ability and “<sym-auto>2UU</sym-auto>: <atom-cardname><nospellcheck>Undecided Mimic</nospellcheck></atom-cardname> <kw-1><nospellcheck><key>phases out</key></nospellcheck>.”<atom-reminder-expert> <i-auto>(Treat it and anything attached to it as though they don’t exist until its controller’s next turn.)</i-auto></atom-reminder-expert></kw-1>
+	flavor_text:
+		<i-flavor>“You weren’t quite what I expected, but I must say, I’m pleasantly surprised.”<soft-line>
+		—Lucien, the duelist</soft-line></i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Haychel
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

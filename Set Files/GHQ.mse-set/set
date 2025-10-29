@@ -1288,11 +1288,11 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update reworked: Was {U} instant that bounced a creature or countered a noncreature spell unless its controller paid {1}.
 	time_created: 2017-06-15 12:27:30
-	time_modified: 2021-06-22 22:59:51
+	time_modified: 2025-10-28 23:13:20
 	name: Treacherous Conditions
-	casting_cost: U
+	casting_cost: 2U
 	image: image224
 	image_2: 
 	mainframe_image: 
@@ -1300,10 +1300,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text:
-		Choose one —
-		<li><bullet>• </bullet>Return target creature to its owner’s hand unless that player pays <sym-auto>1</sym-auto>.
-		</li><li><bullet>• </bullet>Counter target noncreature spell unless its controller pays <sym-auto>1</sym-auto>.</li>
+	rule_text: The owner of target spell or nonland permanent puts it on top or bottom of their library. That player can’t cast spells with the same name as that spell or nonland permanent until your next turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jessica Aumaitre
 	card_code_text: 

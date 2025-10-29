@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: Celebi
+	time_created: 2017-11-11 22:41:07
+	time_modified: 2020-09-13 00:58:07
+	name: Temporal Aria
+	casting_cost: 6UUU
+	image: image214
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		Take an extra turn after this one. Exile <atom-cardname><nospellcheck>Temporal Aria</nospellcheck></atom-cardname>.
+	flavor_text:
+		<i-flavor>“Time itself is just a toy for these monsters.”<soft-line>
+		—Lucien, the duelist</soft-line></i-flavor>
+	illustrator: Crayon-Chewer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

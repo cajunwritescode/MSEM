@@ -254,6 +254,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -290,6 +291,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -316,6 +318,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -343,6 +346,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -376,6 +380,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -399,6 +404,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -424,6 +430,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -447,6 +454,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -480,6 +488,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -515,6 +524,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -554,6 +564,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -579,6 +590,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -604,6 +616,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Canon Reprint 
@@ -626,6 +639,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -662,6 +676,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -687,6 +702,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -722,6 +738,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -755,6 +772,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: prev: Same suit, different body.
@@ -780,6 +798,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -805,6 +824,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: prev: "The cost is irrelevant if the result is guaranteed."
@@ -833,6 +853,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -878,6 +899,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -916,6 +938,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -943,6 +966,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -985,6 +1009,7 @@ card:
 		[+1]: <margin:130:0:0>Target creature you control must be blocked this turn if able.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Create two 1/1 white Human creature tokens.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Destroy target artifact or enchantment with mana value X and all other permanents with the same name as that permanent.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -1008,6 +1033,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1035,6 +1061,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1065,6 +1092,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1088,6 +1116,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1111,6 +1140,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1146,6 +1176,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1171,6 +1202,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1198,6 +1230,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: prev: Heroism is safety.
@@ -1223,6 +1256,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1262,6 +1296,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -1286,6 +1321,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1322,6 +1358,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1347,6 +1384,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1391,6 +1429,7 @@ card:
 		Whenever a creature you control dies, put a loyalty counter on <atom-cardname><nospellcheck>Dias, Freed from Belief</nospellcheck></atom-cardname>.
 		[0]: <margin:130:0:0>Create a 2/1 black Nightmare creature token with “This creature can’t block.”</margin:130:0:0>
 		[-X]: <margin:130:0:0>Destroy target creature or planeswalker unless an opponent pays twice X life.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -1420,6 +1459,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1445,6 +1485,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -1471,6 +1512,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1497,6 +1539,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1520,6 +1563,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1545,6 +1589,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1568,6 +1613,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1606,6 +1652,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1628,6 +1675,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1678,6 +1726,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1714,6 +1763,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1742,6 +1792,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1775,6 +1826,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1800,6 +1852,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1835,6 +1888,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1861,6 +1915,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1885,6 +1940,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1922,6 +1978,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1947,6 +2004,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1972,6 +2030,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1995,6 +2054,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2021,6 +2081,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2054,6 +2115,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2079,6 +2141,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2116,6 +2179,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: prev: “Death knocks, but my door is already open.”
@@ -2142,6 +2206,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: AI art
@@ -2168,6 +2233,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2203,6 +2269,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2248,6 +2315,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2272,6 +2340,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: prev: “Answer’s 2pi; it’s obvious considering the geometric interpretation.”
@@ -2297,6 +2366,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: prev: Dreams of sea and sky.
@@ -2324,6 +2394,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2351,6 +2422,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: prev: The past must be preserved; letting it rot only invites a worse fate.
@@ -2375,6 +2447,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2402,6 +2475,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2430,6 +2504,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2456,6 +2531,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2483,6 +2559,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2509,6 +2586,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2533,6 +2611,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2557,6 +2636,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2580,6 +2660,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2617,6 +2698,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2644,6 +2726,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2668,6 +2751,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2696,6 +2780,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2732,6 +2817,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2757,6 +2843,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !cajun check the emblem here
@@ -2782,6 +2869,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2817,6 +2905,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2853,6 +2942,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2888,6 +2978,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2913,6 +3004,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2943,6 +3035,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2977,6 +3070,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3005,6 +3099,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3030,6 +3125,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: prev: "No one knew what came to ransack their belongings. Horror lied in the sea, but the thought of finding something more ordinary was somehow more disturbing."
@@ -3055,6 +3151,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3081,6 +3178,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3117,6 +3215,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3142,6 +3241,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3178,6 +3278,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3203,6 +3304,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3241,6 +3343,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -3265,6 +3368,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3305,6 +3409,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -3331,6 +3436,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3359,6 +3465,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3385,6 +3492,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -3411,6 +3519,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -3436,6 +3545,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3471,6 +3581,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3496,6 +3607,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3523,6 +3635,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3551,6 +3664,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3575,6 +3689,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3600,6 +3715,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3636,6 +3752,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3661,6 +3778,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3687,6 +3805,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3711,6 +3830,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3737,6 +3857,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3762,6 +3883,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3788,6 +3910,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3823,6 +3946,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3846,11 +3970,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: 
+	notes: !update buffed: Was 3/3.
 	time_created: 2023-03-05 16:54:22
-	time_modified: 2024-05-04 00:16:01
+	time_modified: 2025-10-29 00:57:51
 	name: Asking Imp
 	casting_cost: B
 	image: image34
@@ -3862,7 +3987,7 @@ card:
 	rarity: rare
 	rule_text: When <atom-cardname><nospellcheck>Asking Imp</nospellcheck></atom-cardname> enters, an opponent may pay 2 life. If they do, return <atom-cardname><nospellcheck>Asking Imp</nospellcheck></atom-cardname> to its owner’s hand.
 	flavor_text: <i-flavor>Persistence is a virtue.</i-flavor>
-	power: 3
+	power: 4
 	toughness: 3
 	illustrator: J Edward Neill
 	card_code_text: 
@@ -3871,6 +3996,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3917,6 +4043,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3943,6 +4070,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3967,6 +4095,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3995,6 +4124,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4029,6 +4159,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4063,6 +4194,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4100,6 +4232,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: prev: "Infectious in many ways."
@@ -4127,6 +4260,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4163,6 +4297,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4189,6 +4324,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4233,6 +4369,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4268,6 +4405,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4296,6 +4434,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4323,6 +4462,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4347,6 +4487,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4373,6 +4514,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4401,6 +4543,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4428,6 +4571,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4470,6 +4614,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4504,6 +4649,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4548,6 +4694,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4576,6 +4723,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4612,6 +4760,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4648,6 +4797,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4673,6 +4823,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4718,6 +4869,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4740,6 +4892,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4766,6 +4919,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4789,6 +4943,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4825,6 +4980,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4848,6 +5004,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4873,6 +5030,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4902,6 +5060,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4937,6 +5096,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4966,6 +5126,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5003,6 +5164,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5030,6 +5192,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5056,6 +5219,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5091,6 +5255,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5116,6 +5281,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5144,6 +5310,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5167,6 +5334,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5192,6 +5360,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5217,6 +5386,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5242,6 +5412,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5267,6 +5438,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5300,6 +5472,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5325,6 +5498,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5360,6 +5534,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5387,6 +5562,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5412,6 +5588,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5439,6 +5616,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5476,6 +5654,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5503,6 +5682,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5530,6 +5710,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5568,6 +5749,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5604,6 +5786,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5628,6 +5811,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5655,6 +5839,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5690,6 +5875,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5718,6 +5904,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5743,6 +5930,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5768,6 +5956,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5790,6 +5979,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5814,6 +6004,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5849,6 +6040,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5873,6 +6065,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5898,6 +6091,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5931,6 +6125,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5958,6 +6153,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5982,6 +6178,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6015,6 +6212,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6058,6 +6256,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6086,6 +6285,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6121,6 +6321,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6159,6 +6360,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6186,6 +6388,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: prev: Moments before death you’ll realize that you were never human.
@@ -6208,6 +6411,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6233,6 +6437,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6258,6 +6463,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6283,6 +6489,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6321,6 +6528,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6348,6 +6556,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6373,6 +6582,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6398,6 +6608,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -6424,6 +6635,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6463,6 +6675,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6509,6 +6722,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 green Saproling creature token. You gain 2 life.</margin:130:0:0>
 		[0]: <margin:130:0:0>Creature spells you cast this turn can’t be countered. As they enter, they gain <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Create a green enchantment token named <kw-A><i-auto><nospellcheck><key>Survival</key></nospellcheck></i-auto></kw-A> with “You and other permanents you control have <kw-0><nospellcheck><key>ward <param-cost><sym-auto>1</sym-auto></param-cost></key></nospellcheck></kw-0>.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -6533,6 +6747,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -6557,6 +6772,7 @@ card:
 	copyright: Pavel Proskurin
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6580,6 +6796,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6606,6 +6823,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6631,6 +6849,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6659,6 +6878,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6684,6 +6904,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6720,6 +6941,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6757,6 +6979,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6796,6 +7019,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6823,6 +7047,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -6851,6 +7076,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6893,6 +7119,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6920,6 +7147,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6958,6 +7186,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6995,6 +7224,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7038,6 +7268,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7084,6 +7315,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7124,6 +7356,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7153,6 +7386,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7188,6 +7422,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7214,6 +7449,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7241,6 +7477,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7268,6 +7505,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7304,6 +7542,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7328,6 +7567,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7355,6 +7595,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7392,6 +7633,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7430,6 +7672,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7471,6 +7714,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7499,6 +7743,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7546,6 +7791,7 @@ card:
 		[+1]: <margin:130:0:0>Any number of other target nonland permanents lose all abilities until your next turn.</margin:130:0:0>
 		[0]: <margin:130:0:0>You may tap an untapped creature you control. If you do, draw two cards.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Create a token that’s a copy of target creature, except it loses all abilities until end of turn.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7582,6 +7828,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7607,6 +7854,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7642,6 +7890,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7680,6 +7929,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7727,6 +7977,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -7752,6 +8003,7 @@ card:
 	copyright: Sierra Gray
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -7777,6 +8029,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -7802,6 +8055,7 @@ card:
 	copyright: Sierra Gray
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -7827,6 +8081,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -7852,6 +8107,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7887,6 +8143,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7921,6 +8178,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Voracious
 	match: Voracious <atom-param>number</atom-param>

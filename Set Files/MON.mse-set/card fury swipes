@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Sneasel
+		!reprint
+	time_created: 2017-11-11 23:11:31
+	time_modified: 2021-04-28 02:04:13
+	name: Fury Swipes
+	casting_cost: 2R
+	image: image94
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Fury Swipes deals 2 damage divided as you choose among one or two targets. <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.
+	flavor_text:
+		<i-flavor>“It’s not the size of the monster that determines its power, but its bravery despite the odds.”<soft-line>
+		—<error-spelling:en_US>Masaru</error-spelling:en_US>, aspiring champion</soft-line></i-flavor>
+	illustrator: Claudia Gomez (ShounenRaccoon)
+	card_code_text: jacqui-pup
+	card_code_text_2: jacqui-pup
+	card_code_text_3: jacqui-pup
+	copyright: 
+	copyright_2: 
+	copyright_3: 

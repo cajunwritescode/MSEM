@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Raichu
+	time_created: 2020-01-18 05:26:07
+	time_modified: 2020-05-15 01:55:40
+	name: Volt Vermin
+	casting_cost: 4R
+	image: image167
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Mouse</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Volt Vermin</nospellcheck></atom-cardname> enters, it deals damage to target player or planeswalker equal to the number of creatures with <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> and/or <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> you control.
+	flavor_text:
+		<i-flavor>“Shocks from the biggest of them can knock out an elephant. I guess </i>that’s <i>why they’re scared of mice.”<soft-line>
+		—Karina <error-spelling:en_US>Oblay</error-spelling:en_US>, field notes</soft-line></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: EvilApple513
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

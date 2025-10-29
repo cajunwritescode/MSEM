@@ -178,10 +178,11 @@ card:
 	has_styling: false
 	notes:
 		She/her
+		!update buffed: Discount now works on all turns.
 		fullart
 		!inpend Angel\\n/replace/Angel — !inpend Elder\\n/replace/Elder — 
 	time_created: 2023-12-26 04:47:13
-	time_modified: 2024-12-30 14:52:18
+	time_modified: 2025-10-29 01:02:44
 	name: Rahstahde, Brand of Truth
 	casting_cost: UR
 	image: image255.png
@@ -195,7 +196,7 @@ card:
 	level_2: Angel
 	level_3: Elder
 	level_4: 
-	level_1_text: The first instant or sorcery spell you cast on each of your turns costs <sym>U/R</sym> <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast.
+	level_1_text: The first instant or sorcery spell you cast each turn costs <sym>U/R</sym> <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast.
 	level_2_text: <margin:0:0:30>Put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter and a <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a> counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Rahstahde</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:0:0:30>
 	level_3_text: <margin:0:0:30>Exile any number of instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it. You may cast the copies without paying their mana costs.</margin:0:0:30>
 	level_4_text: 
@@ -213,7 +214,7 @@ card:
 	copyright_3: 
 	special_text:
 		Transcend <i-auto>(Activate as a sorcery to gain the next type and a +1/+1 counter.)</i-auto>
-		The first instant or sorcery spell you cast on each of your turns costs <sym>U/R</sym> <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast.
+		The first instant or sorcery spell you cast each turn costs <sym>U/R</sym> <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast.
 		<sym-auto>UR</sym-auto>: Angel
 		<margin:0:0:30>Put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter and a <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a> counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Rahstahde</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:0:0:30>
 		<sym-auto>5UR</sym-auto>: Elder
@@ -2413,7 +2414,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever an opponent casts a spell during your turn or an opponent casts a spell that targets a creature you control, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		Whenever an opponent casts a spell during your turn or an opponent casts a spell that targets a creature you control, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3
@@ -4506,7 +4507,7 @@ card:
 		<kw-1><nospellcheck><key>Surpass <param-cost><sym-auto>5W</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>5W</sym-auto></param-cost>: Transform this creature. This costs <sym>1</sym> less to activate for each counter on it. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-1>
 	rule_text_2:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Cyrukan Weaponmaster</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		Whenever <atom-cardname><nospellcheck>Cyrukan Weaponmaster</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 1
@@ -6185,7 +6186,7 @@ card:
 	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Skyborne Strategist</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Skyborne Strategist</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>“Life is the river, constantly moving. Those who keep up thrive, but those who falter drown.”</i-flavor>
 	power: 1
 	toughness: 1
@@ -7024,7 +7025,7 @@ card:
 	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Enigmatic Herald</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>two</param-number> +1/+1 counters on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Enigmatic Herald</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>two</param-number> +1/+1 counters on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>“A just law forbids iniquity. <error-spelling:en_US>Mahara’s</error-spelling:en_US> will forbids your progress.”</i-flavor>
 	power: 3
 	toughness: 3

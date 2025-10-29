@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Magcargo/Slugma
+	time_created: 2020-01-20 01:46:06
+	time_modified: 2020-05-25 20:40:41
+	card_color: red
+	name: Monstrous Champion
+	casting_cost: 1RR
+	image: image163
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text: <kw-A><i-auto><nospellcheck><key>Vanguard</key></nospellcheck></i-auto></kw-A> — Whenever a creature you control attacks alone, that creature gets +3/+0 until end of turn.
+	flavor_text:
+		<i-flavor>“It’s all up to you. I’ve got your back. Lets make our name.”<soft-line>
+		—<error-spelling:en_US>Masaru</error-spelling:en_US>, aspiring champion</soft-line></i-flavor>
+	illustrator: Amerelle
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

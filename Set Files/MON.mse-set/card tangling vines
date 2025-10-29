@@ -1,0 +1,30 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Tangela
+		!xp 
+	time_created: 2017-11-13 00:55:15
+	time_modified: 2020-09-15 00:11:21
+	name: Tangling Vines
+	casting_cost: 2G
+	image: image23
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Plant</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Experience</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor>Even the plants of <error-spelling:en_US>Chikyu’s</error-spelling:en_US> wilderness show no mercy.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: SREiDo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,35 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2017-11-13 00:55:15
+	time_modified: 2020-05-23 18:28:41
+	name: Grinding
+	casting_cost: G
+	image: image174
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature has <kw-0><nospellcheck><key>experience</key></nospellcheck></kw-0>. <i-auto>(Whenever it attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)</i-auto>
+	flavor_text: <i-flavor>Once a trainer has outgrown the <error-spelling:en_US>Chikyu</error-spelling:en_US> leagues, they begin skirmishes into the violent wilds beyond the villages.</i-flavor>
+	illustrator: Simon Gangl
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

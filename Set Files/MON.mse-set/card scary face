@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Sableye
+	time_created: 2017-11-13 00:55:15
+	time_modified: 2020-02-07 18:44:18
+	name: Scary Face
+	casting_cost: XB
+	image: image80
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		Target creature gets -X/-X until end of turn.
+	flavor_text:
+		<i-flavor>“Seems ‘scared to <error-spelling:en_US>death’</error-spelling:en_US> isn’t just an expression around here.”<soft-line>
+		—Lucien, the duelist</soft-line></i-flavor>
+	illustrator: biscuitcrumbs
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

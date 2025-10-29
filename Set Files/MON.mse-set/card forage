@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!grave!life
+		Beedrill
+	time_created: 2020-01-18 23:00:30
+	time_modified: 2020-09-05 21:48:41
+	card_color: black
+	name: Forage
+	casting_cost: 1B
+	image: image61
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, then return an artifact or creature card from your graveyard to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Deltheor
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

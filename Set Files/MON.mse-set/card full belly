@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Snorlax
+	time_created: 2020-01-04 22:59:30
+	time_modified: 2020-05-23 17:58:20
+	card_color: green
+	name: Full Belly
+	casting_cost: 2G
+	image: image120
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature gets +2/+3 and has <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>An object at rest stays at rest, and an object in motion stays in motion.</i-flavor>
+	illustrator: Sara Garet
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

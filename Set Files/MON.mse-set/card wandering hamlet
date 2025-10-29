@@ -1,0 +1,37 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		popout_image_style: 325,299,20,20,
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !num 269
+	time_created: 2016-06-13 16:10:41
+	time_modified: 2021-06-23 00:57:49
+	name: Wandering Hamlet
+	image: image242
+	image_2: 
+	mainframe_image: mainframe_image3
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: special
+	rule_text:
+		<i-auto>(<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.)</i-auto>
+		<soft-line><atom-cardname><nospellcheck>Wandering Hamlet</nospellcheck></atom-cardname> enters tapped unless you control two or more basic lands.</soft-line>
+	flavor_text:
+		<i-flavor>“There are rumors of monsters so big entire towns live on them. I haven’t seen it, but I believe it.”<soft-line>
+		—Karina <error-spelling:en_US>Oblay</error-spelling:en_US>, field notes</soft-line></i-flavor>
+	illustrator: Aquaria-Moon
+	custom_card_number: 269
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -2558,12 +2558,20 @@ card:
 	copyright_3: 
 
 card:
-	has_styling: false
-	notes: !changed
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!changed
+		!update buffed: Was {2}{R}.
 	time_created: 2019-06-17 00:00:00
-	time_modified: 2021-08-25 17:16:02
+	time_modified: 2025-10-28 23:35:40
 	name: Mirrorcast Battlemage
-	casting_cost: 2R
+	casting_cost: 1R
 	image: image146
 	image_2: 
 	mainframe_image: 
@@ -3460,7 +3468,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-cardname><nospellcheck>Ravenous Hydra</nospellcheck></atom-cardname> enters with X +1/+1 counters on it.
-		Whenever <atom-cardname><nospellcheck>Ravenous Hydra</nospellcheck></atom-cardname> deals combat damage, <kw-A><nospellcheck><key>proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(You choose any number of permanents and/or players with counters on them, then give each another kind of a counter already there.)</i-auto></atom-reminder-action></kw-A>
+		Whenever <atom-cardname><nospellcheck>Ravenous Hydra</nospellcheck></atom-cardname> deals combat damage, <kw-A><nospellcheck><key>proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Choose any number of permanents and/or players, then give each another counter of each kind already there.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 0

@@ -1,0 +1,56 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		other_options: use hovering pt, back color indicator
+		custom_symbol_one: 
+		custom_symbol_two: 
+		level_1_chop: -5
+		level_5_chop: -5,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Nidorina//Nidoqueen
+	time_created: 2017-11-11 01:12:32
+	time_modified: 2021-01-31 20:25:51
+	card_color_2: green
+	name: Barbed Beast
+	name_2: Barbed Bruiser
+	casting_cost: 3G
+	transformation: custom symbol one
+	transformation_2: custom symbol two
+	image: image171
+	image_2: image172
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		Whenever a creature dealt damage by <atom-cardname><nospellcheck>Barbed Beast</nospellcheck></atom-cardname> this turn dies, transform <atom-cardname><nospellcheck>Barbed Beast</nospellcheck></atom-cardname>.
+	rule_text_2:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>
+		Whenever a creature dealt damage by <atom-cardname><nospellcheck>Barbed Bruiser</nospellcheck></atom-cardname> this turn dies, draw a card.
+	flavor_text:
+		<i-flavor>“The creature is really cute, but careful, the fluffy bits are actually poison spikes.”<soft-line>
+		—Karina <error-spelling:en_US>Oblay</error-spelling:en_US>, field notes</soft-line></i-flavor>
+	flavor_text_2:
+		<i-flavor>“After training, the monster is a lot scarier and not at all cute... at least it makes it easier to stay far away from it.”<soft-line>
+		—Karina <error-spelling:en_US>Oblay</error-spelling:en_US>, field notes</soft-line></i-flavor>
+	power: 2
+	power_2: 4
+	toughness: 3
+	toughness_2: 6
+	illustrator: salanchu
+	illustrator_2: salanchu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

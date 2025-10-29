@@ -1,0 +1,50 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		front_font_cap: 
+		custom_symbol_one: 
+		custom_symbol_two: 
+		level_1_chop: -7,7,
+		level_2_chop: 
+		level_5_chop: -5,5,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: Ekans//Arbok
+	time_created: 2017-11-13 00:55:15
+	time_modified: 2025-09-19 00:39:41
+	card_color_2: green
+	name: Winding Snake
+	name_2: Mother Snake
+	casting_cost: 1G
+	transformation: custom symbol one
+	transformation_2: custom symbol two
+	image: image226
+	image_2: image173
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Snake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-race-en>Snake</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text:
+		<kw-A><nospellcheck><key>Experience</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+		When <atom-cardname><nospellcheck>Winding Snake</nospellcheck></atom-cardname> has three or more +1/+1 counters on it, remove them all and transform it.
+	rule_text_2: <kw-A><nospellcheck><key>Experience</key></nospellcheck><atom-reminder-custom> <i-auto>(Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor>There is always more to learn.</i-flavor>
+	power: 1
+	power_2: 4
+	toughness: 1
+	toughness_2: 4
+	illustrator: roddz-art
+	illustrator_2: tamaume
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		!grave
+		Abra
+	time_created: 2020-02-05 11:42:47
+	time_modified: 2020-02-07 20:53:27
+	name: Strategic Planning
+	casting_cost: 1U
+	image: image91
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+	flavor_text:
+		<i-flavor>“It spends almost its entire life with its eyes closed. Is it sleeping, or meditating?”<soft-line>
+		—Professor Maple</soft-line></i-flavor>
+	illustrator: Dsurion
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

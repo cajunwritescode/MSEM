@@ -1,0 +1,28 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Vaporeon
+	time_created: 2017-11-11 01:34:43
+	time_modified: 2020-04-22 03:00:22
+	name: Sludge-Gill Fox
+	casting_cost: 1UU
+	image: image147
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Fox</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Fish</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<atom-cardname><nospellcheck>Sludge-Gill Fox</nospellcheck></atom-cardname> can’t be blocked as long as it’s attacking alone.
+		Whenever <atom-cardname><nospellcheck>Sludge-Gill Fox</nospellcheck></atom-cardname> deals combat damage to a player, you may draw a card.
+	flavor_text: <i-flavor>Some foxes had evolved to grow gills, allowing them to remain unseen by any that they deemed untrustworthy.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Kenket
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

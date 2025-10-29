@@ -6761,9 +6761,10 @@ card:
 	notes:
 		“Do not fall into the darkness where your dreams replace your reality.”
 		—Perisophia the Philosopher”
+		!update buffed: Was 1/1.
 		She speaks for all the gods, but those who listen only hear the one they have faith in the most.
 	time_created: 2021-09-04 16:22:20
-	time_modified: 2023-01-25 20:44:12
+	time_modified: 2025-10-29 00:48:24
 	card_color: white
 	name: Nykthos Enchantress
 	casting_cost: 1W
@@ -6778,8 +6779,8 @@ card:
 		Whenever an enchantment you control enters, draw a card. This ability triggers only once each turn.
 		As long as you control three or more enchantments, <atom-cardname><nospellcheck>Nykthos Enchantress</nospellcheck></atom-cardname> gets +2/+2 and has <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 1
+	power: 2
+	toughness: 2
 	illustrator: Anthony Jean
 	custom_card_number: 
 	card_code_text: 

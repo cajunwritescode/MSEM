@@ -1064,7 +1064,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
 		Whenever <atom-cardname><nospellcheck>Recreator of Myths</nospellcheck></atom-cardname> attacks, you may cast target instant or sorcery spell from your graveyard. If you do, exile that card instead of putting it into your graveyard as it resolves.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -1419,13 +1419,13 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: 
+	notes: !update buffed: Was {2}{W}{B}, with Monument {W}{B} for a monument that drained for 1 on upkeep.
 	time_created: 2020-06-07 17:23:58
-	time_modified: 2021-10-31 20:46:18
+	time_modified: 2025-10-29 00:10:28
 	card_color_2: white, black, artifact, multicolor, horizontal
 	name: Fight for Succession
 	name_2: Chalice of Fallen Foes
-	casting_cost: 2WB
+	casting_cost: 1WB
 	image: image278
 	image_2: image 24
 	mainframe_image: 
@@ -1438,8 +1438,8 @@ card:
 	rarity: rare
 	rule_text:
 		Destroy target nonland permanent.
-		<kw-A><nospellcheck><key>Monument <param-cost><sym-auto>WB</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this transformed from your graveyard for its monument cost. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
-	rule_text_2: At the beginning of your upkeep, each opponent loses 1 life and you gain 1 life.
+		<kw-A><nospellcheck><key>Monument <param-cost><sym-auto>3WB</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this transformed from your graveyard for its monument cost. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
+	rule_text_2: At the beginning of your upkeep, <kw-A><nospellcheck><key>recruit</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a 0/0 white Soldier Army creature token, then put a +1/+1 counter on each Army you control.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2:
 		<i-flavor>“Drink deep in your victories, as you will never fail again.”<soft-line>
@@ -2009,7 +2009,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
 		If a player casting a noncreature spell would cause an ability of a permanent you control to trigger, that ability triggers an additional time.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -5647,7 +5647,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
 		Whenever <atom-cardname><nospellcheck>Unruly Magus</nospellcheck></atom-cardname> deals combat damage to a player, draw a card.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Fahrib</error-spelling:en_US>? <error-spelling:en_US>Andazir</error-spelling:en_US>? Whichever gives me the most power is the one I’ll follow.”</i-flavor>
 	power: 3

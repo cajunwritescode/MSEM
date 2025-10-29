@@ -1,0 +1,24 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2020-02-08 02:24:16
+	time_modified: 2020-10-29 23:23:55
+	name: The Rocket Gang Strikes!
+	casting_cost: 4UU
+	image: image82
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: <kw-A><i-auto><nospellcheck><key>Vanguard</key></nospellcheck></i-auto></kw-A> — Whenever a creature you control attacks alone, gain control of target nonland permanent for as long as you control <atom-cardname><nospellcheck>The Rocket Gang Strikes!</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor>“Where has decades of collaboration got you? It’s time for someone to take charge, and take whatever else they like along the way.”</i-flavor>
+	illustrator: Jan Apple
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

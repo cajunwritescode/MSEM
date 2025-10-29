@@ -77,15 +77,15 @@ card:
 		shrink_name_text: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update buffed: Was {1}{W}{W} with +1: Up to two target creatures you control each get +1/+1 and gain vigilance until end of turn.;-3: Create two 1/1 white Dwarf Peasant creature tokens. You gain 2 life.;-7: You get an emblem with “Creatures you control get +2/+2 and have double strike.”
 	time_created: 2019-04-19 19:08:11
-	time_modified: 2022-05-31 22:41:40
+	time_modified: 2025-10-29 00:21:29
 	extra_data:
 		magic-COTWC-m15planeswalker: creator: Vyacheslav Safronov
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/her
 	name: Helgard, Princess of Many
-	casting_cost: 1WW
+	casting_cost: 2W
 	image: image140
 	image_2: 
 	mainframe_image: 
@@ -101,11 +101,11 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	loyalty_cost_1: +1
 	loyalty_cost_2: -3
-	loyalty_cost_3: -7
+	loyalty_cost_3: -6
 	loyalty: 4
-	level_1_text: <margin:130:0:0>Up to two target creatures you control each get +1/+1 and gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
-	level_2_text: <margin:130:0:0>Create two 1/1 white Dwarf Peasant creature tokens. You gain 2 life.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>You get an emblem with “Creatures you control get +2/+2 and have <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>.”</margin:130:0:0>
+	level_1_text: <margin:130:0:0>Up to one target creature and up to one target Citizen or Peasant each get +2/+1 and gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Create two 1/1 white Dwarf Peasant creature tokens. You gain 1 life for each creature you control.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>You get an emblem with “Creatures you control have <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>.”</margin:130:0:0>
 	level_4_text: 
 	illustrator: Vyacheslav Safronov
 	card_code_text: 
@@ -115,9 +115,9 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		[+1]: <margin:130:0:0>Up to two target creatures you control each get +1/+1 and gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
-		[-3]: <margin:130:0:0>Create two 1/1 white Dwarf Peasant creature tokens. You gain 2 life.</margin:130:0:0>
-		[-7]: <margin:130:0:0>You get an emblem with “Creatures you control get +2/+2 and have <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>.”</margin:130:0:0>
+		[+1]: <margin:130:0:0>Up to one target creature and up to one target Citizen or Peasant each get +2/+1 and gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Create two 1/1 white Dwarf Peasant creature tokens. You gain 1 life for each creature you control.</margin:130:0:0>
+		[-6]: <margin:130:0:0>You get an emblem with “Creatures you control have <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>.”</margin:130:0:0>
 
 card:
 	stylesheet: m15-altered
@@ -9496,9 +9496,11 @@ card:
 		popout_image_style: 0,0,375,523,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !exportname Helgard Emblem
+	notes:
+		!exportname Helgard Emblem
+		!update
 	time_created: 2022-03-31 19:35:59
-	time_modified: 2022-03-31 19:49:08
+	time_modified: 2025-10-29 00:21:49
 	name: Emblem
 	image: image291
 	image_2: 
@@ -9506,7 +9508,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Emblem</word-list-type-en>
 	sub_type: <word-list-planeswalker>Helgard</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
-	rule_text: Creatures you control get +2/+2 and have <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>.
+	rule_text: Creatures you control have <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Vyacheslav Safronov
 	card_code_text: 

@@ -4142,9 +4142,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!scout
-
+	notes: !scout
 	time_created: 2018-03-15 03:13:40
 	time_modified: 2018-03-18 22:02:44
 	card_color: white
@@ -4848,10 +4846,19 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 
 card:
-	has_styling: false
-	notes: !rogue!bounty!primer
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: -2
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!rogue!bounty!primer
+		!update buffed: Was 1/3 that got +2/+0. Now gains life equal to its power on death.
 	time_created: 2016-10-22 20:57:24
-	time_modified: 2018-03-15 03:54:09
+	time_modified: 2025-10-28 23:05:39
 	name: Spirit of Infamy
 	casting_cost: 1B
 	image: image131
@@ -4863,10 +4870,11 @@ card:
 	rarity: uncommon
 	rule_text:
 		Whenever <atom-cardname><nospellcheck>Spirit of Infamy</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>post a bounty on target <param-name>creature.</param-name></key></nospellcheck><atom-reminder-action> <i-auto>(Put a bounty counter on that creature. It has “When this creature dies, each opponent draws a card” as long as it has a bounty counter on it.)</i-auto></atom-reminder-action></kw-A>
-		<atom-cardname><nospellcheck>Spirit of Infamy</nospellcheck></atom-cardname> gets +2/+0 for each bounty counter on it.
+		<atom-cardname><nospellcheck>Spirit of Infamy</nospellcheck></atom-cardname> gets +2/+2 for each bounty counter on it.
+		When <atom-cardname><nospellcheck>Spirit of Infamy</nospellcheck></atom-cardname> dies, you gain life equal to its power.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 3
+	power: 2
+	toughness: 2
 	illustrator: R-SRaven
 	card_code_text: 
 	card_code_text_2: 
@@ -8321,9 +8329,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		reprint!primer
-
+	notes: reprint!primer
 	time_created: 2018-03-15 05:36:14
 	time_modified: 2018-03-15 09:05:43
 	name: Recoil

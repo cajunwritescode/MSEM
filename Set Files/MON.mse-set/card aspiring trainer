@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: !vang
+	time_created: 2019-10-24 15:22:38
+	time_modified: 2024-07-05 06:50:13
+	name: Aspiring Trainer
+	casting_cost: W
+	image: image6
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text: <kw-A><i-auto><nospellcheck><key>Vanguard</key></nospellcheck></i-auto></kw-A> — Whenever a creature you control attacks alone, it gets +1/+1 until end of turn.
+	flavor_text: <i-flavor>Children are given a tamed monster of their own at a young age, with the hope that years of training will prepare them to fight against the wilder ones.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Simone Mändl
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -434,7 +434,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		<i>The monsters rage and the dead rise. It has begun.</i>
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 		I — Put all creature cards from your graveyard onto the battlefield.
 		II — Creatures you control gain <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
 		III — Destroy all creatures.
@@ -473,7 +473,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		<i>“I was filled with <kw-a><nospellcheck><key>fear</key></nospellcheck></kw-a>, but looking across our great city, I know we will survive.”</i>
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 		I — Create a 0/4 white Wall creature token with <kw-a><nospellcheck><key>defender</key></nospellcheck></kw-a>.
 		II — Put a +1/+1 counter on up to one target creature.
 		III — Until your next turn, each creature you control assigns combat damage equal to its toughness rather than its power.
@@ -2777,16 +2777,17 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 2
-		chop_bottom: 2
+		chop_top: 
+		chop_bottom: -5
+		other_options: auto nyx crowns, vorthos box
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update reworked: Was {U} with {U}, Put a travel counter on Endless Discoveries: Draw a card. This ability costs 1 more to activate for each travel counter on Endless Discoveries.;{3}{U}{U}, Sacrifice Endless Discoveries: Return target instant or sorcery card with mana value less than or equal to the number of travel counters on Endless Discoveries from your graveyard to your hand.
 	time_created: 2020-05-26 17:44:53
-	time_modified: 2020-08-31 22:40:16
+	time_modified: 2025-10-28 23:43:54
 	name: Endless Discoveries
-	casting_cost: U
+	casting_cost: 1U
 	image: image43
 	image_2: 
 	mainframe_image: 
@@ -2795,8 +2796,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		<sym-auto>U</sym-auto>, Put a travel counter on Endless Discoveries: Draw a card. This ability costs <sym-auto>1</sym-auto> more to activate for each travel counter on Endless Discoveries.
-		<sym-auto>3UU</sym-auto>, Sacrifice Endless Discoveries: Return target instant or sorcery card with mana value less than or equal to the number of travel counters on Endless Discoveries from your graveyard to your hand.
+		When <atom-cardname><nospellcheck>Endless Discoveries</nospellcheck></atom-cardname> enters, look at the top three cards of your library, then exile them face down.
+		<sym-auto>U</sym-auto>: Put a card exiled with <atom-cardname><nospellcheck>Endless Discoveries</nospellcheck></atom-cardname> into its owner’s hand. Then if there are no cards exiled with <atom-cardname><nospellcheck>Endless Discoveries</nospellcheck></atom-cardname>, shuffle it into its owner’s library.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 

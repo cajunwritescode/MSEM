@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 12
+		chop_bottom: 12
+		frames: 
+		font_cap: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Rocket 
+		!design Cajun
+	time_created: 2017-11-13 00:55:15
+	time_modified: 2020-12-20 01:01:08
+	name: Rocket Admin
+	casting_cost: 2B
+	image: image208
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: When <atom-cardname><nospellcheck>Rocket Admin</nospellcheck></atom-cardname> enters, you may pay 3 life. When you do, gain control of target creature or planeswalker with mana value 3 or less until its owner pays <sym-auto>3</sym-auto>.
+	flavor_text: <i-flavor><i>“What do you mean you’ve got a kid? Just... bring her back here. There’s bound to be</i> </i>someone<i> <i>who</i> <i>will pay to get her back.”</i></i-flavor>
+	watermark: other magic symbols color spotlight
+	power: 2
+	toughness: 1
+	illustrator: Polina Gribova
+	card_code_text: Story Spotlight 3/8
+	card_code_text_2: Story Spotlight 3/8
+	card_code_text_3: Story Spotlight 3/8
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1551,7 +1551,7 @@ card:
 		!noexport
 		!hidetag (SL153)
 	time_created: 2025-01-12 21:40:17
-	time_modified: 2025-01-30 17:21:26
+	time_modified: 2025-10-28 23:59:44
 	name: Valencia of the
 	name_2: <i>Concordant</i>
 	casting_cost: 1GW
@@ -1570,7 +1570,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>First mate</key></nospellcheck>—There are four or fewer different mana costs among nonland cards in your starting deck.<atom-reminder-action> <i-auto>(If this card outside the game is your chosen first mate, you may swap it with a card in your opening hand.)</i-auto></atom-reminder-action></kw-A>
-		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		Valencia has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
 		Each spell your opponents cast that would cost less than three mana to cast costs <sym>1</sym> more to cast.
 	rule_text_2: 
 	rule_text_3: 
@@ -1579,8 +1579,8 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>
-	power: 2
-	toughness: 2
+	power: 3
+	toughness: 3
 	illustrator: Lydart Mclo
 	custom_card_number: 1333
 	card_code_text: CanterburyEgg
@@ -1607,14 +1607,15 @@ card:
 	notes:
 		!hidetag (SL153)
 		!num 1333
+		!update
 	time_created: 2025-01-12 21:40:17
-	time_modified: 2025-01-30 17:21:34
+	time_modified: 2025-10-29 00:00:18
 	name: Valencia of the Concordant
 	name_2: <i>Concordant</i>
 	casting_cost: 1GW
 	image: image37
 	image_2: 
-	mainframe_image: image38
+	mainframe_image: mainframe_image1.png
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
@@ -1627,7 +1628,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>First mate</key></nospellcheck>—There are four or fewer different mana costs among nonland cards in your starting deck.<atom-reminder-action> <i-auto>(If this card outside the game is your chosen first mate, you may swap it with a card in your opening hand.)</i-auto></atom-reminder-action></kw-A>
-		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		Valencia has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> during your turn.
 		Each spell your opponents cast that would cost less than three mana to cast costs <sym>1</sym> more to cast.
 	rule_text_2: 
 	rule_text_3: 
@@ -1636,8 +1637,8 @@ card:
 	flavor_text_2: <i-flavor></i-flavor>
 	flavor_text_3: <i-flavor></i-flavor>
 	flavor_text_4: <i-flavor></i-flavor>
-	power: 2
-	toughness: 2
+	power: 3
+	toughness: 3
 	illustrator: Lydart Mclo
 	custom_card_number: 
 	card_code_text: CanterburyEgg

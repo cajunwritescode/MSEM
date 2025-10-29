@@ -1,0 +1,36 @@
+﻿mse_version: 2.5.8
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		Clefable 
+		!wildcard new art
+	time_created: 2019-07-03 18:08:39
+	time_modified: 2022-05-31 17:01:51
+	name: Metronome
+	casting_cost: XRR
+	image: image195
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		Exile the top three cards of your library. Cast a spell with mana value X or less from among them without paying its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: DayWalker1117
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

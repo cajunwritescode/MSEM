@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Eevee
+	time_created: 2017-11-13 00:55:15
+	time_modified: 2020-05-11 03:21:46
+	name: Sucker Punch
+	casting_cost: 1B
+	image: image83
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: common
+	rule_text: Destroy target tapped creature.
+	flavor_text:
+		<i-flavor>“I didn’t see her last night, and I just thought she was on one of her patrols, but we woke up, and she wasn’t there, and, and, and...”<soft-line>
+		—Karina</soft-line></i-flavor>
+	illustrator: Flavia-Elric
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

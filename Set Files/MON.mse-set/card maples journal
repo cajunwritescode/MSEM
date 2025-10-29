@@ -1,0 +1,26 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: 
+	time_created: 2019-11-09 02:03:45
+	time_modified: 2021-01-31 21:25:22
+	name: Maple’s Journal
+	casting_cost: 5
+	image: image244
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast for each differently named creature you control.
+		Whenever a creature you control enters, if it has a different name than each other creature you control and card in your graveyard, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Nimphradora
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -6681,12 +6681,20 @@ card:
 	copyright_3: 
 
 card:
-	has_styling: false
-	notes: 
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !update buffed: Cost reduced by {2} and can only replace once each turn.
 	time_created: 2019-09-30 17:45:11
-	time_modified: 2019-10-11 14:18:16
+	time_modified: 2025-10-28 23:32:32
 	name: Ethereal Stone
-	casting_cost: 5
+	casting_cost: 3
 	image: image276
 	image_2: 
 	mainframe_image: 
@@ -6694,7 +6702,7 @@ card:
 	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: mythic rare
-	rule_text: If you would search your library for one or more cards, you may search for an additional card. <i-auto>(It still follows the same restrictions and effects.)</i-auto>
+	rule_text: Once each turn, if you would search your library for one or more cards, you may search for an additional card. <i-auto>(It still follows the same restrictions and effects.)</i-auto>
 	flavor_text: <i-flavor>All the world at your fingertips, and then some.</i-flavor>
 	illustrator: Tim Guo
 	custom_card_number: 

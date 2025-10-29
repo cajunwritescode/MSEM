@@ -1,0 +1,27 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		Jolteon
+		!xp!life
+	time_created: 2020-02-05 13:02:17
+	time_modified: 2020-05-25 20:40:27
+	name: Work Up
+	casting_cost: 1W
+	image: image62
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text: Put a +1/+1 counter on target creature. It gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn. You gain 2 life.
+	flavor_text:
+		<i-flavor>“Trainers with similar monsters have an easier time, but they sell themselves short. Don’t cheat yourself with the easy path.”<soft-line>
+		—<error-spelling:en_US>Masaru</error-spelling:en_US>, aspiring champion</soft-line></i-flavor>
+	illustrator: Galecoroco
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

@@ -1,0 +1,32 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes:
+		ぜろき(イズノ) 
+		Whenever Jovial Martyr is dealt damage by a source an opponent controls, it deals that much damage to any target.
+		“No matter how much of a beating it takes, it always bounces back with a smile.”
+		—Karina Oblay, field notes
+	time_created: 2019-06-03 00:49:36
+	time_modified: 2024-07-05 06:50:04
+	name: Bird Keeper
+	casting_cost: 2W
+	image: image289
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en> <soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		At the beginning of your end step, if you’ve gained 3 or more life this turn, create a 2/2 white Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: ぜろき(イズノ)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 

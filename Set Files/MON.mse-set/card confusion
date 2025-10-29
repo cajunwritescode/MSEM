@@ -1,0 +1,25 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: false
+	notes: Psyduck!harness
+	time_created: 2017-11-11 01:40:07
+	time_modified: 2020-02-08 15:56:44
+	name: Confusion
+	casting_cost: 2U
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rule_text:
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck><atom-reminder-custom> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto></atom-reminder-custom></kw-A>
+		Return target nonland permanent to its owner’s hand. If this spell was harnessed, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Pachabel (DA)
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
