@@ -442,7 +442,7 @@ card:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !exportname Condor
 	time_created: 2023-09-06 17:48:49
 	time_modified: 2023-09-27 17:41:16
 	card_color: white, black, multicolor, horizontal
@@ -1437,7 +1437,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		center_text: short text only
 		overlay: 
-	notes: !related Veindrinker’s Cabalist;
+	notes:
+		!related Veindrinker’s Cabalist;
+		!exportname Jojo Treasure
 	time_created: 2023-09-22 16:59:33
 	time_modified: 2023-09-30 23:39:40
 	name: Treasure
@@ -2677,7 +2679,7 @@ card:
 	styling_data:
 		remove_from_autocount: yes
 		promo: no
-	notes: 
+	notes: !exportname Spotify Clue
 	time_created: 2023-10-11 16:51:28
 	time_modified: 2023-10-31 20:44:39
 	name: Clue

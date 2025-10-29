@@ -11224,7 +11224,9 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: gull
+	notes:
+		gull
+		!exportname gold Bird
 	time_created: 2023-04-23 22:14:41
 	time_modified: 2025-04-21 17:08:38
 	card_color: blue, black, multicolor, horizontal
