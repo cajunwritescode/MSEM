@@ -6730,13 +6730,13 @@ card:
 		<sym-auto>T</sym-auto>: Exile two target creature and/or land cards from a graveyard. Create a <kw-A><nospellcheck><key>Vial</key></nospellcheck> token.<atom-reminder-action> <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, Sacrifice this and another permanent: Draw a card. Activate only during your turn.”)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>BG</sym-auto>, Sacrifice two Vials: Sacrifice <atom-cardname><nospellcheck>Leticia Petrine</nospellcheck></atom-cardname>, then return her to the battlefield transformed under her owner’s control.
 	flavor_text: <i-flavor></i-flavor>
-	loyalty_cost_5: +2
-	loyalty_cost_6: -1
-	loyalty_cost_7: -10
+	loyalty_cost_9: +2
+	loyalty_cost_10: -1
+	loyalty_cost_11: -10
 	loyalty_2: 5
-	level_5_text: <margin:130:0:0>Put a -1/-1 counter on or remove a -1/-1 counter from up to one target creature.</margin:130:0:0>
-	level_6_text: <margin:130:0:0>Draw a card, then each player sacrifices a nonland permanent.</margin:130:0:0>
-	level_7_text: <margin:130:0:0>Destroy all nonland permanents you don’t control.</margin:130:0:0>
+	level_9_text: <margin:130:0:0>Put a -1/-1 counter on or remove a -1/-1 counter from up to one target creature.</margin:130:0:0>
+	level_10_text: <margin:130:0:0>Draw a card, then each player sacrifices a nonland permanent.</margin:130:0:0>
+	level_11_text: <margin:130:0:0>Destroy all nonland permanents you don’t control.</margin:130:0:0>
 	power: 1
 	toughness: 2
 	illustrator: Pau Minguell

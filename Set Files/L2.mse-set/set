@@ -4,6 +4,7 @@ game_version: 2024-10-01
 stylesheet: m15-altered
 stylesheet_version: 2024-09-23
 set_info:
+	title: L2
 	set_code: Mana Pool
 	symbol: symbol1.mse-symbol
 	masterpiece_symbol: 
@@ -46,6 +47,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -72,6 +74,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -98,6 +101,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -124,6 +128,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -150,6 +155,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -176,6 +182,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -202,6 +209,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -228,6 +236,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -254,6 +263,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -280,6 +290,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -305,6 +316,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -330,6 +342,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -355,6 +368,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -380,6 +394,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -405,6 +420,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -430,6 +446,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -455,6 +472,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -480,6 +498,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -505,6 +524,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -530,11 +550,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2018-08-06 15:30:30
-	time_modified: 2023-11-17 20:40:16
+	time_modified: 2025-10-28 20:03:21
 	name: Choked Estuary
 	image: image132
 	image_2: 
@@ -549,12 +570,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Devin Gao
 	custom_card_number: 032
-	card_code_text: HerziQuerzi
+	card_code_text: 
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -580,11 +602,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2018-08-06 15:30:30
-	time_modified: 2024-08-30 03:50:21
+	time_modified: 2025-10-28 20:03:26
 	name: Foreboding Ruins
 	image: image134
 	image_2: 
@@ -599,17 +622,18 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Amit Naik
 	custom_card_number: 033
-	card_code_text: HerziQuerzi
+	card_code_text: 
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2018-08-06 15:30:30
-	time_modified: 2023-11-17 20:39:11
+	time_modified: 2025-10-28 20:03:31
 	name: Fortified Village
 	image: image135
 	image_2: 
@@ -624,17 +648,18 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Veli Nyström
 	custom_card_number: 035
-	card_code_text: HerziQuerzi
+	card_code_text: 
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2018-08-06 15:30:30
-	time_modified: 2023-11-17 20:39:19
+	time_modified: 2025-10-28 20:03:34
 	name: Game Trail
 	image: image136
 	image_2: 
@@ -649,12 +674,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Cliff Childs
 	custom_card_number: 034
-	card_code_text: HerziQuerzi
+	card_code_text: 
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -680,6 +706,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -705,6 +732,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -730,11 +758,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2018-08-06 15:30:30
-	time_modified: 2023-11-17 20:39:42
+	time_modified: 2025-10-28 20:03:38
 	name: Port Town
 	image: image140
 	image_2: 
@@ -749,12 +778,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Lucas Staniec
 	custom_card_number: 031
-	card_code_text: HerziQuerzi
+	card_code_text: 
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -780,6 +810,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -805,6 +836,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -830,6 +862,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -855,6 +888,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -880,6 +914,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -905,11 +940,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2017-10-30 22:45:16
-	time_modified: 2020-07-25 01:03:03
+	time_modified: 2025-10-28 20:02:12
 	card_color: multicolor
 	name: Angeltouched Cavern
 	casting_cost: 
@@ -930,17 +966,18 @@ card:
 	toughness: 
 	illustrator: Young Kim
 	custom_card_number: 053
-	card_code_text: voltaic-qui
+	card_code_text: jacqui-pup
 	card_code_text_2: voltaic-qui
 	card_code_text_3: voltaic-qui
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2017-10-30 22:45:16
-	time_modified: 2020-07-25 01:03:59
+	time_modified: 2025-10-28 20:02:24
 	card_color: multicolor
 	name: Angeltouched Crag
 	casting_cost: 
@@ -961,17 +998,18 @@ card:
 	toughness: 
 	illustrator: Nin Jackson
 	custom_card_number: 051
-	card_code_text: voltaic-qui
+	card_code_text: jacqui-pup
 	card_code_text_2: voltaic-qui
 	card_code_text_3: voltaic-qui
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2017-10-30 22:45:16
-	time_modified: 2020-07-25 01:03:51
+	time_modified: 2025-10-28 20:02:29
 	card_color: multicolor
 	name: Angeltouched Garden
 	casting_cost: 
@@ -992,17 +1030,18 @@ card:
 	toughness: 
 	illustrator: Won Jun Tae
 	custom_card_number: 055
-	card_code_text: voltaic-qui
+	card_code_text: jacqui-pup
 	card_code_text_2: voltaic-qui
 	card_code_text_3: voltaic-qui
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2017-10-30 22:45:16
-	time_modified: 2020-07-25 01:03:38
+	time_modified: 2025-10-28 20:02:34
 	card_color: multicolor
 	name: Angeltouched Marsh
 	casting_cost: 
@@ -1023,17 +1062,18 @@ card:
 	toughness: 
 	illustrator: John Thacker
 	custom_card_number: 052
-	card_code_text: voltaic-qui
+	card_code_text: jacqui-pup
 	card_code_text_2: voltaic-qui
 	card_code_text_3: voltaic-qui
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2017-10-30 22:45:16
-	time_modified: 2020-07-25 01:03:27
+	time_modified: 2025-10-28 20:02:39
 	card_color: multicolor
 	name: Angeltouched Saltflat
 	casting_cost: 
@@ -1054,12 +1094,13 @@ card:
 	toughness: 
 	illustrator: Joon Ahn
 	custom_card_number: 054
-	card_code_text: voltaic-qui
+	card_code_text: jacqui-pup
 	card_code_text_2: voltaic-qui
 	card_code_text_3: voltaic-qui
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1086,6 +1127,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1112,6 +1154,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1138,6 +1181,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1164,6 +1208,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1190,6 +1235,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1224,6 +1270,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1251,6 +1298,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1278,6 +1326,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1305,6 +1354,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1332,6 +1382,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1358,6 +1409,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1381,6 +1433,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1407,6 +1460,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1433,6 +1487,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1460,6 +1515,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1486,6 +1542,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !inpend Vanishing 5/add/ (This permanent enters with five time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, sacrifice it.)
@@ -1513,11 +1570,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2018-08-06 15:30:30
-	time_modified: 2018-08-07 00:12:13
+	time_modified: 2025-10-28 20:23:30
 	card_color: land, multicolor
 	name: Hill of Souls
 	image: image178
@@ -1534,12 +1592,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Tore Wesolowski
 	custom_card_number: 078
-	card_code_text: umisa
+	card_code_text: Umisa
 	card_code_text_2: umisa
 	card_code_text_3: umisa
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1566,6 +1625,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1590,6 +1650,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1616,6 +1677,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1641,6 +1703,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1666,6 +1729,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1691,6 +1755,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1716,6 +1781,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1739,6 +1805,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1764,6 +1831,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !alter
@@ -1788,6 +1856,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1815,6 +1884,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1840,6 +1910,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !alter
@@ -1865,6 +1936,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1891,6 +1963,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1916,6 +1989,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1941,6 +2015,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1966,6 +2041,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1992,6 +2068,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2018,6 +2095,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !check
@@ -2043,6 +2121,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2069,6 +2148,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2094,6 +2174,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2115,6 +2196,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2140,6 +2222,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2165,6 +2248,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2190,6 +2274,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2215,6 +2300,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2240,6 +2326,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2266,6 +2353,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2291,6 +2379,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2324,6 +2413,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2348,6 +2438,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2371,6 +2462,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2397,6 +2489,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2435,6 +2528,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2473,6 +2567,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2511,6 +2606,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2549,6 +2645,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2588,6 +2685,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2613,6 +2711,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2638,6 +2737,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2663,6 +2763,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2688,6 +2789,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2713,6 +2815,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2738,6 +2841,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2763,6 +2867,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2788,6 +2893,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2813,6 +2919,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2838,6 +2945,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2863,6 +2971,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2895,6 +3004,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: HIGH NOON — CAJUN
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 version_control:
 	type: none
 apprentice_code: 

@@ -90,6 +90,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -124,6 +125,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -157,6 +159,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -185,6 +188,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -212,6 +216,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -248,6 +253,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -282,6 +288,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -316,6 +323,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: URNgeneric
@@ -343,6 +351,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -378,6 +387,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -412,6 +422,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -443,6 +454,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: URNgeneric
@@ -466,6 +478,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -515,6 +528,7 @@ card:
 		[+1]: <margin:130:0:0>Exile up to one target non-Plains permanent. At the beginning of that card’s owner’s next upkeep, return it to the battlefield under their control.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target nonland permanent an opponent controls. They create a Plains token. <i-auto>(It’s a basic land with “<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.”)</i-auto></margin:130:0:0>
 		[-10]: <margin:130:0:0>Exile all permanents your opponents control. For each permanent exiled this way, its controller creates a colorless Plains basic land token.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes:
@@ -541,6 +555,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: RWCGW
@@ -568,6 +583,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -607,6 +623,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -635,6 +652,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -662,6 +680,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CUCUBCMC5
@@ -689,6 +708,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -723,6 +743,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CRNUR
@@ -747,6 +768,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -780,6 +802,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -818,6 +841,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -843,6 +867,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !character4
@@ -866,6 +891,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -899,6 +925,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -931,6 +958,7 @@ card:
 	copyright: 2/2
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -962,6 +990,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -987,6 +1016,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1017,6 +1047,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1053,6 +1084,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1076,6 +1108,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CWCgenericCMC4
@@ -1101,6 +1134,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CUNgeneric
@@ -1126,6 +1160,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: UBNgeneric
@@ -1152,6 +1187,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1179,6 +1215,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1211,6 +1248,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1245,6 +1283,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1272,6 +1311,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1309,6 +1349,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1339,6 +1380,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1374,6 +1416,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CRNRG
@@ -1397,6 +1440,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: UGNRG
@@ -1422,6 +1466,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: UWCWB
@@ -1447,6 +1492,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1483,6 +1529,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1515,6 +1562,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1549,6 +1597,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1586,6 +1635,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1614,6 +1664,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CBNBR
@@ -1639,6 +1690,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !character3
@@ -1666,6 +1718,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CGNRG
@@ -1691,6 +1744,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1736,6 +1790,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1764,6 +1819,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CGCRGCMC4
@@ -1789,6 +1845,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1828,6 +1885,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1853,6 +1911,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1888,6 +1947,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CRNgeneric
@@ -1915,6 +1975,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1940,6 +2001,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1978,6 +2040,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2011,6 +2074,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2043,6 +2107,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: URCBR
@@ -2070,6 +2135,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2097,6 +2163,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2124,6 +2191,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2160,6 +2228,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2196,6 +2265,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CRNgeneric
@@ -2222,6 +2292,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2256,6 +2327,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2288,6 +2360,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2323,6 +2396,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2353,6 +2427,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2383,6 +2458,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CWNGW
@@ -2410,6 +2486,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2442,6 +2519,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2479,6 +2557,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2506,6 +2585,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: UWNgeneric
@@ -2531,6 +2611,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2568,6 +2649,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2601,6 +2683,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2635,6 +2718,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: RWNWB
@@ -2660,6 +2744,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2691,6 +2776,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CRCBRCMC3
@@ -2718,6 +2804,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2747,6 +2834,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: RWCWU
@@ -2774,6 +2862,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: UBNUB
@@ -2797,6 +2886,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: UBCWB
@@ -2824,6 +2914,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2858,6 +2949,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2890,6 +2982,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2922,6 +3015,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2952,6 +3046,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: CRN generic
@@ -2978,6 +3073,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3004,6 +3100,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Reprint
@@ -3027,6 +3124,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3054,6 +3152,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3081,6 +3180,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3116,6 +3216,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3127,7 +3228,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2018-10-17 12:04:03
-	time_modified: 2019-11-19 05:02:51
+	time_modified: 2025-10-23 22:57:32
 	name: Haunted Fairground
 	image: image45
 	image_2: 
@@ -3138,7 +3239,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>. <i-auto>(Exile exactly two cards from your hand and/or graveyard.)</i-auto><atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>U</sym-auto> or <sym-auto>R</sym-auto>.<atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“At night, the dead revel in the halls of the living. Join them with caution; though their tables are plentiful and their gifts generous, they </i>will <i>see you come back for more.”<soft-line>
 		—Vakavanha, Who Sees Anew</soft-line></i-flavor>
@@ -3149,11 +3250,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2018-10-17 12:04:03
-	time_modified: 2019-02-22 23:02:39
+	time_modified: 2025-10-23 22:57:38
 	name: Forsaken Getaway
 	image: image66
 	image_2: 
@@ -3164,7 +3266,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>. <i-auto>(Exile exactly two cards from your hand and/or graveyard.)</i-auto><atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>W</sym-auto> or <sym-auto>B</sym-auto>.<atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>Vacation homes near the wilderness were among the first buildings to be abandoned by the wealthy and harvested by the rest.</i-flavor>
 	illustrator: Ismail Inceoglu
 	card_code_text: 
@@ -3173,11 +3275,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2018-10-17 12:04:03
-	time_modified: 2019-02-22 23:02:56
+	time_modified: 2025-10-23 22:57:44
 	name: Drained Shore
 	image: image23
 	image_2: 
@@ -3188,7 +3291,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>. <i-auto>(Exile exactly two cards from your hand and/or graveyard.)</i-auto><atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>G</sym-auto> or <sym-auto>U</sym-auto>.<atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>Before the Reclamation, the old lakes were drained to make room for tourist housing. Now, only moss awaits travellers there.</i-flavor>
 	illustrator: Ismail Inceoglu
 	card_code_text: 
@@ -3197,6 +3300,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3234,6 +3338,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3259,6 +3364,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3296,6 +3402,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3307,7 +3414,7 @@ card:
 		overlay: 
 	notes: The old Lovi broke the new world apart to make room for itself, and the results were a patchwork of conditions covering all the land; a sun that never rose in one corner, a sun that never set in another.
 	time_created: 2018-10-17 12:04:03
-	time_modified: 2019-06-05 23:57:54
+	time_modified: 2025-10-23 22:57:41
 	name: Drought-Plagued Slum
 	image: image63
 	image_2: 
@@ -3318,7 +3425,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>. <i-auto>(Exile exactly two cards from your hand and/or graveyard.)</i-auto><atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>R</sym-auto> or <sym-auto>W</sym-auto>.<atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“Endure this new challenge, as we have all the rest. Lovi must break its bones to heal them; soon, the sun will set once more.”<soft-line>
 		—Vakavanha, Who Sees Anew</soft-line></i-flavor>
@@ -3329,6 +3436,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3363,6 +3471,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3396,6 +3505,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3421,6 +3531,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3448,6 +3559,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3480,6 +3592,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3514,6 +3627,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3546,6 +3660,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3577,6 +3692,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3618,6 +3734,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3655,6 +3772,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: battleship arcun
@@ -3680,6 +3798,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3718,6 +3837,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3729,7 +3849,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2018-10-17 12:04:37
-	time_modified: 2019-10-24 23:14:20
+	time_modified: 2025-10-23 22:58:01
 	name: Drove of the Lost
 	casting_cost: 1WB
 	image: image156
@@ -3743,7 +3863,7 @@ card:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		Whenever a creature you control dies, put a +1/+1 counter on <atom-cardname><nospellcheck>Drove of the Lost</nospellcheck></atom-cardname>.
 		<sym-auto>1</sym-auto>, Sacrifice a creature: Each opponent loses 1 life. Gain 1 life.
-	flavor_text: <i-flavor>Suffering. Solitude. Solace. Many reasons.      One desire.</i-flavor>
+	flavor_text: <i-flavor>Suffering. Solitude. Solace. Many reasons. One desire.</i-flavor>
 	power: 1
 	toughness: 1
 	illustrator: Michael MacRae
@@ -3753,6 +3873,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3776,6 +3897,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3806,6 +3928,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3841,6 +3964,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !character2
@@ -3868,6 +3992,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3905,6 +4030,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3937,6 +4063,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !character3
@@ -3964,6 +4091,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3999,6 +4127,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4028,6 +4157,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4064,6 +4194,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4098,6 +4229,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fog control arcun
@@ -4124,6 +4256,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4156,6 +4289,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4189,11 +4323,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tahti
 	time_created: 2018-10-17 12:04:03
-	time_modified: 2019-06-11 04:08:18
+	time_modified: 2025-10-23 22:57:21
 	name: Risti Citadel
 	image: image29
 	image_2: 
@@ -4204,7 +4339,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>. <i-auto>(Exile exactly two cards from your hand and/or graveyard.)</i-auto><atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>W</sym-auto> or <sym-auto>U</sym-auto>.<atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“Don’t you dare give up before you’ve even tried. Ivory towers fall just like the rest.”<soft-line>
 		—Tahti, the Lodestar</soft-line></i-flavor>
@@ -4215,6 +4350,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4226,7 +4362,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2018-10-17 12:04:03
-	time_modified: 2019-02-22 23:03:33
+	time_modified: 2025-10-23 22:57:10
 	name: Secluded Farmstead
 	image: image25
 	image_2: 
@@ -4237,7 +4373,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>. <i-auto>(Exile exactly two cards from your hand and/or graveyard.)</i-auto><atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>G</sym-auto> or <sym-auto>W</sym-auto>.<atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>Those who never forsook the old lands found them plentiful even as the Reclamation ravaged the rest.</i-flavor>
 	illustrator: Ismail Inceoglu
 	card_code_text: 
@@ -4246,6 +4382,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4271,6 +4408,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4278,7 +4416,7 @@ card:
 		
 		play jimmy and the pulsating mass
 	time_created: 2018-10-17 12:04:03
-	time_modified: 2019-12-02 23:22:01
+	time_modified: 2025-10-23 22:57:25
 	name: Pulsating Mass
 	image: image48
 	image_2: 
@@ -4289,7 +4427,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>. <i-auto>(Exile exactly two cards from your hand and/or graveyard.)</i-auto><atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>R</sym-auto> or <sym-auto>G</sym-auto>.<atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>First on their path was the outpost within the abandoned stadium. The survivors were nowhere in sight, but something else was — something alive, something </i>hungry<i>...</i-flavor>
 	watermark: none
 	illustrator: Stefan Koidl
@@ -4299,11 +4437,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2018-10-17 12:04:03
-	time_modified: 2019-02-22 23:03:37
+	time_modified: 2025-10-23 22:57:17
 	name: Sepulchral Seas
 	image: image40
 	image_2: 
@@ -4314,7 +4453,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>. <i-auto>(Exile exactly two cards from your hand and/or graveyard.)</i-auto><atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>U</sym-auto> or <sym-auto>B</sym-auto>.<atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>As the ancient dead resurfaced, so too did the secrets their corpses could teach.</i-flavor>
 	illustrator: Stefan Koidl
 	card_code_text: 
@@ -4323,6 +4462,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4334,7 +4474,7 @@ card:
 		overlay: 
 	notes: Ivenge thought he’d slain Lovi’s old rulers and drowned their legacies in his new world—but in the forgotten places, those desperate for aid found their masters waiting to  it once more.
 	time_created: 2018-10-17 12:04:03
-	time_modified: 2019-04-15 03:26:21
+	time_modified: 2025-10-23 22:57:35
 	name: Grave of an Old Lord
 	image: image39
 	image_2: 
@@ -4345,7 +4485,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>. <i-auto>(Exile exactly two cards from your hand and/or graveyard.)</i-auto><atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>T</sym-auto>, <kw-A><nospellcheck><key>Reappropriate</key></nospellcheck>: Add <sym-auto>B</sym-auto> or <sym-auto>G</sym-auto>.<atom-reminder-action> <i-auto>(To reappropriate, exile exactly two cards from your hand and/or graveyard.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>Ivenge had seen fit to make the new world forget its former rulers—but as the salvager stared into the skull’s eyes, the bones around him stirred, and memories of ancestral rites unfolded in his mind.</i-flavor>
 	illustrator: Stefan Koidl
 	card_code_text: 
@@ -4354,6 +4494,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: hmm have I hammered in the point that lovi is in constant existential flux yet. nope time for another ft to that effect
@@ -4378,6 +4519,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4410,6 +4552,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: name by shiftyhomunculus
@@ -4435,6 +4578,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4469,6 +4613,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4494,6 +4639,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4523,6 +4669,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4544,6 +4691,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4565,6 +4713,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4586,6 +4735,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4607,6 +4757,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4628,6 +4779,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -4670,6 +4822,7 @@ card:
 		[+2]: <margin:130:0:0>Each player exiles up to two cards from their hand, then draws that many cards.</margin:130:0:0>
 		[0]: <margin:130:0:0>Until end of turn, you may play a card exiled with <atom-legname><nospellcheck>Reyhsia</nospellcheck></atom-legname> and you may spend mana as though it were mana of any color to cast that spell.</margin:130:0:0>
 		[-10]: <margin:130:0:0>Each player exiles all but the bottom card of their library and may play cards they own exiled this way until the end of their next turn.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -4711,6 +4864,7 @@ card:
 		[+2]: <margin:130:0:0>Reveal the top card of your library. If it’s a permanent card, put it onto the battlefield.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Exile target noncreature permanent, then reveal the top four cards of your library. You may put a permanent card from among them onto the battlefield. Put the rest into your graveyard.</margin:130:0:0>
 		[-12]: <margin:130:0:0>Search your library for up to X permanent cards, where X is the number of permanents you control, put them onto the battlefield, then shuffle.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: CGCGWCMC4
@@ -4738,6 +4892,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4774,6 +4929,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4807,6 +4963,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4841,6 +4998,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: UBCBG
@@ -4864,6 +5022,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4896,6 +5055,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4922,6 +5082,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4949,6 +5110,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4973,6 +5135,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4997,6 +5160,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5023,6 +5187,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5059,6 +5224,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5085,6 +5251,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5109,6 +5276,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5133,6 +5301,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5157,6 +5326,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5183,6 +5353,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5209,6 +5380,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Reconstruct
 	match: Reconstruct <atom-param>cost</atom-param>

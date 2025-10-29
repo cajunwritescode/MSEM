@@ -88,7 +88,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: (Transcends into Regrowth From Ruin)
+	notes:
+		(Transcends into Regrowth From Ruin)
+		!design gynoidpoet
 	time_created: 2021-02-14 14:08:05
 	time_modified: 2025-01-30 18:30:13
 	extra_data:
@@ -125,6 +127,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -173,6 +176,7 @@ card:
 		[+2]: <margin:130:0:0>Exile any number of target artifacts and/or enchantments you control, then return them to the battlefield under your control. You may draw that many cards.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Search your library for an enchantment card, put that card onto the battlefield, then shuffle.</margin:130:0:0>
 		[-12]: <margin:130:0:0>Put any number of permanent cards you own from outside the game onto the battlefield tapped.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -228,6 +232,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -270,6 +275,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -313,6 +319,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -324,7 +331,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-16 02:10:34
 	time_modified: 2023-03-30 17:56:58
 	name: Climbing the Oldest Mountain
@@ -350,6 +357,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -360,7 +368,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-16 02:33:06
 	time_modified: 2022-10-30 02:49:39
 	name: Conflicting Records
@@ -382,6 +390,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -396,7 +405,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-02-16 02:37:34
-	time_modified: 2023-03-30 05:30:11
+	time_modified: 2025-10-24 01:20:50
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/They
@@ -415,7 +424,7 @@ card:
 	loyalty_cost_4: -6
 	loyalty: 3
 	level_1_text: At the beginning of your end step, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. If you do, you gain 2 life.
-	level_2_text: <margin:130:0:0>You may discard a card. If you do, draw a card. </margin:130:0:0>
+	level_2_text: <margin:130:0:0>You may discard a card. If you do, draw a card.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Exile up to six cards from your graveyard. Create a 1/1 red and green Spirit creature token for each two cards exiled this way.</margin:130:0:0>
 	level_4_text: <margin:130:0:0>You may cast a card from your hand or graveyard without paying its mana cost. If it has <sym>X</sym> in its mana cost, X is 6.</margin:130:0:0>
 	illustrator: Alexander Voekle
@@ -427,9 +436,10 @@ card:
 	copyright_3: 
 	special_text:
 		At the beginning of your end step, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. If you do, you gain 2 life.
-		[+1]: <margin:130:0:0>You may discard a card. If you do, draw a card. </margin:130:0:0>
+		[+1]: <margin:130:0:0>You may discard a card. If you do, draw a card.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile up to six cards from your graveyard. Create a 1/1 red and green Spirit creature token for each two cards exiled this way.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You may cast a card from your hand or graveyard without paying its mana cost. If it has <sym>X</sym> in its mana cost, X is 6.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -486,6 +496,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -542,6 +553,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -579,6 +591,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -614,6 +627,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -671,6 +685,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -724,6 +739,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -763,6 +779,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -798,6 +815,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -851,6 +869,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -886,6 +905,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -920,6 +940,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -961,6 +982,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1005,6 +1027,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1047,6 +1070,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1084,6 +1108,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1136,6 +1161,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1171,6 +1197,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1227,6 +1254,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1264,6 +1292,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1305,6 +1334,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1319,7 +1349,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-16 23:50:48
 	time_modified: 2025-01-30 18:33:45
 	name: Refuse to Submit
@@ -1352,6 +1382,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1387,6 +1418,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1399,7 +1431,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-17 03:21:41
 	time_modified: 2023-03-28 03:11:09
 	extra_data:
@@ -1428,6 +1460,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1469,6 +1502,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1504,6 +1538,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1515,7 +1550,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-17 03:48:38
 	time_modified: 2023-03-28 02:17:52
 	name: Path to Battle
@@ -1541,6 +1576,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1553,7 +1589,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-17 04:04:59
 	time_modified: 2022-10-30 05:02:53
 	name: Weku’s Influence
@@ -1575,6 +1611,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1614,6 +1651,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1655,6 +1693,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1694,6 +1733,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1739,6 +1779,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1783,6 +1824,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1820,6 +1862,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1861,6 +1904,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1896,6 +1940,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1938,6 +1983,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1949,7 +1995,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-17 06:18:58
 	time_modified: 2024-08-24 10:14:46
 	name: Soul of the Mountain
@@ -1975,6 +2021,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2013,6 +2060,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2027,7 +2075,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-17 06:47:14
 	time_modified: 2025-01-30 18:34:05
 	name: Victory Over Phyrexia
@@ -2068,6 +2116,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2109,6 +2158,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2146,6 +2196,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2184,6 +2235,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2219,6 +2271,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2256,6 +2309,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2292,6 +2346,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2333,6 +2388,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2344,7 +2400,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-18 00:33:40
 	time_modified: 2023-04-30 03:40:54
 	name: Return to the Home Plane
@@ -2368,6 +2424,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2407,6 +2464,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2448,6 +2506,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2489,6 +2548,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2524,6 +2584,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2535,7 +2596,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-18 03:38:59
 	time_modified: 2022-10-30 05:03:56
 	name: Last Offer
@@ -2559,6 +2620,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2598,6 +2660,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2645,6 +2708,7 @@ card:
 		Mountains you control have “<sym-auto>T</sym-auto>: Add <sym-auto>RR</sym-auto>.”
 		[+2]: <margin:130:0:0>Exile the top card of your library. You may play that card until the end of your next turn.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Conjure six cards named Scorch. Shuffle them and your hand into your library, then draw two cards. </margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -2686,6 +2750,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2721,6 +2786,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2758,6 +2824,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2770,7 +2837,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-18 19:13:17
 	time_modified: 2023-03-28 02:23:39
 	name: Abandoned Chamber
@@ -2794,6 +2861,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2805,7 +2873,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-18 19:23:58
 	time_modified: 2023-03-30 03:49:50
 	name: Offer the Heart
@@ -2829,6 +2897,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2866,6 +2935,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2919,6 +2989,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2960,6 +3031,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2972,7 +3044,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes: !design gynoidpoet
 	time_created: 2021-02-19 03:16:35
 	time_modified: 2023-03-30 05:28:11
 	extra_data:
@@ -2997,6 +3069,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3038,6 +3111,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3075,6 +3149,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3116,6 +3191,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3129,7 +3205,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-02-19 03:39:41
-	time_modified: 2021-05-26 17:13:19
+	time_modified: 2025-10-24 00:59:00
 	name: Colocolo
 	casting_cost: U
 	image: image94
@@ -3140,7 +3216,7 @@ card:
 	sub_type: <word-list-race-en>Cat</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Creatures you control named <atom-cardname><nospellcheck>Colocolo</nospellcheck></atom-cardname> can’t be blocked and have <kw-0><nospellcheck><key>ward <param-cost><sym>2</sym></param-cost></key></nospellcheck></kw-0>. 
+		Creatures you control named <atom-cardname><nospellcheck>Colocolo</nospellcheck></atom-cardname> can’t be blocked and have <kw-0><nospellcheck><key>ward <param-cost><sym>2</sym></param-cost></key></nospellcheck></kw-0>.
 		<sym-auto>UU</sym-auto>: Put an inspiration counter on target creature. It’s named <atom-cardname><nospellcheck>Colocolo</nospellcheck></atom-cardname> in addition to its other names for as long as it has an inspiration counter on it.
 	flavor_text: <i-flavor>If sightings of it weren’t extremely rare, would there be so many great warriors named after it?</i-flavor>
 	watermark: custom watermark one
@@ -3153,6 +3229,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3192,6 +3269,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3233,6 +3311,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3274,6 +3353,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3312,6 +3392,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3345,6 +3426,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3372,6 +3454,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3399,6 +3482,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3431,6 +3515,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3462,6 +3547,7 @@ card:
 	copyright: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_2: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_3: ™️ & ©️ 2021 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -3501,6 +3587,7 @@ card:
 	copyright: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_2: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_3: ™️ & ©️ 2021 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -3541,6 +3628,7 @@ card:
 	copyright: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_2: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_3: ™️ & ©️ 2021 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -3580,6 +3668,7 @@ card:
 	copyright: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_2: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_3: ™️ & ©️ 2021 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3614,6 +3703,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3643,6 +3733,7 @@ card:
 	copyright: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_2: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_3: ™️ & ©️ 2021 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -3686,6 +3777,7 @@ card:
 	copyright: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_2: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_3: ™️ & ©️ 2021 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3712,6 +3804,7 @@ card:
 	copyright: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_2: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_3: ™️ & ©️ 2021 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3741,6 +3834,7 @@ card:
 	copyright: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_2: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_3: ™️ & ©️ 2021 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3767,6 +3861,7 @@ card:
 	copyright: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_2: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_3: ™️ & ©️ 2021 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -3806,6 +3901,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3844,6 +3940,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3884,6 +3981,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -3907,6 +4005,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -3930,6 +4029,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -3953,6 +4053,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -3976,6 +4077,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -3999,6 +4101,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4037,6 +4140,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -4052,7 +4156,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-10-22 00:55:49
-	time_modified: 2023-03-28 02:20:59
+	time_modified: 2025-10-24 01:21:23
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/Her
@@ -4070,7 +4174,7 @@ card:
 	loyalty_cost_3: -3
 	loyalty_cost_4: 
 	loyalty: 3
-	level_1_text: <margin:130:0:0>If you control a Llama, create a 1/1 white and black Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>. Otherwise, create a 0/1 white Llama creature token. </margin:130:0:0>
+	level_1_text: <margin:130:0:0>If you control a Llama, create a 1/1 white and black Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>. Otherwise, create a 0/1 white Llama creature token.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Creatures you control get +1/+0 and gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 	level_3_text: <margin:130:0:0><atom-cardname><nospellcheck>Sami, Aykeni Herder</nospellcheck></atom-cardname> deals damage equal to the number of creatures you control to any target. You gain that much life.</margin:130:0:0>
 	level_4_text: 
@@ -4083,9 +4187,10 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		[+1]: <margin:130:0:0>If you control a Llama, create a 1/1 white and black Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>. Otherwise, create a 0/1 white Llama creature token. </margin:130:0:0>
+		[+1]: <margin:130:0:0>If you control a Llama, create a 1/1 white and black Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>. Otherwise, create a 0/1 white Llama creature token.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Creatures you control get +1/+0 and gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 		[-3]: <margin:130:0:0><atom-cardname><nospellcheck>Sami, Aykeni Herder</nospellcheck></atom-cardname> deals damage equal to the number of creatures you control to any target. You gain that much life.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -4129,6 +4234,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4155,6 +4261,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4187,6 +4294,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4224,6 +4332,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Earthbound
 	match: Earthbound

@@ -102,6 +102,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 1993-2016 Wizards of the Coast
 	copyright_3: ™ & © 1993-2016 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -139,6 +140,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -168,10 +170,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: ™ & © 2016 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
 		!design HonchkrowDavid
+		!noexport
 		!num 4
 		TGE !noexport
 	time_created: 2016-04-29 14:37:07
@@ -197,6 +201,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -206,7 +211,7 @@ card:
 		!num 1
 		TGE !noexport
 	time_created: 2016-05-26 19:47:20
-	time_modified: 2020-12-01 01:32:26
+	time_modified: 2025-10-24 17:30:48
 	card_color: black
 	name: Demon
 	image: image68
@@ -220,9 +225,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	power: *
 	toughness: *
-	illustrator:
-		Mateusz Ozminski
-		Watch Send a NoteGive
+	illustrator: Mateusz Ozminski
 	custom_card_number: Grand Prix Dubai - justnobody
 	card_code_text: 
 	card_code_text_2: 
@@ -230,6 +233,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -276,6 +280,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -303,6 +308,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -336,6 +342,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: ™ & © 2015 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -365,6 +372,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 2015 Wizards of the Coast
 	copyright_3: ™ & © 2015 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -394,6 +402,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 1993-2016 Wizards of the Coast
 	copyright_3: ™ & © 1993-2016 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -428,6 +437,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 1993-2016 Wizards of the Coast
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -438,6 +448,7 @@ card:
 	notes:
 		!design CanterburyEgg
 		!num 3
+		!exportname Dark Rite Demon
 		SUR
 	time_created: 2017-05-22 18:40:16
 	time_modified: 2024-01-01 23:59:33
@@ -462,6 +473,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -513,6 +525,7 @@ card:
 		[+1]: <margin:130:0:0>Tap up to one target creature. <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Azun</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Sheriff of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Daisite</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 1 damage to each opponent.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Exile another target nonland permanent until <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Azun</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Sheriff of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Daisite</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> leaves the battlefield.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Detain each permanent target opponent controls.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -541,6 +554,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -574,6 +588,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -619,6 +634,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: ™ & © 2016 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -653,6 +669,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: ™ & © 2016 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -682,12 +699,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
 	notes:
 		!num 13
+		!noexport
 		Final
 		XPM
 		!design HonchkrowDavid
@@ -713,13 +732,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
 		!num 14
 		Final CAC
 		!design HerziQuerzi
-		!inpend cadence/add/ (Whenever you cast a spell, if its converted mana cost is greater than this creature’s power, put a +1/+1 counter on this creature.)
+		!inpend cadence/add/ (Whenever you cast a spell, if its mana value is greater than this creature’s power, put a +1/+1 counter on this creature.)
 	time_created: 2017-12-23 21:57:07
 	time_modified: 2024-01-01 23:59:01
 	name: Almgrove Champion
@@ -745,6 +765,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -775,6 +796,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -806,6 +828,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -851,6 +874,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -881,12 +905,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-snow
 	stylesheet_version: 2024-09-01
 	has_styling: false
 	notes:
 		!num 20
+		!noexport
 		Final
 		DYA
 		!design HonckrowDavid
@@ -915,12 +941,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-snow
 	stylesheet_version: 2024-09-01
 	has_styling: false
 	notes:
 		!num 18
+		!noexport
 		Final
 		DYA
 		!design HonckrowDavid
@@ -945,12 +973,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-snow
 	stylesheet_version: 2024-09-01
 	has_styling: false
 	notes:
 		!num 19
+		!noexport
 		Final
 		DYA
 		!design HonckrowDavid
@@ -975,6 +1005,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1012,6 +1043,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1041,6 +1073,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1076,6 +1109,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1128,6 +1162,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1158,6 +1193,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -1192,6 +1228,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1227,6 +1264,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1264,6 +1302,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 1993-2016 Wizards of the Coast
 	copyright_3: ™ & © 1993-2016 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -1296,6 +1335,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1322,6 +1362,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1362,6 +1403,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1398,6 +1440,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1428,6 +1471,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1460,6 +1504,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1500,6 +1545,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -1530,6 +1576,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1560,6 +1607,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1592,6 +1640,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: ™ & © 2016 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -1624,6 +1673,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -1654,6 +1704,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1692,6 +1743,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1727,6 +1779,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1792,6 +1845,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1822,6 +1876,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1864,6 +1919,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1900,6 +1956,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1940,6 +1997,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1967,6 +2025,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1978,7 +2037,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!design Gateways
+		!design Wrenn
 		!num 51
 		FINAL STN 
 	time_created: 2020-05-26 17:44:53
@@ -2004,6 +2063,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2041,6 +2101,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2070,6 +2131,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2099,6 +2161,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -2127,6 +2190,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2158,6 +2222,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2189,6 +2254,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2219,11 +2285,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!num 58
-		!design Gateways7
+		!design Wrenn
 		STN FINAL
 	time_created: 2020-05-20 12:34:09
 	time_modified: 2021-12-01 00:15:42
@@ -2248,6 +2315,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2279,6 +2347,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -2311,6 +2380,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2345,6 +2415,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2385,6 +2456,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2416,6 +2488,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2451,6 +2524,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2491,6 +2565,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2529,6 +2604,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 2020 Wizards of the Coast
 	copyright_3: ™ & © 2020 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -2560,6 +2636,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2587,6 +2664,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -2602,7 +2680,7 @@ card:
 		!num 66
 		FINAL KOD
 		!design CanterburyEgg
-		!append2 (Cast a copy of this spell once while this creature is on the battlefield.)
+		!append2  (Cast a copy of this spell once while this creature is on the battlefield.)
 	time_created: 2018-04-30 23:02:48
 	time_modified: 2024-08-24 03:59:25
 	name: Prodigious Panya
@@ -2636,6 +2714,7 @@ card:
 	copyright: ™ & © 2020 CanterburyEgg
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2668,6 +2747,7 @@ card:
 	copyright: Design — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2713,6 +2793,7 @@ card:
 		[+1]: <margin:130:0:0>Create three 1/1 white Cat Warrior creature tokens with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Exile them at the beginning of the next end step.</margin:130:0:0>
 		[+1]: <margin:130:0:0>Target creature gets +2/+0 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 		[-4]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Saigura</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Tam deals 3 damage to any target and you gain 3 life.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes:
@@ -2746,6 +2827,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2776,6 +2858,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2811,6 +2894,7 @@ card:
 	copyright: Design — Mako
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2850,6 +2934,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2877,6 +2962,7 @@ card:
 	copyright: ™ & © 2020 Wizards of the Coast
 	copyright_2: ™ & © 2020 Wizards of the Coast
 	copyright_3: ™ & © 2020 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2908,6 +2994,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2939,6 +3026,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2968,6 +3056,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3033,6 +3122,7 @@ card:
 	copyright: Design 
 	copyright_2: 
 	copyright_3: © Wizards of the Coast and Aura Designs
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -3040,7 +3130,7 @@ card:
 	notes:
 		FINAL HZN <soft-line>!num 74
 		</soft-line>!design HerziQuerzi
-		!inpend [{]6[}][{]G[}][{W[}]/add/ (You may cast this from your graveyard for {6}{G}{W}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)
+		!inpend [{]6[}][{]G[}][{]W[}]/add/ (You may cast this from your graveyard for {6}{G}{W}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)
 	time_created: 2019-09-22 23:32:38
 	time_modified: 2022-06-26 22:05:28
 	name: Endless Helpless Souls
@@ -3068,6 +3158,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3095,13 +3186,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!num 75
 		FINAL EIA
 		!design Dodger
-		!inpend life./add/ (You may cast this spell for its pressure cost if there are seven or more cards in your graveyard.)
+		!inpend life./add/ (You may cast this spell for its pressure cost if seven or more cards are in your graveyard.)
 	time_created: 2020-09-24 11:17:48
 	time_modified: 2021-07-29 21:45:08
 	name: Nightmares Unseen
@@ -3125,6 +3217,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3151,6 +3244,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3178,6 +3272,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3215,6 +3310,7 @@ card:
 	copyright: Design — Parasign
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3257,6 +3353,7 @@ card:
 	copyright: Design — CanterburyEgg
 	copyright_2: ™ & © 1993-2016 Wizards of the Coast
 	copyright_3: ™ & © 1993-2016 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -3286,6 +3383,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3312,6 +3410,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3338,6 +3437,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3364,6 +3464,7 @@ card:
 	copyright: 
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3389,6 +3490,7 @@ card:
 	copyright: © Wizards of the Coast and Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3418,6 +3520,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3446,6 +3549,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3479,6 +3583,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3511,6 +3616,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3541,6 +3647,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3575,6 +3682,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3603,6 +3711,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3637,6 +3746,7 @@ card:
 	copyright: Design — CyberChronometer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3666,6 +3776,7 @@ card:
 	copyright: Design — Emily
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3697,6 +3808,7 @@ card:
 	copyright: Design — fluffyDeathbringer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3728,6 +3840,7 @@ card:
 	copyright: Design — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3757,6 +3870,7 @@ card:
 	copyright: Design — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3792,6 +3906,7 @@ card:
 	copyright: Design — Mako
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3821,6 +3936,7 @@ card:
 	copyright: Design — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3850,6 +3966,7 @@ card:
 	copyright: Design — Dodger
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3877,6 +3994,7 @@ card:
 	copyright: Design — Dodger
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3907,6 +4025,7 @@ card:
 	copyright: Design — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3938,6 +4057,7 @@ card:
 	copyright: Design — water the weeds
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3967,6 +4087,7 @@ card:
 	copyright: Design — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3996,6 +4117,7 @@ card:
 	copyright: Design — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4003,7 +4125,7 @@ card:
 		MSC FINAL
 		!num 99
 	time_created: 2021-11-02 15:16:32
-	time_modified: 2022-09-30 22:57:49
+	time_modified: 2025-10-24 16:17:50
 	name: Thriving Budling
 	casting_cost: G
 	image: image127
@@ -4014,9 +4136,11 @@ card:
 	sub_type: <word-list-race-en>Treefolk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		<sym-auto>T</sym-auto>: Add one mana of any type that a land you control could produce. 
+		<sym-auto>T</sym-auto>: Add one mana of any type that a land you control could produce.
 		<i>Augmented </i>— At the beginning of your end step, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, untap <atom-cardname><nospellcheck>Thriving Budling</nospellcheck></atom-cardname> and put three +1/+1 counters on it.
+	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
 	power: 0
 	toughness: 1
 	illustrator: Vicki Pangestu
@@ -4027,6 +4151,7 @@ card:
 	copyright: Design — Zangy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4065,6 +4190,7 @@ card:
 	copyright: Design — Matt & DrChillbrain
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4090,6 +4216,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4123,12 +4250,12 @@ card:
 	copyright: Design — Pipsqueak
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		FINAL ALR
 		!num 102
-		!design Mako
 		!design Mako
 		!inpend Embellish [{]6[}][{]U[}]/add/ (If you cast this spell for {6}{U}, create a 1/1 blue Thopter artifact creature token with flying when it enters.)
 	time_created: 2019-03-12 14:06:42
@@ -4165,6 +4292,7 @@ card:
 	copyright: Design — Mako
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4198,6 +4326,7 @@ card:
 	copyright: Design — Dodger
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4227,6 +4356,7 @@ card:
 	copyright: Design — Dodger
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4256,6 +4386,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4285,6 +4416,7 @@ card:
 	copyright: Design — water the weeds
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -4310,12 +4442,13 @@ card:
 	copyright: justnobody 2018
 	copyright_2: justnobody 2018
 	copyright_3: justnobody 2018
+
 card:
 	has_styling: false
 	notes:
 		FINAL MAC !num 106
 		!design HerziQuerzi
-		!inpend Escalate [{]R[}][{]R[}]/add/  (Pay this cost for each mode chosen beyond the first.)
+		!inpend Escalate [{]R[}][{]R[}]/add/ (Pay this cost for each mode chosen beyond the first.)
 	time_created: 2018-03-11 23:05:51
 	time_modified: 2023-02-01 03:04:48
 	name: Culminating Chaos
@@ -4341,6 +4474,7 @@ card:
 	copyright: Design — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4370,6 +4504,7 @@ card:
 	copyright: Design — FifthDragon
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4403,6 +4538,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4434,6 +4570,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4465,6 +4602,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4495,6 +4633,7 @@ card:
 	copyright: Design — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4526,15 +4665,16 @@ card:
 	copyright: Design — Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: false
 	notes:
 		FINAL RVO
 		!design Emily
 		!num 110
-		!append  (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+		!append  (Create a Clue token. It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)
 	time_created: 2018-03-07 04:24:45
-	time_modified: 2023-04-29 22:44:53
+	time_modified: 2025-10-24 16:16:08
 	name: Crest
 	casting_cost: 1U
 	image: image143
@@ -4566,6 +4706,7 @@ card:
 	copyright: Design — Emily
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4593,6 +4734,7 @@ card:
 	copyright: Design — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4624,12 +4766,13 @@ card:
 	copyright: Design — Homarid_Tribal
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!design Emily
 		RVO FINAL !num 113
-		!append  (Create a colorless Clue artifact token with “2, Sacrifice this artifact: Draw a card.”)
+		!append  (Create a Clue token. It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)
 	time_created: 2021-02-08 20:34:22
 	time_modified: 2023-06-30 16:33:00
 	name: Alratha, Pearl of the Sand Sea
@@ -4653,6 +4796,7 @@ card:
 	copyright: Design — Emily
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4686,6 +4830,7 @@ card:
 	copyright: Design — Scribbl
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4726,6 +4871,7 @@ card:
 	copyright: Design — Pipsqueak
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4763,6 +4909,7 @@ card:
 	copyright: Design — water the weeds
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -4770,7 +4917,7 @@ card:
 	notes:
 		!design HerziQuerzi
 		BYK FINAL !num 117
-		!inpend [{]5[}][{]B[}][{B[}]/add/ (You may cast this from your graveyard for {5}{B}{B}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)
+		!inpend [{]5[}][{]B[}][{]B[}]/add/ (You may cast this from your graveyard for {5}{B}{B}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)
 	time_created: 2021-08-03 20:01:49
 	time_modified: 2023-09-03 17:03:27
 	name: Black Hole Musings
@@ -4797,6 +4944,7 @@ card:
 	copyright: Design — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4826,6 +4974,7 @@ card:
 	copyright: Design — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4858,6 +5007,7 @@ card:
 	copyright: Design — Dodger
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4885,6 +5035,7 @@ card:
 	copyright: Design — Cajun
 	copyright_2: 
 	copyright_3: ™ & © 2016 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -4921,6 +5072,7 @@ card:
 	copyright: Design — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4960,6 +5112,7 @@ card:
 	copyright: Design — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4989,6 +5142,7 @@ card:
 	copyright: Design — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5025,6 +5179,7 @@ card:
 	copyright: Design — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5057,6 +5212,7 @@ card:
 	copyright: Design — Pipsqueak
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5092,12 +5248,13 @@ card:
 	copyright: Design — Zangy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!design Nix
 		!num 125
-		!append (Before cost changes. Add or remove loyalty counters from Vielle to pay their loyalty costs.)
+		!append  (Before cost changes. Add or remove loyalty counters from Vielle to pay their loyalty costs.)
 	time_created: 2023-12-13 19:29:18
 	time_modified: 2024-02-26 20:48:46
 	name: Vielle, Undercity Wayfarer
@@ -5123,6 +5280,7 @@ card:
 	copyright: Design — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5150,6 +5308,7 @@ card:
 	copyright: Design — Dodger
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5181,6 +5340,7 @@ card:
 	copyright: Design — Scribbl
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5218,6 +5378,7 @@ card:
 	copyright: Design — CanterburyEgg
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5261,6 +5422,7 @@ card:
 		I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
 		II — Each opponent loses 2 life and you gain 2 life.
 		III — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5300,6 +5462,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5329,6 +5492,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5358,6 +5522,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5387,6 +5552,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5416,6 +5582,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5445,6 +5612,7 @@ card:
 	copyright: Design — TEST
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5487,6 +5655,7 @@ card:
 	copyright: Design — Mako
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5523,6 +5692,7 @@ card:
 	copyright: Design — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5573,6 +5743,7 @@ card:
 		<margin:0:0:30>Creature tokens you control get +1/+1 and have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:0:0:30>
 		<sym-auto>3WW</sym-auto>: <i>Act II: Descent</i>
 		<margin:0:0:30>At the beginning of your end step, if you control no creatures, create <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hu</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Li, a legendary 4/4 white Fox Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:0:0:30>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5622,6 +5793,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 colorless Elemental creature token. Put a loyalty counter on each planeswalker you control. </margin:130:0:0>
 		[+1]: <margin:130:0:0>Untap up to two target permanents.</margin:130:0:0>
 		[-7]: <margin:130:0:0>You get an emblem with “Whenever you create a token, draw a card.” Create three 4/4 green Chimera creature tokens.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes:
@@ -5650,6 +5822,7 @@ card:
 	copyright: Design — Pipsqueak
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -5691,6 +5864,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5723,6 +5897,7 @@ card:
 	copyright: Design — Pipsqueak
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5763,6 +5938,7 @@ card:
 	copyright: Design — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5795,6 +5971,7 @@ card:
 	copyright: Design — water the weeds
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5835,6 +6012,7 @@ card:
 	copyright: Design — water the weeds
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5872,11 +6050,13 @@ card:
 	copyright: Design — water the weeds
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!design Mako
 		!num 145
+		!update
 		FINAL TTR
 		!inpend [{]U[}][{]U[}][{]U[}]/add/ (You may cast this for its colossal cost to have it enter with four +1/+1 counters; or pay {5}{U}{U}{U} as a sorcery: Put four +1/+1 counters on it if it has none.)
 	time_created: 2021-09-04 16:22:20
@@ -5908,6 +6088,7 @@ card:
 	copyright: Design — Mako
 	copyright_2: ™ & © 2021 Wizards of the Coast
 	copyright_3: ™ & © 2021 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5952,6 +6133,7 @@ card:
 	copyright: Design — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5979,6 +6161,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6020,6 +6203,7 @@ card:
 	copyright: Design — Cajun
 	copyright_2: 
 	copyright_3: ™ & © 2016 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -6055,6 +6239,7 @@ card:
 	copyright: Design — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6087,6 +6272,7 @@ card:
 	copyright: Design — Cajun
 	copyright_2: 
 	copyright_3: ™ & © 2016 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -6119,6 +6305,7 @@ card:
 	copyright: Design — Purplemurasaki
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6148,6 +6335,7 @@ card:
 	copyright: Design — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6181,6 +6369,7 @@ card:
 	copyright: Design — Purplemurasaki
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6239,6 +6428,7 @@ card:
 		[+1]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ai</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 1 damage to target player or planeswalker. You gain 1 life.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Draw a card. You lose 1 life.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Each opponent sacrifices a permanent and discards a card.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6278,6 +6468,7 @@ card:
 	copyright: 
 	copyright_2: ™ & © 2022 CanterburyEgg
 	copyright_3: ™ & © 2022 CanterburyEgg
+
 card:
 	has_styling: false
 	notes:
@@ -6315,6 +6506,7 @@ card:
 	copyright: Design — Matt
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	has_styling: true
 	styling_data:
@@ -6360,6 +6552,7 @@ card:
 	copyright: Design — Purplemurasaki
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6394,6 +6587,7 @@ card:
 	copyright: Design — Mako
 	copyright_2: ™ & © 2021 Wizards of the Coast
 	copyright_3: ™ & © 2021 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -6426,6 +6620,43 @@ card:
 	copyright: Design — Alexander
 	copyright_2: 
 	copyright_3: 
+
+card:
+	has_styling: false
+	notes:
+		INM FINAL
+		!update !num 158
+		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+	time_created: 2021-05-01 05:09:34
+	time_modified: 2025-10-10 20:27:06
+	name: Skirsdag Edict
+	casting_cost: 1B
+	image: image166
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Each opponent sacrifices a creature.
+		</li><li><bullet>• </bullet>Each opponent sacrifices a planeswalker.
+		</li><li><bullet>• </bullet>Each opponent sacrifices an enchantment.
+		<margin:0:0:5></li><kw-0><nospellcheck><key>Flashback—<param-cost><sym>4B</sym>, Discard a card</param-cost>.</key></nospellcheck></kw-0></margin:0:0:5>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: dusk ming
+	custom_card_number: INM/TPW Season Champion — Nix
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Design — Mako
+	copyright_2: ™ & © 2021 Wizards of the Coast
+	copyright_3: ™ & © 2021 Wizards of the Coast
+
 keyword:
 	keyword: Coalesce
 	match: Coalesce <atom-param>mana</atom-param>

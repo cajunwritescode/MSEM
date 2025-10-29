@@ -112,6 +112,7 @@ card:
 		[+1]: <margin:130:0:0>Up to one target creature gets +1/+1 and gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
 		[+1]: <margin:130:0:0>Choose a player or planeswalker other than <atom-cardname><nospellcheck>Yuno Moonchaser</nospellcheck></atom-cardname>. Creatures can’t attack that player or planeswalker until your next turn.</margin:130:0:0>
 		[0]: <margin:130:0:0>Move any number of loyalty counters from <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Yuno</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> onto target planeswalker.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -142,6 +143,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !yuno
@@ -170,6 +172,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -207,6 +210,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -236,6 +240,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -276,6 +281,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -328,6 +334,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 0/1 blue Illusion creature token.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Put target creature on top of its owner’s library.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You get an emblem with “Whenever you draw a card, target opponent <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>six</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.”</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes:
@@ -358,6 +365,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -394,6 +402,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -429,6 +438,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !forgotten
@@ -454,6 +464,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !forgotten !v2 new
@@ -479,6 +490,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -533,6 +545,7 @@ card:
 		[+1]: <margin:130:0:0>Each opponent puts a -1/-1 counter on a creature they control.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Exile target card in a graveyard. You gain life equal to its mana value.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Choose a number. You draw that many cards and you lose that much life.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -569,6 +582,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !visilaca
@@ -599,6 +613,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !visilaca
@@ -628,6 +643,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !visilaca
@@ -655,6 +671,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !visilaca !v2 new
@@ -680,6 +697,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -687,7 +705,7 @@ card:
 	styling_data:
 		popout_image_style: 0,10,752,239,
 		dfc_type: modal with standard flags
-		front_style: auto-sizing planeswalker
+		front_style: 3 ability planeswalker
 		stripe_coordinate: 
 		move_loyalty_costs: 
 		front_font_cap: 11
@@ -719,7 +737,7 @@ card:
 		I am that thought."
 		Notes: As an oldwalker, Tanya never much cared for her werewolf half, seeing it as a handicap due to her loss of magical ability while in her wolf form. On Daisite, she decided to solve this problem permanently by blowing up the plane’s moon.
 	time_created: 2018-08-23 03:36:05
-	time_modified: 2023-04-30 02:30:52
+	time_modified: 2025-10-24 01:24:07
 	name: Tanya, Leader of the Pack
 	name_2: Tanya, the Mooncursed
 	casting_cost: 3RR
@@ -736,20 +754,20 @@ card:
 	loyalty_cost_1: +2
 	loyalty_cost_2: -3
 	loyalty_cost_3: -8
-	loyalty_cost_5: +1
-	loyalty_cost_6: -2
-	loyalty_cost_7: -4
 	loyalty_cost_8: 
+	loyalty_cost_9: +1
+	loyalty_cost_10: -2
+	loyalty_cost_11: -4
 	loyalty: 4
 	loyalty_2: 2
 	level_1_text: <margin:130:0:0>Create a 2/2 red Werewolf creature token with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
 	level_2_text: <margin:130:0:0><atom-legname><nospellcheck>Tanya</nospellcheck></atom-legname> deals 3 damage to each creature that’s not a Wolf or a Werewolf.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>For each permanent your opponents control, that player sacrifices it unless they have Tanya deal 2 damage to them.</margin:130:0:0>
-	level_4_text: ​
-	level_5_text: <margin:130:0:0><atom-cardname><nospellcheck>Tanya, the Mooncursed</nospellcheck></atom-cardname> becomes a legendary 3/1 red Werewolf creature with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
-	level_6_text: <margin:130:0:0><atom-cardname><nospellcheck>Tanya, the Mooncursed</nospellcheck></atom-cardname> deals 3 damage to target creature or planeswalker.</margin:130:0:0>
-	level_7_text: <margin:130:0:0>Destroy target nonbasic colorless permanent.</margin:130:0:0>
+	level_4_text: 
 	level_8_text: 
+	level_9_text: <margin:130:0:0><atom-cardname><nospellcheck>Tanya, Leader of the Pack</nospellcheck></atom-cardname> becomes a legendary 3/1 red Werewolf creature with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
+	level_10_text: <margin:130:0:0><atom-cardname><nospellcheck>Tanya, Leader of the Pack</nospellcheck></atom-cardname> deals 3 damage to target creature or planeswalker.</margin:130:0:0>
+	level_11_text: <margin:130:0:0>Destroy target nonbasic colorless permanent.</margin:130:0:0>
 	illustrator: Cruzu
 	illustrator_2: Olivier Bernard
 	card_code_text: 
@@ -762,11 +780,10 @@ card:
 		[+2]: <margin:130:0:0>Create a 2/2 red Werewolf creature token with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0><atom-legname><nospellcheck>Tanya</nospellcheck></atom-legname> deals 3 damage to each creature that’s not a Wolf or a Werewolf.</margin:130:0:0>
 		[-8]: <margin:130:0:0>For each permanent your opponents control, that player sacrifices it unless they have Tanya deal 2 damage to them.</margin:130:0:0>
-		​
-		[+1]: <margin:130:0:0><atom-cardname><nospellcheck>Tanya, the Mooncursed</nospellcheck></atom-cardname> becomes a legendary 3/1 red Werewolf creature with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
-		[-2]: <margin:130:0:0><atom-cardname><nospellcheck>Tanya, the Mooncursed</nospellcheck></atom-cardname> deals 3 damage to target creature or planeswalker.</margin:130:0:0>
 	special_text_2:
-		
+		[+1]: <margin:130:0:0><atom-cardname><nospellcheck>Tanya, Leader of the Pack</nospellcheck></atom-cardname> becomes a legendary 3/1 red Werewolf creature with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
+		[-2]: <margin:130:0:0><atom-cardname><nospellcheck>Tanya, Leader of the Pack</nospellcheck></atom-cardname> deals 3 damage to target creature or planeswalker.</margin:130:0:0>
+		[-4]: <margin:130:0:0>Destroy target nonbasic colorless permanent.</margin:130:0:0>
 
 card:
 	has_styling: false
@@ -798,6 +815,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Daisite!tanya
@@ -828,6 +846,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -865,6 +884,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tanya
@@ -894,6 +914,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tanya !v2 new
@@ -925,6 +946,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -978,6 +1000,7 @@ card:
 		[+2]: <margin:130:0:0>Destroy up to one target noncreature permanent.</margin:130:0:0>
 		[0]: <margin:130:0:0><atom-cardname><nospellcheck>Grohl</nospellcheck></atom-cardname> becomes a legendary green 6/6 Elk Giant creature with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
 		[-9]: <margin:130:0:0>For each permanent you control, create a token that’s a copy of it.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1018,6 +1041,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !grohl
@@ -1046,6 +1070,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !grohl !v2 rework
@@ -1071,6 +1096,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !grohl
@@ -1100,6 +1126,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !grohl !v2 new
@@ -1128,6 +1155,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1182,6 +1210,7 @@ card:
 		[+1]: <margin:130:0:0>Until end of turn, up to one target creature gets +1/+0 and can’t be blocked.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target artifact or enchantment.</margin:130:0:0>
 		[-5]: <margin:130:0:0>You get an emblem with “Untap all permanents you control during each other players untap step” and “Draw a card during each other player’s draw step.”</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !nsimi
@@ -1210,6 +1239,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1248,6 +1278,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !nsimi
@@ -1273,6 +1304,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !nsimi
@@ -1302,6 +1334,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1340,6 +1373,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1395,6 +1429,7 @@ card:
 		When <atom-cardname><nospellcheck>Okus, the Fabulous Hat</nospellcheck></atom-cardname> enters, gain control of target creature or planeswalker for as long as you control <atom-legname><nospellcheck>Okus</nospellcheck></atom-legname>.
 		[+1]: <margin:130:0:0>You may create a blue Aura enchantment token named Fancy Hat with <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets -2/-0.</param-name></key></nospellcheck></kw-a>”</margin:130:0:0>
 		[-2]: <margin:130:0:0>Target player loses life equal to the number of enchantments you control and you gain that much life.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1431,6 +1466,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !okus
@@ -1459,6 +1495,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !okus
@@ -1487,6 +1524,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !okus
@@ -1514,6 +1552,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !okus !v2 new
@@ -1541,6 +1580,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1602,6 +1642,7 @@ card:
 		[+1]: <margin:130:0:0>Reveal the top card of your library and put it into your hand. Then if that card wasn’t legendary, discard a card.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Return target non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Reyhsia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> legendary permanent card with mana value X from your graveyard to the battlefield.</margin:130:0:0>
 		[-6]: <margin:130:0:0><atom-cardname><nospellcheck>Reyhsia, the Honorless</nospellcheck></atom-cardname> deals 4 damage to each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonlegendary</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creature.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1638,6 +1679,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Tirvana!reyhsia
@@ -1668,6 +1710,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reyhsia
@@ -1700,6 +1743,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reyhsia
@@ -1727,6 +1771,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reyhsia !v2 new
@@ -1754,6 +1799,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1815,6 +1861,7 @@ card:
 		[+1]: <margin:130:0:0>Add <sym>R</sym> or <sym-auto>G</sym-auto>. You can’t spend this mana to cast an Elf spell.</margin:130:0:0>
 		[-2]: <margin:130:0:0><atom-cardname><nospellcheck>Winona, the Heretic</nospellcheck></atom-cardname> deals 4 damage to any target. If that target is an Elf, <atom-legname><nospellcheck>Winona</nospellcheck></atom-legname> deals 4 damage to that Elf’s controller.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Until end of turn, any time you could cast an instant, you may pay <sym-auto>R</sym-auto>. When you do, <atom-legname><nospellcheck>Winona</nospellcheck></atom-legname> deals 2 damage to any target.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1851,6 +1898,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !winona
@@ -1881,6 +1929,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1920,6 +1969,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1956,6 +2006,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !winona !v2 new
@@ -1984,6 +2035,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2039,6 +2091,7 @@ card:
 		[+1]: <margin:130:0:0>Create a green enchantment token named Swarm with “At the beginning of your end step, create a 1/1 green Insect creature token.”</margin:130:0:0>
 		[-2]: <margin:130:0:0>Create a green enchantment token named Survive with “Whenever a creature you control dies, you gain life equal to its power.”</margin:130:0:0>
 		[-4]: <margin:130:0:0>Create a green enchantment token named Scrounge with “Whenever a creature you control enters, draw a card.”</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !bvala
@@ -2067,6 +2120,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2103,6 +2157,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !bvala
@@ -2132,6 +2187,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2165,6 +2221,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !bvala !v2 new
@@ -2194,6 +2251,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2248,6 +2306,7 @@ card:
 		[+2]: <margin:130:0:0>Exile another target permanent, then return it to the battlefield under its owner’s control.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Gain control of target creature unless its controller pays its mana cost.</margin:130:0:0>
 		[-5]: <margin:130:0:0>You get an emblem with “If a nonland permanent would enter and it wasn’t cast, it enters under your control instead.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2286,6 +2345,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !jozel
@@ -2314,6 +2374,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !jozel
@@ -2343,6 +2404,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !jozel
@@ -2368,6 +2430,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !jozel !v2 new
@@ -2395,6 +2458,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2452,6 +2516,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 blue Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “This creature can’t attack unless you control a nontoken Dragon.”</margin:130:0:0>
 		[-2]: <margin:130:0:0><atom-legname><nospellcheck>Flynn</nospellcheck></atom-legname> deals damage to target creature or planeswalker equal to the total power of Dragons you control.</margin:130:0:0>
 		[-5]: <margin:130:0:0>You get an emblem with “Dragon spells you cast cost <sym-auto>UR</sym-auto> less to cast and have <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.”</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !flynn !v2 one trigger per combat now
@@ -2480,6 +2545,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2518,6 +2584,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !flynn
@@ -2553,6 +2620,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2600,6 +2668,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !flynn !v2 new
@@ -2627,6 +2696,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2682,6 +2752,7 @@ card:
 		[+1]: <margin:130:0:0>Untap up to one target creature. It gains <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Target player sacrifices a creature. Return a permanent card from your graveyard to your hand.</margin:130:0:0>
 		[-5]: <margin:130:0:0>Put any number of permanent cards from your graveyard onto the battlefield, then sacrifice that many permanents.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2712,6 +2783,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !cd-hr
@@ -2740,6 +2812,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2775,6 +2848,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !cd-hr
@@ -2800,6 +2874,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2835,6 +2910,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2890,6 +2966,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 white Cat creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-1]: <margin:130:0:0>When you next activate a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> ability of target permanent this turn, copy that ability. You may choose new targets for the copy.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Exile up to seven target permanents. Return those cards to the battlefield under their owner’s control at the beginning of the next end step.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !pidge
@@ -2918,6 +2995,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Lorwyn, PB&J!pidge
@@ -2948,6 +3026,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2985,6 +3064,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3022,6 +3102,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3051,6 +3132,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -3106,6 +3188,7 @@ card:
 		[+1]: <margin:130:0:0>Return a land you control to its owner’s hand. Create a tapped colorless land token named Far-Off Lands with “<sym-auto>T</sym-auto>: Add one mana of any color.”</margin:130:0:0>
 		[-1]: <margin:130:0:0>Discard a card. Return to your hand a card from your graveyard that shares a color with that card or a color of mana it could produce.</margin:130:0:0>
 		[-3]: <margin:130:0:0>For each color pair, you may pay that mana. Create X X/X green and blue Elemental creature tokens, where X is the number of times you do.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3143,6 +3226,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !mabil
@@ -3173,6 +3257,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3208,6 +3293,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3243,6 +3329,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3278,6 +3365,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -3332,6 +3420,7 @@ card:
 		[+1]: <margin:130:0:0>Return target nonland permanent to its owner’s hand. That player loses 2 life.</margin:130:0:0>
 		[0]: <margin:130:0:0>Create a 1/1 blue Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> for each loyalty counter on The Flock.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You get an emblem with “If a permanent you don’t control would leave the battlefield, you may instead exile it, then return that card to the battlefield under your control. It’s a 1/1 blue Bird creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3368,6 +3457,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3397,6 +3487,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3428,6 +3519,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !flock
@@ -3453,6 +3545,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !flock !v2 new
@@ -3478,6 +3571,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -3533,6 +3627,7 @@ card:
 		[+2]: <margin:130:0:0>Discard a card at random. If you do, draw two cards.</margin:130:0:0>
 		[0]: <margin:130:0:0>Target creature’s controller may pay X life. If they don’t, you lose X life and gain control of it <i-auto>(Choose any number for X.)</i-auto></margin:130:0:0>
 		[-3]: <margin:130:0:0>Flip a coin until you lose a flip or choose to stop flipping. For each flip you won, draw two cards and create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !brajjebaw
@@ -3561,6 +3656,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3592,6 +3688,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3629,6 +3726,7 @@ card:
 	copyright: 3/1
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !brajjebaw
@@ -3654,6 +3752,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !brajjebaw !v2 new
@@ -3679,6 +3778,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -3732,6 +3832,7 @@ card:
 		[+2]: <margin:130:0:0>Look at the top card of your library. If it’s a permanent card with mana value less than the number of lands you control, you may put it onto the battlefield.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Sacrifice a land. If you do, draw three cards.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Destroy up to X target permanents, where X is the number of lands you control.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !kovach !v2 rework
@@ -3760,6 +3861,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3789,6 +3891,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !kovach
@@ -3814,6 +3917,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3855,6 +3959,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !kovach !v2 new
@@ -3883,6 +3988,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -3939,6 +4045,7 @@ card:
 		[+1]: <margin:130:0:0>Create two 1/1 red Satyr creature tokens.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Until your next turn, target creature has base power and toughness </sym>X/X<sym>, where X is the number of permanents you control.</margin:130:0:0>
 		[-8]: <margin:130:0:0>Reveal the top card of your library. If it’s a permanent card, you may put it onto the battlefield, then repeat this process.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !shianne
@@ -3967,6 +4074,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3996,6 +4104,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4029,6 +4138,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4066,6 +4176,7 @@ card:
 	copyright: 2
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !shianne !v2 new !flavor
@@ -4091,6 +4202,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -4144,6 +4256,7 @@ card:
 		[+1]: <margin:130:0:0>Prevent all damage that would be dealt to up to one other target permanent until your next turn.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Target creature gets +3/+3 until your next turn.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Untap all nonland permanents you control.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4180,6 +4293,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4209,6 +4323,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hursar
@@ -4236,6 +4351,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hursar
@@ -4261,6 +4377,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4297,6 +4414,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -4351,6 +4469,7 @@ card:
 		[+2]: <margin:130:0:0>Exile up to three target cards from graveyards.</margin:130:0:0>
 		[+1]: <margin:130:0:0>Create a 2/1 black Horse Zombie creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[0]: <margin:130:0:0>If Undue has six or more loyalty counters on him, each opponent returns a creature card of their choice from a graveyard to the battlefield under your control.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !undue
@@ -4379,6 +4498,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4408,6 +4528,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !undue
@@ -4433,6 +4554,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4470,6 +4592,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4510,6 +4633,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -4565,6 +4689,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 blue Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Creatures you control with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> get +1/+0 and gain <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Search your library for any number of creatures with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and put them onto the battlefield. Shuffle your library.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !eloi!exportname Eloi's Study
@@ -4593,6 +4718,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4624,6 +4750,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !eloi
@@ -4655,6 +4782,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4693,6 +4821,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !eloi !v2 new
@@ -4723,6 +4852,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -4744,7 +4874,7 @@ card:
 		Mechanical Quirks: Xirix matters
 		Notes: An oldwalker time traveler and assassin. While they remember the details of their original timeline when they return, it seems no one else does. When the Mending occurs, the various times Xirix had gone back in time each become their own version of Xirix, now traveling back to the present the long way instead of time jumping. This results in there being a multitude of Xirix post-Mending
 	time_created: 2018-08-23 03:36:05
-	time_modified: 2023-12-22 01:10:56
+	time_modified: 2025-10-24 01:27:53
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: They/them
@@ -4764,7 +4894,7 @@ card:
 	loyalty_cost_3: -2
 	loyalty_cost_4: -6
 	loyalty: 4
-	level_1_text: You may activate <atom-cardname><nospellcheck>Xirix, the Usurper</nospellcheck></atom-cardname>’s loyalty abilities any time you could cast an instant during extra turns.
+	level_1_text: As long as it’s an extra turn, you may activate <atom-cardname><nospellcheck>Xirix, the Usurper</nospellcheck></atom-cardname>’s loyalty abilities any time you could cast an instant.
 	level_2_text: <margin:130:0:0>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Destroy each nonland, non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanent with the greatest mana value among non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanents on the battlefield.</margin:130:0:0>
 	level_4_text: <margin:130:0:0>Put target permanent card from a graveyard onto the battlefield under your control.</margin:130:0:0>
@@ -4777,10 +4907,11 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		You may activate <atom-cardname><nospellcheck>Xirix, the Usurper</nospellcheck></atom-cardname>’s loyalty abilities any time you could cast an instant during extra turns.
+		As long as it’s an extra turn, you may activate <atom-cardname><nospellcheck>Xirix, the Usurper</nospellcheck></atom-cardname>’s loyalty abilities any time you could cast an instant.
 		[+1]: <margin:130:0:0>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Destroy each nonland, non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanent with the greatest mana value among non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanents on the battlefield.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Put target permanent card from a graveyard onto the battlefield under your control.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4817,6 +4948,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4848,6 +4980,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !xirix
@@ -4875,6 +5008,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4912,6 +5046,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !xirix !v2 new
@@ -4942,6 +5077,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5000,6 +5136,7 @@ card:
 		[-1]: <margin:130:0:0>Draw up to two cards. For each of those cards, pay 1 life or discard a card.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Creatures you control get +1/+1 until your next turn.</margin:130:0:0>
 		[-3]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Onya</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> the Gilded deals 3 damage to any target and you gain 3 life.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !onya
@@ -5028,6 +5165,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5059,6 +5197,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5095,6 +5234,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !onya !bonus
@@ -5120,6 +5260,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !onya !v2 new
@@ -5145,6 +5286,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5201,6 +5343,7 @@ card:
 		[+1]: <margin:130:0:0>Exile the top card of your library. When a source you control deals damage to an opponent this turn, put the exiled card into your hand.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target nonland permanent. Its controller reveals the top card of their library, then puts it onto the battlefield if it’s a permanent card.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Exile your library. You may play cards exiled this way for the rest of the game.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !qaraz
@@ -5229,6 +5372,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5260,6 +5404,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !qaraz
@@ -5285,6 +5430,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5315,6 +5461,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5350,6 +5497,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5405,6 +5553,7 @@ card:
 		[+2]: <margin:130:0:0>Up to one target creature gets +3/+1 until your next turn. Up to one target creature gets -3/-1 until your next turn.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Up to two other target permanents you control become a copy of another target permanent until your next turn.</margin:130:0:0>
 		[-8]: <margin:130:0:0>Exchange your library and hand, then shuffle.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !llereaux
@@ -5433,6 +5582,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5475,6 +5625,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5508,6 +5659,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !llereaux
@@ -5537,6 +5689,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !llereaux !v3 4 life, explicitly blocks lifelink etc !v2 new
@@ -5564,6 +5717,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5617,6 +5771,7 @@ card:
 		[+1]: <margin:130:0:0>Create a token that’s a copy of another target permanent. Exile that token at the beginning of your next upkeep.</margin:130:0:0>
 		[-3]: <margin:130:0:0>If it’s not an extra turn, you take an extra turn after this one, then skip your next turn that’s not an extra turn.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Until end of turn, planeswalkers become copies of <atom-cardname><nospellcheck>I, Queen of Eons</nospellcheck></atom-cardname>, except they aren’t legendary. Destroy all nonland, non-I permanents.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5653,6 +5808,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5693,6 +5849,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5730,6 +5887,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5765,6 +5923,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5801,6 +5960,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5859,6 +6019,7 @@ card:
 		[+1]: <margin:130:0:0>Target player exiles a card from their hand.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Exile target nonland permanent unless its controller exiles two other permanents they control.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Target opponent may have you take two extra turns after this one. If they don’t, you control them during their next turn.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5897,6 +6058,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5939,6 +6101,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tzhai !v2 rework!work
@@ -5966,6 +6129,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tzhai
@@ -5993,6 +6157,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tzhai !v2 new
@@ -6021,6 +6186,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6090,6 +6256,7 @@ card:
 		[+1]: <margin:130:0:0>Creatures and Vehicles you control get +1/+1 until end of turn.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Put target permanent into its owner’s library, third from the top. If <atom-cardname><nospellcheck>Defect 37</nospellcheck></atom-cardname> is on the battlefield, return her to her owner’s hand.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Until end of turn, each noncreature, nonland permanent you control becomes a creature in addition to its other types with base power and toughness each equal to their mana value or base power, whichever is greater.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !defect !v2 new
@@ -6115,6 +6282,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6151,6 +6319,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !defect !v2 new
@@ -6178,6 +6347,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6208,6 +6378,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !defect !v2 new
@@ -6236,6 +6407,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6295,6 +6467,7 @@ card:
 		[-X]: <margin:130:0:0>You gain X plus 3 life.</margin:130:0:0>
 		[-1]: <margin:130:0:0>You draw a card and each opponent discards a card.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Destroy up to one target creature. Create a 3/3 green Mole creature token.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !damian !v2 reworked
@@ -6323,6 +6496,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6355,6 +6529,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6384,6 +6559,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6422,6 +6598,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !damian !v2 new
@@ -6449,6 +6626,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6505,6 +6683,7 @@ card:
 		[-1]: <margin:130:0:0>Put a -1/-1 counter on target tapped creature.</margin:130:0:0>
 		[-2]: <margin:130:0:0>You gain 2 life for each tapped creature your opponents control.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Destroy all creatures that attacked a planeswalker you controlled since your last turn.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6542,6 +6721,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !aki
@@ -6569,6 +6749,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6601,6 +6782,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6636,6 +6818,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6672,6 +6855,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6734,6 +6918,7 @@ card:
 		[+2]: <margin:130:0:0>Destroy up to one target permanent with mana value 4 or greater.</margin:130:0:0>
 		[-2]: <margin:130:0:0>You may cast a spell with mana value 5 or less from your hand without paying its mana cost.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Look at the top six cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !zero
@@ -6762,6 +6947,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !zero
@@ -6791,6 +6977,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6821,6 +7008,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6854,6 +7042,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6889,6 +7078,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -6923,6 +7113,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -6951,6 +7142,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -6983,6 +7175,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -7015,6 +7208,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -7023,10 +7217,7 @@ card:
 		popout_image_style: 0,59,375,187,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		!exportname Zero Emblem
-		!related
-		1>Experiment Zero
+	notes: !noexport
 	time_created: 2018-09-15 01:20:21
 	time_modified: 2019-09-22 22:12:48
 	name: Emblem
@@ -7047,6 +7238,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7077,6 +7269,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7109,6 +7302,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7140,6 +7334,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7170,6 +7365,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7200,6 +7396,7 @@ card:
 	copyright: man
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7230,6 +7427,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7260,6 +7458,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7290,6 +7489,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7322,6 +7522,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7354,6 +7555,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7386,6 +7588,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7420,6 +7623,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7453,6 +7657,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7483,6 +7688,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7513,20 +7719,27 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
 	has_styling: false
 	notes: 
 	time_created: 2021-01-16 20:39:06
-	time_modified: 2021-01-16 20:40:34
+	time_modified: 2025-10-24 17:35:54
 	name: Food
 	image: image471
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Token Artifact </word-list-type-en>
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-artifact>Food</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text: <sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this artifact: You gain 3 life.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
@@ -7538,20 +7751,27 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
 	has_styling: false
 	notes: !exportname Food 2
 	time_created: 2021-01-16 20:39:06
-	time_modified: 2021-01-16 20:41:10
+	time_modified: 2025-10-24 17:35:59
 	name: Food
 	image: image472
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Token Artifact </word-list-type-en>
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-artifact>Food</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text: <sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this artifact: You gain 3 life.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
@@ -7563,6 +7783,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7593,6 +7814,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7617,6 +7839,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -7649,6 +7872,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7673,6 +7897,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Archive
 	match: Archive <atom-param>number</atom-param>

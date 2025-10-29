@@ -229,6 +229,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -263,6 +264,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -293,6 +295,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -320,6 +323,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -360,6 +364,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -386,6 +391,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -410,6 +416,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -437,6 +444,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -477,6 +485,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -505,6 +514,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -531,6 +541,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !rul The tap only occurs if the creature entered the battlefield as a Cleric. If it stops being a Cleric before the ability resolves, it will still tap.
@@ -557,6 +568,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -587,6 +599,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -613,6 +626,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -639,6 +653,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -667,6 +682,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -693,6 +709,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -721,6 +738,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -747,6 +765,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -787,6 +806,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -827,6 +847,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -854,6 +875,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -880,6 +902,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -908,6 +931,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -948,6 +972,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -974,6 +999,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1003,6 +1029,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1040,6 +1067,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1066,6 +1094,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -1079,7 +1108,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-01-27 12:20:50
-	time_modified: 2022-03-31 19:25:05
+	time_modified: 2025-10-24 00:25:03
 	card_color: blue
 	name: Tongue Twister
 	name_2: Croaking Chorus
@@ -1097,7 +1126,7 @@ card:
 	rule_text:
 		<kw-0><nospellcheck><key>Ward <param-cost><sym>2</sym></param-cost></key></nospellcheck></kw-0>
 		Even numbered spells you cast each turn costs <sym-auto>2</sym-auto> less to cast. <i-auto>(The second, fourth, sixth, etc.)</i-auto>
-	rule_text_2: Shuffle your hand and graveyard into your library, then draw a card for each spell you cast this turn. 
+	rule_text_2: Shuffle your hand and graveyard into your library, then draw a card for each spell you cast this turn.
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 1
@@ -1109,6 +1138,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1145,6 +1175,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1173,6 +1204,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1201,6 +1233,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1227,6 +1260,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1261,6 +1295,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -1301,6 +1336,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -1342,6 +1378,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -1384,6 +1421,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1420,6 +1458,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1447,6 +1486,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1473,6 +1513,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1501,6 +1542,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1527,6 +1569,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1553,6 +1596,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -1580,6 +1624,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1606,6 +1651,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -1646,6 +1692,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -1686,6 +1733,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -1710,6 +1758,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1739,6 +1788,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1763,6 +1813,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1789,6 +1840,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1820,6 +1872,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -1860,6 +1913,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1886,6 +1940,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -1920,6 +1975,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1954,6 +2010,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1988,6 +2045,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -2027,6 +2085,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2054,6 +2113,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2082,6 +2142,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2108,6 +2169,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -2134,6 +2196,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2159,6 +2222,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2188,6 +2252,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2214,6 +2279,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -2254,6 +2320,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -2280,6 +2347,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2308,6 +2376,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2337,6 +2406,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2368,6 +2438,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -2408,6 +2479,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2434,6 +2506,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2460,6 +2533,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2497,6 +2571,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2534,6 +2609,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2558,6 +2634,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -2584,6 +2661,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2612,6 +2690,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2636,6 +2715,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2662,6 +2742,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -2686,6 +2767,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -2726,6 +2808,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2753,6 +2836,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2781,6 +2865,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2811,6 +2896,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2837,6 +2923,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2863,6 +2950,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2889,6 +2977,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -2930,6 +3019,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -2970,6 +3060,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -3015,6 +3106,7 @@ card:
 		[+1]: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile the top two cards of your library. You may play one of them this turn. When you do, put the other card into your hand.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Whenever you cast a spell this turn, copy it. You may choose new targets for the copy.       </margin:130:0:0>
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3053,6 +3145,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3091,6 +3184,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -3114,6 +3208,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -3137,6 +3232,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -3160,6 +3256,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -3183,6 +3280,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -3206,6 +3304,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3243,6 +3342,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3280,6 +3380,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3317,6 +3418,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3340,6 +3442,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3372,6 +3475,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3404,6 +3508,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3438,6 +3543,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3470,6 +3576,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3496,6 +3603,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3537,6 +3645,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3575,6 +3684,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3607,6 +3717,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3631,6 +3742,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3656,6 +3768,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3687,6 +3800,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3714,6 +3828,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3753,6 +3868,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3779,6 +3895,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -3824,9 +3941,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you cast your second spell each turn, add a quest counter.
-		Exile the top card of your library. You may play that card until the end of your next turn.
+		1 — Exile the top card of your library. You may play that card until the end of your next turn.
 		The second spell you cast during your next turn cost <sym-auto>1</sym-auto> less to cast.
-		You may cast target instant or sorcery card from your graveyard this turn. When you do, copy it. You may choose new targets for the copy.
+		2 — You may cast target instant or sorcery card from your graveyard this turn. When you do, copy it. You may choose new targets for the copy.
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -3865,6 +3983,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3893,6 +4012,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3918,6 +4038,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -3960,9 +4081,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		At the beginning of your end step, if you cast two or more spells this turn, add a quest counter.
-		<atom-cardname><nospellcheck>The Symphony of Leafdown</nospellcheck></atom-cardname> deals 2 damage to any target. Draw a card.
-		Until the end of your next turn, instant and sorcery spells you cast cost <sym-auto>1</sym-auto> less to cast.
+		1, 2 — <atom-cardname><nospellcheck>The Symphony of Leafdown</nospellcheck></atom-cardname> deals 2 damage to any target. Draw a card.
+		3 — Until the end of your next turn, instant and sorcery spells you cast cost <sym-auto>1</sym-auto> less to cast.
 		​
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4005,9 +4127,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you cast an Equipment or Adventure spell, add a quest counter.
-		Exile the top two cards of your library, then choose one of them. You may play that card until the end of your next turn.
-		Until end of turn, target creature you control gets +1/+0 and gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
+		1, 2 — Exile the top two cards of your library, then choose one of them. You may play that card until the end of your next turn.
+		3 — Until end of turn, target creature you control gets +1/+0 and gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
 		​
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4050,9 +4173,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever the second card is put into your graveyard from anywhere each turn, add a quest counter.
-		You may sacrifice a creature. When you do, you may return target creature card from your graveyard to your hand.
-		Destroy target nonland permanent an opponent controls.
+		1, 2 — You may sacrifice a creature. When you do, you may return target creature card from your graveyard to your hand.
+		3 — Destroy target nonland permanent an opponent controls.
 		​
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4097,10 +4221,11 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever two or more creatures you control deal combat damage to a player, add a quest counter.
-		Create a 2/1 black and red Cat Pirate creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
-		Create a  colorless artifact token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Motherlode</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with “<sym-auto>T</sym-auto>: Add two mana of any one color” and <soft-line>
+		1, 2 — Create a 2/1 black and red Cat Pirate creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
+		3 — Create a  colorless artifact token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Motherlode</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with “<sym-auto>T</sym-auto>: Add two mana of any one color” and <soft-line>
 		</soft-line>“<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Discard your hand: Draw two cards.”
 		​
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4146,9 +4271,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you attack with one or more creatures with power 4 or greater, add a quest counter.
-		Until end of turn, target creature you control gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.”
-		Put two +1/+1 counters on target creature you control. It fights up to one target creature you don’t control.
+		1, 2 — Until end of turn, target creature you control gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.”
+		3 — Put two +1/+1 counters on target creature you control. It fights up to one target creature you don’t control.
 		​
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4190,9 +4316,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you draw your second card each turn, add a quest counter.
-		<kw-a><nospellcheck><key>Scry <param-number>3</param-number></key></nospellcheck></kw-a>.
-		Create a blue and green enchantment token named The Heart with “Whenever you tap a land for mana, add one mana of any color.”
+		1, 2 — <kw-a><nospellcheck><key>Scry <param-number>3</param-number></key></nospellcheck></kw-a>.
+		3 — Create a blue and green enchantment token named The Heart with “Whenever you tap a land for mana, add one mana of any color.”
 		​
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4237,9 +4364,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		At the beginning of your end step, if you cast no spells this turn, add a quest counter.
-		Untap each creature you control. Until your next turn, they gain “<sym>T</sym>: <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.”
-		<kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw two cards. You gain 2 life.
+		1, 2 — Untap each creature you control. Until your next turn, they gain “<sym>T</sym>: <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.”
+		3 — <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw two cards. You gain 2 life.
 		​
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4282,9 +4410,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you put one or more +1/+1 counters on a creature, add a quest counter.
-		Create two 1/1 green and white Mouse Soldier creature tokens with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
-		Until end of turn, creatures you control get +1/+1 and gain <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
+		1, 2 — Create two 1/1 green and white Mouse Soldier creature tokens with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+		3 — Until end of turn, creatures you control get +1/+1 and gain <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
 		​
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4327,9 +4456,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		At the beginning of your end step, if you have more life than an opponent, add a quest counter.
-		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put one of those cards into your hand. If you do, you lose 3 life. Otherwise, you gain 3 life.
-		Return target creature or planeswalker card from your graveyard to the battlefield.
+		I, II — <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put one of those cards into your hand. If you do, you lose 3 life. Otherwise, you gain 3 life.
+		III — Return target creature or planeswalker card from your graveyard to the battlefield.
 		​
+
 card:
 	has_styling: false
 	notes: 
@@ -4353,6 +4483,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -4380,6 +4511,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4424,9 +4556,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you attack with exactly two creatures, add a quest counter.
-		Reveal the top four cards of your library. You may put a creature card from among them into your hand. Put the rest on the bottom in a random order.
-		Put two +1/+1 counters on each of up to two target creatures you control.
+		1, 2 — Reveal the top four cards of your library. You may put a creature card from among them into your hand. Put the rest on the bottom in a random order.
+		3 — Put two +1/+1 counters on each of up to two target creatures you control.
 		​
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -4450,6 +4583,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4475,6 +4609,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4499,6 +4634,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4523,6 +4659,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4550,6 +4687,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4574,6 +4712,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4600,6 +4739,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Revisit
@@ -4625,6 +4765,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -4667,6 +4808,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4705,6 +4847,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4735,6 +4878,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4765,6 +4909,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4795,6 +4940,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Rework
@@ -4825,6 +4971,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4855,6 +5002,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4883,6 +5031,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -4919,6 +5068,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4949,6 +5099,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -4990,6 +5141,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -5029,6 +5181,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -5070,6 +5223,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -5111,6 +5265,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -5150,6 +5305,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -5189,6 +5345,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -5231,6 +5388,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -5270,6 +5428,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -5311,6 +5470,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -5350,6 +5510,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5378,6 +5539,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5403,6 +5565,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5446,9 +5609,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		At the beginning of your end step, if you have more cards in hand than an opponent, add a quest counter.
-		Target opponent exiles the top card of their library. You may play that card for as long as it remains exiled. <i-auto>(You still pay its costs.)</i-auto>
+		1, 2, 3 — Target opponent exiles the top card of their library. You may play that card for as long as it remains exiled. <i-auto>(You still pay its costs.)</i-auto>
 		Create three <kw-a><nospellcheck><key>Treasure toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>.
 		​
+
 card:
 	has_styling: false
 	notes: 
@@ -5477,6 +5641,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -5502,6 +5667,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -5534,6 +5700,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5562,6 +5729,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5592,6 +5760,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5620,6 +5789,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5647,6 +5817,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5673,6 +5844,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -5698,6 +5870,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -5723,6 +5896,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5756,6 +5930,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5791,6 +5966,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: signature
@@ -5816,6 +5992,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -5841,6 +6018,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -5866,6 +6044,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -5891,6 +6070,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -5916,6 +6096,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -5941,6 +6122,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5983,9 +6165,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Once each turn, when you cast a creature spell, you may add a quest counter.
-		Return up to X target creatures you control to their owner’s hand, where X is the number of quest counters on <atom-cardname><nospellcheck>Paw Valley Expedition</nospellcheck></atom-cardname>.
-		Create a 1/2 white Bear Monk creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and a 2/1 white Bear Knight creature token with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
+		1, 2 — Return up to X target creatures you control to their owner’s hand, where X is the number of quest counters on <atom-cardname><nospellcheck>Paw Valley Expedition</nospellcheck></atom-cardname>.
+		3 — Create a 1/2 white Bear Monk creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and a 2/1 white Bear Knight creature token with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
 		​
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -6028,9 +6211,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you cast your first spell outside your main phase each turn, add a quest counter.
-		Draw cards equal to the number of quest counters on <atom-cardname><nospellcheck>Siltbottom Expedition</nospellcheck></atom-cardname>, then discard that many cards.
-		Put up to two target instant or sorcery cards from your graveyard on top of your library in any order, then draw a card.
+		1, 2 — Draw cards equal to the number of quest counters on <atom-cardname><nospellcheck>Siltbottom Expedition</nospellcheck></atom-cardname>, then discard that many cards.
+		3 — Put up to two target instant or sorcery cards from your graveyard on top of your library in any order, then draw a card.
 		​
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -6073,9 +6257,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Once each turn, when a player discards a card, you may add a quest counter.
-		Each opponent loses X life and you gain X life, where X is the number of quest counters on <atom-cardname><nospellcheck>Gloomhollow Expedition</nospellcheck></atom-cardname>.
-		Choose up to two target creature cards in graveyards with total mana value 3 or less. Put those cards onto the battlefield under your control.
+		1, 2 — Each opponent loses X life and you gain X life, where X is the number of quest counters on <atom-cardname><nospellcheck>Gloomhollow Expedition</nospellcheck></atom-cardname>.
+		3 — Choose up to two target creature cards in graveyards with total mana value 3 or less. Put those cards onto the battlefield under your control.
 		​
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -6117,9 +6302,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Once each turn, when you cast an instant or sorcery spell, you may add a quest counter.
-		<atom-cardname><nospellcheck>Slipsand Expedition</nospellcheck></atom-cardname> deals damage equal to the number of quest counters on it to any target.
+		1, 2, 3 — <atom-cardname><nospellcheck>Slipsand Expedition</nospellcheck></atom-cardname> deals damage equal to the number of quest counters on it to any target.
 		Add <sym-auto>RRR</sym-auto>.
 		​
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -6162,9 +6348,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Once each turn, when you cast a spell with mana value equal to the number of lands you control, you may add a quest counter.
-		You may search your library for a basic land card, reveal it, then shuffle and put that card on top. You gain 1 life for each quest counter on <atom-cardname><nospellcheck>Hoof Cliff Expedition</nospellcheck></atom-cardname>.
+		1, 2, 3 — You may search your library for a basic land card, reveal it, then shuffle and put that card on top. You gain 1 life for each quest counter on <atom-cardname><nospellcheck>Hoof Cliff Expedition</nospellcheck></atom-cardname>.
 		Search your library for a creature card, reveal it, put it into your hand, then shuffle.
 		​
+
 card:
 	has_styling: true
 	styling_data:
@@ -6200,6 +6387,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6227,6 +6415,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6254,6 +6443,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6277,6 +6467,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6304,6 +6495,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -6340,6 +6532,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6363,6 +6556,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -6396,6 +6590,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6423,6 +6618,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6456,6 +6652,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6482,6 +6679,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -6521,6 +6719,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6549,6 +6748,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -6588,6 +6788,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6613,6 +6814,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -6651,6 +6853,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -6684,6 +6887,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6709,6 +6913,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6736,6 +6941,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6763,6 +6969,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -6802,6 +7009,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -6840,6 +7048,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6865,6 +7074,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !rul The Bird token that survives the combat won’t be in the group of Birds that may be exiled on later combats.
@@ -6890,6 +7100,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6915,6 +7126,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -6954,6 +7166,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -6987,6 +7200,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7013,6 +7227,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -7052,6 +7267,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7080,6 +7296,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7115,6 +7332,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !script "s>l>Spawn Bird/l>f>/spawn 1/1 white Bird ONO/f>/s>s>l>Spawn Turtle/l>f>/spawn 1/3 blue Turtle ONO/f>/s>s>l>Spawn Chipmunk/l>f>/spawn 1/3 black Chipmunk ONO/f>/s>s>l>Spawn Rabbit/l>f>/spawn 1/1 red Rabbit ONO/f>/s>s>l>Spawn Squirrel/l>f>/spawn 2/1 green Squirrel ONO/f>/s>","r"
@@ -7144,6 +7362,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7168,6 +7387,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7204,6 +7424,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7228,6 +7449,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7255,6 +7477,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7283,6 +7506,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7310,6 +7534,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7341,6 +7566,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -7368,6 +7594,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7393,6 +7620,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -7418,6 +7646,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7445,6 +7674,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7472,6 +7702,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7507,6 +7738,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -7545,6 +7777,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7570,6 +7803,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -7593,6 +7827,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7618,6 +7853,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7658,6 +7894,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7685,6 +7922,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7720,6 +7958,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -7745,6 +7984,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7772,6 +8012,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7819,6 +8060,7 @@ card:
 		[+1]: <margin:130:0:0>Exile the top card of your library. You may play it until you exile another card with <atom-legname><nospellcheck>Barx</nospellcheck></atom-legname>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Create an X/X colorless Hound artifact creature token, where X is the greatest mana value among cards exiled by <atom-legname><nospellcheck>Barx</nospellcheck></atom-legname> as you activate this ability.</margin:130:0:0>
 		[-10]: <margin:130:0:0>Search each player’s library for any number of nonland cards with total mana value 10 or less and exile them, then those players shuffle. Cast those cards without paying their mana costs.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7862,6 +8104,7 @@ card:
 		As long as it’s your turn, Otto is an Otter Soldier creature with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and “This creature’s power and toughness are each equal to twice the number of creatures you control.”
 		[+1]: <margin:130:0:0>Create a 2/2 green and white Otter Soldier creature token.</margin:130:0:0>
 		[-8]: <margin:130:0:0>Draw cards equal to the greatest power among creatures you control, then you gain life equal to the greatest toughness among creatures you control.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7904,6 +8147,7 @@ card:
 		[+1]: <margin:130:0:0>Target opponent reveals their hand. Exile a nonland card from it. For as long as it remains exiled, its controller may cast that card, and it costs <sym-auto>2</sym-auto> more to cast.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target creature or planeswalker with mana value 3 or less.</margin:130:0:0>
 		[-8]: <margin:130:0:0>Search target opponent’s library for up to twenty cards and exile them. Then that player shuffles.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !rul At time of release, there 284 creature types. Check rules 205.3s and C205.3t for the exact current number.
@@ -7929,6 +8173,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -7972,9 +8217,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever one or more creatures you control survive damage, add a quest counter.
-		You may put a creature card with mana value 2 or less from your hand onto the battlefield.
+		1 — You may put a creature card with mana value 2 or less from your hand onto the battlefield.
 		Put two +1/+1 counters on target creature you control.
-		Choose target creature you control. You draw cards equal to half that creature’s power, rounded down.
+		2 — Choose target creature you control. You draw cards equal to half that creature’s power, rounded down.
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -8018,9 +8264,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever an opponent loses 3 or more life, add a quest counter.
-		Destroy up to one target creature with power or toughness 2 or less.
+		1 — Destroy up to one target creature with power or toughness 2 or less.
 		Create Sir Jasper Reborn, a legendary 3/1 black Zombie Mouse Knight creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
-		Search your library for a card, reveal it, put it into your hand, then shuffle. If you revealed a card named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Karoa’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Downfall this way, you may cast it without paying its mana cost.
+		2 — Search your library for a card, reveal it, put it into your hand, then shuffle. If you revealed a card named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Karoa’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Downfall this way, you may cast it without paying its mana cost.
+
 card:
 	has_styling: false
 	notes: 
@@ -8048,6 +8295,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8073,6 +8321,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -8098,6 +8347,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8124,6 +8374,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8154,6 +8405,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8179,6 +8431,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8210,6 +8463,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8243,6 +8497,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -8288,9 +8543,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you scry or search your library, add a quest counter.
-		Target creature you don’t control gets -3/-0 until your next turn.
+		1 — Target creature you don’t control gets -3/-0 until your next turn.
 		Reveal cards from the top of your library until you reveal a nonland card, then put the revealed cards into your hand.
-		Reveal the top card of your library. If its mana value is less than or equal to the number of cards in your hand, you may cast it without paying its mana cost.
+		2 — Reveal the top card of your library. If its mana value is less than or equal to the number of cards in your hand, you may cast it without paying its mana cost.
+
 card:
 	has_styling: false
 	notes: 
@@ -8318,6 +8574,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -8358,6 +8615,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8383,6 +8641,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8406,6 +8665,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8431,6 +8691,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8459,6 +8720,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8486,6 +8748,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -8530,9 +8793,10 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you cast a legendary spell, add a quest counter.
-		Look at the top seven cards of your library. You may reveal up to two legendary cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
+		1, 2 — Look at the top seven cards of your library. You may reveal up to two legendary cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
 		You gain 5 life.
 		Destroy all <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonlegendary</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures.
+
 card:
 	has_styling: false
 	notes: 
@@ -8561,6 +8825,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8587,6 +8852,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -8612,6 +8878,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -8653,6 +8920,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8678,6 +8946,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8708,6 +8977,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8743,6 +9013,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8770,6 +9041,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -8795,6 +9067,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8826,6 +9099,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8852,6 +9126,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8875,6 +9150,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8900,6 +9176,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -8940,6 +9217,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8968,6 +9246,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -9006,6 +9285,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9033,6 +9313,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -9066,6 +9347,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9099,6 +9381,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9134,6 +9417,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -9175,6 +9459,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -9208,6 +9493,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9233,6 +9519,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -9272,6 +9559,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9299,6 +9587,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9322,6 +9611,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9350,11 +9640,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2021-07-18 18:10:55
-	time_modified: 2022-01-30 23:44:09
+	time_modified: 2025-10-24 00:23:04
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/Him
@@ -9369,7 +9660,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever two or more creatures you control deal combat damage to a player, tap those creatures, then gain control of target creature you don’t control until end of turn. Untap that creature. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn. After this phase, there’s an additional combat phase.   
+		Whenever two or more creatures you control deal combat damage to a player, tap those creatures, then gain control of target creature you don’t control until end of turn. Untap that creature. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn. After this phase, there’s an additional combat phase.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -9380,6 +9671,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9407,6 +9699,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9436,6 +9729,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9479,6 +9773,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -9523,6 +9818,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Signature
@@ -9546,6 +9842,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9570,6 +9867,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9594,6 +9892,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9620,6 +9919,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9646,6 +9946,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9672,6 +9973,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9698,6 +10000,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9729,6 +10032,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9755,6 +10059,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9781,6 +10086,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9805,6 +10111,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9829,6 +10136,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9852,6 +10160,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9875,6 +10184,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9901,6 +10211,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9925,6 +10236,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9950,6 +10262,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9976,6 +10289,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10003,6 +10317,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10026,6 +10341,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10050,6 +10366,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10073,6 +10390,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -10120,6 +10438,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10148,6 +10467,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10176,6 +10496,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10202,6 +10523,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10228,6 +10550,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10256,6 +10579,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10280,6 +10604,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10307,6 +10632,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10331,6 +10657,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10357,6 +10684,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Menagerie
 	match: Menagerie

@@ -93,6 +93,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -119,6 +120,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -169,6 +171,7 @@ card:
 		<margin:0:0:30>Creatures you control get +1/+0 and gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.</margin:0:0:30>
 		<sym>3RW</sym>: Elder
 		<margin:0:0:30>Creatures you control gain <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -215,6 +218,7 @@ card:
 		<margin:0:0:30>Put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter and a <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a> counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Rahstahde</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:0:0:30>
 		<sym-auto>5UR</sym-auto>: Elder
 		<margin:0:0:30>Exile any number of instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it. You may cast the copies without paying their mana costs.</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -224,8 +228,8 @@ card:
 		fullart
 		!inpend Demon\\n/replace/Demon — !inpend Elder\\n/replace/Elder — 
 	time_created: 2023-12-26 04:47:13
-	time_modified: 2024-12-30 14:45:24
-	name: Fahrib, the Ever-Scheming 
+	time_modified: 2025-10-27 23:34:42
+	name: Fahrib, the Ever-Scheming
 	casting_cost: UB
 	image: image177.png
 	image_2: 
@@ -261,6 +265,7 @@ card:
 		<margin:0:0:30>Each player exiles a card from their hand.</margin:0:0:30>
 		<sym>4UB</sym>: Elder
 		<margin:0:0:30>Exile the top five cards of each player’s library. <atom-legname><nospellcheck>Fahrib</nospellcheck></atom-legname> gains “Spells you cast from anywhere other than your hand cost <sym-auto>2</sym-auto> less to cast.”</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -312,6 +317,7 @@ card:
 		<margin:0:0:30>You gain 4 life and <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>4</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>four</param-number> +1/+1 counters on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A></margin:0:0:30>
 		<sym-auto>5WB</sym-auto>: Elder
 		<margin:0:0:30><kw-0><nospellcheck><key>Amass <param-name>Soldiers</param-name> <param-number>20</param-number></key></nospellcheck></kw-0>.</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -364,6 +370,7 @@ card:
 		<margin:0:0:30><atom-legname><nospellcheck>Abwad Kahroba</nospellcheck></atom-legname> gains “At the beginning of combat on your turn, you may put a +1/+1 counter on another target creature.”</margin:0:0:30>
 		<sym-auto>XGW</sym-auto>: Elder
 		<margin:0:0:30>Create X 2/1 black Horror creature tokens. You gain X life.</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -413,6 +420,7 @@ card:
 		<margin:0:0:30>Create two 1/1 black Insect creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:0:0:30>
 		<sym-auto>XBG</sym-auto>: Elder
 		<margin:0:0:30>Destroy each other nonland, nontoken permanent with mana value X or less.</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -463,6 +471,7 @@ card:
 		<margin:0:0:30>Put a +1/+1 counter on each other creature you control.</margin:0:0:30>
 		<sym>2GU</sym>: Elder
 		<margin:0:0:30>Double the number of counters on permanents you control.</margin:0:0:30>
+
 card:
 	has_styling: false
 	notes: fullart
@@ -489,6 +498,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -515,6 +525,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -541,6 +552,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -567,6 +579,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -605,6 +618,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -637,6 +651,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -668,6 +683,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -700,6 +716,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -728,6 +745,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -767,6 +785,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -800,6 +819,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -837,6 +857,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -886,6 +907,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -929,6 +951,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -963,6 +986,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -993,6 +1017,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1025,6 +1050,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -1053,6 +1079,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1088,6 +1115,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1131,6 +1159,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1185,6 +1214,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text_2: 
+
 card:
 	has_styling: false
 	notes:
@@ -1215,6 +1245,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1249,6 +1280,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1286,6 +1318,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -1314,6 +1347,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1366,6 +1400,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -1395,6 +1430,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1420,6 +1456,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1462,6 +1499,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1496,6 +1534,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -1530,6 +1569,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1558,6 +1598,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1594,6 +1635,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1627,6 +1669,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -1661,6 +1704,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1703,6 +1747,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1751,6 +1796,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1779,6 +1825,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1811,6 +1858,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1839,6 +1887,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1867,6 +1916,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1900,6 +1950,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1938,6 +1989,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1973,6 +2025,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Fullart
@@ -2000,6 +2053,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2036,6 +2090,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2070,6 +2125,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2098,6 +2154,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2140,6 +2197,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2176,6 +2234,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2216,6 +2275,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2245,6 +2305,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -2270,6 +2331,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2301,6 +2363,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Fullart
@@ -2326,6 +2389,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2349,7 +2413,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		Whenever an opponent casts a spell during your turn or an opponent casts a spell that targets a creature you control, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		Whenever an opponent casts a spell during your turn or an opponent casts a spell that targets a creature you control, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 3
@@ -2360,6 +2424,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2390,6 +2455,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2430,6 +2496,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2463,6 +2530,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2499,6 +2567,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2527,6 +2596,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2561,6 +2631,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2623,6 +2694,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2650,6 +2722,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2692,6 +2765,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2726,6 +2800,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2754,6 +2829,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2782,6 +2858,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -2810,6 +2887,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2846,6 +2924,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2924,6 +3003,7 @@ card:
 		As this permanent transforms into The All-Consuming Swarm, counters on her become loyalty counters instead.
 		[+2]: <margin:130:0:0>Create three 1/1 black and green Insect creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>For each permanent type, each opponent sacrifices a permanent of that type.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -2961,6 +3041,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -2986,6 +3067,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3014,6 +3096,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3049,6 +3132,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -3079,6 +3163,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -3087,7 +3172,7 @@ card:
 		fullart
 		battle
 	time_created: 2023-12-26 10:13:34
-	time_modified: 2024-12-30 14:14:22
+	time_modified: 2025-10-24 22:25:04
 	name: Settling of Nizev
 	casting_cost: 3B
 	image: image122.png
@@ -3099,8 +3184,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<i-auto>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)</i-auto>
-		When <atom-cardname><nospellcheck>Settling of Nizev</nospellcheck></atom-cardname> enters, look at the top four cards of an<soft-line>
-		</soft-line>opponent’s library, exile two of them, and put the rest on the bottom of their library in a random order. You may play those cards for as long as they remain exiled, and mana of any type can be spent to cast them.
+		When <atom-cardname><nospellcheck>Settling of Nizev</nospellcheck></atom-cardname> enters, look at the top four cards of an opponent’s library, exile two of them, and put the rest on the bottom of their library in a random order. You may play those cards for as long as they remain exiled, and mana of any type can be spent to cast them.
 	flavor_text: <i-flavor></i-flavor>
 	loyalty: 4
 	illustrator: Aria Safarzadegan
@@ -3110,6 +3194,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -3140,6 +3225,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -3171,6 +3257,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -3201,6 +3288,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -3231,6 +3319,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -3261,6 +3350,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3286,6 +3376,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3316,6 +3407,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3348,6 +3440,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3384,6 +3477,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -3414,6 +3508,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3442,6 +3537,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3473,6 +3569,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3500,6 +3597,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3529,6 +3627,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -3537,7 +3636,7 @@ card:
 		fullart
 		battle
 	time_created: 2023-12-26 10:13:34
-	time_modified: 2024-06-01 17:28:43
+	time_modified: 2025-10-24 22:24:40
 	name: Kaneh Rising
 	casting_cost: 3R
 	image: image27.png
@@ -3549,8 +3648,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<i-auto>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)</i-auto>
-		When <atom-cardname><nospellcheck>Kaneh Rising</nospellcheck></atom-cardname> enters, if you cast it, exile target creature you control, then return it to the battlefield under its owner’s control. Create<soft-line>
-		</soft-line>a token that’s a copy of it. Those creatures gain <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0> until end of turn. Sacrifice the token at the beginning of the next end step. 
+		When <atom-cardname><nospellcheck>Kaneh Rising</nospellcheck></atom-cardname> enters, if you cast it, exile target creature you control, then return it to the battlefield under its owner’s control. Create a token that’s a copy of it. Those creatures gain <kw-0><nospellcheck><key>haste</key></nospellcheck></kw-0> until end of turn. Sacrifice the token at the beginning of the next end step. 
 	flavor_text: <i-flavor></i-flavor>
 	loyalty: 3
 	illustrator: T Swck
@@ -3560,6 +3658,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -3590,6 +3689,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -3615,6 +3715,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3647,6 +3748,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3674,6 +3776,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3699,6 +3802,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3727,6 +3831,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3759,6 +3864,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3784,6 +3890,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3814,6 +3921,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3856,6 +3964,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: blue black red
@@ -3881,6 +3990,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3918,6 +4028,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3948,6 +4059,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3978,6 +4090,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4011,6 +4124,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4041,6 +4155,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4076,6 +4191,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4099,6 +4215,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4128,6 +4245,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4162,6 +4280,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -4187,6 +4306,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4216,6 +4336,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4258,6 +4379,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4285,6 +4407,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4315,6 +4438,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -4345,6 +4469,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4381,7 +4506,7 @@ card:
 		<kw-1><nospellcheck><key>Surpass <param-cost><sym-auto>5W</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>5W</sym-auto></param-cost>: Transform this creature. This costs <sym>1</sym> less to activate for each counter on it. Activate only as a sorcery.)</i-auto></atom-reminder-custom></kw-1>
 	rule_text_2:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Cyrukan Weaponmaster</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		Whenever <atom-cardname><nospellcheck>Cyrukan Weaponmaster</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
 	power: 1
@@ -4396,6 +4521,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4428,6 +4554,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -4458,6 +4585,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4489,6 +4617,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4522,6 +4651,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4551,6 +4681,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4593,6 +4724,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4627,6 +4759,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4661,6 +4794,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4688,6 +4822,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -4723,6 +4858,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4755,6 +4891,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4785,6 +4922,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4843,6 +4981,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4900,6 +5039,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4927,6 +5067,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4959,6 +5100,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -4986,6 +5128,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -5022,6 +5165,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5063,6 +5207,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5106,6 +5251,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullartOffcolor Flashback Cycle
@@ -5131,6 +5277,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5173,6 +5320,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5211,6 +5359,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5241,6 +5390,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5273,6 +5423,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-battle
 	stylesheet_version: 2018-02-09
@@ -5303,6 +5454,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -5328,6 +5480,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5363,6 +5516,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5401,6 +5555,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -5425,6 +5580,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5453,6 +5609,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5485,6 +5642,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5530,6 +5688,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5556,6 +5715,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5589,6 +5749,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5634,6 +5795,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5686,6 +5848,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text_2: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5725,6 +5888,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5764,6 +5928,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5792,6 +5957,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5839,6 +6005,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5888,6 +6055,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5916,6 +6084,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5951,6 +6120,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5986,6 +6156,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6014,7 +6185,7 @@ card:
 	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Skyborne Strategist</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Skyborne Strategist</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>“Life is the river, constantly moving. Those who keep up thrive, but those who falter drown.”</i-flavor>
 	power: 1
 	toughness: 1
@@ -6025,6 +6196,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6062,6 +6234,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -6087,6 +6260,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6114,6 +6288,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6152,6 +6327,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6184,6 +6360,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6217,6 +6394,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -6239,6 +6417,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6267,6 +6446,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6307,6 +6487,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6333,6 +6514,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -6359,6 +6541,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -6383,6 +6566,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6412,6 +6596,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6473,6 +6658,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text_2: 
+
 card:
 	has_styling: false
 	notes:
@@ -6504,6 +6690,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6536,6 +6723,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6562,6 +6750,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6589,6 +6778,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -6614,6 +6804,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6645,6 +6836,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6681,6 +6873,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6721,6 +6914,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6753,6 +6947,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6782,6 +6977,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -6806,6 +7002,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6827,7 +7024,7 @@ card:
 	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Enigmatic Herald</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>two</param-number> +1/+1 counters on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Enigmatic Herald</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>two</param-number> +1/+1 counters on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>“A just law forbids iniquity. <error-spelling:en_US>Mahara’s</error-spelling:en_US> will forbids your progress.”</i-flavor>
 	power: 3
 	toughness: 3
@@ -6838,6 +7035,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6873,6 +7071,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6897,6 +7096,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -6939,6 +7139,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6969,6 +7170,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7002,6 +7204,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -7026,6 +7229,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -7051,6 +7255,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -7075,6 +7280,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7106,6 +7312,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7140,6 +7347,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7176,6 +7384,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7221,6 +7430,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7256,6 +7466,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7289,6 +7500,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7319,6 +7531,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7341,6 +7554,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7373,6 +7587,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -7398,6 +7613,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -7422,6 +7638,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullartRemoval
@@ -7448,6 +7665,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -7472,6 +7690,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7503,6 +7722,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7530,6 +7750,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7561,6 +7782,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -7585,6 +7807,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7618,6 +7841,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullartfullart
@@ -7644,6 +7868,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7675,6 +7900,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7705,6 +7931,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7736,6 +7963,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7760,6 +7988,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7795,6 +8024,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7830,6 +8060,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7865,6 +8096,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7895,6 +8127,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7917,6 +8150,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7950,6 +8184,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -7976,6 +8211,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8009,6 +8245,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -8035,6 +8272,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8069,6 +8307,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8097,6 +8336,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8128,6 +8368,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8162,6 +8403,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8195,6 +8437,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8226,6 +8469,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8254,6 +8498,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8281,6 +8526,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8308,6 +8554,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8340,6 +8587,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8381,6 +8629,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8423,6 +8672,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8457,6 +8707,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -8486,6 +8737,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -8512,6 +8764,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -8554,6 +8807,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8591,6 +8845,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -8615,6 +8870,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -8638,6 +8894,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -8662,6 +8919,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -8686,6 +8944,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -8717,6 +8976,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -8757,6 +9017,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -8809,6 +9070,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -8856,6 +9118,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -8885,6 +9148,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -8910,6 +9174,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -8965,6 +9230,7 @@ card:
 		<margin:0:0:30>Create four 1/1 black Snake creature tokens with <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>.</margin:0:0:30>
 		<sym>2BR</sym>: Elder
 		<margin:0:0:30>You draw three cards and you lose 3 life.</margin:0:0:30>
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -8991,6 +9257,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -9021,6 +9288,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9059,6 +9327,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9089,6 +9358,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -9120,6 +9390,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -9157,6 +9428,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -9187,6 +9459,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -9217,6 +9490,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9254,6 +9528,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -9321,6 +9596,7 @@ card:
 		As this permanent transforms into <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Shining and Proud, counters on them become loyalty counters instead.
 		[+1]: <margin:130:0:0>Until end of turn, you may have <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> become an X/X Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, where X is the number of counters on them.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Create three 1/1 red and white Cleric creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -9357,6 +9633,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9394,6 +9671,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -9449,6 +9727,7 @@ card:
 		<margin:0:0:30>You gain 2 life and draw a card.</margin:0:0:30>
 		<sym>2WU</sym>: Elder
 		<margin:0:0:30><atom-legname><nospellcheck>Atieh</nospellcheck></atom-legname> gains “Each opponent can’t cast more than one spell each turn.”</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -9503,6 +9782,7 @@ card:
 		<margin:0:0:30>Discard up to two cards. Draw that many cards plus one.</margin:0:0:30>
 		<sym-auto>2RG</sym-auto>: Elder
 		<margin:0:0:30>Destroy each artifact and enchantment you don’t control.</margin:0:0:30>
+
 card:
 	has_styling: false
 	notes: !tapped
@@ -9528,6 +9808,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tapped
@@ -9553,6 +9834,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9586,6 +9868,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tapped
@@ -9611,6 +9894,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tapped
@@ -9636,6 +9920,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tapped
@@ -9661,6 +9946,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tapped
@@ -9686,6 +9972,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tapped
@@ -9711,6 +9998,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tapped
@@ -9736,6 +10024,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !tapped
@@ -9761,6 +10050,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -9789,6 +10079,7 @@ card:
 	copyright: ™ & © 2023 Wizards of the Coast
 	copyright_2: ™ & © 2023 Wizards of the Coast
 	copyright_3: ™ & © 2023 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -9821,6 +10112,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fullart
@@ -9848,6 +10140,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Surpass
 	match: Surpass <atom-param>cost</atom-param>

@@ -199,6 +199,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -224,6 +225,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -249,6 +251,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -274,6 +277,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -299,6 +303,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -336,6 +341,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -374,6 +380,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -400,6 +407,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -435,6 +443,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -458,6 +467,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -484,6 +494,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !curtains
@@ -508,6 +519,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -542,6 +554,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -555,6 +568,7 @@ card:
 		overlay: 
 	notes:
 		Haphazard Prison !sartha!guest codesign with Eggo
+		!flavorsaga
 		!saga!notes italic
 		Divinity 2W (mythic)
 		You can’t lose the game and your opponents can’t win the game
@@ -588,11 +602,12 @@ card:
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
 	special_text:
-		<i>She gave her all and liberty, for one breath of divinity.</i>
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 		You can’t lose the game and your opponents can’t win the game.
 		I — Your life total becomes 1.
 		II — Double your life total.
 		III — Create an X/X white Avatar creature token with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, where X is your life total.
+
 card:
 	has_styling: false
 	notes:
@@ -618,6 +633,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !limited hole
@@ -641,6 +657,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !limited hole
@@ -667,6 +684,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -728,6 +746,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -754,6 +773,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !curtain
@@ -778,6 +798,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -815,6 +836,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -828,6 +850,7 @@ card:
 	notes:
 		!sartha
 		!saga!notes italic
+		!flavorsaga
 	time_created: 2018-04-14 22:00:53
 	time_modified: 2018-11-29 23:50:37
 	name: <i>Her Ascension</i>
@@ -851,10 +874,11 @@ card:
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
 	special_text:
-		<i>With all of magic in her hand, she learned who truly had command.</i>
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 		I, II — Put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
 		III — Target creature you control gets +2/+2 and gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
 		​
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -916,6 +940,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -987,6 +1012,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1022,6 +1048,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -1051,6 +1078,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !sartha!curtains
@@ -1075,6 +1103,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1105,6 +1134,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1132,6 +1162,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1188,6 +1219,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !saia
@@ -1210,6 +1242,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !sartha!curtains!pack
@@ -1235,6 +1268,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -1262,6 +1296,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -1288,6 +1323,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1325,6 +1361,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1359,6 +1396,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1393,6 +1431,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1417,6 +1456,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !over!sartha!curtains!stanza
@@ -1443,6 +1483,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: ?rework!flavor
@@ -1469,6 +1510,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1499,6 +1541,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1545,6 +1588,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1583,6 +1627,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !hitana!curtains
@@ -1610,6 +1655,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !over!hitana!curtains!stanza
@@ -1637,6 +1683,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -1664,6 +1711,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -1688,6 +1736,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !curtain!rei
@@ -1712,6 +1761,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1747,6 +1797,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !flavor
@@ -1774,6 +1825,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1796,6 +1848,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1830,6 +1883,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !flavor
@@ -1857,6 +1911,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1895,6 +1950,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1929,6 +1985,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1965,6 +2022,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2009,6 +2067,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2031,6 +2090,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2057,6 +2117,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2123,6 +2184,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -2138,6 +2200,7 @@ card:
 		!hitana!guest 
 		!design Pipsqueak
 		!saga!notes italic
+		!flavorsaga
 	time_created: 2018-04-14 22:00:53
 	time_modified: 2020-07-01 19:19:01
 	name: <i>Pilfered Process</i>
@@ -2161,10 +2224,11 @@ card:
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
 	special_text:
-		<i>His own endeavors changing naught, he turned to what his betters thought.</i>
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 		I, II — Target opponent <kw-0><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-0>.
 		III — You may cast target nonland card from a graveyard this turn and you may spend blue mana as though it were mana of any color to cast it.
 		​
+
 card:
 	has_styling: false
 	notes: !vivian
@@ -2191,6 +2255,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2214,6 +2279,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -2242,6 +2308,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -2256,6 +2323,7 @@ card:
 	notes:
 		!hitana
 		!saga!notes italic
+		!flavorsaga
 	time_created: 2018-08-03 03:58:13
 	time_modified: 2018-12-07 23:31:16
 	name: <i>Rewriting Loyalties</i>
@@ -2280,10 +2348,11 @@ card:
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
 	special_text:
-		<i>The beast had stole all it could drain. He had one hope; try to retrain.</i>
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 		Your opponents play with their hands revealed.
 		I, II — Return target nonland permanent an opponent controls to its owner’s hand.
 		III — Gain control of target nonland permanent.
+
 card:
 	has_styling: false
 	notes: !saia
@@ -2311,6 +2380,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2340,6 +2410,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2369,6 +2440,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2394,6 +2466,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !pack
@@ -2422,6 +2495,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2459,6 +2533,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !vivian
@@ -2485,6 +2560,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2499,8 +2575,9 @@ card:
 	notes:
 		!vivian!guest 
 		!design fluffyDeathbringer
+		!update
 	time_created: 2018-03-22 06:19:21
-	time_modified: 2019-01-26 22:57:53
+	time_modified: 2025-10-23 21:55:51
 	name: Wheat from Chaff
 	casting_cost: U
 	image: image408
@@ -2510,7 +2587,9 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
-	rule_text: Draw two cards, then discard two cards. <kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+	rule_text:
+		Draw two cards, then discard two cards.
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“Ten witness accounts. Eleven angles. In <error-spelling:en_US>Laptew</error-spelling:en_US>, all worthless.”<soft-line>
 		—Inspector Vivian <error-spelling:en_US>Dyrma</soft-line></i-flavor></error-spelling:en_US>
@@ -2522,6 +2601,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: ?rework!flavor
@@ -2548,6 +2628,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2584,6 +2665,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2620,6 +2702,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2647,9 +2730,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2018-07-12 01:07:37
 	time_modified: 2018-07-14 01:08:32
 	name: Blood Artist
@@ -2672,6 +2756,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !over!urchin!stanza!curtains
@@ -2699,6 +2784,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !curtains
@@ -2723,6 +2809,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2747,6 +2834,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2784,6 +2872,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2819,6 +2908,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2844,6 +2934,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2866,6 +2957,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2905,6 +2997,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !urchin!curtain!pack
@@ -2927,6 +3020,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !urchin!curtain
@@ -2951,6 +3045,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2978,6 +3073,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !flavor!investigate?
@@ -3002,6 +3098,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3028,6 +3125,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !mei!flavor
@@ -3055,6 +3153,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -3069,6 +3168,7 @@ card:
 	notes:
 		!urchin
 		!saga!notes italic
+		!flavorsaga
 	time_created: 2018-04-14 22:00:53
 	time_modified: 2018-10-12 04:40:17
 	name: <i>Night on Flayed Mountain</i>
@@ -3092,10 +3192,11 @@ card:
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
 	special_text:
-		<i>More and yet more the urchin slew, with every death, his mountain grew.</i>
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 		I, II — Each player discards a card or sacrifices a creature.
 		III — Each opponent loses life equal to the number of creature cards in their graveyard. You gain life equal to the number of creature cards in your graveyard.
 		​
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3159,6 +3260,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3181,6 +3283,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3219,6 +3322,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3245,6 +3349,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3279,6 +3384,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3317,6 +3423,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3341,6 +3448,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3376,6 +3484,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !flavor
@@ -3403,6 +3512,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3428,6 +3538,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !curtains!urchin
@@ -3461,6 +3572,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3523,6 +3635,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3560,6 +3673,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -3571,7 +3685,9 @@ card:
 		chapter_number_coordinates: 250,290,360,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !saga!notes italic
+	notes:
+		!saga!notes italic
+		!flavorsaga
 	time_created: 2018-03-25 21:41:10
 	time_modified: 2021-02-10 02:54:28
 	border_color: rgb(0,0,0)
@@ -3606,10 +3722,11 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		<i>And <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Saia’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> plan took to the stage to keep her enemies engaged.</i>
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 		Whenever a creature you control enters, each opponent loses 1 life.
 		I, II — Create a 1/1 black Actor creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
 		III — Each opponent loses life equal to the number of tokens you control. You gain life equal to the life lost this way.
+
 card:
 	has_styling: false
 	notes: 
@@ -3633,6 +3750,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3668,6 +3786,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !vivian
@@ -3694,6 +3813,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: my entire life has been leading up to making this pun 
@@ -3723,6 +3843,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !bessie
@@ -3747,6 +3868,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3773,6 +3895,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3802,6 +3925,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3837,14 +3961,14 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
 		!zegarra!guest
 		Complicate Matters
-		!design justnobody
 	time_created: 2018-03-22 06:19:21
-	time_modified: 2018-12-18 12:13:12
+	time_modified: 2025-10-28 20:29:18
 	name: Crack Open the Cache
 	casting_cost: 1R
 	image: image454
@@ -3860,12 +3984,13 @@ card:
 		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A></li>
 	flavor_text: <i-flavor>“The place is built like a prison. Take care not to be the next inmates.”</i-flavor>
 	illustrator: miumiuchuu
-	card_code_text: justnobody
+	card_code_text: water the weeds
 	card_code_text_2: justnobody
 	card_code_text_3: justnobody
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3902,6 +4027,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3928,6 +4054,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3954,6 +4081,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -3968,6 +4096,7 @@ card:
 		overlay: 
 	notes:
 		!pyrus 
+		!flavorsaga
 		!saga!notes italic
 	time_created: 2018-04-14 22:00:53
 	time_modified: 2021-02-10 03:02:54
@@ -3994,10 +4123,11 @@ card:
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
 	special_text:
-		<i>The gemstone turned grief into fire; the warlord’s rage soared ever higher.</i>
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 		You don’t lose unspent red mana as steps and phases end.
-		Add <sym>RR</sym>.
-		Create a 3/3 red Phoenix creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, and “<sym-auto>R</sym-auto>: This creature gets +1/+0 until end of turn.”
+		I — Add <sym>RR</sym>.
+		II, III — Create a 3/3 red Phoenix creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, and “<sym-auto>R</sym-auto>: This creature gets +1/+0 until end of turn.”
+
 card:
 	has_styling: false
 	notes: !reprint!mei
@@ -4024,6 +4154,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !pyrus!curtains 
@@ -4048,6 +4179,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4075,6 +4207,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !zegarra!pack
@@ -4101,6 +4234,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4125,6 +4259,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4158,6 +4293,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !pyrus!curtain 
@@ -4182,6 +4318,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4220,6 +4357,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4293,6 +4431,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !over!pyrus!curtain 
@@ -4319,6 +4458,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -4352,6 +4492,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4374,6 +4515,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4400,6 +4542,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !box
@@ -4423,6 +4566,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !pyrus!curtain 
@@ -4448,6 +4592,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4470,6 +4615,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !curtains!urchin 
@@ -4495,6 +4641,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4517,6 +4664,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4531,6 +4679,7 @@ card:
 	notes:
 		!pyrus
 		!saga!notes italic
+		!flavorsaga
 	time_created: 2018-04-14 22:00:53
 	time_modified: 2019-12-30 21:45:05
 	name: <i>War’s Sorrow</i>
@@ -4554,10 +4703,11 @@ card:
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
 	special_text:
-		<i>His love they had taken away, blind to the cost they would repay.</i>
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 		I, II — <atom-cardname><nospellcheck><i>War’s Sorrow</i></nospellcheck></atom-cardname> deals 1 damage to any target.
 		III — Each player sacrifices another permanent. Put <atom-cardname><nospellcheck><i>War’s Sorrow</i></nospellcheck></atom-cardname> on top of its owner’s library unless a player has it deal 3 damage to them.
 		​
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4619,6 +4769,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: orchestrate support!curtain 
@@ -4645,6 +4796,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4680,6 +4832,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !bessie
@@ -4705,6 +4858,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !flavor
@@ -4731,6 +4885,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !curtains!rei 
@@ -4758,6 +4913,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !curtain!rei 
@@ -4782,6 +4938,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !curtains!rei 
@@ -4809,13 +4966,34 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
-	has_styling: false
+	has_styling: true
+	styling_data:
+		popout_image_style: 
+		front_style: normal
+		stripe_coordinate: 
+		move_loyalty_costs: 
+		front_font_cap: 
+		front_chop: 0,5,15,
+		back_style: normal
+		back_stripe_coordinate: 
+		move_back_loyalty_costs: 
+		back_font_cap: 
+		shrink_back_typeline_text: 
+		custom_symbol_one: cajun/comedy.png
+		custom_symbol_two: cajun/tragedy.png
+		level_1_chop: -5,5,
+		level_2_chop: 
+		level_5_chop: -5,5,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes: !rei!curtains
 	time_created: 2018-03-29 01:21:20
-	time_modified: 2025-09-19 00:31:31
+	time_modified: 2025-10-23 21:52:59
 	card_color_2: green
 	name: Elven Guard
 	name_2: Diasune’s First
@@ -4833,7 +5011,7 @@ card:
 	rarity: common
 	rule_text: When <atom-cardname><nospellcheck>Elven Guard</nospellcheck></atom-cardname> becomes the target of a spell you control, you may pay <sym-auto>G</sym-auto>. If you do, transform it.
 	rule_text_2: <kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
-	flavor_text: <i-flavor>“<error-spelling:en_US>Rei</error-spelling:en_US> has returned our greatest cities to forestland. I appreciate the thought,  but don’t think she did it for us.”</i-flavor>
+	flavor_text: <i-flavor>“<error-spelling:en_US>Rei</error-spelling:en_US> has returned our greatest cities to forestland. I appreciate the thought, but don’t think she did it for us.”</i-flavor>
 	flavor_text_2: <i-flavor>“<error-spelling:en_US>Rei</error-spelling:en_US> thought she would be unstoppable after changing the battlefield. All she did was make us feel more at home.”</i-flavor>
 	power: 1
 	power_2: 3
@@ -4847,6 +5025,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4879,6 +5058,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !curtain!rei 
@@ -4903,6 +5083,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4930,6 +5111,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4962,6 +5144,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4986,6 +5169,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5021,6 +5205,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5084,6 +5269,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -5121,6 +5307,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5144,6 +5331,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5157,7 +5345,8 @@ card:
 		overlay: 
 	notes:
 		!rei<soft-line>
-		!saga!notes italic</soft-line>
+		!saga!notes italic
+		!flavorsaga</soft-line>
 	time_created: 2018-11-30 15:51:09
 	time_modified: 2020-06-22 01:13:52
 	card_color: green
@@ -5184,10 +5373,11 @@ card:
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
 	special_text:
-		<i>They thought her home was theirs to plunder, so she would tear their own asunder.</i>
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 		I, II — Reveal the top two cards of your library. Put up to one land card from among them onto the battlefield and the rest into your graveyard.
 		III — Until end of turn, target creature gets +X/+0 and gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, where X is the number of lands you control.
 		​
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5224,6 +5414,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !curtain!rei 
@@ -5250,6 +5441,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5264,6 +5456,7 @@ card:
 	notes:
 		!rei
 		!saga!notes italic
+		!flavorsaga
 	time_created: 2018-04-14 22:00:53
 	time_modified: 2021-01-02 23:48:17
 	name: <i>Restoration</i>
@@ -5289,10 +5482,11 @@ card:
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
 	special_text:
-		<i>While silence was at last restored, a quiet <kw-0><nospellcheck><key>fear</key></nospellcheck></kw-0> was their reward.</i>
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 		Whenever a card leaves your graveyard, you gain 1 life.
 		I, II — Return target land card from your graveyard to the battlefield.
 		III — Return any number of creature and/or land cards from your graveyard to your hand. Exile <atom-cardname><nospellcheck><i>Restoration</i></nospellcheck></atom-cardname>.
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5329,6 +5523,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5356,6 +5551,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5380,6 +5576,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !curtains!rei 
@@ -5403,6 +5600,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5428,6 +5626,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !curtain 
@@ -5452,6 +5651,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5490,6 +5690,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5526,6 +5727,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5568,6 +5770,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !curtain 
@@ -5593,6 +5796,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5620,6 +5824,7 @@ card:
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
 	special_text: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5652,6 +5857,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !flavor
@@ -5679,6 +5885,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5714,6 +5921,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5760,6 +5968,7 @@ card:
 		[+1]: <margin:130:0:0>Exile up to two target cards from graveyards. You gain 3 life.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target artifact, enchantment, or nonbasic land.</margin:130:0:0>
 		[-7]: <margin:130:0:0>You get an emblem with “At the beginning of your upkeep, exile target noncreature permanent.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5803,6 +6012,7 @@ card:
 		[+2]: <margin:130:0:0>Create a 3/3 red Wurm creature token.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Up to three target creatures each get +2/+2 until end of turn. <atom-legname><nospellcheck>Bessie</nospellcheck></atom-legname> deals 2 damage to each of up to three target creatures.</margin:130:0:0>
 		[-9]: <margin:130:0:0>You get an emblem with “Creatures you control have base power and toughness 7/7 and have <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.”</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -5830,6 +6040,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5857,6 +6068,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -5889,6 +6101,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5931,6 +6144,7 @@ card:
 		[+2]: <margin:130:0:0>Put two +1/+1 counters or loyalty counters on up to one other target creature or planeswalker.</margin:130:0:0>
 		[0]: <margin:130:0:0><atom-cardname><nospellcheck>Cornrose, the Mighty</nospellcheck></atom-cardname> deals 3 damage to target creature. That creature deals damage equal to its power to <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Cornrose</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Until end of turn, target creature gets +X/+X and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, where X is its power.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5966,6 +6180,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6004,6 +6219,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6031,6 +6247,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6074,6 +6291,7 @@ card:
 		[+1]: <margin:130:0:0>Tap target nonland permanent. It doesn’t untap during its controller’s next untap step.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target tapped nonland permanent.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Target player skips their next untap step. Tap up to three target permanents.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !heist
@@ -6104,6 +6322,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !flavor
@@ -6131,6 +6350,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !flavor cornrose
@@ -6158,6 +6378,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6204,6 +6425,7 @@ card:
 		[+1]: <margin:130:0:0>Reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.</margin:130:0:0>
 		[+1]: <margin:130:0:0>Until end of turn, <atom-cardname><nospellcheck>Lucien, the Grifter</nospellcheck></atom-cardname> becomes a legendary 3/3 black and red Human Warrior creature with <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Exile target artifact or creature. You gain life equal to its mana value.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !hitana!curtain 
@@ -6231,6 +6453,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6277,6 +6500,7 @@ card:
 		[+1]: <margin:130:0:0>Draw a card unless an opponent discards a card.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Gain control of target creature until the end of your next turn.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Choose up to four cards in graveyards. You may play those cards without paying their mana costs.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6324,6 +6548,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6364,6 +6589,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6401,6 +6627,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6436,6 +6663,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6480,6 +6708,7 @@ card:
 		[+1]: <margin:130:0:0>Untap up to two target permanents. They gain <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Tap up to three target permanents. They don’t untap during their controller’s next untap step.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Exile up to five target permanents. Return those cards to the battlefield under your control.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !rei!curtains 
@@ -6505,6 +6734,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6538,6 +6768,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6581,6 +6812,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 green Scout creature token. If you control six or more lands, also create a 1/1 white Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Reveal the top card of your library. If it’s a land card, put it onto the battlefield. Otherwise, put it into your hand.</margin:130:0:0>
 		[-5]: <margin:130:0:0>You get an emblem with “Whenever each permanent you control becomes tapped for the first time each turn, untap it.”</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -6609,6 +6841,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6644,6 +6877,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6669,6 +6903,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6705,6 +6940,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6740,6 +6976,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6783,6 +7020,7 @@ card:
 		[+1]: <margin:130:0:0>Exile up to one other target permanent until the beginning of its owner’s next end step.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Return another target planeswalker to its owner’s hand.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You get an emblem with “Whenever a permanent leaves the battlefield, each opponent discards a card.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6827,6 +7065,7 @@ card:
 		[+1]: <margin:130:0:0>Each player discards a card at random, then draws a card.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Until end of turn, gain control of target nonland permanent and it gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Untap it.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You get an emblem with “Whenever a source you control deals damage to an opponent, gain control of target permanent that player controls.”</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -6855,6 +7094,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6890,6 +7130,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !spoils
@@ -6915,6 +7156,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6940,6 +7182,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6969,6 +7212,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6991,6 +7235,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7015,6 +7260,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -7042,6 +7288,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !heist
@@ -7069,6 +7316,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Invisibillity Cloak (duh)
@@ -7095,6 +7343,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7131,6 +7380,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7155,6 +7405,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7180,6 +7431,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7204,6 +7456,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7241,6 +7494,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7263,6 +7517,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Crystal Ball-ish
@@ -7287,6 +7542,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7323,6 +7579,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7348,6 +7605,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7370,6 +7628,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7406,6 +7665,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7432,6 +7692,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Shrine of the Silver... Golden Monkey
@@ -7456,6 +7717,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7485,6 +7747,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -7533,6 +7796,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7557,6 +7821,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7580,6 +7845,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7604,6 +7870,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7628,6 +7895,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Shady
@@ -7652,6 +7920,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -7708,6 +7977,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: fixland
@@ -7747,6 +8017,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: fixland
@@ -7786,6 +8057,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: fixland
@@ -7825,6 +8097,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Fixland
@@ -7864,6 +8137,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Fixland
@@ -7903,6 +8177,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: fixland
@@ -7942,6 +8217,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Fixland
@@ -7981,6 +8257,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: fixland
@@ -8020,6 +8297,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: fixland
@@ -8059,6 +8337,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: fixland
@@ -8098,6 +8377,7 @@ card:
 	copyright: © & ™ 2018 Wizards of the Coast
 	copyright_2: © & ™ 2018 Wizards of the Coast
 	copyright_3: © & ™ 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -8122,6 +8402,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -8156,6 +8437,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8193,6 +8475,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !guest-ish(fifth provided art)
@@ -8220,6 +8503,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8257,6 +8541,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -8291,6 +8576,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8328,6 +8614,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -8353,6 +8640,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8380,6 +8668,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8417,6 +8706,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -8442,6 +8732,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8477,6 +8768,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -8508,6 +8800,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8543,6 +8836,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8583,6 +8877,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8622,6 +8917,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8665,6 +8961,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: reprint
@@ -8692,6 +8989,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Eye of Magnus
@@ -8723,6 +9021,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -8748,6 +9047,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8788,6 +9088,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8829,6 +9130,7 @@ card:
 	copyright: 0/3™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -8864,6 +9166,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8908,6 +9211,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8947,6 +9251,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Seven-League Step
@@ -8972,6 +9277,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -8995,6 +9301,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -9020,6 +9327,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Skeleton Key
@@ -9047,6 +9355,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -9072,6 +9381,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -9109,6 +9419,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: Mithril Mail
@@ -9135,6 +9446,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9174,6 +9486,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -9208,6 +9521,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -9236,6 +9550,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !reprint
@@ -9259,6 +9574,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -9293,6 +9609,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9331,6 +9648,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -9363,6 +9681,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -9386,6 +9705,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -9415,6 +9735,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -9440,6 +9761,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -9468,6 +9790,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -9491,6 +9814,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9526,6 +9850,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -9586,6 +9911,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9616,6 +9942,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -9644,6 +9971,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -9673,6 +10001,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -9701,6 +10030,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -9730,6 +10060,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -9758,6 +10089,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9791,6 +10123,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -9819,6 +10152,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -9847,6 +10181,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9873,6 +10208,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -9903,6 +10239,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -9929,6 +10266,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -9955,6 +10293,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -9984,6 +10323,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10034,6 +10374,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -10060,6 +10401,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10096,6 +10438,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -10137,6 +10480,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -10148,7 +10492,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !promo
+	notes:
+		!promo
+		!update
 	time_created: 2018-07-12 01:07:37
 	time_modified: 2021-12-01 00:43:33
 	name: Blood Artist
@@ -10172,6 +10518,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -10207,6 +10554,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10244,6 +10592,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10281,6 +10630,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -10329,6 +10679,7 @@ card:
 		[+2]: <margin:130:0:0>Create a 3/3 red Wurm creature token.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Up to three target creatures each get +2/+2 until end of turn. Bessie deals 2 damage to each of up to three target creatures.</margin:130:0:0>
 		[-9]: <margin:130:0:0>You get an emblem with “Creatures you control have base power and toughness 7/7 and have <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.”</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -10365,6 +10716,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -10401,6 +10753,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -10437,6 +10790,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -10473,6 +10827,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -10506,6 +10861,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -10537,6 +10893,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -10569,6 +10926,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -10601,6 +10959,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -10633,6 +10992,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -10665,6 +11025,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -10694,6 +11055,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -10732,6 +11094,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Mark
 	match: Mark

@@ -104,6 +104,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CanterburyEgg
@@ -131,6 +132,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: ™ & © 1993-2016 Wizards of the Coast
 	copyright_3: ™ & © 1993-2016 Wizards of the Coast
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -165,6 +167,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -192,6 +195,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CyberChronometer
@@ -219,6 +223,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CanterburyEgg
@@ -252,6 +257,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !design CyberChronometer
@@ -277,6 +283,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CyberChronometer
@@ -304,6 +311,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -333,6 +341,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -368,6 +377,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Dodger
@@ -393,6 +403,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -406,7 +417,7 @@ card:
 		overlay: 
 	notes: !design Cajun
 	time_created: 2018-08-23 02:36:05
-	time_modified: 2021-05-29 14:28:16
+	time_modified: 2025-10-24 01:28:29
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: They/Them
@@ -426,7 +437,7 @@ card:
 	loyalty_cost_3: -2
 	loyalty_cost_4: -6
 	loyalty: 4
-	level_1_text: You may activate loyalty abilities of <atom-cardname><nospellcheck>Xirix, the Usurper</nospellcheck></atom-cardname> during extra turns any time you could cast an instant.
+	level_1_text: As long as it’s an extra turn, you may activate <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, the Usurper’s loyalty abilities any time you could cast an instant.
 	level_2_text: <margin:130:0:0>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Destroy each nonland, non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanent with the greatest mana value among non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanents on the battlefield.</margin:130:0:0>
 	level_4_text: <margin:130:0:0>Put target permanent card from a graveyard onto the battlefield under your control.</margin:130:0:0>
@@ -439,10 +450,11 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		You may activate loyalty abilities of <atom-cardname><nospellcheck>Xirix, the Usurper</nospellcheck></atom-cardname> during extra turns any time you could cast an instant.
+		As long as it’s an extra turn, you may activate <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, the Usurper’s loyalty abilities any time you could cast an instant.
 		[+1]: <margin:130:0:0>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Destroy each nonland, non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanent with the greatest mana value among non-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xirix</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> permanents on the battlefield.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Put target permanent card from a graveyard onto the battlefield under your control.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !design CyberChronometer
@@ -471,6 +483,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -496,6 +509,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -534,6 +548,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -559,6 +574,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design NazSmith
@@ -593,6 +609,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -623,6 +640,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -654,6 +672,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -706,6 +725,7 @@ card:
 		[+2]: <margin:130:0:0>Up to one target creature must attack <atom-cardname><nospellcheck>Griamoor, Deathless Warrior</nospellcheck></atom-cardname> during its controller’s next turn if able.</margin:130:0:0>
 		[0]: <margin:130:0:0>Until end of turn, <atom-legname><nospellcheck>Griamoor</nospellcheck></atom-legname> becomes a Human Soldier creature with power and toughness each equal to the number of loyalty counters on him and gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-2]: <margin:130:0:0><atom-legname><nospellcheck>Griamoor</nospellcheck></atom-legname> deals damage equal to the number of loyalty counters on him to target creature.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !design NazSmith
@@ -733,6 +753,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CanterburyEgg
@@ -763,6 +784,7 @@ card:
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2017 Wizards of the Coast
 	special_text: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -795,6 +817,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -840,6 +863,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -867,6 +891,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -915,6 +940,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: Daij_Djan
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -953,6 +979,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -985,6 +1012,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -1009,6 +1037,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1044,6 +1073,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -1068,6 +1098,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1106,6 +1137,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1137,6 +1169,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes: !design Korakhos & Cajun
@@ -1162,6 +1195,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos & Cajun
@@ -1187,6 +1221,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos & Cajun
@@ -1212,6 +1247,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos & Cajun
@@ -1237,6 +1273,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos & Cajun
@@ -1262,6 +1299,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1298,6 +1336,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -1323,6 +1362,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -1350,6 +1390,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1387,6 +1428,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1423,6 +1465,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design WindyDelcarlo
@@ -1446,6 +1489,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1471,6 +1515,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1519,6 +1564,7 @@ card:
 		[+1]: <margin:130:0:0>Draw a card, then discard a card.</margin:130:0:0>
 		[-2]: <margin:130:0:0><atom-cardname><nospellcheck>Fulmen, Aether Prodigy</nospellcheck></atom-cardname> deals 2 damage divided as you choose among one or two targets. Draw a card.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Whenever you cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1551,6 +1597,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1562,6 +1609,7 @@ card:
 		move_loyalty_costs: 370,600,600,
 		snap_chapter_to_box: 2,3,
 		front_font_cap: 13
+		shrink_name_text: 2
 		other_options: vorthos box, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns
 		custom_symbol_one: 
 		legend_crown: standard
@@ -1575,6 +1623,7 @@ card:
 	notes:
 		!design squidpizza
 		!altleader {mg},{mg},{mg},{mg},{mg},{mg},{mg},
+		!inpend ^You cast/replace/{mg} — You cast
 	time_created: 2020-09-04 14:51:40
 	time_modified: 2024-08-30 08:17:35
 	extra_data:
@@ -1620,9 +1669,10 @@ card:
 	special_text:
 		<i-auto>(As you complete a condition, decode it. After all are decoded, you solve the mystery and transform this.)</i-auto>
 		When <atom-cardname><nospellcheck>Mystery of the Crashed Craft</nospellcheck></atom-cardname> enters, create two 1/1 red Alien creature tokens with “This creature can’t block.”
-		You cast an instant spell.
-		You cast a sorcery spell.
+		{mg} — You cast an instant spell.
+		{mg} — You cast a sorcery spell.
 	special_text_2: 
+
 card:
 	has_styling: false
 	notes: !design Avery
@@ -1648,6 +1698,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design WindyDelcarlo
@@ -1670,6 +1721,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1701,6 +1753,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1728,6 +1781,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1753,6 +1807,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1779,6 +1834,7 @@ card:
 	copyright: Squidpizza
 	copyright_2: Squidpizza
 	copyright_3: Squidpizza
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1805,6 +1861,7 @@ card:
 	copyright: Squidpizza
 	copyright_2: Squidpizza
 	copyright_3: Squidpizza
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1831,6 +1888,7 @@ card:
 	copyright: Squidpizza
 	copyright_2: Squidpizza
 	copyright_3: Squidpizza
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1858,6 +1916,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1889,6 +1948,7 @@ card:
 	copyright: Squidpizza
 	copyright_2: Squidpizza
 	copyright_3: Squidpizza
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1914,6 +1974,7 @@ card:
 	copyright: Squidpizza
 	copyright_2: Squidpizza
 	copyright_3: Squidpizza
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -1963,6 +2024,7 @@ card:
 		[+1]: <margin:130:0:0>You may return a creature you control to its owner’s hand. If you do, draw a card.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Create a 2/2 green Ninja creature token.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Target creature you control deals damage equal to its power to target creature or planeswalker.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1987,6 +2049,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2034,6 +2097,7 @@ card:
 		[+2]: <margin:130:0:0>You may sacrifice a permanent or discard a card. If you do, draw a card.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Return target creature card with mana value X or less from your graveyard to the battlefield.</margin:130:0:0>
 		[-8]: <margin:130:0:0>You get an emblem with “Whenever a permanent you control dies, return a permanent card with lesser mana value from your graveyard to the battlefield.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2062,6 +2126,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2095,6 +2160,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2121,6 +2187,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2167,6 +2234,7 @@ card:
 		Whenever a nontoken creature you control dies, create a 1/1 black Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 		[+1]: <margin:130:0:0>Each opponent loses 2 life and you gain 2 life.</margin:130:0:0>
 		[-2]: <margin:130:0:0>You may sacrifice a creature. When you do, destroy target nonland permanent.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !design Scribbl
@@ -2194,6 +2262,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2235,6 +2304,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design DrChillbrain
@@ -2260,6 +2330,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -2284,6 +2355,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -2332,6 +2404,7 @@ card:
 		<sym-auto>1G</sym-auto>: Search your library for a basic Forest card, reveal it, put it into your hand, then shuffle.
 		<sym-auto>2G</sym-auto>: Search your library for an Elf card, reveal it, put it into your hand, then shuffle.
 		Favor — Whenever you cast an Elf spell, draw a card.
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2380,6 +2453,7 @@ card:
 		[+1]: <margin:130:0:0>Create a green enchantment token named Swarm with “At the beginning of your end step, create a 1/1 green Insect creature token.”</margin:130:0:0>
 		[-2]: <margin:130:0:0>Create a green enchantment token named Survive with “Whenever a creature you control dies, you gain life equal to its power.”</margin:130:0:0>
 		[-4]: <margin:130:0:0>Create a green enchantment token named Scrounge with “Whenever a creature you control enters, draw a card.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2408,6 +2482,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2436,6 +2511,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2464,6 +2540,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2492,6 +2569,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2522,6 +2600,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CyberChronometer
@@ -2548,6 +2627,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -2581,6 +2661,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2627,6 +2708,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2659,6 +2741,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	has_styling: false
 	notes:
@@ -2688,6 +2771,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2723,6 +2807,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2760,6 +2845,7 @@ card:
 	copyright: qwerqwerqe
 	copyright_2: qwerqwerqe
 	copyright_3: qwerqwerqe
+
 card:
 	has_styling: true
 	styling_data:
@@ -2792,6 +2878,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2837,6 +2924,7 @@ card:
 	copyright: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 	copyright_2: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 	copyright_3: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
 card:
 	has_styling: true
 	styling_data:
@@ -2870,6 +2958,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2897,6 +2986,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2939,6 +3029,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -2963,6 +3054,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -2987,6 +3079,7 @@ card:
 	copyright: 1
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -3014,6 +3107,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Abound
 	match: Abound

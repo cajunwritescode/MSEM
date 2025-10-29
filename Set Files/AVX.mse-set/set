@@ -99,6 +99,7 @@ card:
 		[+1]: <margin:130:0:0>Each opponent discards a card.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target creature or planeswalker card from your graveyard with mana value less than or equal to the number of lands you control. If you do, create a token that’s a copy of it.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Each opponent gets an emblem with “At the beginning of your upkeep, you lose 7 life unless you sacrifice seven permanents.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -143,6 +144,7 @@ card:
 		[+1]: <margin:130:0:0>You gain 3 life and draw a card, then you may put a land card from your hand onto the battlefield tapped.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Exile target nonland permanent. Glitch gains its activated and triggered abilities.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Choose a number. Each player sacrifices that many nonland, non-Glitch permanents.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: Atomic Bonsai — Tensei (Homestuck)
@@ -169,6 +171,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Sweet Dreams — Eurythmics
@@ -191,6 +194,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Immigrant Song — Led Zepplin
@@ -217,6 +221,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Everybody Knows - Leonard Cohen
@@ -241,6 +246,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Chasing Cars — Snow Patrol
@@ -267,6 +273,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Paint It Black — Rolling Stones
@@ -291,6 +298,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Ethiopians — The Mountain Goats
@@ -315,6 +323,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Old Time Rock & Roll — Bob Seger & The Silver Bullet Band
@@ -341,6 +350,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -374,6 +384,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Dream On — Aerosmith 
@@ -398,6 +409,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Shine On You Crazy Diamond — Pink Floyd
@@ -424,6 +436,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -456,6 +469,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Closing Time — Semisonic
@@ -480,6 +494,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: i — Kendrick Lamar
@@ -504,6 +519,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Star — Loona
@@ -529,6 +545,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -561,6 +578,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Adventure of a Lifetime — Coldplay
@@ -587,6 +605,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Midnight Sky — Miley Cyrus
@@ -613,6 +632,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Blood of Angels — Brown Bird
@@ -637,6 +657,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -670,6 +691,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -697,6 +719,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Save Rock and Roll — Fall Out Boy
@@ -724,6 +747,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -753,6 +777,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Unwritten — Natasha Bedingfield
@@ -778,6 +803,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Carry On My Wayward Son — Kansas
@@ -803,6 +829,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -837,6 +864,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -869,6 +897,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -904,6 +933,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Easier than Lying — Halsey
@@ -931,6 +961,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Wake Me Up — Avicii
@@ -958,6 +989,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -990,6 +1022,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1017,6 +1050,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: No Rest for the Wicked — Cage the Elephant
@@ -1044,6 +1078,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1071,6 +1106,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Why Not? — Loona
@@ -1099,6 +1135,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Jaded — With Confidence
@@ -1126,6 +1163,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Blinding Lights — The Weeknd
@@ -1150,6 +1188,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1180,6 +1219,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Empty — Metric
@@ -1204,6 +1244,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1231,6 +1272,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1303,6 +1345,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 blue Elemental creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, then <kw-1><nospellcheck><key>crystallize</key></nospellcheck> twice.<atom-reminder-action> <i-auto>(Put a +1/+1 counter on a creature you control or create a Treasure.)</i-auto></atom-reminder-action></kw-1></margin:130:0:0>
 		[-3]: <margin:130:0:0>Exile target nonland permanent. As long as it’s exiled, its owner may pay <sym>WUBRG</sym> as a sorcery to put it into their hand.</margin:130:0:0>
 		[-7]: <margin:130:0:0>You get an emblem with “Pay 1 life: Add one mana of any color.” Then you gain 100 life.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: Everytime We Touch — Cascada
@@ -1326,6 +1369,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1355,6 +1399,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1388,6 +1433,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1414,6 +1460,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1452,6 +1499,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1482,6 +1530,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1514,6 +1563,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1555,6 +1605,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1586,6 +1637,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 1985 — Bowling for Soup
@@ -1612,6 +1664,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Alone In The Universe — Seussical
@@ -1637,6 +1690,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Digital Love — Daft Punk
@@ -1661,6 +1715,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Hazy Shade of Winter — Simon and Garfunkel
@@ -1685,6 +1740,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: All Star — Smash Mouth
@@ -1707,6 +1763,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: All Star — Smash Mouth
@@ -1731,6 +1788,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Tik Tok — Kesha
@@ -1757,6 +1815,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1764,7 +1823,7 @@ card:
 		
 		Occo Preview Card
 	time_created: 2022-04-22 18:48:34
-	time_modified: 2023-03-07 21:21:15
+	time_modified: 2025-10-24 01:31:42
 	name: Ferocious Flame
 	casting_cost: R
 	image: image14
@@ -1774,7 +1833,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: <atom-cardname><nospellcheck>Ferocious Flame</nospellcheck></atom-cardname> deals 2 damage to any target. If you control a creature with power 4 or greater, it deals 4 damage instead. 
+	rule_text: <atom-cardname><nospellcheck>Ferocious Flame</nospellcheck></atom-cardname> deals 2 damage to any target. If you control a creature with power 4 or greater, it deals 4 damage instead.
 	flavor_text: <i-flavor>Kan’s mood is volatile; in an instant, a casual promise can become a threat.</i-flavor>
 	illustrator: Aster Clarke
 	card_code_text: Occo
@@ -1783,9 +1842,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: My Songs Know What You Did In The Dark — Fall Out Boy
+	notes:
+		My Songs Know What You Did In The Dark — Fall Out Boy
+		!design Emily
 	time_created: 2022-04-22 22:07:58
 	time_modified: 2023-08-21 17:21:21
 	name: Heat Blast
@@ -1807,6 +1869,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Zombies Ate My Neighbors — Single File
@@ -1833,6 +1896,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Smell of the Game — Daisuke Ishiwatari
@@ -1859,6 +1923,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Forty Days — Streetlight Manifesto
@@ -1885,6 +1950,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: BURN IT DOWN — Linkin Park
@@ -1910,9 +1976,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: Rat — Penelope Scott
+	notes:
+		Rat — Penelope Scott
+		!design Emily
 	time_created: 2022-04-24 20:53:51
 	time_modified: 2023-08-23 23:11:54
 	name: Lost and Alone
@@ -1934,6 +2003,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Staring at the Sun — The Offspring
@@ -1958,6 +2028,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Penny’s Song — Dr Horrible’s Sing-a-long Blog
@@ -1982,6 +2053,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Fireflies — Owl City
@@ -2006,6 +2078,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2033,6 +2106,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2068,11 +2142,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Glorybox — Portishead
 	time_created: 2022-04-27 16:50:12
-	time_modified: 2023-11-17 19:16:04
+	time_modified: 2025-10-27 23:04:41
 	name: Adaptive Terrains
 	image: image60
 	image_2: 
@@ -2080,7 +2155,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Land</word-list-type-en>
 	sub_type: <word-list-land></word-list-land>
-	rule_text: <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Adaptive Terrains</nospellcheck></atom-cardname>: Search your library for a basic land card and put it onto the battlefield tapped, then shuffle.
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Adaptive Terrains</nospellcheck></atom-cardname>: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
 	flavor_text:
 		<i-flavor>“Gaze out at the potential world that <error-spelling:en_US>Olten</error-spelling:en_US> could be. A thousand flowers could bloom.”<soft-line>
 		—Mia Reyes, <error-spelling:en_US>Xenobiologist</soft-line></i-flavor></error-spelling:en_US>
@@ -2091,6 +2166,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Golden — Fall Out Boy
@@ -2117,6 +2193,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Takin' Care of Business — Bachman-Turner Overdrive
@@ -2142,6 +2219,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: The Distance — Cake
@@ -2168,6 +2246,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: A Better Place, A Better Time — Streetlight Manifesto
@@ -2194,6 +2273,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Take Me To Church — Hozier
@@ -2218,6 +2298,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Take On Me — a-ha
@@ -2244,6 +2325,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2271,6 +2353,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: One Foot on the Gas, One Foot in the Grave — Streetlight Manifesto
@@ -2296,6 +2379,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Ruinous — Go! Child
@@ -2321,6 +2405,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Fireflies — Owl City
@@ -2346,6 +2431,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Troublemaker — Weezer
@@ -2373,6 +2459,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2406,6 +2493,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2439,6 +2527,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2472,6 +2561,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Disturbia — Rihanna
@@ -2498,6 +2588,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Camisado — Panic! At the Disco
@@ -2524,6 +2615,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2558,6 +2650,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Dynamite — Taio Cruz
@@ -2582,6 +2675,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Run the Jewels
@@ -2608,6 +2702,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Counting Stars — OneRepublic
@@ -2634,6 +2729,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Dead Man’s Party — Oingo Boingo
@@ -2658,6 +2754,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: It Gets Better — AlicebanD
@@ -2682,6 +2779,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: American Idiot — Green Day
@@ -2708,6 +2806,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Sk8er Boi — Avril Lavigne
@@ -2734,6 +2833,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: One Foot On The Gas, One Foot In The Grave — Streetlight Manifesto
@@ -2759,6 +2859,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: The Anthem — Good Charlotte
@@ -2781,6 +2882,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Mamma Mia — ABBA
@@ -2808,6 +2910,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Take Me Home, Country Roads — John Denver
@@ -2834,6 +2937,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Touchtone Telephone — Lemon Demon
@@ -2860,6 +2964,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Oh No! — Marina and the Diamonds
@@ -2888,6 +2993,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Would You Be Impressed — Streetlight Manifesto
@@ -2912,6 +3018,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Dirty Little Secret — The All American Rejects
@@ -2940,6 +3047,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: In Too Deep — Sum 41
@@ -2969,6 +3077,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2998,6 +3107,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 45 — The Gaslight Anthem
@@ -3025,6 +3135,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3062,6 +3173,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3102,6 +3214,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3136,6 +3249,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3167,6 +3281,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Young and a Menace — Fall Out Boy
@@ -3194,6 +3309,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3229,6 +3345,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: It’s Time — Imagine Dragons
@@ -3256,6 +3373,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3288,6 +3406,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3322,6 +3441,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Heel Turn 2 — The Mountain Goats
@@ -3346,6 +3466,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Bad Romance — Lady Gaga
@@ -3368,6 +3489,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Dead Man’s Party — Oingo Boingo
@@ -3396,6 +3518,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Victorious — Panic! At the Disco
@@ -3422,6 +3545,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Feel Better — Penelope Scott
@@ -3449,6 +3573,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3478,6 +3603,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Jaded — With Confidence
@@ -3504,6 +3630,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3537,6 +3664,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Jetpack Blues — Fall Out Boy
@@ -3562,11 +3690,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Headfirst Slide into Copperstown on a Bad Bet — Fall Out Boy
 	time_created: 2023-01-08 23:56:26
-	time_modified: 2023-01-13 16:58:43
+	time_modified: 2025-10-24 01:32:07
 	name: Psionic Rebuke
 	casting_cost: 1U
 	image: image115
@@ -3576,7 +3705,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		Counter target spell unless its controller pays <sym-auto>2</sym-auto>. 
+		Counter target spell unless its controller pays <sym-auto>2</sym-auto>.
 		Put a +1/+1 counter on a creature you control.
 	flavor_text: <i-flavor>“I’m not going to be a footnote in someone <error-spelling:en_US>else’s</error-spelling:en_US> happiness.”</i-flavor>
 	illustrator: Mike Corriero
@@ -3586,6 +3715,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Freeze Your Brain — Heathers
@@ -3610,6 +3740,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Tokyo — Owl City
@@ -3634,6 +3765,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Footloose — Kenny Loggins
@@ -3658,6 +3790,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Angels — Owl City
@@ -3686,6 +3819,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: All the Small Things — blink-182
@@ -3712,6 +3846,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: My Superman — Meri Amber
@@ -3736,6 +3871,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Stupid Intruders — The Vincent Black Shadow
@@ -3760,6 +3896,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Ready to — BNA Theme
@@ -3786,6 +3923,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Rocket Scientist (ft Eve) — Teddybears
@@ -3810,6 +3948,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Rollercoaster — Bleachers
@@ -3836,6 +3975,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: You’re Dead — Norma Tanega
@@ -3862,6 +4002,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Terrible Things — Brick + Mortar
@@ -3888,6 +4029,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Heart Attack — Sum 41
@@ -3915,6 +4057,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: honey — Halsey
@@ -3939,6 +4082,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Closing Time — Semisonic
@@ -3963,6 +4107,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3998,6 +4143,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Hope Less Romantics — Make Out Monday
@@ -4022,6 +4168,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Novocaine — Fall Out Boy
@@ -4048,6 +4195,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Welcome to the Black Parade — My Chemical Romance
@@ -4072,6 +4220,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: The Two Tongues (Screaming Salvation) — As It Is
@@ -4100,6 +4249,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: I’ll Be Gone — Linkin Park
@@ -4122,6 +4272,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Call Me Maybe — Carly Rae Jepsen
@@ -4148,6 +4299,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Don’t Take The Money — Bleachers
@@ -4176,6 +4328,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Good Riddance — Green Day
@@ -4203,6 +4356,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Good Riddance — Green Day
@@ -4230,6 +4384,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Good Riddance — Green Day
@@ -4257,6 +4412,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Good Riddance — Green Day
@@ -4284,6 +4440,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4318,6 +4475,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Start Over — Imagine Dragons
@@ -4343,6 +4501,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4371,6 +4530,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 4’33" — John Cage
@@ -4396,6 +4556,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: I Slept With Someone in Fall Out Boy and All I Got Was This Stupid Song Written About Me — Fall Out Boy
@@ -4423,6 +4584,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Fireflies — Owl City
@@ -4450,6 +4612,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Reach for the Sky — Social Distortion
@@ -4477,6 +4640,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Defying Gravity — Wicked
@@ -4505,6 +4669,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4538,6 +4703,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Caramelldansen — Caramella Girls
@@ -4565,6 +4731,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Fix You — Coldplay
@@ -4590,6 +4757,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Sucker — Jonas Brothers
@@ -4615,6 +4783,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4649,6 +4818,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Rat — Penelope Scott
@@ -4674,6 +4844,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Heartbreak Feels So Good — Fall Out Boy
@@ -4701,6 +4872,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Pompeii — Bastille
@@ -4726,6 +4898,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Mr. Brightside — The Killers
@@ -4753,6 +4926,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: brutal — Olivia Rodrigo
@@ -4778,6 +4952,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Ignite — Zedd
@@ -4805,6 +4980,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Numb//Encore — Linkin Park/Jay-Z
@@ -4832,6 +5008,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Everybody Knows — Leonard Cohen
@@ -4855,6 +5032,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Dream On — Aerosmith
@@ -4878,6 +5056,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4916,6 +5095,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4952,6 +5132,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Do or Die — Flux Pavillion (ft. Childish Gambino)
@@ -4980,6 +5161,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Walk through the Fire — Once More With Feeling
@@ -5007,6 +5189,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Fireflies — Owl City
@@ -5034,6 +5217,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Ruler of Everything — Tally Hall
@@ -5059,6 +5243,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5088,6 +5273,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5118,6 +5304,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5153,6 +5340,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Paradise — Coldplay
@@ -5180,6 +5368,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: So What — P!nk
@@ -5207,6 +5396,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5241,6 +5431,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Toxic — Britney Spears
@@ -5266,6 +5457,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: No More — Into The Woods
@@ -5293,6 +5485,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5323,6 +5516,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Nicotine — Panic! At the Disco
@@ -5346,6 +5540,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Bird With A Broken Wing — Owl City
@@ -5373,6 +5568,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5407,6 +5603,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5437,6 +5634,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Easy Target — blink-182
@@ -5465,6 +5663,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Tongues & Teeth — The Crane Wives
@@ -5492,6 +5691,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: I Fight Dragons (Band)
@@ -5517,6 +5717,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: American Pie — Don McLean
@@ -5544,6 +5745,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5581,6 +5783,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: House of the Rising Sun — Heavy Young Heathens
@@ -5609,6 +5812,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Everybody Wants to Rule the World — Tears for Fears
@@ -5638,6 +5842,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Icarus — Bastille
@@ -5661,6 +5866,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Die Young — Ke$ha
@@ -5688,6 +5894,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Hurry, Hurry — Air Traffic Controller
@@ -5715,6 +5922,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Welcome to the Internet — Bo Burnham
@@ -5741,6 +5949,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Kill All Your Friends — My Chemical Romance
@@ -5768,6 +5977,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5802,6 +6012,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: the last great american dynasty — Taylor Swift
@@ -5829,6 +6040,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5857,6 +6069,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5890,6 +6103,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5927,6 +6141,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Shake It Off — Taylor Swift
@@ -5954,6 +6169,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: San Diego — blink-182
@@ -5979,6 +6195,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6011,6 +6228,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Down, Down, Down to Mephisto’s Cafe — Streetlight Manifesto
@@ -6040,6 +6258,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6069,6 +6288,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Everything You Ever — Dr Horrible’s Singalong Blog
@@ -6094,6 +6314,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Talking to Myself — Linkin Park
@@ -6119,6 +6340,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Holding Out for a Hero — Bonnie Tyler
@@ -6146,6 +6368,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Chasing Cars — Snow Patrol
@@ -6171,6 +6394,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6198,6 +6422,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6232,6 +6457,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Story of a Lonely Guy — Blink-182
@@ -6257,6 +6483,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6293,6 +6520,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Better Hide, Better Run — Glitch Mob
@@ -6316,6 +6544,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Feel It Still — Portugal, The Man
@@ -6344,6 +6573,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Feeling Good — Roar of the Grease Paint, Smell of the Crowd
@@ -6371,6 +6601,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6400,6 +6631,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6437,6 +6669,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: I Was A Teenage Anarchist — Against Me!
@@ -6462,6 +6695,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: good 4 u — Olivia Rodrigo
@@ -6487,6 +6721,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6521,6 +6756,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6557,6 +6793,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6586,6 +6823,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6623,6 +6861,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6653,6 +6892,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6683,6 +6923,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6717,6 +6958,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Pomegranate Seeds — Julian Moon
@@ -6745,6 +6987,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6774,6 +7017,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Beautiful Times — Owl City
@@ -6797,6 +7041,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: One More Light — Linkin Park
@@ -6824,6 +7069,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: The Calendar — Panic! At the Disco
@@ -6849,6 +7095,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6884,6 +7131,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: The Legend of Chavo Guerrero — The Mountain Goats
@@ -6911,6 +7159,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Always — Blink-182
@@ -6938,6 +7187,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6972,6 +7222,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: First Date — Blink-182
@@ -6997,6 +7248,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Bad Apple — Tohou Project (Christina Vee English Translation)
@@ -7022,6 +7274,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7055,6 +7308,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7089,6 +7343,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Be My Escape — Reliant K
@@ -7116,6 +7371,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Time To Dance — Panic! At the Disco
@@ -7141,6 +7397,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Good Time — Owl City, Carly Rae Jepsen
@@ -7166,6 +7423,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: The Three of Us — Streetlight Manifesto
@@ -7193,6 +7451,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: In Too Deep — Sum 41
@@ -7219,6 +7478,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: From Now On We Are Enemies — Fall Out Boy
@@ -7242,6 +7502,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Super Bass — Nicki Minjas
@@ -7269,6 +7530,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7304,6 +7566,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Bleed It Out — Linkin Park
@@ -7331,6 +7594,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Welcome to the Family — Watsky
@@ -7358,6 +7622,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Double Arrows Down —The Bombpops
@@ -7383,6 +7648,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Dear Maria, Count Me In — All Time Low
@@ -7410,6 +7676,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: The Cult of Dionysus — The Orion Experience
@@ -7435,6 +7702,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7460,6 +7728,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7489,6 +7758,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7520,6 +7790,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7553,6 +7824,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7580,6 +7852,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7625,6 +7898,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 colorless Servo artifact creature token. If you exiled an artifact or creature card this turn, create two instead.</margin:130:0:0>
 		[0]: <margin:130:0:0>Create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. If you exiled a card that had a mana ability this turn, create two instead.</margin:130:0:0>
 		[-1]: <margin:130:0:0><atom-legname><nospellcheck>Comet</nospellcheck></atom-legname> deals 2 damage to any target. If you exiled an instant or sorcery card this turn, <atom-legname><nospellcheck>Comet</nospellcheck></atom-legname> deals 2 damage to any target.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: Sum of our Parts — Mary Lambert
@@ -7649,6 +7923,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Hungover in the City of Dust — Autoheart
@@ -7677,6 +7952,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Crazy — Gnarls Barkley
@@ -7705,6 +7981,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Under the Bridge — Red Hot Chili Peppers
@@ -7729,6 +8006,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7768,6 +8046,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Auld Lang Syne — Robert Burns (kinda)
@@ -7792,6 +8071,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Walking Disasters — The Wombats
@@ -7816,6 +8096,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Same Thing — Flobots
@@ -7845,6 +8126,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Brother — Rural Alberta Adventage
@@ -7871,6 +8153,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Jackrabbit — San Fermin
@@ -7897,6 +8180,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Rap God — Eminem
@@ -7921,6 +8205,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: I Miss The Mountains from Next to Normal
@@ -7947,6 +8232,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Mr Blue Sky — ELO
@@ -7973,6 +8259,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8011,6 +8298,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Glad You Came — The Wanted
@@ -8035,6 +8323,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -8071,9 +8360,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: Cabaret from Cabaret
+	notes:
+		Cabaret from Cabaret
+		!design Emily
 	time_created: 2023-08-27 16:54:04
 	time_modified: 2023-08-31 22:47:24
 	name: Worn Study
@@ -8097,6 +8389,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8134,6 +8427,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Bad Moon Rising — Creedence Clearwater Revival
@@ -8160,6 +8454,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Total Eclipse of the Heart — Bonnie Tyler
@@ -8190,6 +8485,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8229,6 +8525,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -8265,6 +8562,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Back in Black — AC/DC
@@ -8291,6 +8589,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Run For Cover — The Killers
@@ -8319,6 +8618,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8356,6 +8656,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: The Ballad of Czolgosz from Assassins
@@ -8383,6 +8684,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: HandClap — Fitz and the Tantrums
@@ -8411,6 +8713,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: The Spy and the Liar — Schell Games
@@ -8439,11 +8742,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Fire — The Crazy World of Arthur Brown
 	time_created: 2023-08-25 10:34:11
-	time_modified: 2023-08-31 21:41:12
+	time_modified: 2025-10-28 01:20:47
 	name: Dragongate
 	casting_cost: 1RRR
 	image: image296
@@ -8459,12 +8763,13 @@ card:
 		</soft-line>End all you’ve become.</i-flavor>
 	watermark: custom watermark two
 	illustrator: Tim Barton
-	card_code_text: justnobody
+	card_code_text: water the weeds
 	card_code_text_2: justnobody
 	card_code_text_3: justnobody
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: True Trans Soul Rebel — Against Me!
@@ -8491,6 +8796,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Animal — Neon Trees
@@ -8515,6 +8821,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Right Hand Man — Hamilton
@@ -8541,6 +8848,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8579,6 +8887,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Mrs Robinson — Simon and Garfunkel
@@ -8605,6 +8914,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Be My Escape — Relient K
@@ -8629,11 +8939,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Ballroom Blitz — Sweet
 	time_created: 2023-08-27 21:23:23
-	time_modified: 2023-08-31 21:41:45
+	time_modified: 2025-10-28 01:20:56
 	name: Prismatic Bounty
 	casting_cost: 4GG
 	image: image303
@@ -8649,12 +8960,13 @@ card:
 		—<error-spelling:en_US>Eldan</error-spelling:en_US> Jackson, Field Engineer</soft-line></i-flavor>
 	watermark: custom watermark two
 	illustrator: Anna Marukhnich
-	card_code_text: justnobody
+	card_code_text: water the weeds
 	card_code_text_2: justnobody
 	card_code_text_3: justnobody
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Gold Guns Girls — Metric
@@ -8683,6 +8995,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -8721,6 +9034,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8756,6 +9070,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Shuffle ’Em Up — Tha Gatherin’
@@ -8785,6 +9100,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: A Whole New World from Aladin
@@ -8809,6 +9125,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Watsky — Whoa, Whoa, Whoa
@@ -8835,6 +9152,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8873,6 +9191,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Chant 2 from Hadestown
@@ -8899,6 +9218,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Mad World — Michael Andrews
@@ -8925,6 +9245,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Bad Blood — Taylor Swift (Featuring Kendrick Lamar)
@@ -8951,6 +9272,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Here It Goes Again — OK Go
@@ -8977,6 +9299,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Sum of our Parts — Mary Lambert
@@ -9003,6 +9326,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9036,6 +9360,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Little Lion Man — Mumford And Sons
@@ -9062,6 +9387,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: The End Of The Movie from Crazy Ex Girlfriend
@@ -9086,6 +9412,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Piano Man — Billy Joel
@@ -9115,6 +9442,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Chip On My Shoulder from Legally Blonde (the musical)
@@ -9139,6 +9467,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Going Away to College — Blink-182
@@ -9167,11 +9496,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Hey Ya — Outkast
 	time_created: 2023-08-26 13:04:46
-	time_modified: 2023-08-29 17:54:30
+	time_modified: 2025-10-28 01:21:05
 	name: Accursed by Unborn Fates
 	casting_cost: 2U/BU/B
 	image: image323
@@ -9187,12 +9517,13 @@ card:
 	flavor_text: <i-flavor>If what they say is nothing is forever, then what makes love the exception?</i-flavor>
 	watermark: custom watermark two
 	illustrator: Min Guen
-	card_code_text: justnobody
+	card_code_text: water the weeds
 	card_code_text_2: justnobody
 	card_code_text_3: justnobody
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Freeze Your Brain — Heathers
@@ -9221,6 +9552,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Love From The Other Side — Fall Out Boy
@@ -9245,6 +9577,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Damnit — Blink-182
@@ -9271,6 +9604,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9282,7 +9616,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Say It Ain’t So — Weezer
+	notes:
+		Say It Ain’t So — Weezer
+		!design Emily
 	time_created: 2023-08-14 19:16:29
 	time_modified: 2023-08-31 21:45:50
 	name: Love Letters
@@ -9306,11 +9642,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Still Standin’ — Elton John
 	time_created: 2023-08-26 12:52:20
-	time_modified: 2023-08-31 18:27:28
+	time_modified: 2025-10-28 01:21:14
 	name: Runic Pillars
 	casting_cost: 4
 	image: image328
@@ -9329,12 +9666,13 @@ card:
 		—Colonel Violet <error-spelling:en_US>Osada</soft-line></i-flavor></error-spelling:en_US>
 	watermark: custom watermark two
 	illustrator: Amir Zand
-	card_code_text: justnobody
+	card_code_text: water the weeds
 	card_code_text_2: justnobody
 	card_code_text_3: justnobody
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: This Land is Your Land by Woody Guthrie
@@ -9361,6 +9699,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: This Land is Your Land by Woody Guthrie
@@ -9387,6 +9726,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: This Land is Your Land by Woody Guthrie
@@ -9413,6 +9753,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: This Land is Your Land by Woody Guthrie
@@ -9439,6 +9780,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: This Land is Your Land by Woody Guthrie
@@ -9465,6 +9807,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Vegas Lights — Panic! At the Disco
@@ -9491,6 +9834,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9522,6 +9866,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -9552,6 +9897,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Augmented
 	match: Augmented

@@ -71,6 +71,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap 
@@ -104,6 +105,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -143,6 +145,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -179,6 +182,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -213,6 +217,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap, +comma in FT
@@ -241,6 +246,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: +all cards from (remorseful cleric) 
@@ -271,6 +277,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: when>whenever
@@ -298,6 +305,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -324,6 +332,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -359,6 +368,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap, a creature you control enters the battlefield from the graveyard>a creature enters the battlefield under your control from a graveyard
@@ -384,6 +394,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Storied 
@@ -412,6 +423,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -443,6 +455,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: revealed this way>from among them
@@ -466,6 +479,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap
@@ -493,6 +507,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap 
@@ -523,6 +538,7 @@ card:
 	copyright: LASAHIDO
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -554,6 +570,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -588,6 +605,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -619,6 +637,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -653,6 +672,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap
@@ -683,6 +703,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -716,6 +737,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: >one-sentence tutor, -dashgap, comma>period
@@ -743,6 +765,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -769,6 +792,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -801,6 +825,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -842,6 +867,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -882,6 +908,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -913,6 +940,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -951,6 +979,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap, flavour bar up 
@@ -983,6 +1012,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1016,6 +1046,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1045,6 +1076,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1079,6 +1111,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1119,6 +1152,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1153,6 +1187,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1183,11 +1218,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2018-11-30 22:58:38
-	time_modified: 2020-01-02 16:41:46
+	time_modified: 2025-10-23 22:21:11
 	name: Brave the Issbarrens
 	casting_cost: 2WW
 	image: image70
@@ -1199,7 +1235,7 @@ card:
 	rarity: rare
 	rule_text:
 		As <atom-cardname><nospellcheck>Brave the Issbarrens</nospellcheck></atom-cardname> enters, choose a color.
-		White creatures you control have <kw-A><nospellcheck><key>protection from <param-name>the chosen color.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything with that color..)</i-auto></atom-reminder-expert></kw-A>
+		White creatures you control have <kw-0><nospellcheck><key>protection from <param-name>the chosen color.</param-name></key></nospellcheck></kw-0> <i-auto>(They can’t be targeted, dealt damage, enchanted, or equipped by anything with that color.)</i-auto>
 	flavor_text: <i-flavor>The <error-spelling:en_US>Bjarndyr</error-spelling:en_US> stood against the <error-spelling:en_US>elementals</error-spelling:en_US> as if they were just another snowstorm.</i-flavor>
 	illustrator: Kekai Kotaki
 	card_code_text: 
@@ -1208,6 +1244,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1233,6 +1270,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap Fluffy’s Favourite Red Card
@@ -1258,6 +1296,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1285,6 +1324,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1317,6 +1357,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: that shares a name with>with the same name as
@@ -1342,6 +1383,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1375,6 +1417,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1408,6 +1451,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1436,6 +1480,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1471,6 +1516,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1499,6 +1545,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: moved instead to end (tezzeret artifice master), -dashgap
@@ -1524,6 +1571,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1554,6 +1602,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1589,6 +1638,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1617,6 +1667,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1646,6 +1697,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1681,6 +1733,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1691,7 +1744,7 @@ card:
 		overlay: 
 	notes: fluffy: in>from, -the, -dashgap
 	time_created: 2018-11-30 22:58:43
-	time_modified: 2021-08-25 17:26:49
+	time_modified: 2025-10-23 22:21:33
 	name: Memento Mori
 	casting_cost: BB
 	image: image50
@@ -1703,8 +1756,8 @@ card:
 	rarity: rare
 	rule_text:
 		Choose one —
-		<li><bullet>• </bullet> Exile target player’s graveyard.
-		</li><li><bullet>• </bullet> Target player sacrifices a creature.</li>
+		<li><bullet>• </bullet>Exile target player’s graveyard.
+		</li><li><bullet>• </bullet>Target player sacrifices a creature.</li>
 	flavor_text:
 		<i-flavor>“The god saw the withered bones that once were a Primordial and realized what that meant.”<soft-line>
 		—<error-spelling:en_US>Azamir</error-spelling:en_US>, “Fragments Of Divinity”</soft-line></i-flavor>
@@ -1715,6 +1768,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !flavor
@@ -1741,6 +1795,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1769,6 +1824,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: is unblockable>can’t be blocked 
@@ -1800,6 +1856,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap
@@ -1825,6 +1882,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap, swapped vigilance and trample (thantis)
@@ -1852,6 +1910,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1884,6 +1943,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1909,6 +1969,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1939,6 +2000,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1967,6 +2029,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2001,6 +2064,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap 
@@ -2034,6 +2098,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2067,6 +2132,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2100,6 +2166,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2129,6 +2196,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2167,6 +2235,7 @@ card:
 	copyright: 5
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap, separated ellipses, -extra ellipses dot, period>comma, +commma after you in rulestext
@@ -2192,6 +2261,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2227,6 +2297,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2261,6 +2332,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: it>that creature (incandescent soulstoke), -dashgap 
@@ -2286,6 +2358,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2321,6 +2394,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: fluffy: -dashgap, comma>period
@@ -2346,6 +2420,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2377,6 +2452,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2414,6 +2490,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -2442,6 +2519,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -2466,6 +2544,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2475,7 +2554,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		!exportname Unceasings Flames Reminder
+		!exportname Unceasing Flames Reminder
 		!script "s>l>Conjure three Unceasing Flames/l>f>/spawnx3 Unceasing Flames Reminder 101/f>/s>","r"
 	time_created: 2018-12-13 14:20:02
 	time_modified: 2021-09-26 15:40:02
@@ -2499,6 +2578,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2530,6 +2610,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -2561,6 +2642,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -2585,6 +2667,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2630,6 +2713,7 @@ card:
 		[+1]: <margin:130:0:0><atom-cardname><nospellcheck>Emperor Tzhai</nospellcheck></atom-cardname> deals 1 damage to each creature, planeswalker, and opponent you don’t control.</margin:130:0:0>
 		[0]: <margin:130:0:0>Target creature can’t attack you or <atom-cardname><nospellcheck>Emperor Tzhai</nospellcheck></atom-cardname> until <atom-cardname><nospellcheck>Emperor Tzhai</nospellcheck></atom-cardname> leaves the battlefield.</margin:130:0:0>
 		[-10]: <margin:130:0:0>You control target player.</margin:130:0:0>
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -2653,6 +2737,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2681,6 +2766,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2708,6 +2794,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -2758,6 +2845,7 @@ card:
 		[+2]: <margin:130:0:0>Search each player’s library for a card and exile it. Shuffle each library searched this way.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Each opponent chooses a permanent they control for each permanent type, then exiles those permanents.</margin:130:0:0>
 		[-8]: <margin:130:0:0>Exile all cards your opponents own from outside the game. Until end of turn, you may cast spells without paying their mana costs and you may play cards exiled with <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Azamir</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> planeswalkers.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2790,6 +2878,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !done
@@ -2815,6 +2904,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2847,6 +2937,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2875,6 +2966,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2905,6 +2997,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2937,6 +3030,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2972,6 +3066,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3012,6 +3107,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3048,6 +3144,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3074,6 +3171,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3105,6 +3203,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3135,6 +3234,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3171,6 +3271,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3198,6 +3299,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3231,6 +3333,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3267,6 +3370,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3302,6 +3406,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3332,6 +3437,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3362,6 +3468,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3400,6 +3507,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3407,7 +3515,6 @@ card:
 	notes:
 		!script "s>l>Conjure three Wandering Souls/l>f>/spawnx3 Wandering Souls Reminder 101/f>/s>s>l>Spawn two Spirits/l>f>/spawnx2 1/1 white Spirit 101/f>/s>s>l>Spawn three Spirits/l>f>/spawnx3 1/1 white Spirit 101/f>/s>","r"
 		!exportname Wandering Souls Reminder
-		 
 	time_created: 2018-11-30 22:58:46
 	time_modified: 2021-09-26 15:39:45
 	name: Wandering Souls
@@ -3430,6 +3537,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3462,6 +3570,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Storied
 	match: storied

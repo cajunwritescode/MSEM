@@ -94,6 +94,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -121,6 +122,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -173,9 +175,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: 
+	notes: !design WindyDelcarlo
 	time_created: 2021-09-21 09:59:20
 	time_modified: 2024-11-30 21:39:12
 	name: Forked Pillar
@@ -196,6 +199,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -223,6 +227,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -248,6 +253,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -273,6 +279,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !script "s>l>Spawn Turtle’s Valor/l>f>/spawn Turtle’s Valor MSC/f>/s>","r"
@@ -300,6 +307,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -327,6 +335,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -354,6 +363,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -381,6 +391,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -416,6 +427,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -450,6 +462,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -475,6 +488,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -500,6 +514,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -533,6 +548,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -556,6 +572,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -581,6 +598,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -604,6 +622,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Emily
@@ -631,6 +650,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -659,6 +679,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -695,6 +716,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -727,6 +749,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -759,6 +782,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -787,6 +811,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -845,6 +870,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -873,9 +899,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: 
+	notes: !design HerziQuerzi
 	time_created: 2021-09-21 09:59:20
 	time_modified: 2021-10-06 22:27:27
 	name: Reveal Eternities
@@ -898,6 +925,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -932,6 +960,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -957,6 +986,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -982,6 +1012,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1007,6 +1038,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1033,6 +1065,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1061,6 +1094,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1089,6 +1123,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -1119,6 +1154,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1153,6 +1189,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1180,6 +1217,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1207,6 +1245,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1230,6 +1269,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1271,6 +1311,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1299,6 +1340,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1326,6 +1368,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1356,6 +1399,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1381,6 +1425,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1408,6 +1453,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1433,6 +1479,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1458,6 +1505,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !script "s>l>Spawn Hila’s Favor/l>f>/spawn Hila’s Favor MSC/f>/s>","r"
@@ -1483,6 +1531,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1510,6 +1559,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -1541,6 +1591,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1569,6 +1620,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1596,6 +1648,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1626,6 +1679,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1660,6 +1714,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1687,6 +1742,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1721,6 +1777,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -1758,6 +1815,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1783,6 +1841,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -1820,6 +1879,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1853,6 +1913,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -1891,6 +1952,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1929,6 +1991,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1954,6 +2017,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1979,6 +2043,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2007,6 +2072,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2032,6 +2098,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2057,6 +2124,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2084,6 +2152,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2111,6 +2180,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2136,6 +2206,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2172,6 +2243,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2206,6 +2278,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design fluffyDeathbringer
@@ -2232,6 +2305,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2266,6 +2340,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2289,6 +2364,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2316,6 +2392,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2343,6 +2420,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -2371,9 +2449,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !OldArt
+	notes: !OldArt]!design Reuben
 	time_created: 2021-09-21 09:59:20
 	time_modified: 2024-05-29 16:56:17
 	extra_data:
@@ -2401,6 +2480,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2428,6 +2508,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -2453,6 +2534,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2478,6 +2560,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2505,6 +2588,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2533,6 +2617,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2561,6 +2646,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2584,6 +2670,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2613,6 +2700,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2640,6 +2728,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2672,6 +2761,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2699,6 +2789,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2726,6 +2817,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2751,6 +2843,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2779,6 +2872,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2804,6 +2898,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2860,6 +2955,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2891,6 +2987,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2925,6 +3022,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -2980,6 +3078,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3007,6 +3106,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -3034,6 +3134,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3060,6 +3161,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3070,7 +3172,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !design Timespiraled
 	time_created: 2021-09-21 09:59:20
 	time_modified: 2021-10-11 20:57:19
 	extra_data:
@@ -3098,6 +3200,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3123,6 +3226,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3150,6 +3254,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !script "s>l>Spawn Fawn/l>f>/spawn Fawn of Hesediel MSC/f>/s>","r"
@@ -3177,6 +3282,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3207,6 +3313,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3234,6 +3341,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3259,6 +3367,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3286,6 +3395,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3314,6 +3424,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3341,6 +3452,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3376,6 +3488,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3403,6 +3516,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3428,6 +3542,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3455,6 +3570,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3482,6 +3598,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3519,6 +3636,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3545,6 +3663,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3586,6 +3705,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3611,6 +3731,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3636,6 +3757,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3661,6 +3783,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3695,6 +3818,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3724,9 +3848,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: 
+	notes: !design Reuben
 	time_created: 2021-09-21 09:59:20
 	time_modified: 2021-10-11 22:39:14
 	name: Evaldi’s Muse
@@ -3751,6 +3876,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3778,6 +3904,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3805,6 +3932,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3833,6 +3961,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3870,6 +3999,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3897,6 +4027,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3922,6 +4053,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3949,6 +4081,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3974,6 +4107,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4009,6 +4143,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4032,6 +4167,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -4059,9 +4195,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: 
+	notes: !design CanterburyEgg
 	time_created: 2021-09-21 09:59:20
 	time_modified: 2021-10-06 22:24:55
 	name: Powder Scatterer
@@ -4087,11 +4224,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
 	time_created: 2021-09-21 09:59:20
-	time_modified: 2021-10-06 23:02:29
+	time_modified: 2025-10-24 00:22:04
 	name: Wheat from Chaff
 	casting_cost: U
 	image: image323
@@ -4101,7 +4239,9 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Draw two cards, then discard two cards. <kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+	rule_text:
+		Draw two cards, then discard two cards.
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Lily Morran
 	card_code_text: Kaleidoscope
@@ -4110,6 +4250,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4137,6 +4278,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4162,6 +4304,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4189,6 +4332,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4212,6 +4356,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4237,6 +4382,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4262,6 +4408,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !script "s>l>Spawn Horror/l>f>/spawn 5/5 black Horror MSC/f>/s>","t"
@@ -4285,6 +4432,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4312,6 +4460,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4370,6 +4519,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4397,6 +4547,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4424,6 +4575,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4459,6 +4611,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4485,9 +4638,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !inpend [{]V[}]/replace/★
+	notes:
+		
+		!inpend [{]Vp?[}]/replace/★
 	time_created: 2021-09-21 09:59:20
 	time_modified: 2024-08-30 03:29:14
 	name: Bloodstained Calamity
@@ -4512,6 +4668,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4566,6 +4723,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4591,6 +4749,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4614,6 +4773,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4642,6 +4802,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4680,6 +4841,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4706,6 +4868,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4731,6 +4894,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4756,6 +4920,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4788,6 +4953,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4813,6 +4979,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -4842,6 +5009,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4869,6 +5037,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4896,6 +5065,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -4925,6 +5095,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -4951,6 +5122,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4978,6 +5150,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !script "s>l>Spawn four Warriors/l>f>/spawnx4 1/1 red Warrior MSC/f>/s>","r"
@@ -5003,6 +5176,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5031,6 +5205,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !note italic
@@ -5059,6 +5234,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5093,6 +5269,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5119,6 +5296,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5144,6 +5322,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5176,6 +5355,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5184,7 +5364,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !design Fleur
 	time_created: 2021-09-21 10:00:03
 	time_modified: 2021-09-25 12:21:19
 	name: Unity Spheres
@@ -5207,6 +5387,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5240,6 +5421,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5272,6 +5454,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -5295,6 +5478,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5323,6 +5507,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5348,6 +5533,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5373,6 +5559,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5397,6 +5584,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5422,6 +5610,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5450,6 +5639,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5476,6 +5666,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5508,6 +5699,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5532,6 +5724,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5558,6 +5751,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5583,6 +5777,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5607,6 +5802,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5631,6 +5827,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5659,6 +5856,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5683,6 +5881,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5707,6 +5906,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5731,6 +5931,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5755,6 +5956,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5780,6 +5982,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5804,6 +6007,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5830,6 +6034,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5862,6 +6067,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5887,6 +6093,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5911,6 +6118,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5939,6 +6147,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5963,6 +6172,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5988,6 +6198,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6012,6 +6223,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6038,6 +6250,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6062,6 +6275,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6087,6 +6301,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6112,6 +6327,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6136,6 +6352,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -6161,6 +6378,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6185,6 +6403,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6210,6 +6429,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6234,6 +6454,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6260,6 +6481,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6292,6 +6514,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6315,6 +6538,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6339,6 +6563,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6373,6 +6598,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6399,6 +6625,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6423,6 +6650,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6448,6 +6676,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6472,6 +6701,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6496,6 +6726,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6521,6 +6752,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6546,6 +6778,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6569,6 +6802,7 @@ card:
 	copyright: Designed by CanterburyEgg
 	copyright_2: Designed by CanterburyEgg
 	copyright_3: Designed by CanterburyEgg
+
 card:
 	has_styling: false
 	notes: 
@@ -6593,6 +6827,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6619,6 +6854,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6651,6 +6887,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6683,6 +6920,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6715,6 +6953,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6747,6 +6986,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6779,6 +7019,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6811,6 +7052,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6843,6 +7085,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6875,6 +7118,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6907,6 +7151,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6939,6 +7184,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6963,6 +7209,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6987,6 +7234,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7011,6 +7259,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7035,6 +7284,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7060,6 +7310,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7090,6 +7341,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7124,6 +7376,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7154,6 +7407,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7181,6 +7435,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -7222,6 +7477,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -7256,6 +7512,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -7297,6 +7554,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7336,6 +7594,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7364,6 +7623,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7389,6 +7649,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7414,6 +7675,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7439,6 +7701,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -7464,6 +7727,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -7503,6 +7767,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -7533,11 +7798,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
 	time_created: 2021-09-24 18:03:43
-	time_modified: 2023-07-01 10:14:17
+	time_modified: 2025-10-23 23:47:14
 	name: Conjure Realities
 	casting_cost: 2GU
 	image: image179
@@ -7547,7 +7813,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: <kw-A><nospellcheck><key>Abound</key></nospellcheck>. Then search your library for a creature, instant, or sorcery card, reveal it, put it into your hand, then shuffle. <atom-reminder-action> <i-auto>(To abound, you may cast a spell that costs less than this from your hand without paying its mana cost.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: <kw-A><nospellcheck><key>Abound</key></nospellcheck>. Then search your library for a creature, instant, or sorcery card, reveal it, put it into your hand, then shuffle.<atom-reminder-action> <i-auto>(To abound, you may cast a spell that costs less than this from your hand without paying its mana cost.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Alexandr Elichev
 	card_code_text: Memorium Arcanum
@@ -7556,6 +7822,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -7584,6 +7851,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7631,6 +7899,7 @@ card:
 		[-1]: <margin:130:0:0>Create a 2/2 green Cat Warrior creature token.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Exile target creature. Its controller may search their library for a basic land card, put it onto the battlefield tapped, then shuffle.</margin:130:0:0>
 		[-7]: <margin:130:0:0>You get an emblem with “Creatures you control get +X/+X, where X is your life total.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7671,6 +7940,7 @@ card:
 		[+2]: <margin:130:0:0>Look at the top three cards of your library. Put one of them into your hand and exile the rest.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Exile target creature. You may return it to the battlefield under its owner’s control.</margin:130:0:0>
 		[-9]: <margin:130:0:0>Return any number of creature cards exiled with <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lazaire</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> to the battlefield under your control. Then exile any number of target creatures.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7709,6 +7979,7 @@ card:
 		[+1]: <margin:130:0:0>Tap up to one target creature. <atom-cardname><nospellcheck>Azun, Sheriff of Daisite</nospellcheck></atom-cardname> deals 1 damage to each opponent.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Exile another target nonland permanent until <atom-cardname><nospellcheck>Azun, Sheriff of Daisite</nospellcheck></atom-cardname> leaves the battlefield.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Detain each permanent target opponent controls. <i-auto>(Until your next turn, those permanents can’t attack or block and their activated abilities can’t be activated.)</i-auto></margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7748,6 +8019,7 @@ card:
 		[+2]: <margin:130:0:0>You may draw a card. If you don’t, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. Repeat this process once.</margin:130:0:0>
 		[0]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Iviana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals X damage to each creature you don’t control, where X is 2 plus twice the number of Dragons you control.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Create a 5/5 red Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7786,6 +8058,7 @@ card:
 		[+1]: <margin:130:0:0>Reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.</margin:130:0:0>
 		[+1]: <margin:130:0:0>Until end of turn, <atom-cardname><nospellcheck>Lucien, the Grifter</nospellcheck></atom-cardname> becomes a legendary 3/3 black and red Human Warrior creature with <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Exile target artifact or creature. You gain life equal to its mana value.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7826,6 +8099,7 @@ card:
 		[+1]: <margin:130:0:0>Target creature gets +1/+1 and gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until your next turn.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Tap target permanent. It doesn’t untap during its controller’s next untap step.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Return target artifact, enchantment, or tapped creature to its owner’s hand.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7864,6 +8138,7 @@ card:
 		[+1]: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. Untap up to one target creature.</margin:130:0:0>
 		[-2]: <margin:130:0:0><kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a> for each card type among permanents you control, then you may return a land card and/or a nonland card milled this way to their owner’s hand.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Until end of turn, you may cast spells from your hand and graveyard without paying their mana costs. If a card would be put into your graveyard from anywhere this turn, exile it instead.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7902,6 +8177,7 @@ card:
 		[+1]: <margin:130:0:0>Until end of turn, <atom-cardname><nospellcheck>All-Enduring Mafua</nospellcheck></atom-cardname> becomes a 5/5 Cat Warrior creature with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target creature.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Return each creature card with mana value X from your graveyard to your hand.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7942,6 +8218,7 @@ card:
 		[+1]: <margin:130:0:0>Create two 1/1 blue Elemental creature tokens with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Draw two cards. When you do, Glitch deals damage to any target equal to the number of cards in your hand.</margin:130:0:0>
 		[-10]: <margin:130:0:0>Destroy all lands, enchantments, and artifacts you don’t control.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7988,6 +8265,7 @@ card:
 		[+2]: <margin:130:0:0>Draw two cards. Each opponent discards two cards.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Target player sacrifices a creature.</margin:130:0:0>
 		[-8]: <margin:130:0:0>Create thirteen tapped 1/1 black Skeleton creature tokens. Take an extra turn after this one.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8035,6 +8313,7 @@ card:
 		[+1]: <margin:130:0:0>Create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>, then you may pay <sym-auto>1</sym-auto>. If you do, each opponent discards a card.</margin:130:0:0>
 		[+1]: <margin:130:0:0>You may sacrifice an artifact. When you do, Lord <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Rickard</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Dawson deals 3 damage to any target and you gain 3 life.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Each opponent gets an emblem with “At the beginning of your end step, if it’s not an extra turn, take an extra turn after this one. Target opponent controls you during that turn.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8073,6 +8352,7 @@ card:
 		[+1]: <margin:130:0:0><kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. Create a 1/1 green Spirit Snake creature token.</margin:130:0:0>
 		[0]: <margin:130:0:0>You may sacrifice a Spirit. When you do, return target permanent card from your graveyard to your hand.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile another target nonland permanent until <atom-legname><nospellcheck>Rain Zai</nospellcheck></atom-legname> leaves the battlefield. You gain 2 life.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8119,6 +8399,7 @@ card:
 		[+2]: <margin:130:0:0>Exile the top two cards of your library. You may put a permanent card from among them into your hand.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Create <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Salim</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, a legendary 3/3 green and white Cat creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>You get an emblem with “Whenever a creature you control enters, that creature gets +2/+2 and gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8159,6 +8440,7 @@ card:
 		[+2]: <margin:130:0:0>Return up to one target creature card from your graveyard to the battlefield.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Create an 8/8 blue Kraken creature token.</margin:130:0:0>
 		[-9]: <margin:130:0:0>Each player exiles all creature cards from their graveyard, then sacrifices each creature they control. Put each creature card exiled this way onto the battlefield under your control.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8197,6 +8479,7 @@ card:
 		[+2]: <margin:130:0:0>Create a 3/3 red Panda creature token.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Sacrifice a creature. If you do, search your library for a creature card with mana value less than or equal to X plus the sacrificed creature’s mana value. Put that card onto the battlefield, then shuffle.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You get an emblem with “Whenever a creature dies, this emblem deals damage equal to that creature’s power to any target and you draw that many cards.”</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -8225,6 +8508,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -8256,6 +8540,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Mako
@@ -8281,6 +8566,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8308,9 +8594,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: 
+	notes: !design augur
 	time_created: 2021-09-24 18:05:02
 	time_modified: 2021-09-29 22:20:41
 	name: Starjump
@@ -8331,6 +8618,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8370,6 +8658,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8393,6 +8682,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8420,6 +8710,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8458,6 +8749,7 @@ card:
 		[+2]: <margin:130:0:0>Destroy up to one target monocolored permanent.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Create an 8/8 Elemental creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> that’s all colors.</margin:130:0:0>
 		[-5]: <margin:130:0:0>Draw three cards. You pay <sym>0</sym> rather than pay the mana cost for the next spell you cast this turn.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -8491,6 +8783,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8516,6 +8809,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8551,6 +8845,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -8584,6 +8879,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8616,6 +8912,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8646,6 +8943,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8673,6 +8971,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8713,6 +9012,7 @@ card:
 		[+2]: <margin:130:0:0>Search each player’s library for a card and exile it. Shuffle each library searched this way.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Each opponent chooses a permanent they control for each permanent type, then exiles those permanents.</margin:130:0:0>
 		[-8]: <margin:130:0:0>Exile all cards your opponents own from outside the game. Until end of turn, you may cast spells without paying their mana costs and you may play cards exiled with <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Azamir</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> planeswalkers.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -8739,6 +9039,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8765,6 +9066,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8791,6 +9093,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8817,6 +9120,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8843,6 +9147,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8868,6 +9173,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8894,6 +9200,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8920,6 +9227,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -8946,6 +9254,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8980,6 +9289,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9007,6 +9317,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9034,6 +9345,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9057,6 +9369,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9093,6 +9406,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design jacqui-pup
@@ -9118,6 +9432,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9145,6 +9460,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9183,6 +9499,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9206,6 +9523,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9241,6 +9559,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9276,6 +9595,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9304,6 +9624,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9338,6 +9659,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -9378,6 +9700,7 @@ card:
 		Whenever a creature you control enters, you may have it deal damage equal to its power to another target creature or planeswalker.
 		I, II, III — Exile the top two cards of your library. You may put a creature card from among them onto the battlefield with a +1/+1 counter on it. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 		IV — Creatures you control get +3/+3 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+
 card:
 	has_styling: false
 	notes: 
@@ -9406,6 +9729,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9431,6 +9755,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9462,6 +9787,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9488,6 +9814,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9524,6 +9851,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9547,6 +9875,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9575,6 +9904,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9600,6 +9930,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -9627,6 +9958,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9664,6 +9996,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9695,6 +10028,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -9730,6 +10064,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !script "s>l>Spawn Triton’s Gift/l>f>/spawn Triton’s Gift MSC/f>/s>","r"
@@ -9755,6 +10090,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9790,6 +10126,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9824,6 +10161,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -9869,6 +10207,7 @@ card:
 		I, II — Look at the top five cards of your library. Put up to one creature card with mana value 2 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
 		Discovery — At the beginning of combat on your turn, tap target creature an opponent controls.
 		​
+
 card:
 	has_styling: false
 	notes: 
@@ -9895,6 +10234,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -9935,6 +10275,7 @@ card:
 		[+1]: <margin:130:0:0>Up to one target creature you control gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 		[0]: <margin:130:0:0>Create a 1/1 white Warrior creature token.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Search your library for an Aura or Equipment card with mana value X and put it onto the battlefield, then shuffle.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -9973,6 +10314,7 @@ card:
 		[+1]: <margin:130:0:0>Create two 1/1 white Warrior creature tokens. You gain 2 life.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Destroy each creature with the greatest power or tied for the greatest power among creatures on the battlefield.</margin:130:0:0>
 		[-5]: <margin:130:0:0>Creatures you control get +X/+X and gain <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn, where X is the number of creatures you control.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -10014,6 +10356,7 @@ card:
 		[-2]: <margin:130:0:0>Create a 4/4 white Angel creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Destroy all creatures. You gain 1 life for each creature destroyed this way.</margin:130:0:0>
 		[-7]: <margin:130:0:0>You get an emblem with “At the beginning of each end step, you gain life equal to twice the life you’ve lost this turn.”</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -10022,7 +10365,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !design elmikkino
 	time_created: 2021-10-01 13:02:47
 	time_modified: 2021-10-01 13:03:57
 	name: Waxing Angel
@@ -10049,6 +10392,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10072,6 +10416,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -10098,6 +10443,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10125,6 +10471,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -10163,6 +10510,7 @@ card:
 		[+1]: <margin:130:0:0>Look at the top two cards of your library. Put one of them into your hand and the other into your graveyard.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Return target card from your graveyard to the battlefield face down.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Turn any number of face-up nonland permanents of your choice face down.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -10200,6 +10548,7 @@ card:
 		[+1]: <margin:130:0:0>Copy the next spell you cast this turn. You may choose new targets for the copy.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Reveal the top five cards of your library. An opponent separates those cards into two piles. Put one pile into your hand and the other into your graveyard.</margin:130:0:0>
 		[-8]: <margin:130:0:0>You get an emblem with “You may cast spells without paying their mana costs.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -10244,6 +10593,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10280,6 +10630,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10305,6 +10656,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -10350,6 +10702,7 @@ card:
 		<kw-A><nospellcheck><key>Eureka!</key></nospellcheck><atom-reminder-custom> <i-auto>(At the beginning of each end step, you get a research counter if you cast a spell this turn. Then if you have eight or more research counters, remove them and create a Masterpiece token of your choice.)</i-auto></atom-reminder-custom></kw-A>
 		[+1]: <margin:130:0:0>Untap up to one target artifact you control.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Draw three cards. Then discard two cards unless you discard an artifact card.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -10375,6 +10728,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10400,6 +10754,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10423,6 +10778,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10448,6 +10804,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10475,6 +10832,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10511,6 +10869,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -10541,6 +10900,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -10566,6 +10926,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -10610,6 +10971,7 @@ card:
 		[+1]: <margin:130:0:0>Discard a card. If you do, each opponent discards a card and loses 1 life.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Destroy target creature or planeswalker.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Draw a card for each creature card and planeswalker card in all graveyards. Target opponent loses that much life.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !A
@@ -10635,6 +10997,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -10673,6 +11036,7 @@ card:
 		[+1]: <margin:130:0:0>You may sacrifice a permanent. If you do, each opponent sacrifices a permanent that shares a type with it.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Put target creature card in a graveyard onto the battlefield under your control.</margin:130:0:0>
 		[-8]: <margin:130:0:0>You control target player during their next turn. During that turn, that player may cast spells by paying life equal to their mana value rather than pay their mana cost. After that turn, that player takes an extra turn.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -10700,6 +11064,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10728,6 +11093,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10763,6 +11129,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10796,6 +11163,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10821,6 +11189,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -10846,6 +11215,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -10893,6 +11263,7 @@ card:
 		[+2]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xanigan</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 2 damage to up to one target and you gain 2 life.</margin:130:0:0>
 		[-3]: <margin:130:0:0>You draw three cards and you lose 3 life.</margin:130:0:0>
 		[-7]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xanigan</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> becomes a 7/7 Demon creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> that’s still a planeswalker. Prevent all combat damage that would be dealt to her.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -10931,6 +11302,7 @@ card:
 		[+2]: <margin:130:0:0>The Witch Queens deal 2 damage to each of up to two targets.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Gain control of target land and untap it.</margin:130:0:0>
 		[-9]: <margin:130:0:0>Each player discards their hand, then draws up to seven cards. The Witch Queens deal damage to each opponent equal to twice the number of cards that player has drawn this turn.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -10969,6 +11341,7 @@ card:
 		[+1]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aiel</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Tazan</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 2 damage to any target. Then she deals 2 damage to herself unless you have her deal 2 damage to you.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Creatures you control get +2/+0 and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Create an X/1 red Elemental creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>. Exile that token at the beginning of the next end step. If X is 6 or more, it gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: 
@@ -10992,6 +11365,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11015,6 +11389,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11042,6 +11417,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11072,6 +11448,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11107,6 +11484,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11134,6 +11512,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11164,6 +11543,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -11202,6 +11582,7 @@ card:
 		[+1]: <margin:130:0:0>Exile the top two cards of your library. You may play up to one card exiled this way this turn.</margin:130:0:0>
 		[-2]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Menna</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Al-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mejjat</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 3 damage to target creature. If that creature would die this turn, exile it instead.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Draw cards equal to the number of cards in exile. <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Menna</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Al-<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mejjat</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals that much damage to any target.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11239,6 +11620,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11275,6 +11657,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11302,6 +11685,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11335,6 +11719,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11368,6 +11753,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11393,6 +11779,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11420,6 +11807,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11448,6 +11836,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11475,6 +11864,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11498,6 +11888,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -11551,6 +11942,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11587,6 +11979,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11620,6 +12013,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11648,6 +12042,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11678,6 +12073,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11703,6 +12099,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11728,6 +12125,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11751,6 +12149,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11779,6 +12178,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -11828,6 +12228,7 @@ card:
 		[+1]: <margin:130:0:0>You may return a creature you control to its owner’s hand. If you do, draw a card.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Create a 2/2 green Ninja creature token.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Target creature you control deals damage equal to its power to target creature or planeswalker.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -11890,6 +12291,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -11913,6 +12315,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -11950,6 +12353,7 @@ card:
 		[+2]: <margin:130:0:0>Reveal the top card of your library. If it’s a permanent card, put it onto the battlefield.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Exile target noncreature permanent, then reveal the top four cards of your library. You may put a permanent card from among them onto the battlefield. Put the rest into your graveyard.</margin:130:0:0>
 		[-12]: <margin:130:0:0>Search your library for up to X permanent cards, where X is the number of permanents you control, put them onto the battlefield, then shuffle.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11986,6 +12390,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12011,6 +12416,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -12049,6 +12455,7 @@ card:
 		[+1]: <margin:130:0:0>Create a tapped colorless artifact token named Conch Shell with “<sym-auto>T</sym-auto>: Add one mana of any color. Spend this mana only to cast permanent spells.”</margin:130:0:0>
 		[-1]: <margin:130:0:0>Reveal the top X cards of your library, where X is the number of card types among permanents you control. Put a permanent card from among them into your hand and the rest into your graveyard.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Create two 3/3 red Shark enchantment creature tokens.</margin:130:0:0>
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -12094,6 +12501,7 @@ card:
 		I, II — Look at the top four cards of your library. You may reveal a permanent card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
 		Discovery — At the beginning of your end step, you may put a permanent card from your hand onto the battlefield.
 		​
+
 card:
 	has_styling: false
 	notes: 
@@ -12121,6 +12529,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12148,6 +12557,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -12183,6 +12593,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12211,6 +12622,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -12236,6 +12648,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12263,6 +12676,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12288,6 +12702,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-split-fusable
 	stylesheet_version: 2024-09-03
@@ -12325,6 +12740,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -12353,6 +12769,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12378,6 +12795,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !OldArt
@@ -12409,6 +12827,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12434,6 +12853,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12459,6 +12879,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !v2
@@ -12486,6 +12907,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12513,6 +12935,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -12540,6 +12963,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12567,6 +12991,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12592,6 +13017,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12615,6 +13041,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12640,6 +13067,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -12651,6 +13079,7 @@ card:
 		move_loyalty_costs: 370,600,600,
 		snap_chapter_to_box: 2,3,
 		front_font_cap: 13
+		shrink_name_text: 2
 		other_options: vorthos box, back color indicator, unindent nonloyalty abilities, auto nyx crowns
 		custom_symbol_one: 
 		legend_crown: standard
@@ -12661,7 +13090,10 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !altleader {mg},{mg},{mg},{mg},{mg},{mg},
+	notes:
+		!design squidpizza
+		!altleader {mg},{mg},{mg},{mg},{mg},{mg},{mg},
+		!inpend ^You cast/replace/{mg} — You cast
 	time_created: 2020-09-04 14:51:40
 	time_modified: 2024-08-30 21:32:57
 	extra_data:
@@ -12710,6 +13142,7 @@ card:
 		You cast an instant spell.
 		You cast a sorcery spell.
 	special_text_2: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12737,6 +13170,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12765,6 +13199,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12792,6 +13227,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -12827,6 +13263,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -12855,6 +13292,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -12891,6 +13329,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -12914,6 +13353,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -12937,6 +13377,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -12960,6 +13401,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -12983,6 +13425,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -13006,6 +13449,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -13031,6 +13475,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -13056,6 +13501,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -13101,6 +13547,7 @@ card:
 		[+1]: <margin:130:0:0>Exile up to one other target nonland permanent. As long as it remains exiled, its owner may pay <sym>1</sym> as a sorcery to put it onto the battlefield.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Choose </sym>0<sym>, </sym>1<sym>, or </sym>2<sym>. Each player sacrifices that many creatures.</margin:130:0:0>
 		[-4]: <margin:130:0:0>You get an emblem with “If a nonland, nontoken permanent would enter and it wasn’t cast, you may exile it instead.”</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes:
@@ -13130,6 +13577,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -13178,6 +13626,7 @@ card:
 		<sym-auto>1W</sym-auto>: <kw-A><nospellcheck><key>Invigorate <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Choose a creature with the least power among creatures you control and put <param-number>two</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>2W</sym-auto>: Create two 1/1 white Soldier creature tokens.
 		Creatures you control with counters on them have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13218,6 +13667,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -13247,6 +13697,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -13297,6 +13748,7 @@ card:
 		[-1]: <margin:130:0:0>Until your next turn, <atom-cardname><nospellcheck>Director Amitai Eliahu</nospellcheck></atom-cardname> gains “Other nonland permanents lose all abilities.”</margin:130:0:0>
 		[-3]: <margin:130:0:0>You may discard a card. If you do, you may cast a spell that shares a color with that card without paying its mana cost.</margin:130:0:0>
 		[-9]: <margin:130:0:0>Until end of turn, play with your library revealed. You may cast spells from your library this turn.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes:
@@ -13327,6 +13779,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13367,6 +13820,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -13392,6 +13846,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -13420,6 +13875,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -13449,6 +13905,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13484,6 +13941,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -13513,6 +13971,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -13543,6 +14002,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -13588,6 +14048,7 @@ card:
 		[+1]: <margin:130:0:0>Each player discards a card or sacrifices a creature.</margin:130:0:0>
 		[-3]: <margin:130:0:0><atom-legname><nospellcheck>Vikalden</nospellcheck></atom-legname> deals X damage to any target and you gain X life, where X is the number of Swamps you control.</margin:130:0:0>
 		[-5]: <margin:130:0:0>You get an emblem with “<sym-auto>B</sym-auto>, Pay 2 life: Draw a card.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -13630,6 +14091,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -13655,6 +14117,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -13691,6 +14154,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -13772,6 +14236,7 @@ card:
 		[+1]: <margin:130:0:0>Add <sym-auto>WUBRG</sym-auto>.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Exile the top three cards of your library. Until end of turn, you may play cards exiled with this permanent.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Create a 5/5 Archon creature token that’s all colors and has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and “When this creature enters, it deals 5 damage to any target.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13806,6 +14271,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13845,6 +14311,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13883,6 +14350,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -13928,6 +14396,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 green Merfolk creature token.</margin:130:0:0>
 		[0]: <margin:130:0:0>Target artifact or creature loses all abilities and becomes a green Seal creature with base power and toughness 3/3.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Up to five target noncreature permanents lose all abilities and become green Merfolk creatures with base power and toughness 1/1.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes:
@@ -13953,13 +14422,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!design Zangy
 		!Community
 	time_created: 2021-11-02 15:16:32
-	time_modified: 2021-12-21 16:55:54
+	time_modified: 2025-10-24 00:21:54
 	name: Thriving Budling
 	casting_cost: G
 	image: image636
@@ -13970,7 +14440,7 @@ card:
 	sub_type: <word-list-race-en>Treefolk</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<sym-auto>T</sym-auto>: Add one mana of any type that a land you control could produce. 
+		<sym-auto>T</sym-auto>: Add one mana of any type that a land you control could produce.
 		<i><kw-A><i-auto><nospellcheck><key>Augmented</key></nospellcheck></i-auto></kw-A> </i>— At the beginning of your end step, if you’ve spent <sym>WUBRG</sym> to cast spells this turn, untap <atom-cardname><nospellcheck>Thriving Budling</nospellcheck></atom-cardname> and put three +1/+1 counters on it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
@@ -13982,6 +14452,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -14011,6 +14482,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -14043,6 +14515,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -14071,6 +14544,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -14105,13 +14579,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
-		!design Ivy
+		!design AdmiralIvy
 		!Community
 	time_created: 2021-11-26 19:29:56
-	time_modified: 2023-07-31 18:02:06
+	time_modified: 2025-10-28 20:41:56
 	name: If Memory Serves
 	casting_cost: 1GW
 	image: image641
@@ -14126,12 +14601,13 @@ card:
 		Return target permanent card with mana value 3 or less from your graveyard to the battlefield. Exile <atom-cardname><nospellcheck>If Memory Serves</nospellcheck></atom-cardname>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Korina Hunjak
-	card_code_text: Ivy
+	card_code_text: AdmiralIvy
 	card_code_text_2: Ivy
 	card_code_text_3: Ivy
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -14169,6 +14645,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -14182,7 +14659,7 @@ card:
 		!design Pipsqueak
 		!Community
 	time_created: 2021-11-03 16:46:57
-	time_modified: 2021-12-22 17:01:58
+	time_modified: 2025-10-23 23:57:49
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: He/Him
@@ -14201,7 +14678,7 @@ card:
 	loyalty: 3
 	level_1_text: Sacrifice two lands, <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>five</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>: Return <atom-cardname><nospellcheck>Jack, Horrific Harvester</nospellcheck></atom-cardname> from your graveyard to your hand.
 	level_2_text: <margin:130:0:0>You gain 2 life and each opponent loses 2 life.</margin:130:0:0>
-	level_3_text: <margin:130:0:0>Return up to one target creature card and up to one target land card from your graveyard to your hand. </margin:130:0:0>
+	level_3_text: <margin:130:0:0>Return up to one target creature card and up to one target land card from your graveyard to your hand.</margin:130:0:0>
 	level_4_text: <margin:130:0:0>Each opponent sacrifices the nonland permanent they control with the greatest mana value among permanents they control.</margin:130:0:0>
 	level_5_text: 
 	illustrator: Jennifer Wuestling
@@ -14214,8 +14691,9 @@ card:
 	special_text:
 		Sacrifice two lands, <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>five</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>: Return <atom-cardname><nospellcheck>Jack, Horrific Harvester</nospellcheck></atom-cardname> from your graveyard to your hand.
 		[+1]: <margin:130:0:0>You gain 2 life and each opponent loses 2 life.</margin:130:0:0>
-		[-2]: <margin:130:0:0>Return up to one target creature card and up to one target land card from your graveyard to your hand. </margin:130:0:0>
+		[-2]: <margin:130:0:0>Return up to one target creature card and up to one target land card from your graveyard to your hand.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Each opponent sacrifices the nonland permanent they control with the greatest mana value among permanents they control.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -14260,6 +14738,7 @@ card:
 		Whenever you cast a spell with mana value greater than the number of loyalty counters on <atom-cardname><nospellcheck>Kunal, Dragonclaw’s Legacy</nospellcheck></atom-cardname>, put a loyalty counter on him.
 		[0]: <margin:130:0:0>Until end of turn, <atom-legname><nospellcheck>Kunal</nospellcheck></atom-legname> becomes a Monk creature with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, and “<atom-legname><nospellcheck>Kunal</nospellcheck></atom-legname>’s base power and toughness are each equal to the number of counters on him.”</margin:130:0:0>
 		[-2]: <margin:130:0:0>Return target card from your graveyard to your hand.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes:
@@ -14292,6 +14771,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -14334,6 +14814,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -14371,6 +14852,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -14402,6 +14884,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -14429,6 +14912,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -14465,6 +14949,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -14494,6 +14979,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -14535,6 +15021,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -14561,6 +15048,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -14591,6 +15079,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -14616,6 +15105,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -14641,6 +15131,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -14664,6 +15155,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -14700,6 +15192,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -14732,6 +15225,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -14768,11 +15262,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !FT x2
+	notes: !FT x2 !design Reuben
 	time_created: 2021-09-21 09:59:20
 	time_modified: 2021-12-20 19:35:21
 	card_color_2: white
@@ -14806,6 +15301,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -14842,6 +15338,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -14865,6 +15362,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -14899,6 +15397,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -14924,6 +15423,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -14947,6 +15447,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -14972,6 +15473,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15005,6 +15507,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15040,6 +15543,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15063,6 +15567,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15086,6 +15591,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15113,6 +15619,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15140,6 +15647,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15168,6 +15676,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15193,6 +15702,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -15243,6 +15753,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15280,6 +15791,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15307,6 +15819,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15330,6 +15843,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15355,6 +15869,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -15383,11 +15898,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
 	time_created: 2020-05-08 10:54:46
-	time_modified: 2022-01-01 06:35:26
+	time_modified: 2025-10-23 23:47:06
 	name: Concealed Slasher
 	casting_cost: 1B
 	image: image602
@@ -15397,7 +15913,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: Discard a card: Concealed Slasher gets +1/+1 until end of turn and can’t be blocked this turn. 
+	rule_text: Discard a card: Concealed Slasher gets +1/+1 until end of turn and can’t be blocked this turn.
 	flavor_text: <i-flavor>The <error-spelling:en_US>Syzygy’s</error-spelling:en_US> best agents can change an <error-spelling:en_US>Offworld’s</error-spelling:en_US> entire political structure in a single night.</i-flavor>
 	power: 2
 	toughness: 1
@@ -15408,6 +15924,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15442,6 +15959,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -15502,6 +16020,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15527,6 +16046,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15555,6 +16075,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15591,6 +16112,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT 
@@ -15616,6 +16138,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15639,6 +16162,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15662,6 +16186,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15685,6 +16210,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15714,6 +16240,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15750,6 +16277,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15776,6 +16304,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15801,6 +16330,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15837,6 +16367,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15860,6 +16391,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -15887,6 +16419,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15920,6 +16453,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15954,6 +16488,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -15979,6 +16514,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16015,6 +16551,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16049,6 +16586,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16083,6 +16621,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16118,6 +16657,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16152,6 +16692,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16190,6 +16731,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -16219,6 +16761,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16253,6 +16796,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT !design HerziQuerzi
@@ -16276,6 +16820,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -16308,6 +16853,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -16333,6 +16879,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -16358,6 +16905,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -16381,6 +16929,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -16406,6 +16955,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -16433,6 +16983,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -16462,6 +17013,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !FT
@@ -16485,6 +17037,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -16508,6 +17061,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16539,6 +17093,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -16566,6 +17121,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -16589,9 +17145,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !Cut
+	notes:
+		!Cut
+		!design Pipsqueak and CyberChronometer
 	time_created: 2021-09-21 09:59:20
 	time_modified: 2021-12-20 13:54:32
 	name: Purging Light
@@ -16615,6 +17174,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -16638,6 +17198,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -16665,6 +17226,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -16690,6 +17252,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -16715,6 +17278,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -16740,6 +17304,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16778,6 +17343,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -16803,6 +17369,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -16828,6 +17395,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -16853,6 +17421,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -16879,6 +17448,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -16907,6 +17477,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut 
@@ -16932,9 +17503,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !Cut
+	notes: !Cut !design kinotherapy
 	time_created: 2021-09-24 18:03:43
 	time_modified: 2021-12-20 13:59:46
 	name: Glimpse in the Static
@@ -16957,6 +17529,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16998,6 +17571,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -17021,11 +17595,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
-	notes: !Cut
+	notes: !Cut !design HerziQuerzi
 	time_created: 2021-09-24 18:03:43
 	time_modified: 2022-06-26 22:06:07
 	name: Endless Helpless Souls
@@ -17051,6 +17626,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -17091,6 +17667,7 @@ card:
 		[+1]: <margin:130:0:0>Discard a card. If you do, up to one target player gains 5 life.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Discard a card. You draw X cards and you lose X life, where X is that card’s mana value.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Exile your hand, then put all cards from your graveyard into your hand and all cards exiled this way into your graveyard.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -17128,6 +17705,7 @@ card:
 		[+2]: <margin:130:0:0>Create a 3/3 red Wurm creature token.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Up to three target creatures each get +2/+2 until end of turn. Bessie deals 2 damage to each of up to three target creatures.</margin:130:0:0>
 		[-9]: <margin:130:0:0>You get an emblem with “Creatures you control have base power and toughness 7/7 and have <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.”</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -17156,6 +17734,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -17179,6 +17758,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -17210,6 +17790,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -17250,6 +17831,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -17277,6 +17859,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -17300,6 +17883,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -17337,6 +17921,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -17377,9 +17962,12 @@ card:
 		[+2]: <margin:130:0:0>If an opponent has more life than you, you gain 2 life.</margin:130:0:0>
 		[0]: <margin:130:0:0>If an opponent controls more creatures than you, you create two 1/1 white Gnome creature tokens.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Search your library for a creature card with mana value </sym>2<sym>, put it onto the battlefield, then shuffle.</margin:130:0:0>
+
 card:
 	has_styling: false
-	notes: !Cut
+	notes:
+		!Cut
+		!design Philippe Saner
 	time_created: 2021-09-23 12:02:14
 	time_modified: 2021-12-20 13:55:11
 	name: Cut Causality
@@ -17406,6 +17994,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -17446,6 +18035,7 @@ card:
 		[+1]: <margin:130:0:0>Each player may draw a card. For each opponent who does, put a loyalty counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Rahit</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Each player draws three cards, then puts two cards from their hand on top of their library in any order.</margin:130:0:0>
 		[-6]: <margin:130:0:0>You get an emblem with “Discard a card with mana value </sym>X<sym>: Counter target spell with mana value X or less.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -17484,6 +18074,7 @@ card:
 		[+1]: <margin:130:0:0>Until end of turn, you may cast a creature card from your graveyard. Creature spells cast this way cost <sym-auto>2</sym-auto> less to cast.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Each player discards a card. For each player who discarded a creature card this way, create a 2/1 black Horror creature token.</margin:130:0:0>
 		[-6]: <margin:130:0:0>For each player, you may put a creature card from that player’s graveyard onto the battlefield under your control.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -17514,6 +18105,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -17554,6 +18146,7 @@ card:
 		[+1]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Haide</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bankbuster</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 2 damage divided as you choose among one or two targets.</margin:130:0:0>
 		[+1]: <margin:130:0:0>Draw two cards unless any player has <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Haide</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bankbuster</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deal 3 damage to them.</margin:130:0:0>
 		[-9]: <margin:130:0:0>Until end of turn, gain control of all permanents target player controls and they gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Untap those permanents.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -17579,6 +18172,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -17617,6 +18211,7 @@ card:
 		[+1]: <margin:130:0:0>Untap up to two target creatures and/or lands.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Choose a color. Draw cards equal to the number of creatures you control of the chosen color.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Reveal the top ten cards of your library. Put all creature and land cards revealed this way onto the battlefield and the rest into your hand.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -17642,6 +18237,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut 
@@ -17667,6 +18263,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -17695,6 +18292,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -17720,6 +18318,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Cut
@@ -17745,6 +18344,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -17784,6 +18384,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -17824,6 +18425,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -17860,6 +18462,7 @@ card:
 	copyright: Design by Mikkjal | ™ & © 2021 WotC
 	copyright_2: Design by Mikkjal | ™ & © 2021 WotC
 	copyright_3: Design by Mikkjal | ™ & © 2021 WotC
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -17904,6 +18507,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -17951,6 +18555,7 @@ card:
 		Whenever you innovate, put a loyalty counter on <atom-cardname><nospellcheck>Volta the Innovator</nospellcheck></atom-cardname>. <i-auto>(You innovate as you cast a spell, draw a card, or have a land enter beyond the first of each in a turn.)</i-auto>
 		[-2]: <margin:130:0:0>If you would draw a card this turn beyond the first, draw twice that many cards instead.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Whenever you cast your second spell this turn, copy it. You may choose new targets for the copy.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -17992,6 +18597,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -18017,6 +18623,7 @@ card:
 	copyright: Leonardo E. Giordano© Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -18052,6 +18659,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -18091,6 +18699,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -18103,7 +18712,7 @@ card:
 		overlay: 
 	notes:
 		!Bonus
-		!design DrChillbrain and Matt
+		!design Matt & DrChillbrain
 	time_created: 2021-05-07 12:19:05
 	time_modified: 2022-01-05 19:53:18
 	extra_data:
@@ -18133,6 +18742,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -18180,6 +18790,7 @@ card:
 		Mountains you control have “<sym-auto>T</sym-auto>: Add <sym-auto>RR</sym-auto>.”
 		[+2]: <margin:130:0:0>Exile the top card of your library. You may play that card until the end of your next turn.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Conjure six cards named Scorch. Shuffle them and your hand into your library, then draw two cards. </margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -18227,6 +18838,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -18264,6 +18876,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -18309,6 +18922,7 @@ card:
 		[-1]: <margin:130:0:0>Return target artifact, enchantment, or spell to its owner’s hand.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Target creature gets -2/-2 until end of turn.</margin:130:0:0>
 		[-1]: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>, then draw a card.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -18349,6 +18963,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -18385,6 +19000,7 @@ card:
 	copyright: Reuben Covington
 	copyright_2: Reuben Covington
 	copyright_3: Reuben Covington
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18412,6 +19028,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18441,6 +19058,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18468,6 +19086,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18499,6 +19118,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18529,6 +19149,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18564,6 +19185,7 @@ card:
 	copyright: Design by Mikkjal | ™ & © 2021 WotC
 	copyright_2: Design by Mikkjal | ™ & © 2021 WotC
 	copyright_3: Design by Mikkjal | ™ & © 2021 WotC
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18594,6 +19216,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18622,6 +19245,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18652,6 +19276,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18682,6 +19307,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18714,6 +19340,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18742,6 +19369,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18770,6 +19398,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18801,6 +19430,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18831,6 +19461,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18859,6 +19490,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18887,6 +19519,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18915,6 +19548,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18947,6 +19581,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -18978,6 +19613,7 @@ card:
 	copyright: augur for msc
 	copyright_2: augur for msc
 	copyright_3: augur for msc
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19009,6 +19645,7 @@ card:
 	copyright: augur for msc
 	copyright_2: augur for msc
 	copyright_3: augur for msc
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19040,6 +19677,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19072,6 +19710,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19104,6 +19743,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19132,6 +19772,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19162,6 +19803,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19200,6 +19842,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19231,6 +19874,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19259,6 +19903,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19289,6 +19934,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19319,6 +19965,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19349,6 +19996,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19379,6 +20027,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19409,6 +20058,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19439,6 +20089,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19470,6 +20121,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19500,6 +20152,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19528,6 +20181,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19556,6 +20210,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19584,6 +20239,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19612,6 +20268,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19642,6 +20299,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19675,6 +20333,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19703,6 +20362,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19733,6 +20393,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19765,6 +20426,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19795,6 +20457,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19825,6 +20488,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19855,6 +20519,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19885,6 +20550,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19915,6 +20581,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19948,6 +20615,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -19979,6 +20647,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20007,6 +20676,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20036,6 +20706,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20047,9 +20718,7 @@ card:
 		inverted_common_symbol: no
 		overlay: 
 	notes:
-		!related Tunu, Ancient Shaper;<soft-line>
-		<soft-line>
-		!exportname Scorch Reminder
+		!related Tunu, Ancient Shaper;<soft-line><soft-line>
 		
 		!Bonus</soft-line></soft-line>
 	time_created: 2021-04-03 01:43:40
@@ -20072,6 +20741,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20100,6 +20770,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20134,6 +20805,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20162,6 +20834,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20192,6 +20865,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20222,6 +20896,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20253,6 +20928,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20281,6 +20957,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20309,6 +20986,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20339,6 +21017,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20367,6 +21046,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20395,6 +21075,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20423,6 +21104,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20451,6 +21133,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20486,6 +21169,7 @@ card:
 	copyright: Squidpizza
 	copyright_2: Squidpizza
 	copyright_3: Squidpizza
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20514,6 +21198,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20542,6 +21227,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20572,6 +21258,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20602,6 +21289,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20637,6 +21325,7 @@ card:
 	copyright: augur for msc
 	copyright_2: augur for msc
 	copyright_3: augur for msc
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20665,6 +21354,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20695,6 +21385,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20723,6 +21414,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20751,6 +21443,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20779,6 +21472,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20809,6 +21503,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20839,6 +21534,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20869,6 +21565,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20897,6 +21594,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20924,6 +21622,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20951,6 +21650,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -20978,6 +21678,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21005,6 +21706,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21034,6 +21736,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21063,6 +21766,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21093,6 +21797,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21120,6 +21825,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21147,6 +21853,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21176,6 +21883,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21203,6 +21911,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21231,6 +21940,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21258,6 +21968,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21287,6 +21998,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21317,6 +22029,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21346,6 +22059,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21375,6 +22089,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21404,6 +22119,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21433,6 +22149,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21462,6 +22179,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21491,6 +22209,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21520,6 +22239,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21549,6 +22269,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21578,6 +22299,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21607,6 +22329,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -21636,6 +22359,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -21663,6 +22387,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -21690,6 +22415,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -21717,6 +22443,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -21744,6 +22471,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -21771,6 +22499,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -21798,6 +22527,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -21806,16 +22536,22 @@ card:
 		popout_image_style: 0,0,375,523,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !exportname Xiong Emblem
+	notes: !update
 	time_created: 2021-10-12 10:21:25
-	time_modified: 2024-01-02 23:25:08
+	time_modified: 2025-10-22 16:00:52
 	name: Emblem
 	image: image737
 	image_2: 
 	mainframe_image: image738
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Emblem</word-list-type-en>
-	sub_type: <word-list-planeswalker>Xiong</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Xiong</word-list-planeswalker><atom-sep> </atom-sep><word-list-planeswalker>Mao</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text: Whenever a creature dies, this emblem deals damage equal to that creature’s power to any target and you draw that many cards.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Eyrich
@@ -21825,6 +22561,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -21852,6 +22589,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -21879,6 +22617,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -21907,6 +22646,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -21934,6 +22674,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Abound
 	match: Abound

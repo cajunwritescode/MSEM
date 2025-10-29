@@ -44,7 +44,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Swamp (Desolation)
+	notes: !update!hiddenname Swamp (Desolation)
 	time_created: 2022-12-18 11:44:29
 	time_modified: 2022-12-24 11:09:19
 	name: Swamp
@@ -63,6 +63,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -91,6 +92,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -118,13 +120,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: 
+	notes: !design DrChillbrain
 	time_created: 2022-12-18 11:45:13
-	time_modified: 2023-01-31 19:47:30
+	time_modified: 2025-10-03 22:38:13
 	name: Justiciar Overseer
 	casting_cost: 2W
 	image: image170
@@ -142,12 +145,13 @@ card:
 	power: 3
 	toughness: 1
 	illustrator: Suke::
-	card_code_text: Over the Horiozon
+	card_code_text: Over the Horizon
 	card_code_text_2: Over the Horiozon
 	card_code_text_3: Over the Horiozon
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -176,6 +180,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -201,6 +206,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -227,6 +233,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -256,6 +263,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -285,6 +293,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -314,6 +323,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -343,6 +353,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -377,6 +388,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -407,6 +419,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -435,6 +448,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -472,6 +486,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -500,6 +515,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -526,6 +542,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !Legion
@@ -553,11 +570,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Plains (Armory)
+	notes: !update!hiddenname Plains (Armory)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-18 15:55:51
 	name: Plains
@@ -576,11 +594,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Island (Wild Blue Yonder)
+	notes: !update!hiddenname Island (Wild Blue Yonder)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:44:08
 	name: Island
@@ -599,11 +618,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Swamp (True Evil)
+	notes: !update!hiddenname Swamp (True Evil)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:08:11
 	name: Swamp
@@ -622,11 +642,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Mountain (Riches Galore)
+	notes: !update!hiddenname Mountain (Riches Galore)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:22:35
 	name: Mountain
@@ -645,11 +666,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Forest (Expeditions)
+	notes: !update!hiddenname Forest (Expeditions)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:43:33
 	name: Forest
@@ -668,11 +690,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Forest (Recycling)
+	notes: !update!hiddenname Forest (Recycling)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:45:02
 	name: Forest
@@ -691,11 +714,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Island (Forgotten Memories)
+	notes: !update!hiddenname Island (Forgotten Memories)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:44:13
 	name: Island
@@ -714,11 +738,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Mountain (Sharpened)
+	notes: !update!hiddenname Mountain (Sharpened)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:22:03
 	name: Mountain
@@ -737,11 +762,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Swamp (Rainbow Road)
+	notes: !update!hiddenname Swamp (Rainbow Road)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:16:10
 	name: Swamp
@@ -760,11 +786,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Forest (Worldsoul)
+	notes: !update!hiddenname Forest (Worldsoul)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:45:55
 	name: Forest
@@ -783,11 +810,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Island (Deluge)
+	notes: !update!hiddenname Island (Deluge)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 01:03:58
 	name: Island
@@ -806,11 +834,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Mountain (Evocation)
+	notes: !update!hiddenname Mountain (Evocation)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:28:40
 	name: Mountain
@@ -829,11 +858,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Swamp (Undercity)
+	notes: !update!hiddenname Swamp (Undercity)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:13:24
 	name: Swamp
@@ -852,11 +882,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Forest (Invigorated)
+	notes: !update!hiddenname Forest (Invigorated)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:49:08
 	name: Forest
@@ -875,11 +906,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Island (Robotics)
+	notes: !update!hiddenname Island (Robotics)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 01:02:35
 	name: Island
@@ -898,11 +930,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Mountain (Blazing)
+	notes: !update!hiddenname Mountain (Blazing)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:21:19
 	name: Mountain
@@ -921,11 +954,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Plains (Leadership)
+	notes: !update!hiddenname Plains (Leadership)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:45:41
 	name: Plains
@@ -944,11 +978,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Swamp (Dark Pact)
+	notes: !update!hiddenname Swamp (Dark Pact)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:08:39
 	name: Swamp
@@ -967,11 +1002,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Forest (Innumerable)
+	notes: !update!hiddenname Forest (Innumerable)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:47:37
 	name: Forest
@@ -990,11 +1026,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Island (Beneath the Tides)
+	notes: !update!hiddenname Island (Beneath the Tides)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 01:08:19
 	name: Island
@@ -1013,11 +1050,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Mountain (Plundering)
+	notes: !update!hiddenname Mountain (Plundering)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:20:15
 	name: Mountain
@@ -1036,11 +1074,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Swamp (Shallow Graves)
+	notes: !update!hiddenname Swamp (Shallow Graves)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:05:23
 	name: Swamp
@@ -1059,11 +1098,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Forest (Overgrowth)
+	notes: !update!hiddenname Forest (Overgrowth)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:46:32
 	name: Forest
@@ -1082,11 +1122,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Island (Expeditious)
+	notes: !update!hiddenname Island (Expeditious)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:55:40
 	name: Island
@@ -1105,11 +1146,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Mountain (Draconic)
+	notes: !update!hiddenname Mountain (Draconic)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:25:26
 	name: Mountain
@@ -1128,11 +1170,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Plains (Multitudes)
+	notes: !update!hiddenname Plains (Multitudes)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:48:58
 	name: Plains
@@ -1151,11 +1194,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Swamp (Necromancy)
+	notes: !update!hiddenname Swamp (Necromancy)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:11:39
 	name: Swamp
@@ -1174,11 +1218,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Forest (Sylvan)
+	notes: !update!hiddenname Forest (Sylvan)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:48:01
 	name: Forest
@@ -1197,11 +1242,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Island (Rainbow Road)
+	notes: !update!hiddenname Island (Rainbow Road)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:57:04
 	name: Island
@@ -1220,11 +1266,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Mountain (Skirmish)
+	notes: !update!hiddenname Mountain (Skirmish)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 13:13:30
 	name: Mountain
@@ -1243,11 +1290,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Plains (Shimmering)
+	notes: !update!hiddenname Plains (Shimmering)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:46:11
 	name: Plains
@@ -1266,11 +1314,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Swamp (Snakebite)
+	notes: !update!hiddenname Swamp (Snakebite)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:06:57
 	name: Swamp
@@ -1289,11 +1338,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Forest (Mysticism)
+	notes: !update!hiddenname Forest (Mysticism)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:44:20
 	name: Forest
@@ -1312,11 +1362,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Island (Arcane Studies)
+	notes: !update!hiddenname Island (Arcane Studies)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:43:08
 	name: Island
@@ -1335,11 +1386,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Mountain (Overpower)
+	notes: !update!hiddenname Mountain (Overpower)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:23:08
 	name: Mountain
@@ -1358,6 +1410,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1388,11 +1441,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Plains (Legion)
+	notes: !update!hiddenname Plains (Legion)
 	time_created: 2022-10-02 10:47:54
 	time_modified: 2022-10-02 10:50:55
 	name: Plains
@@ -1411,11 +1465,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Plains (Grand Army)
+	notes: !update!hiddenname Plains (Grand Army)
 	time_created: 2022-10-02 10:47:54
 	time_modified: 2022-12-24 00:44:26
 	name: Plains
@@ -1434,11 +1489,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Plains (Foxes)
+	notes: !update!hiddenname Plains (Foxes)
 	time_created: 2022-10-02 10:47:54
 	time_modified: 2022-10-02 10:58:07
 	name: Plains
@@ -1457,11 +1513,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Plains (Theocracy)
+	notes: !update!hiddenname Plains (Theocracy)
 	time_created: 2022-10-02 10:47:54
 	time_modified: 2022-12-24 00:44:37
 	name: Plains
@@ -1480,6 +1537,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1503,6 +1561,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -1531,6 +1590,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1555,6 +1615,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1581,6 +1642,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1603,6 +1665,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1632,6 +1695,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1658,6 +1722,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1683,6 +1748,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1709,6 +1775,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1735,6 +1802,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1761,6 +1829,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1787,6 +1856,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1811,6 +1881,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1836,6 +1907,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1867,6 +1939,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1892,6 +1965,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1917,6 +1991,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -1941,6 +2016,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1972,6 +2048,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2004,6 +2081,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2034,6 +2112,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2060,6 +2139,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2084,6 +2164,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2117,6 +2198,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2143,6 +2225,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2171,6 +2254,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2195,6 +2279,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !desgn Matt & DrChillbrain
@@ -2223,6 +2308,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2247,6 +2333,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2273,6 +2360,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2303,6 +2391,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2328,6 +2417,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2361,6 +2451,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2383,6 +2474,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2409,6 +2501,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2435,6 +2528,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2459,6 +2553,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2485,6 +2580,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2508,6 +2604,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2537,6 +2634,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2560,6 +2658,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2587,6 +2686,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2614,6 +2714,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2641,6 +2742,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2666,6 +2768,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2695,6 +2798,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2718,6 +2822,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2742,6 +2847,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2769,6 +2875,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2796,6 +2903,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2824,6 +2932,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2848,6 +2957,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2873,6 +2983,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2900,6 +3011,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -2929,6 +3041,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2956,6 +3069,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -2981,6 +3095,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3015,11 +3130,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Plains (Rainbow Road)
+	notes: !update!hiddenname Plains (Rainbow Road)
 	time_created: 2022-10-02 10:47:54
 	time_modified: 2022-12-24 11:44:25
 	name: Plains
@@ -3038,11 +3154,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Island (Overflow)
+	notes: !update!hiddenname Island (Overflow)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 01:03:54
 	name: Island
@@ -3061,6 +3178,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3086,6 +3204,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3111,6 +3230,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3142,6 +3262,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3168,6 +3289,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3193,6 +3315,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3216,6 +3339,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3243,6 +3367,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3270,6 +3395,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3295,6 +3421,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3321,6 +3448,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3348,6 +3476,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3383,6 +3512,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3410,6 +3540,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3435,6 +3566,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3469,6 +3601,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3496,6 +3629,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3520,6 +3654,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3545,6 +3680,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3571,6 +3707,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3593,11 +3730,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Swamp (Offerings)
+	notes: !update!hiddenname Swamp (Offerings)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:13:02
 	name: Swamp
@@ -3616,11 +3754,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Mountain (Rainbow Road)
+	notes: !update!hiddenname Mountain (Rainbow Road)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:32:53
 	name: Mountain
@@ -3639,11 +3778,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Forest (Rainbow Road)
+	notes: !update!hiddenname Forest (Rainbow Road)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:50:21
 	name: Forest
@@ -3662,11 +3802,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Mountain (Resilient)
+	notes: !update!hiddenname Mountain (Resilient)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:51:07
 	name: Mountain
@@ -3685,11 +3826,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Forest (Resilient)
+	notes: !update!hiddenname Forest (Resilient)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:53:29
 	name: Forest
@@ -3708,11 +3850,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !hiddenname Plains (Resilient)
+	notes: !update!hiddenname Plains (Resilient)
 	time_created: 2022-10-02 10:47:54
 	time_modified: 2022-12-24 11:51:36
 	name: Plains
@@ -3731,6 +3874,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3757,6 +3901,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3782,6 +3927,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3808,6 +3954,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3834,6 +3981,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3860,6 +4008,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3883,6 +4032,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3911,6 +4061,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -3939,6 +4090,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3962,6 +4114,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -3989,6 +4142,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4017,6 +4171,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4045,6 +4200,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4073,6 +4229,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4101,6 +4258,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4129,6 +4287,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4155,6 +4314,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4186,6 +4346,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -4212,6 +4373,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Senaturian Legion
@@ -4238,6 +4400,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4263,6 +4426,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !addtoken VisionSword;1;
@@ -4288,6 +4452,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4325,6 +4490,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4348,6 +4514,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4385,6 +4552,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4412,6 +4580,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4439,6 +4608,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Overflow
@@ -4466,6 +4636,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4493,6 +4664,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4531,6 +4703,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4560,6 +4733,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Artifacts
@@ -4591,6 +4765,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4629,6 +4804,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4667,6 +4843,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4702,6 +4879,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4738,6 +4916,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4772,6 +4951,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4804,6 +4984,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4854,6 +5035,7 @@ card:
 		<margin:0:0:30>Whenever you sacrifice an artifact, that artifact deals 1 damage to each opponent.</margin:0:0:30>
 		<sym-auto>4RR</sym-auto>: <i>Over It All</i>
 		<margin:0:0:30>At the beginning of combat on your turn, you may have an artifact you control become a 6/6 Golem artifact creature until end of turn.</margin:0:0:30>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4894,6 +5076,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4934,6 +5117,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4960,6 +5144,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -4992,6 +5177,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !script "s>l>Adjudicate/l>f>/spawn white Aura MSJ/f>/s>","r"
@@ -5020,6 +5206,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5055,6 +5242,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5095,6 +5283,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5118,6 +5307,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5151,6 +5341,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5178,6 +5369,7 @@ card:
 	copyright: 2
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5206,6 +5398,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5233,6 +5426,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -5263,6 +5457,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5288,6 +5483,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: Finished
@@ -5315,6 +5511,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5343,6 +5540,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -5368,6 +5566,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5394,6 +5593,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5425,6 +5625,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5459,6 +5660,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5485,6 +5687,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5516,6 +5719,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5546,6 +5750,7 @@ card:
 	copyright: Design by Mikkjal | ™ & © 2021 WotC
 	copyright_2: Design by Mikkjal | ™ & © 2021 WotC
 	copyright_3: Design by Mikkjal | ™ & © 2021 WotC
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5574,6 +5779,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5604,6 +5810,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5630,6 +5837,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5656,6 +5864,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -5685,6 +5894,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5719,6 +5929,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5754,6 +5965,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5767,7 +5979,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2023-01-14 19:33:07
-	time_modified: 2023-01-31 18:46:52
+	time_modified: 2025-10-24 01:21:48
 	card_color: black
 	name: Warden of Distortion
 	casting_cost: 3BB
@@ -5784,7 +5996,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		If <atom-cardname><nospellcheck>Warden of Distortion</nospellcheck></atom-cardname> would die, you may exile a creature card from your graveyard. If you do, <atom-cardname><nospellcheck>Warden of Distortion</nospellcheck></atom-cardname> becomes a copy of that creature, except it’s a 4/4 Nightmare Dragon and it has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and this ability. It gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. 
+		If <atom-cardname><nospellcheck>Warden of Distortion</nospellcheck></atom-cardname> would die, you may exile a creature card from your graveyard. If you do, <atom-cardname><nospellcheck>Warden of Distortion</nospellcheck></atom-cardname> becomes a copy of that creature, except it’s a 4/4 Nightmare Dragon and it has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and this ability. It gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -5799,6 +6011,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5830,6 +6043,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -5882,6 +6096,7 @@ card:
 		I — <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>.
 		II — Draw two cards.
 		III — Spells you cast this turn cost <sym-auto>2</sym-auto> less to cast.
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5928,6 +6143,7 @@ card:
 		[-1]: <margin:130:0:0>Create a 1/1 white Bird creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> or a 2/2 black Cat creature token.</margin:130:0:0>
 		[-2]: <margin:130:0:0>If a permanent entering the battlefield under your control this turn causes an ability of a permanent you control to trigger, that ability triggers an additional time.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Put a +1/+1 counter on each creature you control.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5965,6 +6181,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -5994,6 +6211,7 @@ card:
 	copyright: Utaha
 	copyright_2: Utaha
 	copyright_3: Utaha
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6042,6 +6260,7 @@ card:
 		As long as it’s your turn, <atom-legname><nospellcheck>Marilye</nospellcheck></atom-legname> is a 3/2 Elf Rogue creature with <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
 		[+1]: <margin:130:0:0>Tap target permanent. It doesn’t untap during its controller’s next untap step.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile the top five cards of target opponent’s library. You may cast any number of cards exiled this way with total mana value less than or equal to the amount of damage dealt to them this turn without paying their mana costs.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6079,6 +6298,7 @@ card:
 	copyright: © Wizards of the Coast
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -6108,6 +6328,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: 
@@ -6135,6 +6356,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6164,6 +6386,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6203,6 +6426,7 @@ card:
 		[+1]: <margin:130:0:0>Until end of turn, <atom-cardname><nospellcheck>Winmeari, Glorian Defector</nospellcheck></atom-cardname> becomes a 4/4 Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> that’s still a planeswalker. Prevent all damage that would be dealt to her this turn.</margin:130:0:0>
 		[0]: <margin:130:0:0>Create a 2/2 black Zombie creature token.</margin:130:0:0>
 		[-1]: <margin:130:0:0>You get an emblem with “Attacking creatures your opponents control must attack a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Winmeari</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> planeswalker if able.” </margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6229,6 +6453,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6253,6 +6478,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6277,6 +6503,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -6304,6 +6531,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -6350,6 +6578,7 @@ card:
 		<margin:0:0:30>Discard your hand. Draw a number of cards equal to the greatest power among Demons you control.</margin:0:0:30>
 		<sym-auto>5U/BU/B</sym-auto>: Noble
 		<margin:0:0:30>Gain control of target creature. You lose life equal to its mana value.</margin:0:0:30>
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6376,6 +6605,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Coalesce
 	match: Coalesce <atom-param>mana</atom-param>

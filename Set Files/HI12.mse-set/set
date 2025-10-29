@@ -84,6 +84,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -125,6 +126,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !soldier
@@ -155,6 +157,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-textless
 	stylesheet_version: 2024-09-01
@@ -189,6 +192,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !soldier!detain
@@ -223,6 +227,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -258,6 +263,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -299,6 +305,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: reprint !detain!beep
@@ -334,6 +341,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !detain!changed added ft
@@ -367,6 +375,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !detain
@@ -401,6 +410,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -442,6 +452,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit
@@ -476,6 +487,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -518,6 +530,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit!scout
@@ -551,6 +564,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit!scout
@@ -584,6 +598,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit!scout!change added ft
@@ -618,6 +633,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -655,6 +671,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -685,6 +702,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !scout
@@ -721,6 +739,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !rogue
@@ -747,6 +766,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -779,6 +799,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !rogue!detain
@@ -803,6 +824,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: reprint
@@ -827,6 +849,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -854,6 +877,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -878,6 +902,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -905,6 +930,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !detain
@@ -931,6 +957,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !detain 
@@ -958,6 +985,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !vision
@@ -984,6 +1012,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !vision
@@ -1010,6 +1039,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !vision!slinger
@@ -1034,9 +1064,10 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
-	notes: !beep
+	notes: 
 	time_created: 2018-02-18 00:48:11
 	time_modified: 2020-02-14 20:39:42
 	name: Thunder Crow
@@ -1063,6 +1094,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1093,6 +1125,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !vision!slinger reprint!primer
@@ -1119,6 +1152,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -1145,6 +1179,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !slinger
@@ -1171,6 +1206,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1201,6 +1237,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !slinger!primer
@@ -1225,6 +1262,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit
@@ -1249,6 +1287,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit
@@ -1276,6 +1315,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1308,6 +1348,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit
@@ -1334,6 +1375,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -1358,6 +1400,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-textless
 	stylesheet_version: 2024-09-01
@@ -1385,6 +1428,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1417,6 +1461,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit!grave
@@ -1445,6 +1490,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !grave
@@ -1471,6 +1517,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !grave!change flavor
@@ -1497,6 +1544,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !rogue
@@ -1521,6 +1569,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !rogue
@@ -1545,6 +1594,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !rogue!bounty
@@ -1569,6 +1619,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1601,6 +1652,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !rogue!bounty
@@ -1625,6 +1677,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1655,6 +1708,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1689,6 +1743,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !bounty
@@ -1713,6 +1768,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1747,6 +1803,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -1779,6 +1836,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-textless
 	stylesheet_version: 2024-09-01
@@ -1807,6 +1865,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1837,6 +1896,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !centaur
@@ -1863,6 +1923,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !centaur
@@ -1889,6 +1950,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !centaur
@@ -1913,6 +1975,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1944,6 +2007,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -1967,6 +2031,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-textless
 	stylesheet_version: 2024-09-01
@@ -1994,6 +2059,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !slinger!bounty
@@ -2017,6 +2083,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2041,6 +2108,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !bounty
@@ -2065,6 +2133,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -2097,6 +2166,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !soldier
@@ -2121,6 +2191,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2147,6 +2218,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !slinger
@@ -2171,6 +2243,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !soldier!slingers
@@ -2197,6 +2270,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !soldier!slinger
@@ -2221,6 +2295,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2252,6 +2327,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2284,6 +2360,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: reprint
@@ -2309,6 +2386,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2345,6 +2423,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !soldier!change new art
@@ -2370,6 +2449,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !vision
@@ -2397,6 +2477,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2431,6 +2512,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -2461,6 +2543,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !vision
@@ -2487,6 +2570,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -2520,6 +2604,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !grave
@@ -2547,6 +2632,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -2577,6 +2663,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2603,6 +2690,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2629,6 +2717,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !scout
@@ -2653,6 +2742,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !centaur
@@ -2677,6 +2767,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-textless
 	stylesheet_version: 2024-09-01
@@ -2704,6 +2795,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !centaur!scout
@@ -2730,6 +2822,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2773,6 +2866,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2797,6 +2891,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: reprint
@@ -2820,6 +2915,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !change added ft
@@ -2848,6 +2944,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2880,6 +2977,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2906,6 +3004,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2930,6 +3029,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !detain
@@ -2956,6 +3056,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -2986,6 +3087,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3015,6 +3117,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3040,6 +3143,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3064,6 +3168,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !scarecrow
@@ -3090,6 +3195,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3115,6 +3221,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3139,6 +3246,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !scarecrow
@@ -3165,6 +3273,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3198,6 +3307,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3227,6 +3337,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-textless
 	stylesheet_version: 2024-09-01
@@ -3255,6 +3366,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3289,6 +3401,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !rogue
@@ -3318,6 +3431,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3352,6 +3466,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3377,6 +3492,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !scout
@@ -3405,6 +3521,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit!change flavor
@@ -3432,6 +3549,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3459,6 +3577,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3497,6 +3616,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !soldier
@@ -3522,6 +3642,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3560,6 +3681,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3585,6 +3707,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !scarecrow
@@ -3613,6 +3736,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3648,6 +3772,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !scarecrow!slinger!grave!vision
@@ -3675,6 +3800,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3710,6 +3836,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -3747,6 +3874,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !rogue
@@ -3773,6 +3901,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3798,6 +3927,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3836,6 +3966,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -3860,6 +3991,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3899,6 +4031,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !soldier!detain
@@ -3926,6 +4059,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !detain
@@ -3952,6 +4086,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit
@@ -3975,6 +4110,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit!scout
@@ -4003,9 +4139,12 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
-	notes: !scout
+	notes:
+		!scout
+
 	time_created: 2018-03-15 03:13:40
 	time_modified: 2018-03-18 22:02:44
 	card_color: white
@@ -4027,6 +4166,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4055,6 +4195,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4081,6 +4222,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4108,6 +4250,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4141,6 +4284,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4180,6 +4324,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !primer
@@ -4210,6 +4355,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4245,6 +4391,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !vision!slinger
@@ -4268,6 +4415,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !slinger!primer
@@ -4291,6 +4439,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !rogue reprint
@@ -4320,6 +4469,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4350,6 +4500,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4388,6 +4539,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !primer
@@ -4415,6 +4567,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4449,6 +4602,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4479,6 +4633,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !detain
@@ -4511,6 +4666,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4537,6 +4693,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4562,6 +4719,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit
@@ -4589,6 +4747,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -4627,6 +4786,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !grave
@@ -4654,6 +4814,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -4685,6 +4846,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !rogue!bounty!primer
@@ -4712,6 +4874,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !bounty!rogue!change up to one target so it resolves even if there aren’t enough targets
@@ -4737,6 +4900,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4760,6 +4924,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !primer
@@ -4784,6 +4949,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4809,6 +4975,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4840,6 +5007,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -4869,6 +5037,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -4892,6 +5061,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -4925,6 +5095,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -4954,6 +5125,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4990,6 +5162,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5020,6 +5193,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5059,6 +5233,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !slinger
@@ -5087,6 +5262,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5123,6 +5299,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5150,6 +5327,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5183,6 +5361,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5210,6 +5389,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !change instant/sorcery only
@@ -5234,6 +5414,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5269,6 +5450,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !vision
@@ -5296,6 +5478,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !vision!grave
@@ -5321,6 +5504,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !grave
@@ -5347,6 +5531,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !centaur!beep
@@ -5374,6 +5559,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -5405,6 +5591,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5434,6 +5621,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !vision!scout
@@ -5462,6 +5650,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5487,6 +5676,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !grave
@@ -5519,6 +5709,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -5546,6 +5737,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5573,6 +5765,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5598,6 +5791,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5630,6 +5824,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !change added cmc rider!primer
@@ -5653,6 +5848,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -5686,6 +5882,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5721,6 +5918,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit!primer
@@ -5746,6 +5944,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5781,6 +5980,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5820,6 +6020,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -5845,6 +6046,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5883,6 +6085,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !alter
@@ -5909,6 +6112,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5944,6 +6148,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -5978,6 +6183,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6006,6 +6212,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6034,6 +6241,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6062,6 +6270,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6090,6 +6299,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6118,6 +6328,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !detain !change instant/sorcery > noncreature, new art, ft, name!primer
@@ -6144,6 +6355,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !detain
@@ -6171,6 +6383,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6208,6 +6421,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: enchantress!detain!primer
@@ -6233,6 +6447,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6268,6 +6483,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -6299,6 +6515,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -6332,6 +6549,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6363,6 +6581,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !primer
@@ -6389,6 +6608,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6433,6 +6653,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: reprint!primer
@@ -6458,6 +6679,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !rogue!primer
@@ -6485,6 +6707,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: ? Anton Kagounkin Magdalina
@@ -6510,6 +6733,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6548,6 +6772,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6583,6 +6808,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !change new art
@@ -6608,6 +6834,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !bounty!change added 2 life to destroy ability!primer
@@ -6643,6 +6870,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !primer
@@ -6667,6 +6895,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !primer
@@ -6690,6 +6919,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -6721,6 +6951,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6761,6 +6992,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -6794,6 +7026,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !five
@@ -6821,6 +7054,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirit
@@ -6848,6 +7082,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -6881,6 +7116,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6920,6 +7156,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -6950,6 +7187,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -6974,6 +7212,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !centaur
@@ -7001,6 +7240,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !primer
@@ -7033,6 +7273,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7056,6 +7297,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes:
@@ -7083,6 +7325,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7119,6 +7362,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !scout
@@ -7146,6 +7390,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7169,6 +7414,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -7200,6 +7446,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7238,6 +7485,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7265,6 +7513,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7288,6 +7537,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !centaur!changed to work properly
@@ -7315,6 +7565,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7352,6 +7603,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7375,6 +7627,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !primer
@@ -7402,6 +7655,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7441,6 +7695,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7487,6 +7742,7 @@ card:
 		[+1]: <margin:130:0:0><atom-cardname><nospellcheck>Haide Bankbuster</nospellcheck></atom-cardname> deals 2 damage divided as you choose among one or two targets.</margin:130:0:0>
 		[+1]: <margin:130:0:0>Draw two cards unless any player has <atom-cardname><nospellcheck>Haide Bankbuster</nospellcheck></atom-cardname> deal 3 damage to them.</margin:130:0:0>
 		[-9]: <margin:130:0:0>Until end of turn, gain control of all permanents target player controls and they gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Untap those permanents.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !primer
@@ -7515,6 +7771,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7538,6 +7795,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7590,6 +7848,7 @@ card:
 		[+1]: <margin:130:0:0>Tap up to one target creature. <atom-cardname><nospellcheck>Azun, Sheriff of Daisite</nospellcheck></atom-cardname> deals 1 damage to each opponent.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Exile another target nonland permanent until <atom-cardname><nospellcheck>Azun, Sheriff of Daisite</nospellcheck></atom-cardname> leaves the battlefield.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Detain each permanent target opponent controls.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !change back up to 5WU
@@ -7618,6 +7877,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7645,6 +7905,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7679,6 +7940,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7722,6 +7984,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7760,6 +8023,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -7785,6 +8049,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7826,6 +8091,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-textless
 	stylesheet_version: 2024-09-01
@@ -7863,6 +8129,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7892,6 +8159,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: HIGH NOON — CAJUN
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7930,6 +8198,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: HIGH NOON — CAJUN
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7960,6 +8229,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: HIGH NOON — CAJUN
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7991,6 +8261,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -8019,6 +8290,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: HIGH NOON — CAJUN
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !spirits
@@ -8046,9 +8318,12 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	has_styling: false
-	notes: reprint!primer
+	notes:
+		reprint!primer
+
 	time_created: 2018-03-15 05:36:14
 	time_modified: 2018-03-15 09:05:43
 	name: Recoil
@@ -8071,6 +8346,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !changed added ft
@@ -8096,6 +8372,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -8123,6 +8400,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: 
@@ -8150,6 +8428,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -8176,6 +8455,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -8204,6 +8484,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -8231,6 +8512,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -8254,6 +8536,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -8277,6 +8560,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
@@ -8300,6 +8584,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -8333,6 +8618,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8363,6 +8649,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8397,6 +8684,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8437,6 +8725,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 keyword:
 	keyword: Vision
 	match: Vision

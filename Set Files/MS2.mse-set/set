@@ -116,6 +116,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -141,6 +142,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -167,6 +169,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -202,6 +205,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -227,6 +231,7 @@ card:
 	copyright: Djam
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos
@@ -252,6 +257,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -278,6 +284,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design WindyDelcarlo
@@ -303,9 +310,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-11-08 09:33:39
 	time_modified: 2020-01-01 12:29:53
 	name: Shadow Ambusher
@@ -328,6 +336,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -355,9 +364,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-11-08 09:33:39
 	time_modified: 2020-01-01 12:29:39
 	name: Judicious Djinni
@@ -382,6 +392,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -409,6 +420,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -441,6 +453,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design WindyDelcarlo
@@ -467,6 +480,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -494,6 +508,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -519,6 +534,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -546,6 +562,7 @@ card:
 	copyright: 2/
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -573,6 +590,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -581,7 +599,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-11-08 09:33:39
 	time_modified: 2020-01-01 22:20:52
 	name: Consult the Dewdrops
@@ -602,6 +620,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -625,9 +644,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-11-08 09:33:39
 	time_modified: 2020-01-01 12:30:40
 	name: Dreamchaser Djinni
@@ -650,6 +670,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Simon Williamson
@@ -673,6 +694,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -698,6 +720,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -725,6 +748,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -758,6 +782,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design FifthDragon
@@ -785,6 +810,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -812,6 +838,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design WindyDelcarlo
@@ -839,9 +866,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-11-08 09:33:39
 	time_modified: 2020-01-01 16:02:03
 	name: Whispered Wishes
@@ -864,6 +892,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -891,6 +920,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design WindyDelcarlo
@@ -918,9 +948,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-11-08 09:33:50
 	time_modified: 2020-01-01 17:01:00
 	name: Alquyut Mount
@@ -943,6 +974,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -969,6 +1001,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -994,6 +1027,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -1017,6 +1051,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1047,6 +1082,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Simon Williamson
@@ -1074,6 +1110,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -1099,6 +1136,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design fluffyDeathbringer
@@ -1124,6 +1162,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CanterburyEgg
@@ -1147,6 +1186,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1181,6 +1221,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1206,6 +1247,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -1233,6 +1275,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1268,6 +1311,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -1293,6 +1337,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CanterburyEgg
@@ -1317,6 +1362,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1351,6 +1397,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -1374,6 +1421,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1408,6 +1456,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -1434,6 +1483,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CanterburyEgg
@@ -1462,6 +1512,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -1490,6 +1541,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -1531,6 +1583,7 @@ card:
 		I, II — Put a +1/+1 counter on target creature you control. It gains <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
 		III — Target creature you control gets +2/+2 and gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
 		​
+
 card:
 	has_styling: false
 	notes: !design fluffyDeathbringer
@@ -1559,6 +1612,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1594,6 +1648,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -1620,6 +1675,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -1646,11 +1702,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-11-08 10:12:15
 	time_modified: 2020-07-23 15:51:25
 	card_color_2: black
@@ -1684,6 +1741,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design WindyDelcarlo
@@ -1713,6 +1771,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -1739,6 +1798,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -1767,6 +1827,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -1794,6 +1855,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -1822,6 +1884,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -1856,6 +1919,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -1882,6 +1946,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1911,6 +1976,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -1937,6 +2003,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -1964,6 +2031,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2001,6 +2069,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -2024,6 +2093,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos
@@ -2051,6 +2121,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CyberChronometer
@@ -2077,6 +2148,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos
@@ -2105,6 +2177,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -2132,6 +2205,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2165,6 +2239,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -2191,6 +2266,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -2217,6 +2293,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Daij_Djan
@@ -2245,6 +2322,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2276,6 +2354,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -2302,6 +2381,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -2333,6 +2413,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -2361,6 +2442,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -2389,6 +2471,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design fluffyDeathbringer
@@ -2415,6 +2498,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -2441,6 +2525,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -2467,6 +2552,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CyberChronometer
@@ -2491,6 +2577,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -2519,6 +2606,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2549,6 +2637,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -2585,9 +2674,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-11-08 10:59:02
 	time_modified: 2020-01-01 12:33:58
 	name: Promenade Banner
@@ -2611,6 +2701,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2649,6 +2740,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2686,6 +2778,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -2712,6 +2805,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -2747,6 +2841,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos
@@ -2776,6 +2871,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Simon Williamson
@@ -2802,6 +2898,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -2831,6 +2928,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design fluffyDeathbringer
@@ -2857,6 +2955,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CanterburyEgg
@@ -2883,6 +2982,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos
@@ -2910,6 +3010,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -2936,6 +3037,7 @@ card:
 	copyright: 2
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -2962,6 +3064,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -2991,9 +3094,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-05-29 23:46:09
 	time_modified: 2020-01-01 16:01:58
 	name: Centered Acolyte
@@ -3017,11 +3121,12 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-09-06 13:22:08
 	time_modified: 2025-09-19 00:17:33
 	card_color_2: multicolor
@@ -3061,6 +3166,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -3087,6 +3193,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3095,7 +3202,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-09-23 21:14:06
 	time_modified: 2022-05-19 13:00:41
 	name: Cane Dancer
@@ -3121,6 +3228,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3154,6 +3262,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -3180,6 +3289,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -3210,9 +3320,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-07-11 16:02:48
 	time_modified: 2019-07-11 16:04:36
 	name: Rakkiri Dissident
@@ -3238,6 +3349,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3281,6 +3393,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos
@@ -3307,6 +3420,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3342,6 +3456,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design jacqui-pup
@@ -3368,6 +3483,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -3397,6 +3513,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -3428,6 +3545,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -3459,6 +3577,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -3483,6 +3602,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Fleur
@@ -3509,9 +3629,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Simon Williamson
+	notes: !design Blydden
 	time_created: 2019-11-08 10:59:02
 	time_modified: 2020-01-01 16:48:22
 	name: Artisan’s Fountain
@@ -3533,9 +3654,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Pipsqueak
+	notes: !design medusa
 	time_created: 2019-11-08 10:59:02
 	time_modified: 2020-01-01 12:34:41
 	name: Harmony Array
@@ -3559,6 +3681,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos
@@ -3587,6 +3710,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -3613,6 +3737,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CanterburyEgg
@@ -3637,6 +3762,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -3665,6 +3791,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CanterburyEgg
@@ -3695,6 +3822,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -3726,6 +3854,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CyberChronometer
@@ -3750,6 +3879,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -3781,6 +3911,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -3811,6 +3942,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos
@@ -3837,6 +3969,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -3861,6 +3994,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3893,9 +4027,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-10-07 22:23:27
 	time_modified: 2022-04-30 14:31:10
 	name: Ravaging Tyrant
@@ -3919,13 +4054,14 @@ card:
 	copyright: S
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		Sword of Tides and Time
 		!design Cajun
 	time_created: 2019-11-08 11:13:31
-	time_modified: 2020-01-01 12:37:41
+	time_modified: 2025-10-23 22:59:35
 	name: Sword of Tides and Time
 	casting_cost: 3
 	image: image189
@@ -3936,7 +4072,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: mythic rare
 	rule_text:
-		Equipped creature gets +2/+2 and <kw-A><nospellcheck><key>protection from <param-name>blue and from black.</param-name></key></nospellcheck><atom-reminder-expert> <i-auto>(This permanent can’t be targeted, dealt damage, enchanted, or equipped by anything blue or black..)</i-auto></atom-reminder-expert></kw-A>
+		Equipped creature gets +2/+2 and <kw-0><nospellcheck><key>protection from <param-name>blue and from black.</param-name></key></nospellcheck></kw-0>
 		Whenever equipped creature deals combat damage to a player, return up to one target creature card and up to one target instant or sorcery card from your graveyard to your hand.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
@@ -3948,6 +4084,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -3974,6 +4111,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -4000,6 +4138,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -4026,9 +4165,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-10-14 16:44:13
 	time_modified: 2020-04-05 03:15:53
 	name: Wayfaring Pilgrim
@@ -4052,6 +4192,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Umisa
@@ -4080,6 +4221,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Pipsqueak
@@ -4106,6 +4248,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -4129,9 +4272,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-10-02 16:16:38
 	time_modified: 2024-04-28 01:08:52
 	name: Forest Fellowship
@@ -4153,6 +4297,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CanterburyEgg
@@ -4181,6 +4326,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -4210,6 +4356,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -4251,6 +4398,7 @@ card:
 		[+1]: <margin:130:0:0><atom-cardname><nospellcheck>Aiel Tazan</nospellcheck></atom-cardname> deals 2 damage to any target. Then she deals 2 damage to herself unless you have her deal 2 damage to you.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Creatures you control get +2/+0 and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Create an X/1 red Elemental creature token with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>. Exile that token at the beginning of the next end step. If X is 6 or more, it gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>.</margin:130:0:0>
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -4295,6 +4443,7 @@ card:
 		Whenever a card leaves your graveyard, you gain 1 life.
 		I, II — Return target land card from your graveyard to the battlefield.
 		III — Return any number of creature and/or land cards from your graveyard to your hand. Exile <atom-cardname><nospellcheck><i>Restoration</i></nospellcheck></atom-cardname>.
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -4317,6 +4466,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -4386,6 +4536,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -4411,6 +4562,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4441,6 +4593,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Timespiraled
@@ -4467,6 +4620,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -4497,6 +4651,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Korakhos
@@ -4523,6 +4678,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design CanterburyEgg
@@ -4551,6 +4707,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -4583,6 +4740,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4620,6 +4778,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -4673,6 +4832,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design HerziQuerzi
@@ -4699,6 +4859,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -4724,6 +4885,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -4752,6 +4914,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design water the weeds
@@ -4779,6 +4942,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4811,6 +4975,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design FifthDragon
@@ -4836,6 +5001,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !design Cajun
@@ -4861,13 +5027,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!design Timespiraled
 		!script "s>l>Spawn Plains Island/l>f>/spawn Plains Island/f>/s>s>l>Spawn Island Swamp/l>f>/spawn Island Swamp/f>/s>s>l>Spawn Island Mountain/l>f>/spawn Island Mountain/f>/s>s>l>Spawn Forest Island/l>f>/spawn Forest Island/f>/s>","r"
 	time_created: 2019-11-23 14:46:55
-	time_modified: 2024-09-30 10:29:46
+	time_modified: 2025-10-27 23:31:46
 	name: Shiftscape Cascade
 	image: image179
 	image_2: 
@@ -4878,7 +5045,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, Sacrifice Shifting <kw-0><nospellcheck><key>Cascade</key></nospellcheck></kw-0>: Choose a basic land type other than Island. Create a colorless land token that’s an Island and the chosen basic land type. Activate only during your upkeep.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shiftscape Cascade</nospellcheck></atom-cardname>: Choose a basic land type other than Island. Create a colorless land token that’s an Island and the chosen basic land type. Activate only during your upkeep.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: welshdragon
 	custom_card_number: 
@@ -4888,13 +5055,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!design Timespiraled
 		!script "s>l>Spawn Mountain Plains/l>f>/spawn Mountain Plains/f>/s>s>l>Spawn Island Mountain/l>f>/spawn Island Mountain/f>/s>s>l>Spawn Swamp Mountain/l>f>/spawn Swamp Mountain/f>/s>s>l>Spawn Mountain Forest/l>f>/spawn Mountain Forest/f>/s>","r"
 	time_created: 2019-11-23 14:46:55
-	time_modified: 2024-09-30 10:29:44
+	time_modified: 2025-10-27 23:31:51
 	name: Shiftscape Crag
 	image: image180
 	image_2: 
@@ -4905,7 +5073,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, Sacrifice Shifting Crag: Choose a basic land type other than Mountain. Create a colorless land token that’s a Mountain and the chosen basic land type. Activate only during your upkeep.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shiftscape Crag</nospellcheck></atom-cardname>: Choose a basic land type other than Mountain. Create a colorless land token that’s a Mountain and the chosen basic land type. Activate only during your upkeep.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Nele-Diel
 	custom_card_number: 
@@ -4915,13 +5083,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!design Timespiraled
 		!script "s>l>Spawn Forest Plains/l>f>/spawn Forest Plains/f>/s>s>l>Spawn Forest Island/l>f>/spawn Forest Island/f>/s>s>l>Spawn Swamp Forest/l>f>/spawn Swamp Forest/f>/s>s>l>Spawn Mountain Forest/l>f>/spawn Mountain Forest/f>/s>","r"
 	time_created: 2019-11-23 14:46:56
-	time_modified: 2024-09-30 10:29:42
+	time_modified: 2025-10-27 23:31:56
 	name: Shiftscape Grove
 	image: image182
 	image_2: 
@@ -4932,7 +5101,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, Sacrifice Shifting Grove: Choose a basic land type other than Forest. Create a colorless land token that’s a Forest and the chosen basic land type. Activate only during your upkeep.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shiftscape Grove</nospellcheck></atom-cardname>: Choose a basic land type other than Forest. Create a colorless land token that’s a Forest and the chosen basic land type. Activate only during your upkeep.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anton Kurbativ
 	custom_card_number: 
@@ -4942,13 +5111,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!design Timespiraled
 		!script "s>l>Spawn Plains Swamp/l>f>/spawn Plains Swamp/f>/s>s>l>Spawn Island Swamp/l>f>/spawn Island Swamp/f>/s>s>l>Spawn Swamp Mountain/l>f>/spawn Swamp Mountain/f>/s>s>l>Spawn Swamp Forest/l>f>/spawn Swamp Forest/f>/s>","r"
 	time_created: 2019-11-23 14:46:58
-	time_modified: 2024-09-30 10:29:39
+	time_modified: 2025-10-27 23:32:01
 	name: Shiftscape Morass
 	image: image181
 	image_2: 
@@ -4959,7 +5129,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, Sacrifice Shifting Morass: Choose a basic land type other than Swamp. Create a colorless land token that’s a Swamp and the chosen basic land type. Activate only during your upkeep.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shiftscape Morass</nospellcheck></atom-cardname>: Choose a basic land type other than Swamp. Create a colorless land token that’s a Swamp and the chosen basic land type. Activate only during your upkeep.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anton Kurbatov
 	custom_card_number: 
@@ -4969,9 +5139,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-11-23 14:46:58
 	time_modified: 2020-01-01 12:33:21
 	name: Skeletal Oasis
@@ -4991,6 +5162,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5035,9 +5207,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !design Canterbury Egg
+	notes: !design CanterburyEgg
 	time_created: 2019-11-23 14:46:59
 	time_modified: 2020-01-01 12:33:47
 	card_color: land, multicolor
@@ -5060,13 +5233,14 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		!design Timespiraled
 		!script "s>l>Spawn Plains Island/l>f>/spawn Plains Island/f>/s>s>l>Spawn Plains Swamp/l>f>/spawn Plains Swamp/f>/s>s>l>Spawn Mountain Plains/l>f>/spawn Mountain Plains/f>/s>s>l>Spawn Forest Plains/l>f>/spawn Forest Plains/f>/s>","r"
 	time_created: 2019-11-23 14:47:00
-	time_modified: 2024-09-30 10:29:48
+	time_modified: 2025-10-27 23:31:38
 	name: Shiftscape Canyon
 	image: image178
 	image_2: 
@@ -5077,7 +5251,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, Sacrifice Shifting Canyon: Choose a basic land type other than Plains. Create a colorless land token that’s a Plains and the chosen basic land type. Activate only during your upkeep.
+		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shiftscape Canyon</nospellcheck></atom-cardname>: Choose a basic land type other than Plains. Create a colorless land token that’s a Plains and the chosen basic land type. Activate only during your upkeep.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Varrulin
 	custom_card_number: 
@@ -5087,6 +5261,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5143,6 +5318,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 red Cleric creature token. If you control three or more Clerics, you may instead create Aspect of <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Faradia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, a legendary 5/5 white Angel creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Exile target creature if you control an Angel. Otherwise, that creature can’t attack or block and its activated abilities can’t be activated until your next turn.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Creatures you control get +5/+5 and gain <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -5166,6 +5342,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -5189,6 +5366,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -5212,6 +5390,7 @@ card:
 	copyright: ™ & © 2017 Wizards of the Coast
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -5245,6 +5424,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
@@ -5268,6 +5448,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5308,6 +5489,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5348,6 +5530,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: true
 	styling_data:
@@ -5388,6 +5571,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5434,6 +5618,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5473,6 +5658,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5524,6 +5710,7 @@ card:
 		[+1]: <margin:130:0:0>Create two 2/2 black Zombie creature tokens.</margin:130:0:0>
 		[0]: <margin:130:0:0>Whenever a creature dies this turn, you draw a card and you lose 1 life.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Target opponent gets an emblem with “At the beginning of your end step, put a -1/-1 counter on each creature you control.”</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -5557,6 +5744,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 2015
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5614,6 +5802,7 @@ card:
 		[+2]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xanigan</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 2 damage to up to one target and you gain 2 life.</margin:130:0:0>
 		[-3]: <margin:130:0:0>You draw three cards and you lose 3 life.</margin:130:0:0>
 		[-7]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Xanigan</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> becomes a 7/7 Demon creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> that’s still a planeswalker. Prevent all combat damage that would be dealt to her.</margin:130:0:0>
+
 card:
 	has_styling: true
 	styling_data:
@@ -5651,6 +5840,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -5676,8 +5866,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!num 0
-		!exportname Performer of Desire//Pyrus, the Undying Flame (Japanese)
+		!noexport
 		!script "s>l>Red Mana Reminder/l>f>/spawn Red Mana/l>/s>s>l>Spawn four Red Mana Reminders/l>f>/spawnx4 Red Mana/l>/s>","t"
 		!design Cajun
 	time_created: 2018-03-26 01:45:02
@@ -5721,6 +5910,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5759,6 +5949,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5798,6 +5989,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5836,6 +6028,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5875,6 +6068,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5911,6 +6105,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -5946,6 +6141,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5989,6 +6185,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6038,6 +6235,7 @@ card:
 		[+2]: <margin:130:0:0>You may draw a card. If you don’t, create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. Repeat this process once.</margin:130:0:0>
 		[0]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Iviana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals X damage to each creature you don’t control, where X is 2 plus twice the number of Dragons you control.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Create a 5/5 red Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6080,6 +6278,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6119,6 +6318,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6166,6 +6366,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6204,6 +6405,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6241,6 +6443,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6276,6 +6479,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6313,6 +6517,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6349,6 +6554,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6386,6 +6592,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -6425,6 +6632,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6451,6 +6659,7 @@ card:
 	copyright: ™ & © 2019 CanterburyEgg
 	copyright_2: ™ & © 2019 CanterburyEgg
 	copyright_3: ™ & © 2019 CanterburyEgg
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6477,6 +6686,7 @@ card:
 	copyright: ™ & © 2019 CanterburyEgg
 	copyright_2: ™ & © 2019 CanterburyEgg
 	copyright_3: ™ & © 2019 CanterburyEgg
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6504,6 +6714,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6531,6 +6742,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6558,6 +6770,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6584,6 +6797,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6609,6 +6823,7 @@ card:
 	copyright: ™ & © 2019 CanterburyEgg
 	copyright_2: ™ & © 2019 CanterburyEgg
 	copyright_3: ™ & © 2019 CanterburyEgg
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -6633,6 +6848,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6656,6 +6872,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -6691,6 +6908,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -6718,6 +6936,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6742,6 +6961,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -6765,6 +6985,7 @@ card:
 	copyright: justnobody 2018
 	copyright_2: justnobody 2018
 	copyright_3: justnobody 2018
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -6792,6 +7013,7 @@ card:
 	copyright: ™ & © 1993—2014 Wizards of the Coast LLC
 	copyright_2: ™ & © 1993—2014 Wizards of the Coast LLC
 	copyright_3: ™ & © 1993—2017 Wizards of the Coast LLC
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -6816,6 +7038,7 @@ card:
 	copyright: ™ & © 2015 Wizards of the Coast
 	copyright_2: ™ & © 2015 Wizards of the Coast
 	copyright_3: ™ & © 2015 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6845,6 +7068,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6870,6 +7094,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6897,6 +7122,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6922,6 +7148,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6949,6 +7176,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -6976,6 +7204,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7014,6 +7243,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7047,6 +7277,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7082,6 +7313,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-emblem-cajun
 	stylesheet_version: 2024-06-06
@@ -7109,6 +7341,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7133,6 +7366,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7157,6 +7391,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7190,6 +7425,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7219,6 +7455,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7248,6 +7485,7 @@ card:
 	copyright: ™ & © 2016 Wizards of the Coast
 	copyright_2: ™ & © 2016 Wizards of the Coast
 	copyright_3: ™ & © 2016 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7272,6 +7510,7 @@ card:
 	copyright: justnobody 2018
 	copyright_2: justnobody 2018
 	copyright_3: justnobody 2018
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7296,6 +7535,7 @@ card:
 	copyright: justnobody 2018
 	copyright_2: justnobody 2018
 	copyright_3: justnobody 2018
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7320,6 +7560,7 @@ card:
 	copyright: justnobody 2018
 	copyright_2: justnobody 2018
 	copyright_3: justnobody 2018
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7350,6 +7591,7 @@ card:
 	copyright: ™ & © 2016 Wizards of the Coast
 	copyright_2: 
 	copyright_3: ™ & © 2016 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7383,6 +7625,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7417,6 +7660,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7441,6 +7685,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7473,6 +7718,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7504,6 +7750,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7531,6 +7778,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7560,6 +7808,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7589,6 +7838,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7613,6 +7863,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7639,6 +7890,7 @@ card:
 	copyright: ™ & © 2018 Wizards of the Coast
 	copyright_2: ™ & © 2018 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-token
 	stylesheet_version: 2015-12-20
@@ -7663,6 +7915,7 @@ card:
 	copyright: ™ & © 2015 Wizards of the Coast
 	copyright_2: ™ & © 2015 Wizards of the Coast
 	copyright_3: ™ & © 2015 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7694,6 +7947,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7718,6 +7972,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7745,6 +8000,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7771,6 +8027,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7807,6 +8064,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7842,6 +8100,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7871,6 +8130,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -7900,6 +8160,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -7942,6 +8203,7 @@ card:
 		[+1]: <margin:130:0:0>Reveal the top card of your library and put that card into your hand. You lose life equal to its mana value.</margin:130:0:0>
 		[+1]: <margin:130:0:0>Until end of turn, <atom-cardname><nospellcheck>Lucien, the Grifter</nospellcheck></atom-cardname> becomes a legendary 3/3 black and red Human Warrior creature with <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Exile target artifact or creature. You gain life equal to its mana value.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7979,6 +8241,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8006,6 +8269,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8033,6 +8297,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8060,6 +8325,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8087,6 +8353,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8114,6 +8381,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -8141,6 +8409,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8182,6 +8451,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 keyword:
 	keyword: Cripple
 	match: Cripple <atom-param>cost</atom-param>

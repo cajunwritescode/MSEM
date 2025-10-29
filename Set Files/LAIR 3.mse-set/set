@@ -13,6 +13,8 @@ set_info:
 	automatic_card_numbers: no
 	default_stamp: none
 	stamp_behavior: All unstamped
+	custom_watermark_2: watermark_maria.png,File found,210x183px
+	blend_with_colors: no
 styling:
 	magic-m15-adventure:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -20,6 +22,7 @@ styling:
 	magic-m15-altered:
 		chop_top: 5
 		chop_bottom: 5
+		card_watermark: watermark_maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -146,6 +149,7 @@ card:
 	copyright: Secret Lair: Expedition — squidpizza
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-future
 	stylesheet_version: 2024-06-06
@@ -180,6 +184,7 @@ card:
 	copyright: Secret Lair: Expedition — squidpizza
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-future
 	stylesheet_version: 2024-06-06
@@ -215,6 +220,7 @@ card:
 	copyright: Secret Lair: Expedition — squidpizza
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-future
 	stylesheet_version: 2024-06-06
@@ -249,6 +255,7 @@ card:
 	copyright: Secret Lair: Expedition — squidpizza
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-future
 	stylesheet_version: 2024-06-06
@@ -283,6 +290,7 @@ card:
 	copyright: Secret Lair: Expedition — squidpizza
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-future
 	stylesheet_version: 2024-06-06
@@ -317,6 +325,7 @@ card:
 	copyright: Secret Lair: Expedition — squidpizza
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-future
 	stylesheet_version: 2024-06-06
@@ -351,6 +360,7 @@ card:
 	copyright: Secret Lair: Expedition — squidpizza
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-future
 	stylesheet_version: 2024-06-06
@@ -387,6 +397,7 @@ card:
 	copyright: Secret Lair: Expedition — squidpizza
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-future
 	stylesheet_version: 2024-06-06
@@ -422,6 +433,7 @@ card:
 	copyright: Secret Lair: Expedition — squidpizza
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -453,10 +465,16 @@ card:
 	copyright: Secret Lair: Expedition — squidpizza
 	copyright_2: Secret Lair: Expedition — squidpizza
 	copyright_3: Secret Lair: Expedition — squidpizza
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
-	has_styling: false
+	has_styling: true
+	styling_data:
+		name_background: no
+		hide_name: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: !hidetag (SL102)
 	time_created: 2023-08-11 12:40:45
 	time_modified: 2024-08-23 18:02:16
@@ -479,10 +497,16 @@ card:
 	copyright: We’re All Going To Die — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
-	has_styling: false
+	has_styling: true
+	styling_data:
+		name_background: no
+		hide_name: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: !hidetag (SL102)
 	time_created: 2023-08-11 12:40:45
 	time_modified: 2024-01-01 21:58:30
@@ -507,12 +531,14 @@ card:
 	copyright: We’re All Going To Die — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
 	has_styling: true
 	styling_data:
 		name_background: no
+		hide_name: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: !hidetag (SL102)
@@ -541,10 +567,16 @@ card:
 	copyright: We’re All Going To Die — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
-	has_styling: false
+	has_styling: true
+	styling_data:
+		name_background: no
+		hide_name: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: !hidetag (SL102)
 	time_created: 2023-08-11 12:40:45
 	time_modified: 2024-08-23 18:03:16
@@ -569,11 +601,13 @@ card:
 	copyright: We’re All Going To Die — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
 	has_styling: true
 	styling_data:
+		hide_name: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: !hidetag (SL102)
@@ -600,10 +634,16 @@ card:
 	copyright: We’re All Going To Die — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
-	has_styling: false
+	has_styling: true
+	styling_data:
+		name_background: no
+		hide_name: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: !hidetag (SL102)
 	time_created: 2023-08-11 12:40:45
 	time_modified: 2023-09-28 17:07:48
@@ -630,10 +670,16 @@ card:
 	copyright: We’re All Going To Die — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
-	has_styling: false
+	has_styling: true
+	styling_data:
+		name_background: no
+		hide_name: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: !hidetag (SL102)
 	time_created: 2023-08-11 12:40:45
 	time_modified: 2024-08-23 18:03:26
@@ -660,10 +706,16 @@ card:
 	copyright: We’re All Going To Die — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-unstable-basics
 	stylesheet_version: 2024-05-26
-	has_styling: false
+	has_styling: true
+	styling_data:
+		name_background: no
+		hide_name: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: !hidetag (SL102)
 	time_created: 2023-08-11 12:40:45
 	time_modified: 2023-09-28 16:44:35
@@ -688,6 +740,7 @@ card:
 	copyright: We’re All Going To Die — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -723,6 +776,7 @@ card:
 	copyright: Secret Lar: Ascension — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -752,6 +806,7 @@ card:
 	copyright: Secret Lar: Ascension — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -785,6 +840,7 @@ card:
 	copyright: Secret Lar: Ascension — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -820,6 +876,7 @@ card:
 	copyright: Secret Lar: Ascension — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -851,6 +908,7 @@ card:
 	copyright: Secret Lar: Ascension — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -863,6 +921,7 @@ card:
 	notes:
 		!export
 		!hidetag (SL103)
+		!append  (To crystallize, put a +1/+1 counter on a creature you control or create a Treasure.)
 	time_created: 2023-09-13 16:50:44
 	time_modified: 2023-10-01 16:55:03
 	name: Heartforge Savant
@@ -888,6 +947,7 @@ card:
 	copyright: Secret Lar: Ascension — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -925,6 +985,7 @@ card:
 	copyright: Secret Lar: Ascension — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -955,6 +1016,7 @@ card:
 	copyright: Secret Lar: Ascension — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -991,6 +1053,7 @@ card:
 	copyright: Secret Lar: Ascension — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -998,6 +1061,7 @@ card:
 	notes:
 		!export
 		!hidetag (SL103)
+		!inpend [{]U[}][{]U[}]/add/ (You may cast this spell for its pressure cost if seven or more cards are in your graveyard.)
 	time_created: 2023-09-13 16:50:44
 	time_modified: 2023-10-01 16:55:09
 	name: Eye of the Beholder
@@ -1022,6 +1086,7 @@ card:
 	copyright: Secret Lar: Ascension — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL104)
@@ -1049,6 +1114,7 @@ card:
 	copyright: The Lightning Thief — Kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL104)
@@ -1078,6 +1144,7 @@ card:
 	copyright: The Lightning Thief — Kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1116,6 +1183,7 @@ card:
 	copyright: The Lightning Thief — Kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1160,6 +1228,7 @@ card:
 	copyright: The Lightning Thief — Kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL104)
@@ -1193,6 +1262,7 @@ card:
 	copyright: The Lightning Thief — Kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1228,6 +1298,7 @@ card:
 	copyright: The Lightning Thief — Kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL104)
@@ -1258,6 +1329,7 @@ card:
 	copyright: The Lightning Thief — Kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL104)
@@ -1285,6 +1357,7 @@ card:
 	copyright: The Lightning Thief — Kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1321,6 +1394,7 @@ card:
 	copyright: The Lightning Thief — Kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1353,6 +1427,7 @@ card:
 	copyright: Secret Lair: Is That A...? — gynoidpoet
 	copyright_2: Secret Lair: Is That A...?
 	copyright_3: Secret Lair: Is That A...?
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -1382,6 +1457,7 @@ card:
 	copyright: Secret Lair: Is That A...? — gynoidpoet
 	copyright_2: Secret Lair: Is That A...?
 	copyright_3: Secret Lair: Is That A...?
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1397,11 +1473,11 @@ card:
 		overlay: 
 	notes: !hidetag (SL105)
 	time_created: 2023-09-22 01:17:29
-	time_modified: 2024-04-28 00:56:56
+	time_modified: 2025-10-22 15:21:06
 	extra_data:
 		magic-m15-altered:
 			tarot_watermark: 
-	name: Veindrinker’s Cabalist 
+	name: Veindrinker’s Cabalist
 	casting_cost: B
 	image: image66
 	image_2: 
@@ -1426,6 +1502,7 @@ card:
 	copyright: Secret Lair: Is That A...? — gynoidpoet
 	copyright_2: Secret Lair: Is That A...?
 	copyright_3: Secret Lair: Is That A...?
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1441,7 +1518,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL105)
-		!export
+		!append  (You may cast this from your graveyard for its reconstruct cost reduced by the mana value of a permanent you sacrifice as you cast it this way. Then exile this.)
 	time_created: 2023-02-09 00:06:11
 	time_modified: 2023-10-01 16:55:12
 	name: In Dire Straits
@@ -1466,6 +1543,7 @@ card:
 	copyright: Secret Lair: Is That A...? — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1505,6 +1583,7 @@ card:
 	copyright: Secret Lair: Is That A...? — gynoidpoet
 	copyright_2: Secret Lair: Is That A...?
 	copyright_3: Secret Lair: Is That A...?
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1544,6 +1623,7 @@ card:
 	copyright: Secret Lair: Is That A...? — gynoidpoet
 	copyright_2: Secret Lair: Is That A...?
 	copyright_3: Secret Lair: Is That A...?
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1551,6 +1631,7 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		shrink_typeline_text: 2.
 		frames: borderless art
 		other_options: auto nyx crowns
 		card_watermark: marina/part5.png
@@ -1587,6 +1668,7 @@ card:
 	copyright: Secret Lair: Is That A...? — gynoidpoet
 	copyright_2: Secret Lair: Is That A...?
 	copyright_3: Secret Lair: Is That A...?
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1624,6 +1706,7 @@ card:
 	copyright: Secret Lair: Is That A...? — gynoidpoet
 	copyright_2: Secret Lair: Is That A...?
 	copyright_3: Secret Lair: Is That A...?
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1663,6 +1746,7 @@ card:
 	copyright: Fearless (Taylor’s Version) — Matt
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1701,6 +1785,7 @@ card:
 	copyright: Fearless (Taylor’s Version) — Matt
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1715,7 +1800,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL106)
-		!export 
+		!append  (Once each turn, you may exile a card with prophecy as you reveal it. When you do, you may cast it for its prophecy cost as long as it’s exiled.)
 	time_created: 2022-10-22 22:54:27
 	time_modified: 2023-10-01 18:38:09
 	name: Reweave Reality
@@ -1741,6 +1826,7 @@ card:
 	copyright: Fearless (Taylor’s Version) — Matt
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1777,6 +1863,7 @@ card:
 	copyright: Fearless (Taylor’s Version) — Matt
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1817,6 +1904,7 @@ card:
 	copyright: Fearless (Taylor’s Version) — Matt
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1831,7 +1919,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL106)
-		!export
+		!append  (You may cast this from your graveyard for {5}{G}{G}. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)
 	time_created: 2022-10-22 22:50:36
 	time_modified: 2023-10-01 16:55:21
 	name: Stand Unassailable
@@ -1860,6 +1948,7 @@ card:
 	copyright: Fearless (Taylor’s Version) — Matt
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1898,6 +1987,7 @@ card:
 	copyright: Fearless (Taylor’s Version) — Matt
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1935,6 +2025,7 @@ card:
 	copyright: Fearless (Taylor’s Version) — Matt
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -1974,6 +2065,7 @@ card:
 	copyright: Fearless (Taylor’s Version) — Matt
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2006,6 +2098,7 @@ card:
 	copyright: Ruhigwelt Lands — Zangy/Ivy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL107)
@@ -2035,6 +2128,7 @@ card:
 	copyright: Ruhigwelt Lands — Zangy/Ivy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL107)
@@ -2064,6 +2158,7 @@ card:
 	copyright: Ruhigwelt Lands — Zangy/Ivy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL107)
@@ -2093,6 +2188,7 @@ card:
 	copyright: Ruhigwelt Lands — Zangy/Ivy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2124,6 +2220,7 @@ card:
 	copyright: Ruhigwelt Lands — Zangy/Ivy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2155,6 +2252,7 @@ card:
 	copyright: Ruhigwelt Lands — Zangy/Ivy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL107)
@@ -2184,6 +2282,7 @@ card:
 	copyright: Ruhigwelt Lands — Zangy/Ivy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2215,6 +2314,7 @@ card:
 	copyright: Ruhigwelt Lands — Zangy/Ivy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2246,6 +2346,7 @@ card:
 	copyright: Ruhigwelt Lands — Zangy/Ivy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL107)
@@ -2275,6 +2376,7 @@ card:
 	copyright: Ruhigwelt Lands — Zangy/Ivy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2303,6 +2405,7 @@ card:
 	copyright: Ruhigwelt Lands — Zangy/Ivy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -2314,7 +2417,7 @@ card:
 		!design Pipsqueak
 		!hidetag (SL108)
 	time_created: 2023-10-11 16:51:28
-	time_modified: 2023-10-31 20:39:39
+	time_modified: 2025-10-28 01:34:17
 	name: Counting Stars
 	casting_cost: 2W
 	image: image40
@@ -2330,12 +2433,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Yuumei
 	custom_card_number: 885
-	card_code_text: ThatDamnPipsqueak
+	card_code_text: Pipsqueak
 	card_code_text_2: ThatDamnPipsqueak
 	card_code_text_3: ThatDamnPipsqueak
 	copyright: Playlist — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -2366,6 +2470,7 @@ card:
 	copyright: Playlist — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -2377,7 +2482,7 @@ card:
 		!design Pipsqueak
 		!hidetag (SL108)
 	time_created: 2023-10-11 16:51:28
-	time_modified: 2023-10-31 20:39:48
+	time_modified: 2025-10-28 01:34:12
 	name: Whatever It Takes
 	casting_cost: 1UU
 	image: image42
@@ -2393,12 +2498,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sylvain Sarrailh
 	custom_card_number: 887
-	card_code_text: ThatDamnPipsqueak
+	card_code_text: Pipsqueak
 	card_code_text_2: ThatDamnPipsqueak
 	card_code_text_3: ThatDamnPipsqueak
 	copyright: Playlist — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -2410,7 +2516,7 @@ card:
 		!design Pipsqueak
 		!hidetag (SL108)
 	time_created: 2023-10-11 16:51:28
-	time_modified: 2023-10-31 20:39:50
+	time_modified: 2025-10-28 01:34:08
 	name: Bad Romance
 	casting_cost: 4B
 	image: image43
@@ -2424,12 +2530,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Giovanni Turim
 	custom_card_number: 888
-	card_code_text: ThatDamnPipsqueak
+	card_code_text: Pipsqueak
 	card_code_text_2: ThatDamnPipsqueak
 	card_code_text_3: ThatDamnPipsqueak
 	copyright: Playlist — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -2464,6 +2571,7 @@ card:
 	copyright: Playlist — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -2497,6 +2605,7 @@ card:
 	copyright: Playlist — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -2528,6 +2637,7 @@ card:
 	copyright: Playlist — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -2559,6 +2669,7 @@ card:
 	copyright: Playlist — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -2587,6 +2698,7 @@ card:
 	copyright: Playlist — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -2618,6 +2730,7 @@ card:
 	copyright: Playlist — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL109)
@@ -2646,6 +2759,7 @@ card:
 	copyright: Chile Oscuro — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL109)
@@ -2674,6 +2788,7 @@ card:
 	copyright: Chile Oscuro — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -2686,7 +2801,7 @@ card:
 		overlay: 
 	notes: !hidetag (SL109)
 	time_created: 2023-10-22 11:48:31
-	time_modified: 2023-10-31 20:40:45
+	time_modified: 2025-10-28 20:40:42
 	name: Creed’s Desperado
 	casting_cost: 2R
 	image: image26
@@ -2705,12 +2820,13 @@ card:
 	toughness: 2
 	illustrator: Nitrox
 	custom_card_number: 896
-	card_code_text: Matt and DrChillbrain
+	card_code_text: Matt & DrChillbrain
 	card_code_text_2: Matt and DrChillbrain
 	card_code_text_3: Matt and DrChillbrain
 	copyright: Chile Oscuro — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -2739,6 +2855,7 @@ card:
 	copyright: Chile Oscuro — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL109)
@@ -2766,6 +2883,7 @@ card:
 	copyright: Chile Oscuro — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL109)
@@ -2792,6 +2910,7 @@ card:
 	copyright: Chile Oscuro — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered-beyond
 	stylesheet_version: 2020-09-04
@@ -2829,6 +2948,7 @@ card:
 	copyright: Secret Lair: Infinity Train — n3onblue
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered-beyond
 	stylesheet_version: 2020-09-04
@@ -2864,6 +2984,7 @@ card:
 	copyright: Secret Lair: Infinity Train — n3onblue
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered-beyond
 	stylesheet_version: 2020-09-04
@@ -2906,6 +3027,7 @@ card:
 	copyright: Secret Lair: Infinity Train — n3onblue
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered-beyond
 	stylesheet_version: 2020-09-04
@@ -2949,6 +3071,7 @@ card:
 	copyright: Secret Lair: Infinity Train — n3onblue
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered-beyond
 	stylesheet_version: 2020-09-04
@@ -2990,6 +3113,7 @@ card:
 	copyright: Secret Lair: Infinity Train — n3onblue
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-outlaws
 	stylesheet_version: 2024-06-07
@@ -3026,6 +3150,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-outlaws
 	stylesheet_version: 2024-06-07
@@ -3065,6 +3190,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-outlaws
 	stylesheet_version: 2024-06-07
@@ -3106,6 +3232,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: 
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-outlaws-planeswalker
 	stylesheet_version: 2024-06-07
@@ -3157,6 +3284,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: HIGH NOON — CAJUN
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3184,6 +3312,7 @@ card:
 		!hidetag (SL111)
 		!num 909
 		!altleader {mg},{mg},{mg},{mg},{mg},{mg},
+		!inpend ^You cast/replace/{mg} — You cast
 	time_created: 2020-09-04 14:51:40
 	time_modified: 2024-08-30 21:33:59
 	extra_data:
@@ -3233,6 +3362,7 @@ card:
 		You cast an instant spell.
 		You cast a sorcery spell.
 	special_text_2: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -3265,7 +3395,7 @@ card:
 		!design Cajun
 		!num 910
 	time_created: 2018-08-23 03:36:05
-	time_modified: 2023-10-31 20:48:14
+	time_modified: 2025-10-24 17:03:06
 	extra_data:
 		magic-m15-mainframe-dfc:
 			back_color_hint: 
@@ -3284,23 +3414,32 @@ card:
 	sub_type: <word-list-planeswalker>Tanya</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
 	sub_type_2: <word-list-planeswalker>Tanya</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
 	rarity: rare
+	rule_text_3: 
+	flavor_text_3: <i-flavor></i-flavor>
 	loyalty_cost_1: +2
 	loyalty_cost_2: -3
 	loyalty_cost_3: -8
-	loyalty_cost_5: +1
-	loyalty_cost_6: -2
-	loyalty_cost_7: -4
+	loyalty_cost_5: 
+	loyalty_cost_6: 
+	loyalty_cost_7: 
 	loyalty_cost_8: 
+	loyalty_cost_9: +1
+	loyalty_cost_10: -2
+	loyalty_cost_11: -4
 	loyalty: 4
 	loyalty_2: 2
 	level_1_text: <margin:130:0:0>Create a 2/2 red Werewolf creature token with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
 	level_2_text: <margin:130:0:0><atom-legname><nospellcheck>Tanya</nospellcheck></atom-legname> deals 3 damage to each creature that’s not a Wolf or a Werewolf.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>For each permanent your opponents control, that player sacrifices it unless they have Tanya deal 2 damage to them.</margin:130:0:0>
-	level_4_text: ​
-	level_5_text: <margin:130:0:0><atom-cardname><nospellcheck>Tanya, the Mooncursed</nospellcheck></atom-cardname> becomes a legendary 3/1 red Werewolf creature with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
-	level_6_text: <margin:130:0:0><atom-cardname><nospellcheck>Tanya, the Mooncursed</nospellcheck></atom-cardname> deals 3 damage to target creature or planeswalker.</margin:130:0:0>
-	level_7_text: <margin:130:0:0>Destroy target nonbasic colorless permanent.</margin:130:0:0>
+	level_4_text: 
+	level_5_text: 
+	level_6_text: 
+	level_7_text: 
 	level_8_text: 
+	level_9_text: <margin:130:0:0>Tanya, the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mooncursed</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> becomes a legendary 3/1 red Werewolf creature with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
+	level_10_text: <margin:130:0:0>Tanya, the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mooncursed</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 3 damage to target creature or planeswalker.</margin:130:0:0>
+	level_11_text: <margin:130:0:0>Destroy target nonbasic colorless permanent.</margin:130:0:0>
+	level_12_text: 
 	illustrator: ADPong
 	illustrator_2: tjota
 	custom_card_number: 
@@ -3314,11 +3453,10 @@ card:
 		[+2]: <margin:130:0:0>Create a 2/2 red Werewolf creature token with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0><atom-legname><nospellcheck>Tanya</nospellcheck></atom-legname> deals 3 damage to each creature that’s not a Wolf or a Werewolf.</margin:130:0:0>
 		[-8]: <margin:130:0:0>For each permanent your opponents control, that player sacrifices it unless they have Tanya deal 2 damage to them.</margin:130:0:0>
-		​
-		[+1]: <margin:130:0:0><atom-cardname><nospellcheck>Tanya, the Mooncursed</nospellcheck></atom-cardname> becomes a legendary 3/1 red Werewolf creature with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
-		[-2]: <margin:130:0:0><atom-cardname><nospellcheck>Tanya, the Mooncursed</nospellcheck></atom-cardname> deals 3 damage to target creature or planeswalker.</margin:130:0:0>
 	special_text_2:
-		
+		[+1]: <margin:130:0:0>Tanya, the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mooncursed</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> becomes a legendary 3/1 red Werewolf creature with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Tanya, the <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mooncursed</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals 3 damage to target creature or planeswalker.</margin:130:0:0>
+		[-4]: <margin:130:0:0>Destroy target nonbasic colorless permanent.</margin:130:0:0>
 
 card:
 	stylesheet: m15-outlaws-planeswalker
@@ -3371,6 +3509,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: HIGH NOON — CAJUN
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-outlaws
 	stylesheet_version: 2024-06-07
@@ -3407,6 +3546,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-outlaws
 	stylesheet_version: 2024-06-07
@@ -3447,6 +3587,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: 
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-outlaws
 	stylesheet_version: 2024-06-07
@@ -3486,6 +3627,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-outlaws
 	stylesheet_version: 2024-06-07
@@ -3525,6 +3667,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: 
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-outlaws
 	stylesheet_version: 2024-06-07
@@ -3561,6 +3704,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-outlaws
 	stylesheet_version: 2024-06-07
@@ -3602,6 +3746,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-outlaws-planeswalker
 	stylesheet_version: 2024-06-07
@@ -3646,6 +3791,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-outlaws
 	stylesheet_version: 2024-06-07
@@ -3656,7 +3802,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 		fullart: no
-	notes: !new
+	notes: !noexport
 	time_created: 2017-04-20 20:14:16
 	time_modified: 2024-07-31 20:19:59
 	extra_data:
@@ -3688,6 +3834,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-outlaws-planeswalker
 	stylesheet_version: 2024-06-07
@@ -3697,7 +3844,7 @@ card:
 		separated_text_size: 11
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !new
+	notes: !noexport
 	time_created: 2017-01-25 15:06:29
 	time_modified: 2023-10-31 20:42:08
 	extra_data:
@@ -3739,6 +3886,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: HIGH NOON — CAJUN
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	stylesheet: m15-outlaws-planeswalker
 	stylesheet_version: 2024-06-07
@@ -3748,7 +3896,7 @@ card:
 		separated_text_size: 12
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !new
+	notes: !noexport
 	time_created: 2017-01-25 15:06:29
 	time_modified: 2023-10-31 20:42:12
 	extra_data:
@@ -3790,6 +3938,7 @@ card:
 	copyright: Daisite Outlaws — Cajun
 	copyright_2: HIGH NOON — CAJUN
 	copyright_3: ™ & © 2018 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !hidetag (SL112)
@@ -3819,6 +3968,7 @@ card:
 	copyright: Parahumans — Emily
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL112)
@@ -3847,6 +3997,7 @@ card:
 	copyright: Parahumans — Emily
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: true
 	styling_data:
@@ -3883,6 +4034,7 @@ card:
 	copyright: Parahumans — Emily
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL112)
@@ -3911,6 +4063,7 @@ card:
 	copyright: Parahumans — Emily
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -3944,6 +4097,7 @@ card:
 	copyright: Parahumans — Emily
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL112)
@@ -3970,6 +4124,7 @@ card:
 	copyright: Parahumans — Emily
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL112)
@@ -3998,6 +4153,7 @@ card:
 	copyright: Parahumans — Emily
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL112)
@@ -4026,6 +4182,7 @@ card:
 	copyright: Parahumans — Emily
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -4057,6 +4214,7 @@ card:
 	copyright: Hunt Your Nightmares
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL113)
@@ -4083,6 +4241,7 @@ card:
 	copyright: Hunt Your Nightmares — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL113)
@@ -4111,6 +4270,7 @@ card:
 	copyright: Hunt Your Nightmares
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL113)
@@ -4140,6 +4300,7 @@ card:
 	copyright: Hunt Your Nightmares
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL113)
@@ -4168,6 +4329,7 @@ card:
 	copyright: Hunt Your Nightmares — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL113)
@@ -4194,6 +4356,7 @@ card:
 	copyright: Hunt Your Nightmares — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL113)
@@ -4218,6 +4381,7 @@ card:
 	copyright: Hunt Your Nightmares — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL113)
@@ -4242,6 +4406,7 @@ card:
 	copyright: Hunt Your Nightmares — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL113)
@@ -4274,6 +4439,7 @@ card:
 	copyright: Hunt Your Nightmares — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL113)
@@ -4299,6 +4465,7 @@ card:
 	copyright: Hunt Your Nightmares — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -4344,6 +4511,7 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -4383,6 +4551,7 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -4427,6 +4596,7 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -4466,11 +4636,13 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
 	has_styling: true
 	styling_data:
+		chop_adventure: 4,-4
 		shrink_name_text: 1
 		shrink_typeline_text: 3
 		frames: Spotlight
@@ -4509,6 +4681,7 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -4549,6 +4722,7 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -4589,6 +4763,7 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -4629,13 +4804,14 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
 	has_styling: true
 	styling_data:
 		chop_main: 15,10,
-		chop_adventure: 
+		chop_adventure: 4,-4,
 		frames: Spotlight
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -4671,11 +4847,13 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
 	has_styling: true
 	styling_data:
+		chop_adventure: 4,-4,
 		frames: Spotlight
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -4710,11 +4888,16 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
-	has_styling: false
-	notes: 
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !update
 	time_created: 2023-11-14 03:05:34
 	time_modified: 2023-11-29 17:28:57
 	card_color: white
@@ -4737,11 +4920,16 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
-	has_styling: false
-	notes: 
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !update
 	time_created: 2023-11-14 03:13:57
 	time_modified: 2023-11-29 17:29:00
 	card_color: green
@@ -4762,10 +4950,15 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
-	has_styling: false
+	has_styling: true
+	styling_data:
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: 
 	time_created: 2023-11-14 03:14:31
 	time_modified: 2023-11-29 17:29:05
@@ -4787,6 +4980,7 @@ card:
 	copyright: Going On An Adventure — gynoidpoet
 	copyright_2: Going On An Adventure
 	copyright_3: Going On An Adventure
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4813,6 +5007,7 @@ card:
 	copyright: Secret Lair: Among Us — augur
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4845,6 +5040,7 @@ card:
 	copyright: Secret Lair: Among Us — augur
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4876,6 +5072,7 @@ card:
 	copyright: Secret Lair: Among Us — augur
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4902,6 +5099,7 @@ card:
 	copyright: Secret Lair: Among Us — augur
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4928,6 +5126,7 @@ card:
 	copyright: Secret Lair: Among Us  — augur
 	copyright_2: Secret Lair: Among Us  — augur
 	copyright_3: Secret Lair: Among Us  — augur
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4958,6 +5157,7 @@ card:
 	copyright: Secret Lair: Among Us — augur
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -4989,6 +5189,7 @@ card:
 	copyright: Secret Lair: Among Us — augur
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -5023,6 +5224,7 @@ card:
 	copyright: Periodic Lands — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -5057,6 +5259,7 @@ card:
 	copyright: Periodic Lands — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -5091,6 +5294,7 @@ card:
 	copyright: Periodic Lands — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -5125,6 +5329,7 @@ card:
 	copyright: Periodic Lands — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -5159,6 +5364,7 @@ card:
 	copyright: Periodic Lands — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -5183,6 +5389,7 @@ card:
 	copyright: Periodic Lands — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -5207,6 +5414,7 @@ card:
 	copyright: Periodic Lands — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -5231,6 +5439,7 @@ card:
 	copyright: Periodic Lands — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -5255,6 +5464,7 @@ card:
 	copyright: Periodic Lands — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -5279,6 +5489,7 @@ card:
 	copyright: Periodic Lands — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5298,7 +5509,7 @@ card:
 		!subtitle!hidetag (SL117)
 		!inpend Gestalt/add/ (When this or another creature enters under your control, you may merge it with the one in play, keeping counters and attachments. They become the permanent on top plus all abilities from under it.)
 	time_created: 2023-12-22 01:26:26
-	time_modified: 2025-07-30 21:55:19
+	time_modified: 2025-10-28 00:26:45
 	name: Speaker of Deliverance
 	alias: "The Unseen Hand"
 	casting_cost: 1W
@@ -5321,9 +5532,10 @@ card:
 	card_code_text: HerziQuerzi
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
-	copyright: Secret Lair: NEW GENERATION — gynoidpoet
+	copyright: NEW GENERATION — gynoidpoet
 	copyright_2: Secret Lair: NEW GENERATION
 	copyright_3: Secret Lair: NEW GENERATION
+
 card:
 	stylesheet: m15-champions-silver-saga
 	stylesheet_version: 2020-05-10
@@ -5373,6 +5585,7 @@ card:
 		<margin:0:0:30>Whenever a creature attacks this turn, create a 1/1 colorless Spirit creature token.</margin:0:0:30>
 		<sym-auto>4WW</sym-auto>: God
 		<margin:0:0:30>Distribute a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, and +1/+1 counter among any number of creatures you control.</margin:0:0:30>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5394,7 +5607,7 @@ card:
 		!exportname Mina, Jeweled Minnow
 		!inpend Slipstream/add/ (This creature can’t be blocked as long as only creatures with slipstream are attacking.)
 	time_created: 2023-12-22 01:23:10
-	time_modified: 2024-09-30 15:09:38
+	time_modified: 2025-10-28 00:26:52
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/Her
@@ -5419,9 +5632,10 @@ card:
 	card_code_text: Dodger
 	card_code_text_2: Dodger
 	card_code_text_3: Dodger
-	copyright: Secret Lair: NEW GENERATION — gynoidpoet
+	copyright: NEW GENERATION — gynoidpoet
 	copyright_2: Secret Lair: NEW GENERATION
 	copyright_3: Secret Lair: NEW GENERATION
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -5458,6 +5672,7 @@ card:
 	copyright: AVX/TTR Top Xs — Timespiraled
 	copyright_2: ™ & © 2021 Wizards of the Coast
 	copyright_3: ™ & © 2021 Wizards of the Coast
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -5488,6 +5703,7 @@ card:
 	copyright: AVX/TTR Top Xs — Hidster
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -5514,6 +5730,7 @@ card:
 	copyright: AVX/TTR League Leaders — Hidster
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -5540,6 +5757,7 @@ card:
 	copyright: AVX/TTR League Leaders — McGuffin
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL121)
@@ -5564,13 +5782,16 @@ card:
 	copyright: Phramefobic — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes: !hidetag (SL120)
+	notes:
+		!hidetag (SL120)
+		!inpend [{]B[}][{]B[}][{]B[}][{]B[}]/add/ (You may cast this card by sacrificing a creature and paying its bloodprice.)
 	time_created: 2018-03-13 22:16:43
-	time_modified: 2024-01-01 23:42:34
+	time_modified: 2025-10-24 16:42:26
 	name: Jejun, Dark Hunter
 	casting_cost: 4BB
 	image: image159
@@ -5581,7 +5802,7 @@ card:
 	sub_type: <word-list-race-en>Demon</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bloodprice</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>BBBB</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Bloodprice</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <sym>BBBB</sym>
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
 		Sacrifice another Demon: <atom-cardname><nospellcheck>Jejun, Dark Hunter</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
@@ -5595,6 +5816,7 @@ card:
 	copyright: AVX/TTR Top Xs — Zangy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -5624,6 +5846,7 @@ card:
 	copyright: AVX/TTR League Leaders — Trewq
 	copyright_2: ™ & © 2021 Wizards of the Coast
 	copyright_3: ™ & © 2021 Wizards of the Coast
+
 card:
 	has_styling: false
 	notes: !hidetag (SL121)
@@ -5650,6 +5873,7 @@ card:
 	copyright: Phramefobic — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL121)
@@ -5674,6 +5898,7 @@ card:
 	copyright: Phramefobic — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -5711,6 +5936,7 @@ card:
 	copyright: AVX/TTR Top Xs — augur
 	copyright_2: © Wizards of the Coast
 	copyright_3: © Wizards of the Coast
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5722,7 +5948,7 @@ card:
 		overlay: 
 	notes: !subtitle!hidetag (SL117)
 	time_created: 2023-12-22 00:35:39
-	time_modified: 2023-12-31 14:38:59
+	time_modified: 2025-10-28 00:26:56
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: He/Him
@@ -5752,7 +5978,7 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Secret Lair: NEW GENERATION — gynoidpoet
+	copyright: NEW GENERATION — gynoidpoet
 	copyright_2: 
 	copyright_3: 
 	special_text:
@@ -5760,6 +5986,7 @@ card:
 		[+1]: <margin:130:0:0>Each opponent discards a card.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target creature or planeswalker card from your graveyard with mana value less than or equal to the number of lands you control. If you do, create a token that’s a copy of it.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Each opponent gets an emblem with “At the beginning of your upkeep, you lose 7 life unless you sacrifice seven permanents.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -5786,11 +6013,14 @@ card:
 	copyright: AVX/TTR Top Xs — TEST
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes: !hidetag (SL119)
+	notes:
+		!hidetag (SL119)
+		!inpend Cadence/add/ (Whenever you cast a spell, if its mana value is greater than this creature's power, put a +1/+1 counter on this creature.)
 	time_created: 2020-05-02 18:53:54
 	time_modified: 2024-01-01 23:42:19
 	extra_data:
@@ -5818,6 +6048,7 @@ card:
 	copyright: AVX/TTR League Leaders — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5835,7 +6066,7 @@ card:
 		overlay: 
 	notes: !subtitle!hidetag (SL117)
 	time_created: 2023-12-22 01:26:00
-	time_modified: 2023-12-31 14:38:54
+	time_modified: 2025-10-28 00:27:01
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/Him
@@ -5860,9 +6091,10 @@ card:
 	card_code_text: gynoidpoet
 	card_code_text_2: gynoidpoet
 	card_code_text_3: gynoidpoet
-	copyright: Secret Lair: NEW GENERATION — gynoidpoet
+	copyright: NEW GENERATION — gynoidpoet
 	copyright_2: Secret Lair: NEW GENERATION
 	copyright_3: Secret Lair: NEW GENERATION
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -5873,7 +6105,7 @@ card:
 		overlay: 
 	notes: !subtitle!hidetag (SL117)
 	time_created: 2023-12-22 00:22:46
-	time_modified: 2023-12-31 14:38:50
+	time_modified: 2025-10-28 00:27:05
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/Her
@@ -5903,13 +6135,14 @@ card:
 	card_code_text: Mako
 	card_code_text_2: Mako
 	card_code_text_3: Mako
-	copyright: Secret Lair: NEW GENERATION — gynoidpoet
+	copyright: NEW GENERATION — gynoidpoet
 	copyright_2: 
 	copyright_3: 
 	special_text:
 		Whenever you cast a spell that targets, put a loyalty counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Valeri</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kripac</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and create a 1/1 white Soldier creature token.
 		[+1]: <margin:130:0:0>Add <sym-auto>R</sym-auto>. If you spend this mana on a spell that targets, that spell can’t be countered.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -5928,7 +6161,7 @@ card:
 		overlay: 
 	notes: !subtitle!hidetag (SL117)
 	time_created: 2023-12-22 01:15:40
-	time_modified: 2023-12-31 14:38:46
+	time_modified: 2025-10-28 00:27:09
 	extra_data:
 		magic-m15-altered:
 			promo_label: 
@@ -5956,9 +6189,10 @@ card:
 	card_code_text: Dodger
 	card_code_text_2: Dodger
 	card_code_text_3: Dodger
-	copyright: Secret Lair: NEW GENERATION — gynoidpoet
+	copyright: NEW GENERATION — gynoidpoet
 	copyright_2: Secret Lair: NEW GENERATION
 	copyright_3: Secret Lair: NEW GENERATION
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -5988,6 +6222,7 @@ card:
 	copyright: AVX/TTR Top Xs — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL121)
@@ -6015,6 +6250,7 @@ card:
 	copyright: Phramefobic — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6029,7 +6265,7 @@ card:
 		overlay: 
 	notes: !subtitle!hidetag (SL117)
 	time_created: 2023-12-22 00:38:26
-	time_modified: 2023-12-31 14:38:42
+	time_modified: 2025-10-28 00:27:13
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: He/Him
@@ -6054,9 +6290,10 @@ card:
 	card_code_text: Dodger
 	card_code_text_2: Dodger
 	card_code_text_3: Dodger
-	copyright: Secret Lair: NEW GENERATION — gynoidpoet
+	copyright: NEW GENERATION — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -6089,6 +6326,7 @@ card:
 	copyright: AVX/TTR Top Xs — Toastiferous
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -6116,6 +6354,7 @@ card:
 	copyright: AVX/TTR Top Xs — Pipsqueak
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6155,6 +6394,7 @@ card:
 		[+1]: <margin:130:0:0>Draw a card, then discard a card.</margin:130:0:0>
 		[-2]: <margin:130:0:0><atom-cardname><nospellcheck>Fulmen, Aether Prodigy</nospellcheck></atom-cardname> deals 2 damage divided as you choose among one or two targets. Draw a card.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Whenever you cast an instant or sorcery spell this turn, copy it. You may choose new targets for the copy.</margin:130:0:0>
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -6188,6 +6428,7 @@ card:
 	copyright: AVX/TTR Top Xs — Scribbl
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL121)
@@ -6214,11 +6455,14 @@ card:
 	copyright: Phramefobic — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes: !hidetag (SL119)
+	notes:
+		!hidetag (SL119)
+		!append  (You may cast this from your graveyard for its reconstruct cost reduced by the mana value of a permanent you sacrifice as you cast it this way. Then exile this.)
 	time_created: 2023-02-09 00:06:11
 	time_modified: 2024-01-01 23:42:22
 	name: In Dire Straits
@@ -6242,6 +6486,7 @@ card:
 	copyright: AVX/TTR League Leaders — kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6256,7 +6501,7 @@ card:
 		overlay: 
 	notes: !subtitle!hidetag (SL117)
 	time_created: 2023-12-22 01:10:21
-	time_modified: 2024-06-30 21:43:27
+	time_modified: 2025-10-28 00:27:16
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: They/Them
@@ -6283,9 +6528,10 @@ card:
 	card_code_text: CanterburyEgg
 	card_code_text_2: CanterburyEgg
 	card_code_text_3: CanterburyEgg
-	copyright: Secret Lair: NEW GENERATION — gynoidpoet
+	copyright: NEW GENERATION — gynoidpoet
 	copyright_2: Secret Lair: NEW GENERATION
 	copyright_3: Secret Lair: NEW GENERATION
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -6325,11 +6571,14 @@ card:
 	copyright: AVX/TTR Top Xs — CyberChronometer
 	copyright_2: ™ & © 2021 Wizards of the Coast
 	copyright_3: ™ & © 2021 Wizards of the Coast
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes: !hidetag (SL120)
+	notes:
+		!hidetag (SL120)
+		!inpend crystallize./add/ (Put a +1/+1 counter on a creature you control or create a Treasure.)
 	time_created: 2023-02-09 08:47:25
 	time_modified: 2024-01-01 23:42:42
 	name: Nihilistic Shock Trooper
@@ -6355,6 +6604,7 @@ card:
 	copyright: AVX/TTR Top Xs — crushcastles23
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL121)
@@ -6381,6 +6631,7 @@ card:
 	copyright: Phramefobic — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL121)
@@ -6405,6 +6656,7 @@ card:
 	copyright: Phramefobic — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -6419,7 +6671,7 @@ card:
 		!subtitle!hidetag (SL117)
 		!addtoken OddAvatar;1;EvenAvatar;1;
 	time_created: 2023-12-22 01:31:21
-	time_modified: 2025-01-31 17:35:38
+	time_modified: 2025-10-28 00:27:21
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: He/Him
@@ -6448,7 +6700,7 @@ card:
 	card_code_text: Scribbl
 	card_code_text_2: Scribbl
 	card_code_text_3: Scribbl
-	copyright: Secret Lair: NEW GENERATION — gynoidpoet
+	copyright: NEW GENERATION — gynoidpoet
 	copyright_2: Secret Lair: NEW GENERATION
 	copyright_3: Secret Lair: NEW GENERATION
 	special_text:
@@ -6456,6 +6708,7 @@ card:
 		[+1]: <margin:130:0:0>Any number of players may draw a card. You may put a loyalty counter on Ajani Enlightened for each opponent that does.</margin:130:0:0>
 		[0]: <margin:130:0:0>You gain 2 life. Untap up to two target lands.</margin:130:0:0>
 		[-8]: <margin:130:0:0>Create a 5/5 white Avatar creature token with <kw-0><nospellcheck><key>protection from <param-name>odd mana values and a 5/5 white Avatar creature token with protection from even mana values.</param-name></key></nospellcheck></kw-0></margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6470,7 +6723,7 @@ card:
 		overlay: 
 	notes: !subtitle!hidetag (SL117)
 	time_created: 2023-12-22 01:27:23
-	time_modified: 2023-12-31 14:38:19
+	time_modified: 2025-10-28 00:27:29
 	card_color: blue, black, green, multicolor, horizontal
 	name: Celestial Banishment
 	alias: "Not Within, Without"
@@ -6489,9 +6742,11 @@ card:
 	card_code_text: Scribbl
 	card_code_text_2: Scribbl
 	card_code_text_3: Scribbl
-	copyright: Secret Lair: NEW GENERATION — gynoidpoet
+	copyright: 
 	copyright_2: Secret Lair: NEW GENERATION
 	copyright_3: Secret Lair: NEW GENERATION
+	secondary_copyright: NEW GENERATION — gynoidpoet
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -6520,6 +6775,7 @@ card:
 	copyright: AVX/TTR League Leaders — RickyRister
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -6551,6 +6807,7 @@ card:
 	copyright: AVX/TTR Top Xs — Requiem
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL121)
@@ -6578,6 +6835,7 @@ card:
 	copyright: Phramefobic — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -6606,6 +6864,7 @@ card:
 	copyright: AVX/TTR Top Xs — InfinityChef
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -6634,6 +6893,7 @@ card:
 	copyright: AVX/TTR Top Xs — Styles
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: old-portal
 	stylesheet_version: 2024-05-29
@@ -6661,6 +6921,7 @@ card:
 	copyright: 973                                                        Landscapes of Tymora — n3onblue
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: old-portal
 	stylesheet_version: 2024-05-29
@@ -6688,6 +6949,7 @@ card:
 	copyright: 974                                                        Landscapes of Tymora — n3onblue
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: old-portal
 	stylesheet_version: 2024-05-29
@@ -6715,6 +6977,7 @@ card:
 	copyright: 975                                                        Landscapes of Tymora — n3onblue
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: old-portal
 	stylesheet_version: 2024-05-29
@@ -6744,6 +7007,7 @@ card:
 	copyright: 976                                                        Landscapes of Tymora — n3onblue
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: old-portal
 	stylesheet_version: 2024-05-29
@@ -6771,6 +7035,7 @@ card:
 	copyright: 977                                                        Landscapes of Tymora — n3onblue
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -6802,6 +7067,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -6830,6 +7096,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL122)
@@ -6856,6 +7123,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL122)
@@ -6880,6 +7148,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL122)
@@ -6904,6 +7173,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL122)
@@ -6932,6 +7202,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL122)
@@ -6964,6 +7235,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL122)
@@ -6993,6 +7265,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL122)
@@ -7017,6 +7290,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL122)
@@ -7044,6 +7318,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL122)
@@ -7070,6 +7345,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL122)
@@ -7096,6 +7372,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -7124,6 +7401,7 @@ card:
 	copyright: Artist Series: Catwheezi — Chumbeque
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL124)
@@ -7152,6 +7430,7 @@ card:
 	copyright: Secret Lair: Overwatch — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL123)
@@ -7180,6 +7459,7 @@ card:
 	copyright: Artist Series: Ann Maulina — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7215,6 +7495,7 @@ card:
 	copyright: Artist Series: Ann Maulina — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL124)
@@ -7241,11 +7522,14 @@ card:
 	copyright: Secret Lair: Overwatch — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
-	notes: !hidetag (SL124)
+	notes:
+		!hidetag (SL124)
+		!update
 	time_created: 2024-02-09 18:47:31
-	time_modified: 2024-02-29 20:40:31
+	time_modified: 2025-10-03 22:29:22
 	name: Gathering the Gang
 	casting_cost: 2GW
 	image: image213
@@ -7259,17 +7543,18 @@ card:
 	flavor_text: <i-flavor>“Never accept the world as it appears to be. Dare to see it for what it could be.”</i-flavor>
 	illustrator: dad5lwg
 	custom_card_number: 1037
-	card_code_text: CyberChronomter
+	card_code_text: CyberChronometer
 	card_code_text_2: CyberChronomter
 	card_code_text_3: CyberChronomter
 	copyright: Secret Lair: Overwatch — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL124)
 	time_created: 2024-02-09 18:36:30
-	time_modified: 2024-02-29 17:26:27
+	time_modified: 2025-10-28 20:31:48
 	name: Harm’s Way
 	casting_cost: W
 	image: image214
@@ -7285,12 +7570,13 @@ card:
 		— Reinhardt</soft-line></i-flavor>
 	illustrator: Mothmandraws
 	custom_card_number: 1031
-	card_code_text: Umisa
+	card_code_text: 
 	card_code_text_2: Umisa
 	card_code_text_3: Umisa
 	copyright: Secret Lair: Overwatch — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL123)
@@ -7317,6 +7603,7 @@ card:
 	copyright: Artist Series: Ann Maulina — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL123)
@@ -7345,6 +7632,7 @@ card:
 	copyright: Artist Series: Ann Maulina — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL124)
@@ -7377,6 +7665,7 @@ card:
 	copyright: Secret Lair: Overwatch — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL123)
@@ -7401,6 +7690,7 @@ card:
 	copyright: Artist Series: Ann Maulina — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL124)
@@ -7427,6 +7717,7 @@ card:
 	copyright: Secret Lair: Overwatch — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL124)
@@ -7453,11 +7744,12 @@ card:
 	copyright: Secret Lair: Overwatch — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL123)
 	time_created: 2023-08-06 08:27:43
-	time_modified: 2024-02-28 18:01:47
+	time_modified: 2025-10-28 01:34:04
 	name: Open the Secret Paths
 	casting_cost: 2U
 	image: image221
@@ -7471,12 +7763,13 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ann Maulina
 	custom_card_number: 1021
-	card_code_text: ThatDamnPipsqueak
+	card_code_text: Pipsqueak
 	card_code_text_2: ThatDamnPipsqueak
 	card_code_text_3: ThatDamnPipsqueak
 	copyright: Artist Series: Ann Maulina — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered-plus
 	stylesheet_version: 2020-09-04
@@ -7515,6 +7808,7 @@ card:
 	copyright: Secret Lair: Overwatch — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7549,6 +7843,7 @@ card:
 	copyright: Artist Series: Ann Maulina — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7581,6 +7876,7 @@ card:
 	copyright: Artist Series: Ann Maulina — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL123)
@@ -7607,6 +7903,7 @@ card:
 	copyright: Artist Series: Ann Maulina — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL124)
@@ -7633,6 +7930,7 @@ card:
 	copyright: Secret Lair: Overwatch — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL124)
@@ -7659,6 +7957,7 @@ card:
 	copyright: Secret Lair: Overwatch — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL123)
@@ -7685,6 +7984,7 @@ card:
 	copyright: Artist Series: Ann Maulina — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7723,6 +8023,7 @@ card:
 	copyright: Artist Series: Ksenia Svincova — Zangy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7760,6 +8061,7 @@ card:
 	copyright: Artist Series: Ksenia Svincova — Zangy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7795,6 +8097,7 @@ card:
 	copyright: Artist Series: Ksenia Svincova — Zangy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7833,6 +8136,7 @@ card:
 	copyright: Artist Series: Ksenia Svincova — Zangy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7870,6 +8174,7 @@ card:
 	copyright: Artist Series: Ksenia Svincova — Zangy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7907,6 +8212,7 @@ card:
 	copyright: Artist Series: Ksenia Svincova — Zangy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7942,6 +8248,7 @@ card:
 	copyright: Artist Series: Ksenia Svincova — Zangy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -7978,6 +8285,7 @@ card:
 	copyright: Artist Series: Ksenia Svincova — Zangy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8011,6 +8319,7 @@ card:
 	copyright: ACT Top Xs — McGuffin
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8039,6 +8348,7 @@ card:
 	copyright: ACT Top Xs — Scribbl
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8078,6 +8388,7 @@ card:
 	copyright: ACT Top Xs — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8109,6 +8420,7 @@ card:
 	copyright: ACT Top Xs — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8136,6 +8448,7 @@ card:
 	copyright: ACT Top Xs — Styles
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8164,6 +8477,7 @@ card:
 	copyright: ACT Top Xs — Alittleblank
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8192,6 +8506,7 @@ card:
 	copyright: ACT Top Xs — Epid
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8225,6 +8540,7 @@ card:
 	copyright: ACT Top Xs — TEST
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8265,6 +8581,7 @@ card:
 	copyright: ACT Top Xs — Cdnewlon
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8299,6 +8616,7 @@ card:
 	copyright: ACT Top Xs — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8327,6 +8645,7 @@ card:
 	copyright: ACT Top Xs — n3onblue
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8353,6 +8672,7 @@ card:
 	copyright: ACT Top Xs — Zangy
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8392,7 +8712,11 @@ card:
 	copyright: ACT Top Xs — CyberChronometer
 	copyright_2: 
 	copyright_3: 
-	special_text: 
+	special_text:
+		[+1]: <margin:230:0:0><atom-cardname><nospellcheck>Emperor Tzhai</nospellcheck></atom-cardname> deals 1 damage to each creature, planeswalker, and opponent you don’t control.</margin:230:0:0>
+		[0]: <margin:230:0:0>Target creature can’t attack you or <atom-cardname><nospellcheck>Emperor Tzhai</nospellcheck></atom-cardname> until <atom-cardname><nospellcheck>Emperor Tzhai</nospellcheck></atom-cardname> leaves the battlefield.</margin:230:0:0>
+		[-10]: <margin:230:0:0>You control target player.</margin:230:0:0>
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8419,6 +8743,7 @@ card:
 	copyright: ACT Top Xs — Bergland
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8445,6 +8770,7 @@ card:
 	copyright: ACT Top Xs — RickyRister
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8484,6 +8810,7 @@ card:
 	copyright: ACT Top Xs — Skagra42
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8519,6 +8846,7 @@ card:
 	copyright: ACT Top Xs — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8550,6 +8878,7 @@ card:
 	copyright: ACT League Leaders — Reqiuem
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver-saga
 	stylesheet_version: 2020-05-10
@@ -8589,6 +8918,7 @@ card:
 		I — Return target creature card with mana value 2 or less from your graveyard to the battlefield.
 		II — <margin:0:0:30>Each opponent loses 2 life and you gain 2 life.</margin:0:0:30>
 		III — <margin:0:0:30>Return target creature card with mana value 2 or less from your graveyard to the battlefield.</margin:0:0:30>
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8622,6 +8952,7 @@ card:
 	copyright: ACT League Leaders — Purplemurasaki
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8649,6 +8980,7 @@ card:
 	copyright: ACT League Leaders — Wizzerinus
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver-saga
 	stylesheet_version: 2020-05-10
@@ -8700,13 +9032,14 @@ card:
 		<margin:0:0:30>Whenever you cast a creature spell this turn, draw a card.</margin:0:0:30>
 		<sym-auto>4GG</sym-auto>: God
 		<margin:0:0:30>Creatures you control get +3/+3 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.</margin:0:0:30>
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
 	notes:
 		!hidetag (SL127)
-		!inpend [{]6[}][{]G[}][{W[}]/add/ (You may cast this from your graveyard for {6}{G}{W}. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield.)
+		!inpend [{]6[}][{]G[}][{]W[}]/add/ (You may cast this from your graveyard for {6}{G}{W}. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield.)
 	time_created: 2019-09-22 23:32:38
 	time_modified: 2024-04-30 17:05:45
 	name: Endless Helpless Souls
@@ -8734,6 +9067,7 @@ card:
 	copyright: ACT League Leaders — RickyRister
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8770,6 +9104,7 @@ card:
 	copyright: ACT League Leaders — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8801,6 +9136,7 @@ card:
 	copyright: ACT League Leaders — Cdnewlon
 	copyright_2: ™ & © 1993—2014 Wizards of the Coast LLC
 	copyright_3: ™ & © 1993—2017 Wizards of the Coast LLC
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -8838,6 +9174,7 @@ card:
 	copyright: ACT League Leaders — Splashcat
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -8881,6 +9218,7 @@ card:
 	copyright: Love Grows Beyond Trials — cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8928,6 +9266,7 @@ card:
 		[+1]: <margin:130:0:0><atom-cardname><nospellcheck>Emperor Tzhai</nospellcheck></atom-cardname> deals 1 damage to each creature, planeswalker, and opponent you don’t control.</margin:130:0:0>
 		[0]: <margin:130:0:0>Target creature can’t attack you or <atom-cardname><nospellcheck>Emperor Tzhai</nospellcheck></atom-cardname> until <atom-cardname><nospellcheck>Emperor Tzhai</nospellcheck></atom-cardname> leaves the battlefield.</margin:130:0:0>
 		[-10]: <margin:130:0:0>You control target player.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -8977,6 +9316,7 @@ card:
 		[+2]: <margin:130:0:0>Create a Vial token.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Sacrifice another nonland permanent. If you do, destroy target nonland permanent.</margin:130:0:0>
 		[-9]: <margin:130:0:0>You get an emblem with “At the beginning of your end step, create Fallen One, a legendary 6/6 black Faerie Angel Avatar creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -9026,6 +9366,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 red Dragon creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Until end of turn, Flynn becomes a copy of target Dragon, except she has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>. Her base power and toughness become equal to the number of Dragons you control.</margin:130:0:0>
 		[-3]: <margin:130:0:0>You may reveal a Dragon card you own from outside the game and put it into your hand.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9070,6 +9411,7 @@ card:
 	copyright: Love Grows Beyond Trials — cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -9120,6 +9462,7 @@ card:
 		[+1]: <margin:130:0:0>Create a 1/1 colorless Elemental creature token. Put a loyalty counter on each planeswalker you control. </margin:130:0:0>
 		[+1]: <margin:130:0:0>Untap up to two target permanents.</margin:130:0:0>
 		[-7]: <margin:130:0:0>You get an emblem with “Whenever you create a token, draw a card.” Create three 4/4 green Chimera creature tokens.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -9172,6 +9515,7 @@ card:
 		[+2]: <margin:130:0:0><kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then you may draw a card. If you don’t, <atom-cardname><nospellcheck>Liactru Stormheart</nospellcheck></atom-cardname> deals 2 damage to any target.</margin:130:0:0>
 		[-4]: <margin:130:0:0>Create a 4/4 blue and red Elemental creature token. It gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 		[-10]: <margin:130:0:0>For each player, create a token that’s a copy of target permanent that player controls. You get an emblem with “Permanents you control have <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>.”</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9218,6 +9562,7 @@ card:
 	copyright: Love Grows Beyond Trials — cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -9269,6 +9614,7 @@ card:
 		Whenever you cast a spell that targets, put a loyalty counter on <atom-cardname><nospellcheck>Valeri Kripac</nospellcheck></atom-cardname> and create a 1/1 white Soldier creature token.
 		[+1]: <margin:130:0:0>Add <sym-auto>R</sym-auto>. If you spend this mana on a spell that targets, that spell can’t be countered.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.</margin:130:0:0>
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -9325,6 +9671,7 @@ card:
 		[+2]: <margin:130:0:0>Destroy up to one target permanent with mana value 4 or greater.</margin:130:0:0>
 		[-2]: <margin:130:0:0>You may cast a spell with mana value 5 or less from your hand without paying its mana cost.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Look at the top six cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.</margin:130:0:0>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9362,6 +9709,7 @@ card:
 	copyright: Year Seven
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9411,6 +9759,7 @@ card:
 	copyright: Year Seven
 	copyright_2: ™ & © 2021 Wizards of the Coast
 	copyright_3: ™ & © 2021 Wizards of the Coast
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -9451,9 +9800,10 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		You may exile target nonland permanent. If you do, you lose 3 life.
-		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		I, II — You may exile target nonland permanent. If you do, you lose 3 life.
+		III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9490,6 +9840,7 @@ card:
 	copyright: Year Seven
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -9531,6 +9882,7 @@ card:
 	copyright: Year Seven
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -9562,6 +9914,7 @@ card:
 	copyright: The Valley — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -9595,6 +9948,7 @@ card:
 	copyright: The Valley — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -9626,6 +9980,7 @@ card:
 	copyright: The Valley — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -9659,6 +10014,7 @@ card:
 	copyright: The Valley — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -9690,6 +10046,7 @@ card:
 	copyright: The Valley — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -9723,6 +10080,7 @@ card:
 	copyright: The Valley — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -9754,6 +10112,7 @@ card:
 	copyright: The Valley — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -9785,6 +10144,7 @@ card:
 	copyright: The Valley — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -9816,6 +10176,7 @@ card:
 	copyright: The Valley — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -9852,6 +10213,7 @@ card:
 	copyright: The Valley — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-sketch
 	stylesheet_version: 2024-09-01
@@ -9884,6 +10246,7 @@ card:
 	copyright: The Valley — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL132)
@@ -9910,6 +10273,7 @@ card:
 	copyright: Secret Lair: ROOT — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL132)
@@ -9938,6 +10302,7 @@ card:
 	copyright: Secret Lair: ROOT — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -9985,6 +10350,7 @@ card:
 	copyright: Secret Lair: ROOT — Toasty
 	copyright_2: Secret Lair: ROOT — Toasty
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL132)
@@ -10009,6 +10375,7 @@ card:
 	copyright: Secret Lair: ROOT — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL132)
@@ -10035,6 +10402,7 @@ card:
 	copyright: Secret Lair: ROOT — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL132)
@@ -10059,6 +10427,7 @@ card:
 	copyright: Secret Lair: ROOT — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -10087,6 +10456,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -10122,6 +10492,7 @@ card:
 	copyright: All Aboard the Space Train — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -10162,6 +10533,7 @@ card:
 	copyright_3: 
 	secondary_copyright:
 		 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -10201,6 +10573,7 @@ card:
 	copyright_3: 
 	secondary_copyright:
 		 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -10238,6 +10611,7 @@ card:
 	copyright_3: 
 	secondary_copyright:
 		 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -10278,6 +10652,7 @@ card:
 	copyright_3: 
 	secondary_copyright:
 		 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -10315,6 +10690,7 @@ card:
 	copyright_3: 
 	secondary_copyright:
 		 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -10359,6 +10735,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -10397,6 +10774,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -10436,6 +10814,7 @@ card:
 	copyright_3: 
 	secondary_copyright:
 		 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10473,6 +10852,7 @@ card:
 	copyright: Oh, Snap! — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10510,6 +10890,7 @@ card:
 	copyright: Oh, Snap! — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10546,6 +10927,7 @@ card:
 	copyright: Oh, Snap! — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10583,6 +10965,7 @@ card:
 	copyright: Oh, Snap! — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10617,6 +11000,7 @@ card:
 	copyright: Oh, Snap! — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10655,6 +11039,7 @@ card:
 	copyright: Oh, Snap! — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10693,6 +11078,7 @@ card:
 	copyright: Oh, Snap! — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10730,6 +11116,7 @@ card:
 	copyright: Oh, Snap! — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10768,6 +11155,7 @@ card:
 	copyright: Oh, Snap! — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10806,6 +11194,7 @@ card:
 	copyright: Oh, Snap! — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -10836,6 +11225,7 @@ card:
 	copyright: Oh, Snap! — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10868,6 +11258,7 @@ card:
 	copyright: FTCR: Fetchlands — CyberChronometer
 	copyright_2: FTCR: Fetchlands — CyberChronometer
 	copyright_3: FTCR: Fetchlands — CyberChronometer
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10903,6 +11294,7 @@ card:
 	copyright: FTCR: Fetchlands — CyberChronometer
 	copyright_2: FTCR: Fetchlands — CyberChronometer
 	copyright_3: FTCR: Fetchlands — CyberChronometer
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10938,6 +11330,7 @@ card:
 	copyright: FTCR: Fetchlands — CyberChronometer
 	copyright_2: FTCR: Fetchlands — CyberChronometer
 	copyright_3: FTCR: Fetchlands — CyberChronometer
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -10973,6 +11366,7 @@ card:
 	copyright: FTCR: Fetchlands — CyberChronometer
 	copyright_2: FTCR: Fetchlands — CyberChronometer
 	copyright_3: FTCR: Fetchlands — CyberChronometer
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11008,6 +11402,7 @@ card:
 	copyright: FTCR: Fetchlands — CyberChronometer
 	copyright_2: FTCR: Fetchlands — CyberChronometer
 	copyright_3: FTCR: Fetchlands — CyberChronometer
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11043,6 +11438,7 @@ card:
 	copyright: FTCR: Fetchlands — CyberChronometer
 	copyright_2: FTCR: Fetchlands — CyberChronometer
 	copyright_3: FTCR: Fetchlands — CyberChronometer
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11077,6 +11473,7 @@ card:
 	copyright: FTCR: Fetchlands — CyberChronometer
 	copyright_2: FTCR: Fetchlands — CyberChronometer
 	copyright_3: FTCR: Fetchlands — CyberChronometer
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11108,6 +11505,7 @@ card:
 	copyright: FTCR: Fetchlands — CyberChronometer
 	copyright_2: FTCR: Fetchlands — CyberChronometer
 	copyright_3: FTCR: Fetchlands — CyberChronometer
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -11154,6 +11552,7 @@ card:
 	copyright_2: FTCR: Fetchlands — CyberChronometer
 	copyright_3: FTCR: Fetchlands — CyberChronometer
 	special_text_2: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11187,6 +11586,7 @@ card:
 	copyright: FTCR: Fetchlands — CyberChronometer
 	copyright_2: FTCR: Fetchlands — CyberChronometer
 	copyright_3: FTCR: Fetchlands — CyberChronometer
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11222,6 +11622,7 @@ card:
 	copyright: FTCR: Fetchlands — CyberChronometer
 	copyright_2: FTCR: Fetchlands — CyberChronometer
 	copyright_3: FTCR: Fetchlands — CyberChronometer
+
 card:
 	stylesheet: old
 	stylesheet_version: 2024-05-29
@@ -11253,6 +11654,7 @@ card:
 	copyright: A Monument to My Sins — Pipsqueak
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: old
 	stylesheet_version: 2024-05-29
@@ -11282,6 +11684,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: old
 	stylesheet_version: 2024-05-29
@@ -11311,6 +11714,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: old
 	stylesheet_version: 2024-05-29
@@ -11342,6 +11746,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: old
 	stylesheet_version: 2024-05-29
@@ -11377,6 +11782,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11426,6 +11832,7 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11472,6 +11879,7 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11516,6 +11924,7 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11562,6 +11971,7 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -11624,6 +12034,7 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: Snap Back! — gynoidpoet
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11674,6 +12085,7 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11729,6 +12141,7 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11773,6 +12186,7 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11819,6 +12233,7 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11867,6 +12282,7 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11913,6 +12329,7 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -11959,10 +12376,15 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
-	has_styling: false
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: !hidetag (SL137)
 	time_created: 2024-08-21 04:54:53
 	time_modified: 2024-08-26 03:20:37
@@ -11995,10 +12417,15 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
-	has_styling: false
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: !hidetag (SL137)
 	time_created: 2024-08-21 05:09:47
 	time_modified: 2024-08-26 03:20:40
@@ -12031,6 +12458,7 @@ card:
 	copyright: Snap Back! — gynoidpoet
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL138)
@@ -12055,6 +12483,7 @@ card:
 	copyright: Nolan Nasser
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -12063,7 +12492,7 @@ card:
 		!hidetag (SL138)
 		!num 1168
 	time_created: 2024-08-23 10:19:38
-	time_modified: 2024-08-26 03:44:32
+	time_modified: 2025-10-28 00:32:48
 	card_color_2: black
 	name: Descend on the Helpless
 	name_2: Cormoran, Raven Monarch
@@ -12096,6 +12525,7 @@ card:
 	copyright: Nature Incarnate — Toasty
 	copyright_2: Nature Incarnate — Toasty
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL138)
@@ -12122,6 +12552,7 @@ card:
 	copyright: Nature Incarnate — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -12176,6 +12607,7 @@ card:
 	copyright: Nature Incarnate — Toasty
 	copyright_2: Nature Incarnate — Toasty
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL138)
@@ -12202,6 +12634,7 @@ card:
 	copyright: Nature Incarnate — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -12232,6 +12665,7 @@ card:
 	copyright: Nature Incarnate — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL138)
@@ -12258,6 +12692,7 @@ card:
 	copyright: Nature Incarnate — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL138)
@@ -12282,6 +12717,7 @@ card:
 	copyright: Nature Incarnate — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL138)
@@ -12306,6 +12742,7 @@ card:
 	copyright: Nature Incarnate — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -12335,6 +12772,7 @@ card:
 	copyright: Nature Incarnate — Toasty
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12374,6 +12812,7 @@ card:
 	copyright: Ophorio Evitative — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12415,6 +12854,7 @@ card:
 	copyright: Ophorio Evitative — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12455,6 +12895,7 @@ card:
 	copyright: Ophorio Evitative — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12494,6 +12935,7 @@ card:
 	copyright: Ophorio Evitative — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12533,6 +12975,7 @@ card:
 	copyright: Ophorio Evitative — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12569,6 +13012,7 @@ card:
 	copyright: Ophorio Evitative — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12606,6 +13050,7 @@ card:
 	copyright: Ophorio Evitative — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12644,6 +13089,7 @@ card:
 	copyright: Ophorio Evitative — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12677,6 +13123,7 @@ card:
 	copyright: Ophorio Evitative — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12710,6 +13157,7 @@ card:
 	copyright: Ophorio Evitative — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12745,6 +13193,7 @@ card:
 	copyright: Ophorio Evitative — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12781,6 +13230,7 @@ card:
 	copyright: Evitative Oirohpo — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12816,6 +13266,7 @@ card:
 	copyright: Evitative Oirohpo — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12852,6 +13303,7 @@ card:
 	copyright: Evitative Oirohpo — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12892,6 +13344,7 @@ card:
 	copyright: Evitative Oirohpo — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12927,6 +13380,7 @@ card:
 	copyright: Evitative Oirohpo — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12960,6 +13414,7 @@ card:
 	copyright: Evitative Oirohpo — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -12998,6 +13453,7 @@ card:
 	copyright: Evitative Oirohpo — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -13034,6 +13490,7 @@ card:
 	copyright: Evitative Oirohpo — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -13073,6 +13530,7 @@ card:
 	copyright: Evitative Oirohpo — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -13110,6 +13568,7 @@ card:
 	copyright: Evitative Oirohpo — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -13148,6 +13607,7 @@ card:
 	copyright: Evitative Oirohpo — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -13185,6 +13645,7 @@ card:
 	copyright: Ophorio Evitative — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-scroll
 	stylesheet_version: 2024-09-01
@@ -13221,6 +13682,7 @@ card:
 	copyright: Evitative Oirohpo — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13250,6 +13712,7 @@ card:
 	copyright: Pokelands — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13279,6 +13742,7 @@ card:
 	copyright: Pokelands — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13308,6 +13772,7 @@ card:
 	copyright: Pokelands — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13337,6 +13802,7 @@ card:
 	copyright: Pokelands — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13366,6 +13832,7 @@ card:
 	copyright: Pokelands — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13395,6 +13862,7 @@ card:
 	copyright: Pokelands — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13424,6 +13892,7 @@ card:
 	copyright: Pokelands — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13453,6 +13922,7 @@ card:
 	copyright: Pokelands — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13482,6 +13952,7 @@ card:
 	copyright: Pokelands — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -13511,6 +13982,7 @@ card:
 	copyright: Pokelands — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -13542,6 +14014,7 @@ card:
 	copyright: BTB/ETF Top Xs — Cajun
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -13571,6 +14044,7 @@ card:
 	copyright: BTB/ETF Top Xs — _Styles
 	copyright_2: ™ & © 2019 Wizards of the Coast
 	copyright_3: ™ & © 2019 Wizards of the Coast
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -13597,6 +14071,7 @@ card:
 	copyright: BTB/ETF Top Xs — Epid
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -13625,13 +14100,16 @@ card:
 	copyright: BTB/ETF Top Xs — n3onblue
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes: !hidetag (SL142)
+	notes:
+		!hidetag (SL142)
+		!update
 	time_created: 2018-11-30 22:58:24
-	time_modified: 2024-08-30 00:18:37
+	time_modified: 2025-10-03 22:28:10
 	name: Apex's Oath
 	casting_cost: 1GG
 	image: image413
@@ -13651,13 +14129,14 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sandara
 	custom_card_number: 1211
-	card_code_text: Pipqueak
+	card_code_text: Pipsqueak
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: BTB/ETF Top Xs — Hervor
 	copyright_2: 
 	copyright_3: 
 	special_text: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -13684,6 +14163,7 @@ card:
 	copyright: BTB/ETF Top Xs — CyberChronometer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -13714,6 +14194,7 @@ card:
 	copyright: BTB/ETF Top Xs — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver-saga
 	stylesheet_version: 2020-05-10
@@ -13769,6 +14250,7 @@ card:
 		<margin:0:0:30>Each cursed opponent sacrifices a creature.</margin:0:0:30>
 		<sym-auto>1BR</sym-auto>: Strife
 		<margin:0:0:30><atom-cardname><nospellcheck>Chaos Module</nospellcheck></atom-cardname> gains “At the beginning of your end step, each cursed opponent loses life equal to the number of Curses attached to them.”</margin:0:0:30>
+
 card:
 	stylesheet: m15-champions-silver-saga
 	stylesheet_version: 2020-05-10
@@ -13824,6 +14306,7 @@ card:
 		<margin:0:0:30>Each cursed opponent sacrifices a creature.</margin:0:0:30>
 		<sym-auto>1BR</sym-auto>: Strife
 		<margin:0:0:30><atom-cardname><nospellcheck>Chaos Module</nospellcheck></atom-cardname> gains “At the beginning of your end step, each cursed opponent loses life equal to the number of Curses attached to them.”</margin:0:0:30>
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -13853,6 +14336,7 @@ card:
 	copyright: BTB/ETF Top Xs — gynoidpoet
 	copyright_2: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_3: ™️ & ©️ 2021 Wizards of the Coast
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -13881,6 +14365,7 @@ card:
 	copyright: BTB/ETF Top Xs — Pipsqueak
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -13910,6 +14395,7 @@ card:
 	copyright: BTB/ETF Top Xs — trapables
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -13946,6 +14432,7 @@ card:
 	copyright: BTB/ETF Top Xs — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -13977,6 +14464,7 @@ card:
 	copyright: BTB/ETF Top Xs — Silver Parabellum
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14005,6 +14493,7 @@ card:
 	copyright: BTB/ETF Top Xs — kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14044,6 +14533,7 @@ card:
 	copyright: BTB/ETF Top Xs — Toastiferous
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14075,6 +14565,7 @@ card:
 	copyright: BTB/ETF Top Xs — TEST
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14101,6 +14592,7 @@ card:
 	copyright: BTB/ETF Top Xs — Splashcat
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14127,6 +14619,7 @@ card:
 	copyright: BTB/ETF Top Xs — Alittleblank
 	copyright_2: ™ & © 2017 Wizards of the Coast
 	copyright_3: ™ & © 2017 Wizards of the Coast
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14156,6 +14649,7 @@ card:
 	copyright: BTB/ETF Top Xs — Trewq
 	copyright_2: © Wizards of the Coast and Aura Designs
 	copyright_3: © Wizards of the Coast and Aura Designs
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14184,6 +14678,7 @@ card:
 	copyright: BTB/ETF Top Xs — goblinwarbuggy
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14211,6 +14706,7 @@ card:
 	copyright: BTB/ETF Top Xs — gaolo
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14255,6 +14751,7 @@ card:
 	copyright: BTB/ETF Top Xs — gynoidoet
 	copyright_2: ™️ & ©️ 2021 Wizards of the Coast
 	copyright_3: ™️ & ©️ 2021 Wizards of the Coast
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14283,6 +14780,7 @@ card:
 	copyright: BTB/ETF Top Xs — Toastiferous
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14317,6 +14815,7 @@ card:
 	copyright: BTB/ETF League Leaders — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14347,6 +14846,7 @@ card:
 	copyright: BTB/ETF League Leaders — Requiem
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14376,6 +14876,7 @@ card:
 	copyright: BTB/ETF League Leaders — Hervor
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14425,6 +14926,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14459,6 +14961,7 @@ card:
 	copyright: BTB/ETF League Leaders — kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -14515,6 +15018,7 @@ card:
 	copyright: BTB/ETF League Leaders — Nix
 	copyright_2: BTB/ETF League Leaders — Nix
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14551,6 +15055,7 @@ card:
 	copyright: BTB/ETF League Leaders — Nix
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14595,6 +15100,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14626,6 +15132,7 @@ card:
 	copyright: BTB/ETF League Leaders — Toastiferous
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14664,6 +15171,7 @@ card:
 	copyright: BTB/ETF Leauge Leaders — _Styles
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14694,6 +15202,7 @@ card:
 	copyright: BTB/ETF League Leaders — Trewq
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14740,6 +15249,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14786,6 +15296,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14832,6 +15343,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14863,6 +15375,7 @@ card:
 	copyright: BTB/ETF League Leaders — Trewq
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
@@ -14896,6 +15409,7 @@ card:
 	copyright: BTB/ETF League Leaders — Requiem
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-showcase-ravnica-dossier
 	stylesheet_version: 2024-10-01
@@ -14930,6 +15444,7 @@ card:
 	copyright: Will of the Council — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-showcase-ravnica-dossier
 	stylesheet_version: 2024-10-01
@@ -14966,6 +15481,7 @@ card:
 	copyright: Will of the Council — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-showcase-ravnica-dossier
 	stylesheet_version: 2024-10-01
@@ -14996,6 +15512,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: Will of the Council — Silver
+
 card:
 	stylesheet: m15-showcase-ravnica-dossier
 	stylesheet_version: 2024-10-01
@@ -15031,6 +15548,7 @@ card:
 	copyright: Will of the Council — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-showcase-ravnica-dossier
 	stylesheet_version: 2024-10-01
@@ -15064,6 +15582,7 @@ card:
 	copyright: Will of the Council — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-showcase-ravnica-dossier
 	stylesheet_version: 2024-10-01
@@ -15102,6 +15621,7 @@ card:
 	copyright: Will of the Council — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL145)
@@ -15128,6 +15648,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -15167,6 +15688,7 @@ card:
 	copyright: Maria (Secret Santa) — Epid
 	copyright_2: Designed by FifthDragon
 	copyright_3: Designed by FifthDragon
+
 card:
 	stylesheet: m15-mainframe-planeswalker
 	stylesheet_version: 2024-09-01
@@ -15213,6 +15735,7 @@ card:
 		At the beginning of combat on your turn, if there are seven or more loyalty counters on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, they become a 5/5 Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
 		[+1]: <margin:130:0:0>Create a 1/1 red and white Cleric creature token with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-X]: <margin:130:0:0><error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals X damage to any target. You gain X life.</margin:130:0:0>
+
 card:
 	has_styling: false
 	notes: !hidetag (SL145)
@@ -15244,6 +15767,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15256,9 +15780,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL145)
+	notes:
+		!hidetag (SL145)
+		!inpend [{]U[}][{]B[}]/add/ ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 	time_created: 2023-06-03 19:52:25
-	time_modified: 2024-10-30 17:33:29
+	time_modified: 2025-10-27 23:27:12
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: They/Them
@@ -15273,7 +15799,7 @@ card:
 	rarity: rare
 	rule_text:
 		Deception <sym>UB</sym>
-		Sacrifice a creature: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Shinrei</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> of the Ghosting way can’t be blocked this turn.
+		Sacrifice a creature: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Shinrei</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> of the Ghosting Way can’t be blocked this turn.
 		Whenever one or more Rogues you control deal combat damage to a player, return a creature card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark card
@@ -15287,6 +15813,7 @@ card:
 	copyright: Maria (Secret Santa) — Epid
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15298,9 +15825,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL145)
+	notes:
+		!hidetag (SL145)
+		!inpend [{]U[}][{]B[}]/add/ ({U}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
 	time_created: 2023-06-03 19:52:25
-	time_modified: 2024-10-30 17:33:31
+	time_modified: 2025-10-03 22:29:35
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/Her
@@ -15322,12 +15851,13 @@ card:
 	toughness: 3
 	illustrator: Arcanedist
 	custom_card_number: 1249
-	card_code_text: Timesspiraled
+	card_code_text: Timespiraled
 	card_code_text_2: By TimesSpiraled
 	card_code_text_3: By TimesSpiraled
 	copyright: Maria (Secret Santa) — Epid
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
@@ -15379,6 +15909,7 @@ card:
 	copyright_2: Maria (Secret Santa) — Epid
 	copyright_3: 
 	secondary_copyright_2: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL145)
@@ -15415,6 +15946,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15454,6 +15986,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -15494,10 +16027,15 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: Maria (Secret Santa) — Epid
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
-	has_styling: false
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes: !hidetag (SL145)
 	time_created: 2023-12-13 14:01:29
 	time_modified: 2024-10-30 17:32:50
@@ -15522,6 +16060,7 @@ card:
 	copyright: Maria (Secret Santa) — Epid
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-youtube
 	stylesheet_version: 2024-09-01
@@ -15573,6 +16112,7 @@ card:
 	copyright: Recollected Mythos — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-youtube
 	stylesheet_version: 2024-09-01
@@ -15628,6 +16168,7 @@ card:
 	copyright: Recollected Mythos — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-youtube
 	stylesheet_version: 2024-09-01
@@ -15679,6 +16220,7 @@ card:
 	copyright: Recollected Mythos — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-youtube
 	stylesheet_version: 2024-09-01
@@ -15729,6 +16271,7 @@ card:
 	copyright: Recollected Mythos — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-youtube
 	stylesheet_version: 2024-09-01
@@ -15778,6 +16321,7 @@ card:
 	copyright: Recollected Mythos — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-youtube
 	stylesheet_version: 2024-09-01
@@ -15828,6 +16372,7 @@ card:
 	copyright: Recollected Mythos — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-youtube
 	stylesheet_version: 2024-09-01
@@ -15878,6 +16423,7 @@ card:
 	copyright: Recollected Mythos — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-youtube
 	stylesheet_version: 2024-09-01
@@ -15928,6 +16474,7 @@ card:
 	copyright: Recollected Mythos — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-youtube
 	stylesheet_version: 2024-09-01
@@ -15979,6 +16526,7 @@ card:
 	copyright: Recollected Mythos — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-youtube
 	stylesheet_version: 2024-09-01
@@ -16032,6 +16580,7 @@ card:
 	copyright: Recollected Mythos — Silver
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -16082,6 +16631,7 @@ card:
 		<margin:0:0:30>Whenever you sacrifice an artifact, that artifact deals 1 damage to each opponent.</margin:0:0:30>
 		<sym>4RR</sym>: <i>Hit Yourself</i>
 		<margin:0:0:30>At the beginning of combat on your turn, you may have an artifact you control become a 6/6 Golem artifact creature until end of turn.</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -16099,7 +16649,7 @@ card:
 		!hidetag (SL147)
 		!flavorsaga
 	time_created: 2024-08-31 18:10:08
-	time_modified: 2024-10-30 17:06:32
+	time_modified: 2025-10-24 16:22:58
 	name: A Princess’ Plea
 	casting_cost: 1WBG
 	image: image491
@@ -16111,7 +16661,7 @@ card:
 	rarity: rare
 	chapter_text:
 		<i>She’s addicted<soft-line>
-		</soft-line>Obsessed, like, “I know I can fix him” <soft-line>
+		</soft-line>Obsessed, like, “I know I can fix him”<soft-line>
 		Her love, the type
 		Where she don’t know where to draw the line</i></soft-line>
 	rule_text: 
@@ -16130,13 +16680,11 @@ card:
 	copyright_3: 
 	secondary_copyright: 
 	special_text:
-		<i>She’s addicted<soft-line>
-		</soft-line>Obsessed, like, “I know I can fix him” <soft-line>
-		Her love, the type
-		Where she don’t know where to draw the line</i></soft-line>
-		You may exile target nonland permanent. If you do, you lose 3 life.
-		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+		I, II — You may exile target nonland permanent. If you do, you lose 3 life.
+		III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
+
 card:
 	has_styling: false
 	notes:
@@ -16175,6 +16723,7 @@ card:
 	copyright: SMILE! :D <i>Russian Roulette</i> — kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -16207,6 +16756,7 @@ card:
 	copyright: SMILE! :D <i>Perfect Pinterest Garden</i> — kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -16251,7 +16801,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		Gain the next level as a sorcery to add its ability.
+		
 		<i-auto>(Activate each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>submodule</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> once as a sorcery. When this enters, activate one <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>submodule</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> for free.)</i-auto>
 		<sym-auto>RRR</sym-auto>: <i>Shame</i>
 		<margin:0:0:30>Any player may have Identity Module deal 5 damage to them. If no one does, draw three cards.</margin:0:0:30>
@@ -16259,6 +16809,7 @@ card:
 		<margin:0:0:30>Identity Module deals 3 damage to any target.</margin:0:0:30>
 		<sym-auto>RRR</sym-auto>: <i>Acceptance</i>
 		<margin:0:0:30>Identity Module gains “Players can’t gain life” and “At the beginning of each player’s upkeep, Identity Module deals 2 damage to that player.”</margin:0:0:30>
+
 card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
@@ -16305,6 +16856,7 @@ card:
 		<margin:0:0:30>Creature tokens you control get +1/+1 and have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:0:0:30>
 		<sym>3WW</sym>: <i>Enlightenment </i>
 		<margin:0:0:30>At the beginning of your end step, if you control no creatures, create <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hu</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Li, a legendary 4/4 white Fox Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.</margin:0:0:30>
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16350,6 +16902,7 @@ card:
 	copyright: SMILE! :D <i>Easier To Love You</i> — kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16367,7 +16920,7 @@ card:
 		!hidetag (SL147)
 		!append  (You may cast this from your graveyard for {8}{B}. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)
 	time_created: 2024-09-02 16:29:31
-	time_modified: 2024-10-30 17:07:04
+	time_modified: 2025-10-28 00:36:41
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: 
@@ -16383,7 +16936,7 @@ card:
 	rule_text:
 		As an additional cost to cast this spell, exile X cards from your graveyard.
 		You draw X cards and you lose X life.
-		<kw-A><nospellcheck><key>Coalesce <param-mana><sym>8B</sym></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>8B</sym-auto></param-mana>. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-0><nospellcheck><key>Coalesce <param-mana><sym>8B</sym></param-mana></key></nospellcheck></kw-0>
 	flavor_text:
 		<i-flavor>And everybody else surrounds you<soft-line>
 		</soft-line>But you never leave<soft-line>
@@ -16398,6 +16951,7 @@ card:
 	copyright: SMILE! :D <i>Mona Lisa</i> — kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -16439,6 +16993,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16482,6 +17037,7 @@ card:
 	copyright: SMILE! :D <i>Everything To Me</i> — kayiu
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16526,6 +17082,7 @@ card:
 	copyright: Artist Series: Ilya Popov — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL149)
@@ -16554,6 +17111,7 @@ card:
 	copyright: Artist Series: Ilya Popov — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL149)
@@ -16578,6 +17136,7 @@ card:
 	copyright: Artist Series: Ilya Popov — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL149)
@@ -16604,6 +17163,7 @@ card:
 	copyright: Artist Series: Ilya Popov — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16641,6 +17201,7 @@ card:
 	copyright: Artist Series: Ilya Popov — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL149)
@@ -16667,6 +17228,7 @@ card:
 	copyright: Artist Series: Ilya Popov — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16707,6 +17269,7 @@ card:
 	copyright: Artist Series: Ilya Popov — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL149)
@@ -16731,6 +17294,7 @@ card:
 	copyright: Artist Series: Ilya Popov — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes: !hidetag (SL149)
@@ -16758,6 +17322,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: 
+
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
@@ -16792,6 +17357,7 @@ card:
 	copyright: Artist Series: Ilya Popov — Timespiraled
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -16828,6 +17394,7 @@ card:
 	copyright: Feline Fandom — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-adventure
 	stylesheet_version: 2024-05-27
@@ -16871,14 +17438,15 @@ card:
 	copyright: Feline Fandom — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
-		
+		!update
 		!hidetag (SL148)
 	time_created: 2024-10-26 19:46:22
-	time_modified: 2024-10-30 17:15:09
-	name: Arrive, Surrounded By Petals
+	time_modified: 2025-10-22 15:22:47
+	name: Arrive, Surrounded by Petals
 	casting_cost: G
 	image: image514
 	image_2: 
@@ -16906,6 +17474,7 @@ card:
 	copyright: Feline Fandom — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -16940,6 +17509,7 @@ card:
 	copyright: Feline Fandom — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -16972,13 +17542,14 @@ card:
 	copyright: Feline Fandom — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
 		
 		!hidetag (SL148)
 	time_created: 2024-10-26 19:44:40
-	time_modified: 2024-10-30 17:18:09
+	time_modified: 2025-10-28 00:00:22
 	name: Antali Archdruid
 	casting_cost: RGW
 	image: image517
@@ -17002,12 +17573,13 @@ card:
 	toughness: 3
 	illustrator: Nightrizer
 	custom_card_number: 1279
-	card_code_text: 
+	card_code_text: Mako
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Feline Fandom — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -17042,6 +17614,7 @@ card:
 	copyright: Feline Fandom — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	has_styling: false
 	notes:
@@ -17078,6 +17651,7 @@ card:
 	copyright: Feline Fandom — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
@@ -17086,7 +17660,9 @@ card:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL148)
+	notes:
+		!hidetag (SL148)
+		!update
 	time_created: 2024-10-26 20:40:42
 	time_modified: 2025-02-06 01:38:36
 	card_color: colorless
@@ -17115,10 +17691,15 @@ card:
 	copyright: Feline Fandom — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
-	has_styling: false
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes:
 		
 		!hidetag (SL148)
@@ -17147,10 +17728,15 @@ card:
 	copyright: Feline Fandom — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
-	has_styling: false
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes:
 		
 		!hidetag (SL148)
@@ -17183,10 +17769,15 @@ card:
 	copyright: Feline Fandom — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
-	has_styling: false
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	notes:
 		
 		!hidetag (SL148)
@@ -17219,6 +17810,7 @@ card:
 	copyright: Feline Fandom — aanginer
 	copyright_2: 
 	copyright_3: 
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -17254,6 +17846,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: Winter Playlist — Nix
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -17287,6 +17880,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: Winter Playlist — Nix
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -17322,6 +17916,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: Winter Playlist — Nix
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -17356,6 +17951,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: Winter Playlist — Nix
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -17394,6 +17990,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: Winter Playlist — Nix
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -17429,6 +18026,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: Winter Playlist — Nix
+
 card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
@@ -17467,6 +18065,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: Winter Playlist — Nix
+
 keyword:
 	keyword: Reconstruct
 	match: Reconstruct <atom-param>cost</atom-param>
