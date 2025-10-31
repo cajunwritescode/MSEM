@@ -392,7 +392,7 @@ card:
 		!rahit
 		!update buffed: Was 1/1 for {1}{U}{U}.
 	time_created: 2016-09-24 23:33:47
-	time_modified: 2025-10-28 23:11:20
+	time_modified: 2025-10-30 20:51:29
 	name: Rahit’s Prodigy
 	casting_cost: UU
 	image: image60
@@ -405,7 +405,9 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Rahit’s Prodigy</nospellcheck></atom-cardname> enters, return target instant or sorcery card from your graveyard to your hand, then discard a card.
-	flavor_text: <i-flavor>More than most, he grasps the balance between energy, creation, and will.</i-flavor>
+	flavor_text:
+		<i-flavor>“One day, you will become spectacular.”<soft-line>
+		—</soft-line><error-spelling:en_US>Rahit</i-flavor></error-spelling:en_US>
 	power: 2
 	toughness: 1
 	illustrator: Randy Vargas
