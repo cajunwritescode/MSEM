@@ -8737,15 +8737,18 @@ card:
 	stylesheet_version: 2020-05-10
 	has_styling: true
 	styling_data:
+		separated_text_size: 11
 		class_levels: cyber
 		other_options: class
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL168)
+	notes:
+		!hidetag (SL168)
+		!update
 	time_created: 2021-12-20 21:40:59
-	time_modified: 2025-09-30 21:17:27
+	time_modified: 2025-10-31 10:54:36
 	name: Precognition Module
-	casting_cost: WU
+	casting_cost: 1WU
 	image: image244
 	image_2: 
 	mainframe_image: 
@@ -8758,19 +8761,21 @@ card:
 	rarity: rare
 	chapter_text: 
 	rule_text: 
+	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
 	level_2: Prioritize
 	level_3: Precipitate
 	level_4: Process
 	level_1_text:
 		<i-auto>(Activate each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>submodule</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> once as a sorcery. When this enters, activate one <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>submodule</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> for free.)</i-auto>
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-	level_2_text: <margin:0:0:30>Put two +1/+1 counters on target tapped creature.</margin:0:0:30>
+	level_2_text: <margin:0:0:30>Put two +1/+1 counters on target creature.</margin:0:0:30>
 	level_3_text: <margin:0:0:30>Look at the top six cards of your library. Exile one face down, then shuffle. For as long as that card is exiled, you may cast it if it’s an instant or has <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.</margin:0:0:30>
 	level_4_text: <margin:0:0:30>Precognition Module gains “Whenever you cast another spell with <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> or an instant, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.”</margin:0:0:30>
-	level_9_text: <sym-auto>2W</sym-auto>:
-	level_10_text: <sym-auto>2U</sym-auto>:
-	level_11_text: <sym-auto>1WU</sym-auto>:
+	level_9_text: <sym-auto>3W</sym-auto>:
+	level_10_text: <sym-auto>3U</sym-auto>:
+	level_11_text: <sym-auto>2WU</sym-auto>:
 	illustrator: ねるぞう＠紅楼夢N05ab
 	custom_card_number: 1501
 	card_code_text: Bergland
@@ -8783,11 +8788,11 @@ card:
 		
 		<i-auto>(Activate each <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>submodule</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> once as a sorcery. When this enters, activate one <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>submodule</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> for free.)</i-auto>
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		<sym-auto>2W</sym-auto>: Prioritize
-		<margin:0:0:30>Put two +1/+1 counters on target tapped creature.</margin:0:0:30>
-		<sym-auto>2U</sym-auto>: Precipitate
+		<sym-auto>3W</sym-auto>: Prioritize
+		<margin:0:0:30>Put two +1/+1 counters on target creature.</margin:0:0:30>
+		<sym-auto>3U</sym-auto>: Precipitate
 		<margin:0:0:30>Look at the top six cards of your library. Exile one face down, then shuffle. For as long as that card is exiled, you may cast it if it’s an instant or has <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.</margin:0:0:30>
-		<sym-auto>1WU</sym-auto>: Process
+		<sym-auto>2WU</sym-auto>: Process
 		<margin:0:0:30>Precognition Module gains “Whenever you cast another spell with <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> or an instant, <kw-0><nospellcheck><key>surveil <param-number>2</param-number></key></nospellcheck></kw-0>.”</margin:0:0:30>
 
 card:

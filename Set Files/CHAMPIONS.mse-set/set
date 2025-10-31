@@ -6481,10 +6481,11 @@ card:
 	notes:
 		TPW FINAL 
 		!num 154
+		!update
 		!design Matt
-		!append  ({4}{R}, Exile this from your graveyard as a sorcery: Create a black token copy of it that’s also a Zombie and can’t block.)
+		!append  ({R}, Exile four instant and/or sorcery cards and this card from your graveyard as a sorcery: Create a black token copy of it that’s also a Zombie and can’t block.)
 	time_created: 2022-10-15 18:45:31
-	time_modified: 2025-08-31 21:24:25
+	time_modified: 2025-10-31 10:45:05
 	name: Cinderfeather Phoenix
 	casting_cost: 1RR
 	image: image10.png
@@ -6499,7 +6500,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		Arise <sym>4R</sym>. This ability costs <sym-auto>1</sym-auto> less to activate for each instant and sorcery card in your graveyard.
+		Arise—<sym>R</sym>, Exile four instant and/or sorcery cards from your graveyard.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
