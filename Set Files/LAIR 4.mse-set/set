@@ -9,6 +9,7 @@ set_info:
 	symbol: symbol1.mse-symbol
 	masterpiece_symbol: 
 	auto_errata: yes
+	rarity_codes: no
 	automatic_copyright: no
 	automatic_card_numbers: no
 	default_stamp: none

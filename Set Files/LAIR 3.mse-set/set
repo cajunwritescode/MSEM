@@ -9,6 +9,7 @@ set_info:
 	symbol: symbol1.mse-symbol
 	masterpiece_symbol: 
 	auto_errata: yes
+	rarity_codes: no
 	automatic_copyright: no
 	automatic_card_numbers: no
 	default_stamp: none
@@ -9814,8 +9815,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		You may exile target nonland permanent. If you do, you lose 3 life.
-		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		I, II — You may exile target nonland permanent. If you do, you lose 3 life.
+		III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
@@ -16695,8 +16696,8 @@ card:
 	secondary_copyright: 
 	special_text:
 		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-		You may exile target nonland permanent. If you do, you lose 3 life.
-		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		I, II — You may exile target nonland permanent. If you do, you lose 3 life.
+		III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
