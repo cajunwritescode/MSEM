@@ -2064,12 +2064,12 @@ card:
 		!design Emily
 		!update reworked: Was {B}{R}{G} with +2: You may sacrifice a permanent or discard a card. If you do, draw a card.;-X: Return target creature card with mana value X or less from your graveyard to the battlefield.;-8: You get an emblem with “Whenever a permanent you control dies, return a permanent card with lesser mana value from your graveyard to the battlefield.”
 	time_created: 2018-03-07 04:24:45
-	time_modified: 2025-10-29 00:05:52
+	time_modified: 2025-10-31 16:24:36
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: He/Him
 	name: Ciel, the Raider King
-	casting_cost: BRG
+	casting_cost: 1BRG
 	image: image59
 	image_2: 
 	mainframe_image: 
