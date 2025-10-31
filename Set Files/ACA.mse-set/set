@@ -692,7 +692,7 @@ card:
 		!pvrw
 		!update buffed: Was 3/1. ETB changed to a harmony effect, and harmonizes on ETB.
 	time_created: 2019-09-29 21:27:28
-	time_modified: 2025-10-29 00:37:00
+	time_modified: 2025-10-31 17:25:26
 	name: Cocky Bladesinger
 	casting_cost: 1RW
 	image: image92
@@ -704,8 +704,8 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Cocky Bladesinger</nospellcheck></atom-cardname> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>etners</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, <kw-A><nospellcheck><key>harmonize</key></nospellcheck>.<atom-reminder-action> <i-auto>(Trigger up to one harmony of a permanent you control.)</i-auto></atom-reminder-action></kw-A>
-		Harmony — <atom-cardname><nospellcheck>Cocky Bladesinger</nospellcheck></atom-cardname> enters, it gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+		When <atom-cardname><nospellcheck>Cocky Bladesinger</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>harmonize</key></nospellcheck>.<atom-reminder-action> <i-auto>(Trigger up to one harmony of a permanent you control.)</i-auto></atom-reminder-action></kw-A>
+		Harmony — <atom-cardname><nospellcheck>Cocky Bladesinger</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor>“Not quite my tempo.”</i-flavor>
 	power: 3
 	toughness: 2
