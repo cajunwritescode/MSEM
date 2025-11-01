@@ -1,0 +1,974 @@
+﻿mse version: 2.0.0
+game: magic
+short name: Champion
+full name: Testing Champions
+icon: card-sample.png
+installer group: magic/m15 style/promotional/dark ascension
+position hint: 089
+
+version: 2015-12-20
+depends on:
+	package: magic.mse-game
+	version: 2014-06-25
+depends on:
+	package: magic-default-image.mse-include
+	version: 2007-09-23
+depends on:
+	package: magic-watermarks.mse-include
+	version: 2007-09-23
+depends on:
+	package: magic-identity-new.mse-include
+	version: 2012-01-22
+depends on:
+	package: magic-mana-large.mse-symbol-font
+	version: 2007-09-23
+depends on:
+	package: magic-mana-small.mse-symbol-font
+	version: 2007-09-23
+
+card width: 375
+card height: 523
+card dpi: 150
+############################################################## Extra scripts
+init script:
+	# Use the normal tap symbol
+	mana_t := {
+		if      styling.tap_symbol == "old"        then "old"
+		else if styling.tap_symbol == "diagonal T" then "older"
+		else                                            "new"
+	}
+		
+	template_prefix := [card: "", card2:"", blank_token:"tokens/", token: "tokens/", pt: "" stamp: "" identity: "/magic-identity-new.mse-include/"]
+	template_suffix := [card: "card.png" card2:"card2.png", blank_token: "card.png", token: "card2.png", pt: "pt.png", stamp: "stamp.jpg" identity: "identity.png"]
+	template      := { template_prefix[type] + input + template_suffix[type] }
+	land_template := { template_prefix[type] + (if input == "a" then "c" else input) + template_suffix[type] }
+	# Use land templates for previews because they show more contrast
+	hybrid_previews := "land,hybrid"
+	
+	# Use guild mana symbols?
+	guild_mana := { styling.use_guild_mana_symbols }
+	
+	card_background2 := { color_background(type:"card2", base_hybrid:card_hybrid) }
+	# Is the card a promo card?
+	is_promo := { styling.promo }
+	comma_count := filter_text@(match:",")
+	is_token := { styling.token == "text" or styling.token == "textless" }
+	is_blank_token := { styling.token == "textless" }
+	has_identity := {styling.color_indicator_dot }
+	ancestral_mana := { styling.ancestral_mana_symbols }
+	shrink_type := {if styling.shrink_typeline_text != "" then to_int(styling.shrink_typeline_text) else 0 }
+	shrink_name := {if styling.shrink_name_text != "" then to_int(styling.shrink_name_text) else 0 }
+	blank_token_background := { color_background(type:"blank_token",     base_hybrid:card_hybrid) }
+	walker_background := { color_background(type:"card2",     base_hybrid:card_hybrid) }
+	token_background := { color_background(type:"token",     base_hybrid:card_hybrid) }
+	
+	# Loyalty cost arrows
+	loyalty_image := {
+		if      contains(input, match: "+") then "loyalty up"
+		else if contains(input, match: "-") then "loyalty down"
+		else                                     "loyalty naught"
+	}
+	mainframe_walker := {contains(card.type, match:"Planeswalker")}
+	card_shape := { if mainframe_walker() then "planeswalker" else "normal"}
+		abil_center := { if card_style.text.layout.blocks[input].bottom or else 0 > 0 then
+			card_style.text.top + card_style.text.layout.blocks[input].middle + overlap_check(input)
+		else -30	
+	}
+	overlap_check := {
+		if input == 0
+			then 0
+		else if card_style.text.layout.blocks[input].middle == card_style.text.layout.blocks[input-1].middle
+			then 40*(input-1)
+		else 0
+	}
+	loyal_move := {0} ##{ pull_comma_array(styling.shift_loyalty_costs, cell:0, end:0, default:0)}
+	loyal_move2 := {0} ##{ if card.level_2_text == "" or card.level_2_text == "​" then -15 else pull_comma_array(styling.shift_loyalty_costs, cell:1, end:0, default:0)}
+	loyal_move3 := {0} ##{ if card.level_3_text == "" or card.level_3_text == "​" then -5 else pull_comma_array(styling.shift_loyalty_costs, cell:2, end:0, default:0)}
+	loyal_move4 := {0} ##{ pull_comma_array(styling.shift_loyalty_costs, cell:3, end:0, default:0)}
+	max_level_function := [
+		"auto": {
+			if card.level_6_text != "" and card.level_6_text != "​" then 6
+			else if card.level_5_text != "" and card.level_5_text != "​" then 5
+			else if card.level_4_text != "" and card.level_4_text != "​" then 4
+			else if card.level_3_text != "" and card.level_3_text != "​" then 3
+			else 2
+		},
+		"one": {1},
+		"two": {2},
+		"three": {3},
+		"four": {4},
+		"five": {5},
+		"six": {6},
+	]
+	max_level := {max_level_function[force_level()]()}
+	mainframe_walker_text_script := {
+		if max_level() == 1 or (max_level() == 2 and card.level_2_text == "") or force_level() == "two" then 
+			combined_editor(field1: card.level_1_text, separator1: "<line>\n</line>", field2: card.level_2_text)
+		else if max_level() == 2 or force_level() == "three" then 
+			combined_editor(field1: card.level_1_text, separator1: "<line>\n</line>", field2: card.level_2_text, separator2: "<line>\n</line>", field3: card.level_3_text)
+		else if max_level() == 3 or force_level() == "four" then 
+			combined_editor(field1: card.level_1_text, separator1: "<line>\n</line>", field2: card.level_2_text, separator2: "<line>\n</line>", field3: card.level_3_text, separator3: "<line>\n</line>", field4: card.level_4_text)
+		else if max_level() == 4 or force_level() == "five" then 
+			combined_editor(field1: card.level_1_text, separator1: "<line>\n</line>", field2: card.level_2_text, separator2: "<line>\n</line>", field3: card.level_3_text, separator3: "<line>\n</line>", field4: card.level_4_text, separator4: "<line>\n</line>", field5: card.level_5_text)
+		else if max_level() > 4 or force_level() == "six" then 
+			combined_editor(field1: card.level_1_text, separator1: "<line>\n</line>", field2: card.level_2_text, separator2: "<line>\n</line>", field3: card.level_3_text, separator3: "<line>\n</line>", field4: card.level_4_text, separator4: "<line>\n</line>", field5: card.level_5_text, separator5: "<line>\n</line>", field6: card.level_6_text)
+		else
+			combined_editor(field1: card.level_1_text, separator1: "<line>\n</line>", field2: card.level_2_text, separator2: "<line>\n</line>", field3: card.level_3_text)
+	}
+	margin_left := {
+		if input == "lv1" then (if card.loyalty_cost_1 == "" and unindent() then 0 else 230)
+		else if input == "lv2" then (if card.loyalty_cost_2 == "" and unindent() then 0 else 230)
+		else if input == "lv3" then (if card.loyalty_cost_3 == "" and unindent() then 0 else 230)
+		else if input == "lv4" then (if card.loyalty_cost_4 == "" and unindent() then 0 else 230)
+		else if input == "lv5" then (if card.loyalty_cost_5 == "" and unindent() then 0 else 230)
+		else if input == "lv6" then (if card.loyalty_cost_6 == "" and unindent() then 0 else 230)
+		else 0
+	}
+	add_spacers := { if input == "" and inner_level(name) then "​" else input}
+	inner_level := {
+		if input == "lv5" and max_level() > 5 then true
+		else if input == "lv4" and max_level() > 4 then true
+		else if input == "lv3" and max_level() > 3 then true
+		else if input == "lv2" and max_level() > 2 then true
+		else if input == "lv1" and max_level() > 1 then true
+		else false
+	}
+
+	force_level := {
+		if true then "auto"
+		else if styling.override_levels == "one ability" then "one"
+		else if styling.override_levels == "two abilities" then "two"
+		else if styling.override_levels == "three abilities" then "three"
+		else if styling.override_levels == "four abilities" then "four"
+		else if styling.override_levels == "five abilities" then "five"
+		else if styling.override_levels == "six abilities" then "six"
+		else "auto"
+	}
+	stripe01 := {if length(card_style.text.layout.separators) or else 0 > 0 then card_style.text.top + card_style.text.layout.separators[0] + stripe_adj(top:0, bot:1) else 0}
+	stripe12 := {if length(card_style.text.layout.separators) or else 0 > 1 then card_style.text.top + card_style.text.layout.separators[1] + stripe_adj(top:0, bot:1) else 0}
+	stripe23 := {if length(card_style.text.layout.separators) or else 0 > 2 then card_style.text.top + card_style.text.layout.separators[2] + stripe_adj(top:0, bot:1) else 0}
+	stripe34 := {if length(card_style.text.layout.separators) or else 0 > 3 then card_style.text.top + card_style.text.layout.separators[3] + stripe_adj(top:0, bot:1) else 0}
+	stripe45 := {if length(card_style.text.layout.separators) or else 0 > 4 then card_style.text.top + card_style.text.layout.separators[4] + stripe_adj(top:0, bot:1) else 0}
+	stripe_adj := {-4}
+	is_clear := {false}
+	has_four_abilities := { max_level() > 3}# or force_tall() and not force_short()}
+	has_two_abilities := { max_level() < 3 }
+	is_level_walker := { true }
+	unindent := { true}
+	text_filter := text_filter + {apply_margins(input, name:margin_code)} + {add_spacers(input, name:margin_code)}
+
+############################################################## Set info fields
+set info style:
+	symbol:
+		variation:
+			name: invertedcommon
+			border radius: 0.10
+			fill type: solid
+			fill color:   rgb(255,255,255)
+			border color: rgb(0,0,0)
+############################################################## Extra style options
+styling field:
+	type: text
+	name: chop top
+	description: Shrinks the textbox from the top.
+styling field:
+	type: text
+	name: chop bottom
+	description: Shrinks the textbox from the bottom.
+styling field:
+	type: text
+	name: font size
+	description: font size
+styling field:
+	type: text
+	name: shrink name text
+	description: Reduces the name text N points.
+styling field:
+	type: text
+	name: shrink typeline text
+	description: Reduces the typeline text N points.
+styling field:
+	type: boolean
+	name: color indicator dot
+	description: Use the color indicator dot.
+	initial: no
+styling field:
+	type: text
+	name: popout image style
+	description: The styling instructions for the popout image field, formatted as "left,top,width,height,". The text MUST end with a comma.
+styling field:
+	type: boolean
+	name: crunch
+	description: Reduce the linebreak height
+	initial: no
+styling field:
+	type: info
+	name: Not finished
+	description: This stuff might not work yet
+styling field:
+	type: choice
+	name: token
+	description: This card uses the token frame
+	choice: no
+	choice: text
+	choice: textless
+	initial: no
+styling field:
+	type: boolean
+	name: fullart
+	initial: no
+	description: does this card use the fullart frame?
+styling field:
+	type: text
+	name: custom mask
+	description: Uses a custom mask from data/magic-mainframe-extras.mse-include
+styling field:
+	type: boolean
+	name: ancestral mana symbols
+	description: Enables ancestral's modified generic mana.
+	initial: no
+styling field:
+	type: boolean
+	name: grey hybrid name
+	description: Use a grey background for the name and type line on hybrid cards. This is done on real cards.
+styling field:
+	type: boolean
+	name: colored multicolor land name
+	description: Use a colored background for the name and type on multicolor land cards with a basic land type. This is done on real cards.
+styling field:
+	type: boolean
+	name: use guild mana symbols
+	description: Use the Ravnica guild symbols instead of the official half/half circles for hybrid mana.
+	initial: no
+styling field:
+	type: choice
+	name: tap symbol
+	description: What tap and untap symbols should be used on cards?
+	initial: modern
+	choice: modern
+	choice: old
+	choice: diagonal T
+styling field:
+	type: package choice
+	name: text box mana symbols
+	match: magic-mana-*.mse-symbol-font
+	initial: magic-mana-small.mse-symbol-font
+styling field:
+	type: choice
+	name: center text
+	description: When to center text (short text only means only on one-line cards with no flavor text)
+	choice: always
+	choice: short text only
+	choice: never
+	initial: never
+styling field:
+	type: boolean
+	name: promo
+	description: Is this card a promo card, with the "P" rarity?
+	initial: yes
+styling field:
+	type: boolean
+	name: stamp
+	description: Force this card to have a holofoil promotional stamp?
+	initial: yes
+styling field:
+	type: boolean
+	name: inverted common symbol
+	description: Should the common rarity symbol be inverted, like in Coldsnap?
+	initial: no
+styling field:
+	type: package choice
+	name: overlay
+	description: Should there be an overlay applied, such as foil?
+	match: magic-overlay-*.mse-include
+	required: false
+styling style:
+	use guild mana symbols:
+		choice images:
+			yes: /magic-mana-small.mse-symbol-font/mana_guild_rg.png
+			no:  /magic-mana-small.mse-symbol-font/mana_rg.png
+	tap symbol:
+		render style: both
+		choice images:
+			modern:     /magic-mana-large.mse-symbol-font/mana_t.png
+			old:        /magic-mana-large.mse-symbol-font/mana_t_old.png
+			diagonal T: /magic-mana-large.mse-symbol-font/mana_t_older.png
+	center text:
+		render style: both
+		choice images:
+			always:          /magic.mse-game/icons/center-all-text.png
+			short text only: /magic.mse-game/icons/center-short-text.png
+			never:           /magic.mse-game/icons/center-no-text.png
+	inverted common symbol:
+		choice images:
+			no:  { symbol_variation(symbol: set.symbol, variation: "common") }
+			yes: { symbol_variation(symbol: set.symbol, variation: "invertedcommon") }
+############################################################## Card fields
+card style:
+	############################# Background stuff
+	border color:
+		left: 0
+		top : 0
+		width:	375
+		height:	523
+		radius: 18
+		left width:   17
+		right width:  17
+		top width:    17
+		bottom width: 18
+		z index: 1
+		mask: {if is_legendary(card.type) then "crown_mask.png" else "border_mask.png"}
+	############################# Name line
+	name:
+		left: { if is_token() then 30 else 32 }
+		top: { if is_token() then 26 else 31 }
+		right:  { if is_token() then 345 else 341 - card_style.casting_cost.content_width }
+		height: { (if is_token() then 28 else 23) - 0.5*shrink_name() }
+		alignment: { if is_token() then "bottom center" else "bottom shrink-overflow"}
+		padding bottom: 0
+		z index: 5
+		font:
+			name: { if is_token() then "Beleren Small Caps Bold" else "Beleren Bold" }
+			size: { (if is_token() then 19 else 16) - shrink_name() }
+			color: { if is_token() then rgb(255,239,128) else "black" }
+	casting cost:
+		right: 346
+		top: 29
+		width: { max(30, card_style.casting_cost.content_width) + 5 }
+		height: 23
+		alignment: middle right
+		font:
+			name: MPlantin
+			size: 15
+		symbol font:
+			name: magic-mana-large
+			size: 15
+			alignment: middle right
+		always symbol: true
+		z index: 5
+		padding top: 0
+	card symbol:
+		left: {if card.card_symbol=="none" then 20 else 30}
+		top: 29
+		height: 20
+		width: 14
+		z index: 1
+		render style: image
+		choice images:
+			tombstone: tombstone.png
+	############################# Image
+	image:
+		left: 0
+		top: {if mainframe_walker() then 40 else 59}
+		width: 375
+		height:	{ if mainframe_walker() then 442 else if is_blank_token() then 384 else if styling.fullart then 370 else 423 }
+		z index: 1
+		mask: { if contains(styling.custom_mask, match: ".png") then styling.custom_mask else if mainframe_walker() then "imagemask_walker.png" else if is_blank_token() or styling.fullart then "minitokenimagemask.png" else if is_token() then "tokenimagemask.png" else "imagemask.png" }
+	image 2:
+		left: {if comma_count(styling.popout_image_style) == ",,,," then split_text(match:",", styling.popout_image_style).0 else "0"}
+		top: {if comma_count(styling.popout_image_style) == ",,,," then split_text(match:",", styling.popout_image_style).1 else "0"}
+		width: {if comma_count(styling.popout_image_style) == ",,,," then split_text(match:",", styling.popout_image_style).2 else "0"}
+		height: {if comma_count(styling.popout_image_style) == ",,,," then split_text(match:",", styling.popout_image_style).3 else "0"}
+		z index: 9
+	############################# Card type
+	indicator:
+		left: 31
+		top: { if mainframe_walker() then 317 else 332 }
+		width: 17
+		height: 17
+		z index: 5
+		render style: image
+		visible: { has_identity() }
+		image: { card_identity() }
+	type:
+		left: { if has_identity() then "52" else "32" }
+		top: { (if mainframe_walker() then 314 else if is_blank_token() then 444 else if styling.fullart then 430 else 329) + shrink_type() }
+		width: { (if has_identity() then "290" else "310") - max(22,card_style.rarity.content_width) }
+		height: { 20 - shrink_type()}
+		alignment: top shrink-overflow
+		z index: 3
+		padding top: 2
+		font:
+			name: Beleren Bold
+			size: {13 - shrink_type()}
+			color: black
+			separator color: red
+	rarity:
+		right: 344
+		top: { if mainframe_walker() then 314 else if is_blank_token() then 445 else if styling.fullart then 431 else 329 }
+		width: 44
+		height: 22
+		z index: 3
+		render style: image
+		alignment: middle right
+		choice images:
+			# Images based on the set symbol
+			basic land:
+				script:
+					if styling.inverted_common_symbol then symbol_variation(symbol: set.symbol, variation: "invertedcommon")
+					else symbol_variation(symbol: set.symbol, variation: "common")
+			common:
+				script:
+					if styling.inverted_common_symbol then symbol_variation(symbol: set.symbol, variation: "invertedcommon")
+					else symbol_variation(symbol: set.symbol, variation: "common")
+			uncommon:   script: symbol_variation(symbol: set.symbol, variation: "uncommon")
+			rare:       script: symbol_variation(symbol: set.symbol, variation: "rare")
+			mythic rare:       script: symbol_variation(symbol: set.symbol, variation: "mythic rare")
+			special:    script: symbol_variation(symbol: set.symbol, variation: "special")
+	############################# Text box
+	text:
+		left: 29
+		top: { if styling.chop_top != "" then ((if mainframe_walker() then 349 else 359) - (-styling.chop_top)) else if mainframe_walker() then 349 else if is_token() then 388 else 359 }
+		width: 314
+		bottom: { if is_blank_token() then 430 else if styling.chop_bottom != "" then (481 - styling.chop_bottom) else 481 }
+		font:
+			name: MPlantin
+			italic name: MPlantin-Italic
+			size: {if styling.font_size != "" and styling.font_size != "1" then styling.font_size else 14 }
+			scale down to: 6
+			color: black
+		symbol font:
+			name: { styling.text_box_mana_symbols }
+			size: {if styling.font_size != "" and styling.font_size != "1" then styling.font_size else 14 }
+		alignment:
+			script:
+				if (styling.center_text == "short text only" and
+				   not contains(match:"\n", card.rule_text) and
+				   card.flavor_text == "<i-flavor></i-flavor>" and
+				   card_style.text.content_lines <= 2) or
+				   styling.center_text == "always"
+				then "middle center"
+				else "middle left"
+		z index: 4
+		padding left:   6
+		padding right:  4
+		line height hard: {if is_modal(card.rule_text) then 0.9 else if styling.crunch then 1.1 else 1.2 }
+		line height line: 1.5
+		line height soft: 0.9
+		line height hard max: {if is_modal(card.rule_text) then 1.0 else if styling.crunch then 1.1 else 1.3 }
+		line height line max: 1.6
+	############################# PT
+	pt:
+		z index: 4
+		left: 286
+		top: 469
+		width: 60
+		height:	28
+		alignment: center middle shrink-overflow
+		font:
+			name: Beleren Bold
+			size: 16
+			color: black
+			separator color: red
+	############################# Card sorting / numbering
+	set code:
+		left: 24
+		top: 498
+		width: 40
+		height: 10
+		z index: 5
+		font:
+			name: Relay-Medium
+			size: 7
+			color: white
+			weight: bold
+	############################# Copyright stuff
+	illustrator:
+		left: { 44 + card_style.set_code.content_width }
+		top: 497.5
+		width: 200
+		height: 10
+		z index: 5
+		font:
+			name: Beleren Small Caps Bold
+			size: 7.25
+			color: white
+	copyright:
+		right: 350
+		top: { if card.pt != "" or card.loyalty != "" then 500 else 488 }
+		width: 140
+		height: 10
+		z index: 5
+		alignment: middle right
+		font:
+			name: Relay-Medium
+			size: 7
+			color: white
+			weight: bold
+	############################# Loyalty
+	loyalty:
+		z index: 7
+		left: 328
+		top: 466
+		width: {if mainframe_walker() then 13.16 else 0}
+		height:	34.63
+		alignment: center middle
+		font:
+			name: Beleren Bold
+			size: 14
+			color: white
+	loyalty cost 1:
+		z index: 7
+		left: 19
+		top: { abil_center(0) - 17.3 - 2 - loyal_move() }
+		width: {if mainframe_walker() then 18 else 0}
+		height:	35
+		alignment: center middle
+		font:
+			name: Beleren Bold
+			size: 11
+			color: white
+	loyalty cost 2:
+		z index: 7
+		left: 19
+		top: { abil_center(1) - 17.3 - 2 - loyal_move2() }
+		width: {if mainframe_walker() then 18 else 0}
+		height:	35
+		alignment: center middle
+		font:
+			name: Beleren Bold
+			size: 11
+			color: white
+	loyalty cost 3:
+		z index: 7
+		left: 19
+		top: { abil_center(2) - 17.3 - 2 - loyal_move3() }
+		width: {if mainframe_walker() then 18 else 0}
+		height:	35
+		alignment: center middle
+		font:
+			name: Beleren Bold
+			size: 11
+			color: white
+	loyalty cost 4:
+		z index: 7
+		left: 19
+		top: { abil_center(3) - 17.3 - 2 - loyal_move4() }
+		width: {if mainframe_walker() then 18 else 0}
+		height:	35
+		alignment: center middle
+		font:
+			name: Beleren Bold
+			size: 11
+			color: white
+
+############################################################## Extra card fields
+extra card field:
+	type: text
+	name: card code
+	save value: false
+	script:
+		if set.automatic_card_numbers then
+			forward_editor(prefix: card_number_m15() + "/" + card_count_m15() + " " + " ", field: card.card_code_text)
+		else
+			combined_editor(field1: card.custom_card_number, separator: " " + " ", field2: card.card_code_text)
+extra card field:
+	type: choice
+	name: artist arrow
+	editable: false
+	save value: false
+	choice: white
+extra card field:
+	type: choice
+	name: pt box
+	script: card.card_color
+	editable: false
+	save value: false
+extra card field:
+	type: choice
+	name: foil layer
+	choice: foil
+	save value: false
+	editable: false
+extra card field:
+	type: choice
+	name: frame
+	script: card.card_color
+	editable: false
+	save value: false
+extra card field:
+	type: choice
+	name: background
+	choice: background
+	editable: false
+	save value: false
+extra card field:
+	type: choice
+	name: glow
+	choice: glow
+	editable: false
+	save value: false
+extra card field:
+	type: choice
+	name: loyalty cost box 1
+	editable: false
+	script: loyalty_image(card.loyalty_cost_1)
+	save value: false
+extra card field:
+	type: choice
+	name: loyalty cost box 2
+	editable: false
+	script: loyalty_image(card.loyalty_cost_2)
+	save value: false
+extra card field:
+	type: choice
+	name: loyalty cost box 3
+	editable: false
+	script: loyalty_image(card.loyalty_cost_3)
+	save value: false
+extra card field:
+	type: choice
+	name: loyalty cost box 4
+	editable: false
+	script: loyalty_image(card.loyalty_cost_4)
+	save value: false
+extra card field:
+	type: text
+	name: colon 1
+	editable: false
+	script: ":"
+	save value: false
+extra card field:
+	type: text
+	name: colon 2
+	editable: false
+	script: ":"
+	save value: false
+extra card field:
+	type: text
+	name: colon 3
+	editable: false
+	script: ":"
+	save value: false
+extra card field:
+	type: text
+	name: colon 4
+	editable: false
+	script: ":"
+	save value: false
+extra card field:
+	type: choice
+	name: loyalty box
+	editable: false
+	choice: loyalty
+	save value: false
+extra card field:
+	type: choice
+	name: bottom first
+	editable: false
+	save value: false
+	choice: stripe
+extra card field:
+	type: choice
+	name: top third
+	editable: false
+	save value: false
+	choice: stripe
+extra card field:
+	type: choice
+	name: bottom third
+	editable: false
+	save value: false
+	choice: stripe
+extra card field:
+	type: choice
+	name: top fifth
+	editable: false
+	save value: false
+	choice: stripe
+extra card field:
+	type: choice
+	name: bottom fifth
+	editable: false
+	save value: false
+	choice: stripe
+extra card field:
+	type: color
+	name: top color
+	script: if is_clear() then rgb(230,230,230) else rgb(140,140,140)
+	editable: false
+	save value: false
+extra card field:
+	type: color
+	name: bottom color
+	script: if is_clear() then rgb(230,230,230) else rgb(140,140,140)
+	editable: false
+	save value: false
+extra card field:
+	type: color
+	name: stripe color
+	script: if is_clear() then rgb(230,230,230) else rgb(140,140,140)
+	editable: false
+	save value: false
+extra card field:
+	type: color
+	name: stripe color 2
+	script: if is_clear() then rgb(230,230,230) else rgb(140,140,140)
+	editable: false
+	save value: false
+extra card field:
+	type: color
+	name: stripe color 3
+	script: if is_clear() then rgb(230,230,230) else rgb(140,140,140)
+	editable: false
+	save value: false
+extra card field:
+	type: choice
+	name: token nameplate
+	choice: plate
+	editable: false
+	save value: false
+extra card style:
+	card code:
+		left: 24
+		top: 488
+		width: 120
+		height: 10
+		z index: 5
+		font:
+			name: Relay-Medium
+			size: 7
+			color: white
+			weight: bold
+	loyalty box:
+		right: 364
+		top: 464
+		width: 60
+		height: 38
+		z index: 6
+		render style: image
+		visible: { card.loyalty != "" }
+		choice images:
+			loyalty: loyalty.png
+	artist arrow:
+		left: { 28 + card_style.set_code.content_width }
+		top: 500
+		width: 12
+		height: 7
+		z index: 5
+		render style: image
+		image: artist_arrow.png
+	pt box:
+		left: 273
+		top: 466
+		width: 81
+		height:	42
+		z index: 3
+		visible: { card.pt != "" }
+		render style: image
+		image: mpt.png
+	foil layer:
+		left: 0
+		top : 0
+		width: 375
+		height: 523
+		z index: 3
+		render style: image
+		image: {if styling.overlay == "" then nil else styling.overlay + "/overlay.png"}
+		mask: { if is_rare() or styling.stamp then "foil_mask_rare.png" else "foil_mask.png" }
+	frame:
+		left:	0
+		top:	0
+		width:	375
+		height:	523
+		z index: 2
+		render style: image
+		image: { if mainframe_walker() then walker_background() else if is_blank_token() then card_background2() else card_background() }
+	token nameplate:
+		left: 0
+		top: 0
+		width: 375
+		height: 75
+		z index: 2
+		render style: image
+		image: tokenplate.png
+		visible: {styling.token != "no"}
+	background:
+		left:	0
+		top:	0
+		width:	375
+		height:	523
+		z index: -1
+		render style: image
+		image: background.png
+	loyalty cost box 1:
+		left: 6
+		top: { abil_center(0) - 17.3 - 2 - loyal_move() }
+		width: { if mainframe_walker() then 45 else 0 }
+		height: 36
+		z index: 6
+		render style: image
+		visible: { card.loyalty_cost_1 != "" }
+		choice images:
+			loyalty up: loyaltyup.png
+			loyalty down: loyaltydown.png
+			loyalty naught: loyaltynaught.png
+	loyalty cost box 2:
+		left: 6
+		top: { abil_center(1) - 17.3 - 2 - loyal_move2() }
+		width: { if mainframe_walker() then 45 else 0 }
+		height: 36
+		z index: 6
+		render style: image
+		visible: { card.loyalty_cost_2 != "" }
+		choice images:
+			loyalty up: loyaltyup.png
+			loyalty down: loyaltydown.png
+			loyalty naught: loyaltynaught.png
+	loyalty cost box 3:
+		left: 6
+		top: { abil_center(2) - 17.3 - 2 - loyal_move3() }
+		width: { if mainframe_walker() then 45 else 0 }
+		height: 36
+		z index: 6
+		render style: image
+		visible: { card.loyalty_cost_3 != "" }
+		choice images:
+			loyalty up: loyaltyup.png
+			loyalty down: loyaltydown.png
+			loyalty naught: loyaltynaught.png
+	loyalty cost box 4:
+		left: 6
+		top: { abil_center(3) - 17.3 - 2 - loyal_move4() }
+		width: { if mainframe_walker() then 45 else 0 }
+		height: 36
+		z index: 6
+		render style: image
+		visible: { card.loyalty_cost_4 != "" }
+		choice images:
+			loyalty up: loyaltyup.png
+			loyalty down: loyaltydown.png
+			loyalty naught: loyaltynaught.png
+	colon 1:
+		left: 50
+		top: { abil_center(0) - 17.3 + 10 - loyal_move() }
+		width: 5
+		height: 10
+		z index: 6
+		font:
+			name: MPlantin
+			size: 15
+			scale down to: 15
+			color: black
+		alignment: middle center
+		visible: { card.loyalty_cost_1 != "" }
+	colon 2:
+		left: 50
+		top: { abil_center(1) - 17.3 + 10 - loyal_move2() }
+		width: 5
+		height: 10
+		z index: 6
+		font:
+			name: MPlantin
+			size: 15
+			scale down to: 15
+			color: black
+		alignment: middle center
+		visible: { card.loyalty_cost_2 != "" }
+	colon 3:
+		left: 50
+		top: { abil_center(2) - 17.3 + 10 - loyal_move3() }
+		width: {if has_two_abilities() then 0 else 5}
+		height: 10
+		z index: 6
+		font:
+			name: MPlantin
+			size: 15
+			scale down to: 15
+			color: black
+		alignment: middle center
+		visible: { card.loyalty_cost_3 != "" }
+	colon 4:
+		left: 50
+		top: { abil_center(3) - 17.3 + 10 - loyal_move4() }
+		width: { if has_four_abilities() then 5 else 0 }
+		height: 10
+		z index: 6
+		font:
+			name: MPlantin
+			size: 15
+			scale down to: 15
+			color: black
+		alignment: middle center
+		visible: { card.loyalty_cost_4 != "" }
+###Block of first textbox
+	stripe color:
+		left: 29
+		top: 344
+		width: {if mainframe_walker() then 316 else 0}
+		bottom: { max(if force_level() == "one" then 465 else to_int(stripe01()-3)+(if is_clear() then 2 else 0), (if has_four_abilities() then 309 else 345)-(if is_clear() then 2 else 0)) }
+		z index: 2
+		mask: stripe_mask.png
+###Bottom of first textbox
+	bottom first:
+		left: 29
+		top: { max(to_int(stripe01()-3)+(if is_clear() then 2 else 0), (if has_four_abilities() then 309 else 345)-(if is_clear() then 2 else 0)) }
+		width: {if mainframe_walker() then 316 else 0}
+		height: 20
+		image: { (if is_clear() then "clear_" else "") + "top_stripe_test.png" }
+		render style: image
+		z index: 2
+		mask: stripe_mask.png
+		visible: { force_level() != "one" }
+###Top of third textbox
+	top third:
+		left: 29
+		top: {to_int(stripe12()-3) }
+		width: {if mainframe_walker() then 316 else 0}
+		height: 13
+		image: { (if is_clear() then "clear_" else "") + "bot_stripe_test.png" }
+		render style: image
+		z index: 2
+		mask: stripe_mask.png
+		visible: { card.level_3_text != ""}
+###Block of third textbox
+	stripe color 2:
+		left: 29
+		top: { to_int(stripe12()+10) }
+		width: {if mainframe_walker() then 316 else 0}
+		bottom: { if max_level() == 3 then 482 else to_int(min(482, stripe23()-3)) }
+		z index: 2
+		mask: stripe_mask.png
+		visible: { card.level_3_text != ""}
+###Bottom of third textbox
+	bottom third:
+		left: 29
+		top: {to_int(min(465, stripe23()-3)) }
+		width: {if mainframe_walker() then 316 else 0}
+		height: 20
+		image: { (if is_clear() then "clear_" else "") + "top_stripe_test.png" }
+		render style: image
+		z index: 2
+		mask: stripe_mask.png
+		visible: { max_level() > 3}
+###Top of fifth textbox
+	top fifth:
+		left: 29
+		top: {to_int(stripe34()-3)}
+		width: {if mainframe_walker() then 316 else 0}
+		height: 13
+		image: { (if is_clear() then "clear_" else "") + "bot_stripe_test.png" }
+		render style: image
+		z index: 2
+		mask: stripe_mask.png
+		visible: { max_level() > 4}
+###Block of fifth textbox
+	stripe color 3:
+		left: 29
+		top: { to_int(stripe34()+10) }
+		width: {if mainframe_walker() then 316 else 0}
+		bottom: { (if max_level() == 5 then 482 else to_int(min(482, stripe45()-2))) }
+		z index: 2
+		mask: stripe_mask.png
+		visible: { max_level() > 4 and to_int(stripe34()+10) <= 482 }
+###Bottom of fifth textbox
+	bottom fifth:
+		left: 29
+		top: {to_int(min(465, stripe45()-2)) }
+		width: {if mainframe_walker() then 316 else 0}
+		height: 20
+		image: { (if is_clear() then "clear_" else "") + "top_stripe_test.png" }
+		render style: image
+		z index: 2
+		mask: stripe_mask.png
+		visible: { max_level() == 6}
