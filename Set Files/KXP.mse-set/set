@@ -4660,9 +4660,9 @@ card:
 	has_styling: false
 	notes: !v2 changed to not loop with ProGrotto
 	time_created: 2019-11-10 15:55:54
-	time_modified: 2022-06-12 02:43:37
+	time_modified: 2025-10-31 19:45:07
 	name: Trail Blazer
-	casting_cost: 1R
+	casting_cost: 2R
 	image: image148
 	image_2: 
 	mainframe_image: 
@@ -4672,7 +4672,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Sacrifice a land: <atom-cardname><nospellcheck>Trail Blazer</nospellcheck></atom-cardname> <kw-1><nospellcheck><key>explores</key></nospellcheck>. You may put a basic land card from your hand onto the battlefield tapped.<atom-reminder-action> <i-auto>(Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then you may put that card in your graveyard.)</i-auto></atom-reminder-action></kw-1>
+		Sacrifice a land: <atom-cardname><nospellcheck>Trail Blazer</nospellcheck></atom-cardname> <kw-1><nospellcheck><key>explores</key></nospellcheck>. You may put a basic land card from your hand onto the battlefield tapped. Activate only as a sorcery.<atom-reminder-action> <i-auto>(Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on this creature, then you may put that card in your graveyard.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark five
 	power: 1
@@ -5472,7 +5472,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature or land</param-name></key></nospellcheck></kw-a>
-		Whenever enchanted permanent becomes tapped for the first time each turn, it <kw-1><nospellcheck><key>explores</key></nospellcheck>.<atom-reminder-action> <i-auto>(Reveal the top card of your library. Put it into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then you may put that card in your graveyard.)</i-auto></atom-reminder-action></kw-1>
+		Whenever enchanted permanent becomes tapped for the first time each turn, it <kw-1><nospellcheck><key>explores</key></nospellcheck>.<atom-reminder-action> <i-auto>(Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	watermark: custom watermark five
 	illustrator: artursadlos

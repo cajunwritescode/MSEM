@@ -962,15 +962,21 @@ card:
 		overlay: 
 	notes: !update adjusted: Now a sorcery, and allows paying 3 life to avoid decayed.
 	time_created: 2024-03-13 19:33:00
-	time_modified: 2025-10-29 01:01:31
+	time_modified: 2025-10-31 18:02:11
 	name: Visions of the End
 	casting_cost: B
 	image: image49
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text: Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>. Create a 3/2 colorless Horror creature token. Put a <kw-A><nospellcheck><key>decayed</key></nospellcheck> counter on it unless you pay 3 life.<atom-reminder-expert> <i-auto>(It can’t block. When it attacks, sacrifice it at end of combat.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>“ I see it! I see it! <error-spelling:en_US>N’gha</error-spelling:en_US>! <error-spelling:en_US>N’gha</error-spelling:en_US>!”</i-flavor>
