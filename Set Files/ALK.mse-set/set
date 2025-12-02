@@ -229,7 +229,7 @@ card:
 	sub_type_2: <word-list-race-en>Elder</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Demon</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
 		Whenever you cast a noncreature spell, draw a card.
 		At the beginning of your end step, if you have four or more cards in hand, transform <atom-legname><nospellcheck>Rahstahde</nospellcheck></atom-legname>.
 	rule_text_2:
@@ -447,7 +447,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
 		Noncreature spells you cast cost <sym-auto>X</sym-auto> less to cast, where X is <atom-cardname><nospellcheck>All-Encompassing Akvan</nospellcheck></atom-cardname>’s power.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -759,7 +759,7 @@ card:
 	sub_type: <word-list-race-en>Azra</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
 		At the beginning of your end step, if you’ve cast three or more spells this turn and <atom-cardname><nospellcheck>Nizev Enforcer</nospellcheck></atom-cardname> isn’t a token, create a token that’s a copy of it.
 	flavor_text: <i-flavor>“The truth exists to bring misery. Why must a lie to save a hundred lives be viewed as a path of degeneracy?”</i-flavor>
 	power: 1
@@ -2009,7 +2009,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
 		If a player casting a noncreature spell would cause an ability of a permanent you control to trigger, that ability triggers an additional time.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -3365,7 +3365,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Nephilim</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Martoob Watershaper</nospellcheck></atom-cardname> enters, tap target creature. It doesn’t untap during its controller’s next untap step.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -3690,7 +3690,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Nephilim</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: <kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-1>
+	rule_text: <kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
 	flavor_text:
 		<i-flavor>“The past is an imperfect record of happiness and regret. We are here now because of those choices. Breaking the chains of the past lets us grow into who we are truly meant to be.”<soft-line>
 		—<error-spelling:en_US>Atieh</error-spelling:en_US>, Savior of Destiny</soft-line></i-flavor>
@@ -4203,7 +4203,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Nephilim</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Nizev Brawler</nospellcheck></atom-cardname> enters, target creature can’t block this turn.
 	flavor_text:
 		<i-flavor>“The fire of our hearts will purify the cold of your words, <error-spelling:en_US>Farza</error-spelling:en_US>.”<soft-line>
@@ -4432,7 +4432,7 @@ card:
 	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor>Still becoming accustomed to leading <error-spelling:en_US>Avaz</error-spelling:en_US>, <error-spelling:en_US>Reha</error-spelling:en_US> maintains the wrecker’s abilities of destroying all in their path.</i-flavor>
 	power: 4
 	toughness: 1
@@ -5152,7 +5152,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		<kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-1>
+		<kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
 		Noncreature spells you cast cost <sym-auto>1</sym-auto> less to cast. This effect can’t reduce the amount of mana a spell costs to cast to less than one mana.
 	flavor_text: <i-flavor>“Truth is the best tool to shatter lies.”</i-flavor>
 	power: 1
@@ -5647,7 +5647,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
 		Whenever <atom-cardname><nospellcheck>Unruly Magus</nospellcheck></atom-cardname> deals combat damage to a player, draw a card.
 	flavor_text: <i-flavor>“<error-spelling:en_US>Fahrib</error-spelling:en_US>? <error-spelling:en_US>Andazir</error-spelling:en_US>? Whichever gives me the most power is the one I’ll follow.”</i-flavor>
 	power: 3
@@ -6602,7 +6602,7 @@ card:
 	sub_type: <word-list-race-en>Azra</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
 		Whenever you cast a noncreature spell, you gain life equal to its mana value.
 	flavor_text: <i-flavor>“Never demonize the past. Hold it dear to your heart and let it show you what truly matters.”   </i-flavor>
 	power: 2
@@ -7234,7 +7234,7 @@ card:
 	sub_type: <word-list-race-en>Azra</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Archer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Paygan Archer</nospellcheck></atom-cardname> dies, it deals damage to target player or planeswalker equal to its power.
 	flavor_text: <i-flavor>First on the field; first to draw blood.</i-flavor>
 	power: 1
@@ -7377,7 +7377,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !note mdfc
+	notes: !note modal_dfc
 	time_created: 2020-04-26 04:12:41
 	time_modified: 2025-09-19 01:53:52
 	name: Roaming City
@@ -9268,7 +9268,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
 		At the beginning of each end step, <kw-a><nospellcheck><key>scry <param-number>X</param-number></key></nospellcheck></kw-a>, you gain X life, and <atom-cardname><nospellcheck>Nakia, Infinity Seer</nospellcheck></atom-cardname> deals X damage to up to one target creature or planeswalker, where X is the number of noncreature spells you’ve cast this turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5

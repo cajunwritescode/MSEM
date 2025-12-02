@@ -652,9 +652,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update nerfed: Used to return to hand.
 	time_created: 2020-05-20 15:13:32
-	time_modified: 2020-12-02 21:45:06
+	time_modified: 2025-12-01 17:38:09
 	card_color: land, multicolor
 	name: The Whisperwoods
 	image: image55
@@ -667,7 +667,7 @@ card:
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>The Whisperwoods</nospellcheck></atom-cardname>: Add two mana in any combination of colors.
-		At the beginning of each end step, if a player lost life this turn, return <atom-cardname><nospellcheck>The Whisperwoods</nospellcheck></atom-cardname> from your graveyard to your hand.
+		At the beginning of each end step, if a player lost life this turn, you may exile <atom-cardname><nospellcheck>The Whisperwoods</nospellcheck></atom-cardname> from your graveyard. You may play it as long as it remains exiled.
 	flavor_text: <i-flavor></i-flavor>
 	card_code_text: 
 	card_code_text_2: 
@@ -2783,7 +2783,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update reworked: Was {U} with {U}, Put a travel counter on Endless Discoveries: Draw a card. This ability costs 1 more to activate for each travel counter on Endless Discoveries.;{3}{U}{U}, Sacrifice Endless Discoveries: Return target instant or sorcery card with mana value less than or equal to the number of travel counters on Endless Discoveries from your graveyard to your hand.
+	notes: 
 	time_created: 2020-05-26 17:44:53
 	time_modified: 2025-10-28 23:43:54
 	name: Endless Discoveries
@@ -2973,9 +2973,7 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes:
-		!update
-		!exportname blue Bird
+	notes: !exportname blue Bird
 	time_created: 2020-07-01 23:13:05
 	time_modified: 2020-07-01 23:29:33
 	card_color: blue

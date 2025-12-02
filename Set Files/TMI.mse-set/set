@@ -960,7 +960,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update adjusted: Now a sorcery, and allows paying 3 life to avoid decayed.
+	notes: 
 	time_created: 2024-03-13 19:33:00
 	time_modified: 2025-10-31 18:02:11
 	name: Visions of the End
@@ -2611,9 +2611,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update
 	time_created: 2024-03-13 20:49:27
-	time_modified: 2024-03-30 18:45:42
+	time_modified: 2025-11-03 01:39:54
 	card_color: land
 	name: Planar Rift
 	image: image59
@@ -2625,7 +2625,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. Put your choice of a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, or </sym>+1/<sym>+1 counter on <atom-cardname><nospellcheck>Planar Rift</nospellcheck></atom-cardname>.
-		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Remove any number of counters from <atom-cardname><nospellcheck>Planar Rift</nospellcheck></atom-cardname>: Add <sym>C</sym> for each counter removed this way.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>, Remove any number of counters from <atom-cardname><nospellcheck>Planar Rift</nospellcheck></atom-cardname>: Add <sym>C</sym> for each counter removed this way.
 		<sym-auto>T</sym-auto>: Move a counter from <atom-cardname><nospellcheck>Planar Rift</nospellcheck></atom-cardname> onto target creature you control. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Rafal Hrynkiewicz

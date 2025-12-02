@@ -146,6 +146,7 @@
  <reverse-related>Stormsurge_MS2</reverse-related>
  <reverse-related>Twisting Memories</reverse-related>
  <reverse-related>Fleeting Discoveries</reverse-related>
+ <reverse-related>The Whisperwoods</reverse-related>
  <reverse-related>Beyond the Boneyard</reverse-related>
  <reverse-related>Distorted Reflection</reverse-related>
  <reverse-related>Fakadeh, Florid Queen</reverse-related>
@@ -365,7 +366,7 @@
  <reverse-related>Hand of the Fallen</reverse-related>
  <reverse-related>Hyle's Gift</reverse-related>
  <reverse-related>Impulse Module</reverse-related>
- <reverse-related>Inconspicuous Platypus_KXP</reverse-related>
+ <reverse-related>Inconspicuous Platypus</reverse-related>
  <reverse-related>Inconspicuous Platypus (Agent P)</reverse-related>
  <reverse-related>Intruder Drone</reverse-related>
  <reverse-related>Irbek, Crocodile Hunter</reverse-related>
@@ -1699,7 +1700,7 @@ Equip {1}</text>
  <reverse-related count="2">Giku Weaponsmith</reverse-related>
  <reverse-related>Yamisaran Guard</reverse-related>
  <reverse-related>Shaping Dragonsteel</reverse-related>
- <reverse-related>Inconspicuous Platypus_KXP</reverse-related>
+ <reverse-related>Inconspicuous Platypus</reverse-related>
  <reverse-related>Inconspicuous Platypus (Agent P)</reverse-related>
  <reverse-related>Inconspicuous Platypus_PRO_KXP</reverse-related>
  <reverse-related>Inconspicuous Platypus (Agent P)</reverse-related>
@@ -4661,6 +4662,10 @@ Equip {2}</text>
  <tablerow>0</tablerow>
  <reverse-related>Unbound Expanse</reverse-related>
  <reverse-related>Aether Gateway_MS2</reverse-related>
+ <reverse-related>Ivenge, False God</reverse-related>
+ <reverse-related>Abbey of Masquerades</reverse-related>
+ <reverse-related>Distant Shores</reverse-related>
+ <reverse-related>Troubled Heir</reverse-related>
  <set num="UNR20" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/UNR20.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -5171,8 +5176,12 @@ Enchanted creature can't attack or block, and its activated abilities can't be a
  <tablerow>0</tablerow>
  <reverse-related>Performer of Growth</reverse-related>
  <reverse-related>Rei, the Supplanter</reverse-related>
+ <reverse-related>Aether Gateway</reverse-related>
+ <reverse-related>Soaring Biome</reverse-related>
  <reverse-related>Aether Gateway_MS2</reverse-related>
- <set num="VTM15" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/VTM15.jpg?v=0" rarity="token">tokens</set>
+ <reverse-related>Abbey of Masquerades</reverse-related>
+ <reverse-related>Distant Shores</reverse-related>
+ <set num="WAY24" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/WAY24.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>blue Fish 11VTM</name>
@@ -5937,6 +5946,8 @@ When Resolution of Stone enters, put a +1/+1 counter on target creature you cont
  <reverse-related>Aether Gateway</reverse-related>
  <reverse-related>Soaring Biome</reverse-related>
  <reverse-related>Aether Gateway_MS2</reverse-related>
+ <reverse-related>Abbey of Masquerades</reverse-related>
+ <reverse-related>Distant Shores</reverse-related>
  <set num="WAY27" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/WAY27.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -5949,6 +5960,8 @@ When Resolution of Stone enters, put a +1/+1 counter on target creature you cont
  <reverse-related>Aether Gateway</reverse-related>
  <reverse-related>Soaring Biome</reverse-related>
  <reverse-related>Aether Gateway_MS2</reverse-related>
+ <reverse-related>Abbey of Masquerades</reverse-related>
+ <reverse-related>Distant Shores</reverse-related>
  <set num="WAY36" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/WAY36.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -5961,18 +5974,9 @@ When Resolution of Stone enters, put a +1/+1 counter on target creature you cont
  <reverse-related>Aether Gateway</reverse-related>
  <reverse-related>Soaring Biome</reverse-related>
  <reverse-related>Aether Gateway_MS2</reverse-related>
+ <reverse-related>Abbey of Masquerades</reverse-related>
+ <reverse-related>Distant Shores</reverse-related>
  <set num="WAY30" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/WAY30.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Forest WAY</name>
- <text>({T}: Add {G}.)</text>
- <colors></colors>
- <type>Token Basic Land — Forest</type>
- <token>1</token>
- <tablerow>0</tablerow>
- <reverse-related>Aether Gateway</reverse-related>
- <reverse-related>Soaring Biome</reverse-related>
- <set num="WAY24" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/WAY24.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Years of Experience WAY</name>
@@ -6884,16 +6888,6 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
  <reverse-related count="2">Herald of the Departed</reverse-related>
  <reverse-related count="x">The Ancestors Pass Judgment</reverse-related>
  <set num="LAW2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAW2.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Plains LAW</name>
- <text>({T}: Add {W}.)</text>
- <colors></colors>
- <type>Token Basic Land — Plains</type>
- <token>1</token>
- <tablerow>0</tablerow>
- <reverse-related>Ivenge, False God</reverse-related>
- <set num="LAW12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAW12.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Treasure MS2</name>
@@ -10541,7 +10535,7 @@ When Crimson Hellmaw enters, it deals 3 damage to any target.</text>
  <reverse-related>Duwinda Sniper</reverse-related>
  <reverse-related>Hand of the Fallen</reverse-related>
  <reverse-related>Hyle's Gift</reverse-related>
- <reverse-related>Inconspicuous Platypus_KXP</reverse-related>
+ <reverse-related>Inconspicuous Platypus</reverse-related>
  <reverse-related>Inconspicuous Platypus (Agent P)</reverse-related>
  <reverse-related>Irbek, Crocodile Hunter</reverse-related>
  <reverse-related>Little Pig</reverse-related>
@@ -11748,7 +11742,7 @@ Whenever enchanted land becomes tapped for mana, add one mana of any color.</tex
  <pt>1/1</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related count="2">Roggar the Furious_MSC</reverse-related>
+ <reverse-related count="2">Roggar the Furious</reverse-related>
  <reverse-related count="2">Roggar the Furious_OTH</reverse-related>
  <reverse-related count="2">Roggar the Furious (SL64)</reverse-related>
  <set num="MSC53" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC53.jpg?v=0" rarity="token">tokens</set>
@@ -13304,7 +13298,7 @@ Whenever this creature becomes the target of a spell, sacrifice it.</text>
  <pt>1/1</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related count="2">Creativity_KXP</reverse-related>
+ <reverse-related count="2">Creativity</reverse-related>
  <reverse-related count="2">Creativity (Zero)</reverse-related>
  <reverse-related>Gleaming Waypoint</reverse-related>
  <set num="KXP20" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/KXP20.jpg?v=0" rarity="token">tokens</set>
@@ -13442,7 +13436,7 @@ Equip {2}</text>
  <type>Token Artifact — Equipment</type>
  <token>1</token>
  <tablerow>1</tablerow>
- <reverse-related>Inconspicuous Platypus_KXP</reverse-related>
+ <reverse-related>Inconspicuous Platypus</reverse-related>
  <reverse-related>Inconspicuous Platypus (Agent P)</reverse-related>
  <set num="KXP29" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/KXP29.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -13454,7 +13448,7 @@ Equip {2}</text>
  <type>Token Artifact — Equipment</type>
  <token>1</token>
  <tablerow>1</tablerow>
- <reverse-related>Inconspicuous Platypus_KXP</reverse-related>
+ <reverse-related>Inconspicuous Platypus</reverse-related>
  <reverse-related>Inconspicuous Platypus (Agent P)</reverse-related>
  <set num="KXP31" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/KXP31.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -13466,7 +13460,7 @@ Equip {2}</text>
  <type>Token Artifact — Equipment</type>
  <token>1</token>
  <tablerow>1</tablerow>
- <reverse-related>Inconspicuous Platypus_KXP</reverse-related>
+ <reverse-related>Inconspicuous Platypus</reverse-related>
  <reverse-related>Inconspicuous Platypus (Agent P)</reverse-related>
  <set num="KXP33" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/KXP33.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -13478,7 +13472,7 @@ Equip {2}</text>
  <type>Token Artifact — Equipment</type>
  <token>1</token>
  <tablerow>1</tablerow>
- <reverse-related>Inconspicuous Platypus_KXP</reverse-related>
+ <reverse-related>Inconspicuous Platypus</reverse-related>
  <reverse-related>Inconspicuous Platypus (Agent P)</reverse-related>
  <set num="KXP34" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/KXP34.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -16999,62 +16993,6 @@ Target player mills four cards.</text>
  <tablerow>2</tablerow>
  <reverse-related>Young Necromancer_MSL</reverse-related>
  <set num="MSL38" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSL38.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Plains ETF</name>
- <text>({T}: Add {W}.)</text>
- <colors></colors>
- <type>Token Basic Land — Plains</type>
- <token>1</token>
- <tablerow>0</tablerow>
- <reverse-related>Abbey of Masquerades</reverse-related>
- <reverse-related>Distant Shores</reverse-related>
- <reverse-related>Troubled Heir</reverse-related>
- <set num="ETF20" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ETF20.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Island ETF</name>
- <text>({T}: Add {U}.)</text>
- <colors></colors>
- <type>Token Basic Land — Island</type>
- <token>1</token>
- <tablerow>0</tablerow>
- <reverse-related>Abbey of Masquerades</reverse-related>
- <reverse-related>Distant Shores</reverse-related>
- <set num="ETF18" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ETF18.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Swamp ETF</name>
- <text>({T}: Add {B}.)</text>
- <colors></colors>
- <type>Token Basic Land — Swamp</type>
- <token>1</token>
- <tablerow>0</tablerow>
- <reverse-related>Abbey of Masquerades</reverse-related>
- <reverse-related>Distant Shores</reverse-related>
- <set num="ETF21" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ETF21.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Mountain ETF</name>
- <text>({T}: Add {R}.)</text>
- <colors></colors>
- <type>Token Basic Land — Mountain</type>
- <token>1</token>
- <tablerow>0</tablerow>
- <reverse-related>Abbey of Masquerades</reverse-related>
- <reverse-related>Distant Shores</reverse-related>
- <set num="ETF19" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ETF19.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Forest ETF</name>
- <text>({T}: Add {G}.)</text>
- <colors></colors>
- <type>Token Basic Land — Forest</type>
- <token>1</token>
- <tablerow>0</tablerow>
- <reverse-related>Abbey of Masquerades</reverse-related>
- <reverse-related>Distant Shores</reverse-related>
- <set num="ETF17" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ETF17.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>colorless Elemental 11ETF</name>
@@ -21835,6 +21773,15 @@ When a card is put into your graveyard from anywhere, sacrifice Energy Field.</t
  <set num="SPK19" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SPK19.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>token Forest</name>
+ <text>({T}: Add {G}.)</text>
+ <colors></colors>
+ <type>Token Basic Land — Forest</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <set num="VTM15" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/VTM15.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>Forest MSJ</name>
  <text>({T}: Add {G}.)</text>
  <colors></colors>
@@ -21851,6 +21798,15 @@ When a card is put into your graveyard from anywhere, sacrifice Energy Field.</t
  <token>1</token>
  <tablerow>0</tablerow>
  <set num="BTB44" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/BTB44.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Forest Token</name>
+ <text>({T}: Add {G}.)</text>
+ <colors></colors>
+ <type>Token Basic Land — Forest</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <set num="ETF17" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ETF17.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>revived Forlorn Companion TOJ</name>
@@ -21947,6 +21903,15 @@ If this spell would create one or more tokens, it creates twice that many of tho
  <token>1</token>
  <tablerow>0</tablerow>
  <set num="BTB41" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/BTB41.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Island Token</name>
+ <text>({T}: Add {U}.)</text>
+ <colors></colors>
+ <type>Token Basic Land — Island</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <set num="ETF18" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ETF18.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>colorless Junk SPK</name>
@@ -22107,6 +22072,15 @@ Whenever a nontoken creature you control enters, you may pay {3}. If you do, cre
  <set num="BTB43" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/BTB43.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Mountain Token</name>
+ <text>({T}: Add {R}.)</text>
+ <colors></colors>
+ <type>Token Basic Land — Mountain</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <set num="ETF19" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ETF19.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>Mountain Forest (SL142)</name>
  <text>({T}: Add {R} or {G}.)</text>
  <colors></colors>
@@ -22246,6 +22220,24 @@ Whenever enchanted creature deals combat damage to a player, create a 2/1 white 
  <token>1</token>
  <tablerow>0</tablerow>
  <set num="BTB40" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/BTB40.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Plains Token</name>
+ <text>({T}: Add {W}.)</text>
+ <colors></colors>
+ <type>Token Basic Land — Plains</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <set num="ETF20" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ETF20.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Plains Token LAW</name>
+ <text>({T}: Add {W}.)</text>
+ <colors></colors>
+ <type>Token Basic Land — Plains</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <set num="LAW12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAW12.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>blue and green Plant SOU</name>
@@ -22619,6 +22611,15 @@ A deck can have any number of cards named Senaturian Legion.</text>
  <token>1</token>
  <tablerow>0</tablerow>
  <set num="BTB42" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/BTB42.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Swamp Token</name>
+ <text>({T}: Add {B}.)</text>
+ <colors></colors>
+ <type>Token Basic Land — Swamp</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <set num="ETF21" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ETF21.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>colorless Thopter 11MPS_MSE</name>

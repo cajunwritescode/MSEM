@@ -486,7 +486,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL51)
-		!update
+
 	time_created: 2022-02-18 14:51:44
 	time_modified: 2025-10-28 23:10:16
 	name: Past, Present, Future
@@ -3866,7 +3866,7 @@ card:
 	notes:
 		!design Cajun
 		!hidetag (SL60)
-		!update
+
 	time_created: 2016-10-22 20:57:24
 	time_modified: 2025-10-28 23:06:47
 	name: Spirit of Infamy
@@ -4687,7 +4687,7 @@ card:
 	notes:
 		!design Matt
 		!hidetag (SL63)
-		!update
+
 	time_created: 2019-02-08 11:14:42
 	time_modified: 2025-10-28 23:53:12
 	extra_data:
@@ -7786,9 +7786,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !hidetag (SL72)
+	notes:
+		!hidetag (SL72)
+		!update
 	time_created: 2022-07-26 05:26:34
-	time_modified: 2025-10-28 20:24:40
+	time_modified: 2025-12-01 17:28:18
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: Artist Series: Dawn 凌晨
@@ -7802,7 +7804,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Draw a card.
 	rule_text_2: 
 	flavor_text: <i-flavor>Premonitions of despair, loss, and violence filled the young noble’s mind as the weight of her decisions rapidly piled onto her soul.</i-flavor>
@@ -9006,7 +9008,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Spirit (SL76)
-		!update
+
 	time_created: 2022-03-13 13:47:38
 	time_modified: 2023-12-16 07:55:24
 	name: Spirit
@@ -11385,7 +11387,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL84)
-		!update
+
 	time_created: 2017-03-27 23:36:11
 	time_modified: 2025-10-28 22:48:01
 	extra_data:
@@ -11442,9 +11444,7 @@ card:
 		default_image_size: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		!update
-		!hidetag (SL84)
+	notes: !hidetag (SL84)
 	time_created: 2017-11-16 01:15:17
 	time_modified: 2025-10-28 23:55:12
 	extra_data:
@@ -13191,7 +13191,7 @@ card:
 	notes:
 		!design Cajun
 		!hidetag (SL91)
-		!update
+
 	time_created: 2022-02-19 07:30:46
 	time_modified: 2025-10-29 00:31:22
 	name: Here With You
@@ -15200,7 +15200,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL98)
-		!update
+
 	time_created: 2023-08-18 05:01:52
 	time_modified: 2025-10-28 19:37:39
 	name: Lilyreed Triton
@@ -16333,7 +16333,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-cardname><nospellcheck>Stormsurge</nospellcheck></atom-cardname> deals 3 damage to any target.
-		<kw-A><nospellcheck><key>Orchestrate <param-cost><sym>R</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Orchestrate <param-cost><sym>R</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	flavor_text: <i-flavor>Every action calls forth a hundred more.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>

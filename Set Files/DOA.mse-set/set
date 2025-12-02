@@ -1927,7 +1927,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text: At the beginning of your upkeep, you may pay 2 life. When you do, <kw-A><nospellcheck><key>proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(You choose any number of permanents and/or players with counters on them, then give each another kind of a counter already there.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: At the beginning of your upkeep, you may pay 2 life. When you do, <kw-A><nospellcheck><key>proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Choose any number of permanents and/or players, then give each another counter of each kind already there.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>If there is a cost to the <error-spelling:en_US>Kelian</error-spelling:en_US> League’s automation, it is out of sight and out of mind. As far as the world knows, there is no price of progress.</i-flavor>
 	illustrator: Max Schiller
 	card_code_text: 
@@ -2565,9 +2565,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!changed
-		!update buffed: Was {2}{R}.
+	notes: !changed
 	time_created: 2019-06-17 00:00:00
 	time_modified: 2025-10-28 23:35:40
 	name: Mirrorcast Battlemage
@@ -3287,7 +3285,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>Backwoods Cultivator</nospellcheck></atom-cardname> enters, put a +1/+1 counter on target creature you control.
-		When <atom-cardname><nospellcheck>Backwoods Cultivator</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(You choose any number of permanents and/or players with counters on them, then give each another kind of a counter already there.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Backwoods Cultivator</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Choose any number of permanents and/or players, then give each another counter of each kind already there.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -4258,7 +4256,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		Whenever equipped creature deals combat damage to a player, put a +1/+1 counter on it, then <kw-A><nospellcheck><key>proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(You choose any number of permanents and/or players with counters on them, then give each another kind of a counter already there.)</i-auto></atom-reminder-action></kw-A>
+		Whenever equipped creature deals combat damage to a player, put a +1/+1 counter on it, then <kw-A><nospellcheck><key>proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Choose any number of permanents and/or players, then give each another counter of each kind already there.)</i-auto></atom-reminder-action></kw-A>
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: jeremy chong
@@ -4868,26 +4866,25 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update reworked: Was an instant with Choose one or both — Counter target spell or fast flicker target permanent you control.
 	time_created: 2019-06-17 00:00:00
-	time_modified: 2019-10-12 01:31:00
+	time_modified: 2025-12-01 17:22:50
 	name: Extravagant Flair
 	casting_cost: 1WU
 	image: image129
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
-	rule_text:
-		Choose one or both —
-		<li><bullet>• </bullet>Counter target spell.
-		</li><li><bullet>• </bullet>Exile target permanent you control, then return it to the battlefield under your control.</li>
+	rule_text: You may have <atom-cardname><nospellcheck>Extravagant Flair</nospellcheck></atom-cardname> enter as a copy of an artifact or enchantment you control, except it has “At the beginning of your upkeep, you may return this permanent to its owner’s hand.”
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor>“I’m sorry, did you honestly think your Achievement was winning this year? Gaze upon mine, and recognize your foolishness.”</i-flavor>
@@ -5255,7 +5252,7 @@ card:
 	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Supplanter of Realities</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(You choose any number of permanents and/or players with counters on them, then give each another kind of a counter already there.)</i-auto></atom-reminder-action></kw-A>
+		Whenever <atom-cardname><nospellcheck>Supplanter of Realities</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>proliferate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Choose any number of permanents and/or players, then give each another counter of each kind already there.)</i-auto></atom-reminder-action></kw-A>
 		Sacrifice another permanent: <atom-cardname><nospellcheck>Supplanter of Realities</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. Tap it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

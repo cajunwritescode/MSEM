@@ -5114,8 +5114,9 @@ card:
 	notes:
 		!check krow
 		!preview crime
+		!update
 	time_created: 2025-03-25 20:21:33
-	time_modified: 2025-05-07 22:19:59
+	time_modified: 2025-11-03 01:40:28
 	name: Vitalia Tragedienne
 	casting_cost: 2GU
 	image: image50.png
@@ -5133,7 +5134,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-0><nospellcheck><key>Offspring—<param-cost>Tap an untapped creature you control</param-cost>.</key></nospellcheck></kw-0> <i-auto>(You may pay the offspring cost as an additional cost. If you do, when this creature enters, create a 1/1 token copy of it.)</i-auto>
-		You may have <atom-cardname><nospellcheck>Vitalia Tragedienne</nospellcheck></atom-cardname> enter as a copy of any creature on the battlefield, except it’s a Noble in addition to its other types. <i-auto>(It’s offspring will be a 1/1 Noble copy of that creature.)</i-auto>
+		You may have <atom-cardname><nospellcheck>Vitalia Tragedienne</nospellcheck></atom-cardname> enter as a copy of any creature on the battlefield, except it’s a Noble in addition to its other types. <i-auto>(Its offspring will be a 1/1 Noble copy of that creature.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 0

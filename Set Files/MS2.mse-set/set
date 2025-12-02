@@ -1113,9 +1113,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !design water the weeds
+	notes:
+		!design water the weeds
+		!update
 	time_created: 2019-10-12 11:48:15
-	time_modified: 2020-07-01 19:31:39
+	time_modified: 2025-12-01 17:26:10
 	name: Oracle’s Vision
 	casting_cost: U/B
 	image: image7
@@ -1125,7 +1127,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		Each player <kw-0><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-0>.
+		Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Draw a card.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Aimee Lynette
@@ -2474,9 +2476,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!design fluffyDeathbringer
-		!update
+	notes: !design fluffyDeathbringer
 	time_created: 2019-07-10 16:50:54
 	time_modified: 2025-10-28 22:59:12
 	name: Blood Fugue

@@ -746,9 +746,11 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !append  (If you cast it for its showcase cost, create a 1/1 red Bard creature token that can't block and exile that card. Whenever the Bard attacks, you may cast a free copy of the exiled card.)
+	notes:
+		!update nerfed: Treasure is now tapped.
+		!append  (If you cast it for its showcase cost, create a 1/1 red Bard creature token that can't block and exile that card. Whenever the Bard attacks, you may cast a free copy of the exiled card.)
 	time_created: 2022-01-16 22:35:28
-	time_modified: 2022-09-30 18:24:39
+	time_modified: 2025-12-01 17:20:51
 	name: Ma’Long, the Skystorm
 	name_2: Boxue, Imperial Ally
 	casting_cost: 4UR
@@ -772,7 +774,7 @@ card:
 	loyalty_cost_11: -5
 	loyalty_2: 3
 	level_9_text: <margin:130:0:0><atom-legname><nospellcheck>Ma’Long</nospellcheck></atom-legname> deals 1 damage to each opponent. You may draw a card, then discard a card.</margin:130:0:0>
-	level_10_text: <margin:130:0:0>Create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_10_text: <margin:130:0:0>Create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
 	level_11_text: <margin:130:0:0>Copy the next spell you cast this turn. You may choose new targets for the copy. <i-auto>(A copied permanent spell becomes a token.)</i-auto></margin:130:0:0>
 	power: 4
 	toughness: 4
@@ -786,7 +788,7 @@ card:
 	copyright_3: ™ & © 2022 CanterburyEgg
 	special_text_2:
 		[+1]: <margin:130:0:0><atom-legname><nospellcheck>Ma’Long</nospellcheck></atom-legname> deals 1 damage to each opponent. You may draw a card, then discard a card.</margin:130:0:0>
-		[-1]: <margin:130:0:0>Create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-5]: <margin:130:0:0>Copy the next spell you cast this turn. You may choose new targets for the copy. <i-auto>(A copied permanent spell becomes a token.)</i-auto></margin:130:0:0>
 
 card:
@@ -1771,7 +1773,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update buffed: Now gains lifelink.
+	notes: 
 	time_created: 2020-08-10 23:57:49
 	time_modified: 2025-10-29 00:34:05
 	extra_data:

@@ -468,9 +468,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL03)
+	notes:
+		!hidetag (SL03)
+		!update
 	time_created: 2021-02-15 14:52:25
-	time_modified: 2024-01-01 22:02:43
+	time_modified: 2025-12-01 17:27:11
 	name: Oracle’s Vision
 	casting_cost: U/B
 	image: image59
@@ -481,7 +483,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: mythic rare
 	rule_text:
-		Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Draw a card.
 	flavor_text:
 		<i-flavor>“Dark visitors will soon plague the land,<soft-line>
@@ -3010,7 +3012,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL11)
-		!update
+
 	time_created: 2017-11-16 01:15:17
 	time_modified: 2025-10-28 23:55:48
 	extra_data:
@@ -4119,7 +4121,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL16)
-		!update
+
 	time_created: 2021-06-02 23:04:31
 	time_modified: 2025-10-28 23:44:59
 	name: Endless Discoveries
@@ -8321,8 +8323,8 @@ card:
 	copyright_3: 
 	special_text:
 		(As this Discovery enters and after your draw step, add a progress counter. Stop after you've discovered.)
-		Look at the top five cards of your library. Put up to one creature card with mana value 2 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
-		At the beginning of combat on your turn, tap target creature an opponent controls.
+		I, II — Look at the top five cards of your library. Put up to one creature card with mana value 2 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+		Discovery — At the beginning of combat on your turn, tap target creature an opponent controls.
 		​
 
 card:
@@ -8473,9 +8475,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !hidetag (SL29)
+	notes:
+		!hidetag (SL29)
+		!update
 	time_created: 2021-08-09 10:33:20
-	time_modified: 2024-01-01 22:02:46
+	time_modified: 2025-12-01 17:27:07
 	name: Oracle’s Vision
 	casting_cost: U/B
 	image: image281
@@ -8486,7 +8490,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Draw a card.
 	flavor_text: <i-flavor>“I know that, someday, humanity will reach out its hand and grasp the universe beyond our sight, millions of worlds away.”</i-flavor>
 	illustrator: Rob Gonsalves
@@ -9204,7 +9208,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL31)
-		!update
+
 	time_created: 2021-08-20 23:39:30
 	time_modified: 2025-10-28 23:49:29
 	name: TT-23 Aegis
@@ -9769,7 +9773,6 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL32)
-		!update
 		!inpend starting deck./add/ (If this card outside the game is your chosen first mate, you may swap it with a card in your opening hand.)
 	time_created: 2021-09-19 00:12:47
 	time_modified: 2025-10-28 23:58:58
@@ -13280,7 +13283,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL43)
-		!update
+
 	time_created: 2021-11-01 00:35:22
 	time_modified: 2025-10-29 17:30:04
 	name: Moment of Tranquility

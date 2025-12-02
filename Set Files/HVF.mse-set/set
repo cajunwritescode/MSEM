@@ -927,9 +927,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !gw !bg !gu !rg
+	notes:
+		!gw !bg !gu !rg
+		!update
 	time_created: 2018-03-28 19:29:26
-	time_modified: 2018-07-06 13:48:02
+	time_modified: 2025-12-01 17:32:21
 	name: Humored Outlaw
 	casting_cost: 2GG
 	image: image39
@@ -939,9 +941,9 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		When <atom-cardname><nospellcheck>Humored Outlaw</nospellcheck></atom-cardname> enters, choose one —<soft-line>
-		</soft-line>• Put a +1/+1 counter on Humored             <kw-A><nospellcheck><key>Outlaw</key></nospellcheck>.<soft-line><atom-reminder-action> <i-auto>(Assassins, Mercenaries, Pirates, Rogues, and Warlocks are outlaws.)</i-auto></atom-reminder-action></kw-A>
-		</soft-line>• Destroy target artifact or enchantment.
+		When <atom-cardname><nospellcheck>Humored Outlaw</nospellcheck></atom-cardname> enters, choose one —
+		<li><bullet>• </bullet>Put a +1/+1 counter on <atom-cardname><nospellcheck>Humored Outlaw</nospellcheck></atom-cardname>.
+		</li><li><bullet>• </bullet>Destroy target artifact or enchantment.</li>
 	flavor_text:
 		<i-flavor>“What’s a few broken laws between friends?”<soft-line>
 		— Red Robin</soft-line></i-flavor>
@@ -3861,7 +3863,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update buffed: Trigger now makes each opponent lose 1 life.
+	notes: 
 	time_created: 2018-07-04 01:34:35
 	time_modified: 2025-10-28 23:15:04
 	name: Twinfire Dragon

@@ -1608,7 +1608,6 @@ card:
 	notes:
 		!hidetag (SL153)
 		!num 1333
-		!update
 	time_created: 2025-01-12 21:40:17
 	time_modified: 2025-10-29 00:00:18
 	name: Valencia of the Concordant
@@ -5224,8 +5223,10 @@ card:
 	notes:
 		UR 12 — Non-creature
 		!hidetag (SL151)
+		!update
+		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 	time_created: 2021-05-23 20:18:23
-	time_modified: 2025-04-30 12:24:18
+	time_modified: 2025-12-01 17:36:31
 	card_color: red
 	name: Relive Reality
 	casting_cost: 1R
@@ -5241,7 +5242,7 @@ card:
 	rarity: rare
 	rule_text:
 		Target instant or sorcery card in your graveyard gains flashback until end of turn. Its flashback cost is equal to its mana cost.
-		<kw-0><nospellcheck><key>Flashback—<param-cost><sym-auto>R</sym-auto>, Discard a card</param-cost>.</key></nospellcheck></kw-0>
+		<kw-0><nospellcheck><key>Flashback—<param-cost><sym-auto>1R</sym-auto>, Discard a card</param-cost>.</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 
 	level_1_text: ​
@@ -7529,7 +7530,6 @@ card:
 		!design Pipsqueak
 		
 		!hidetag (SL166)
-		!update
 	time_created: 2023-08-24 13:54:16
 	time_modified: 2025-10-24 16:35:55
 	name: Drift Off
@@ -7645,7 +7645,7 @@ card:
 		!hidetag (SL167)
 		!append  (It's a colorless sorcery that costs with “Draw a card.”)
 	time_created: 2024-11-02 15:54:48
-	time_modified: 2025-09-30 21:56:02
+	time_modified: 2025-12-01 17:56:23
 	name: Pact of the Moon
 	casting_cost: 1W
 	image: image214
@@ -7660,8 +7660,8 @@ card:
 	rarity: rare
 	rule_text:
 		Choose two or four —
-		<li><bullet>• </bullet>Exile target player’s graveyard.
-		</li><li><bullet>• </bullet>You gain 4 life.
+		<li><bullet>• </bullet>Exile all graveyards.
+		</li><li><bullet>• </bullet>You gain 3 life.
 		</li><li><bullet>• </bullet>Create a 2/2 white Knight creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
 		</li><li><bullet>• </bullet>Conjure a card named Fatigue and put it on top of your library.</li>
 	flavor_text: <i-flavor></i-flavor>
@@ -8743,9 +8743,7 @@ card:
 		other_options: class
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag (SL168)
-		!update
+	notes: !hidetag (SL168)
 	time_created: 2021-12-20 21:40:59
 	time_modified: 2025-10-31 10:54:36
 	name: Precognition Module

@@ -740,7 +740,9 @@ card:
 
 card:
 	has_styling: false
-	notes: fluffy: >one-sentence tutor, -dashgap, comma>period
+	notes:
+		fluffy: >one-sentence tutor, -dashgap, comma>period
+		!prepend (blah blah)\n
 	time_created: 2018-11-30 22:58:30
 	time_modified: 2021-04-11 11:48:13
 	name: Dragoncalling
@@ -3305,7 +3307,6 @@ card:
 	has_styling: false
 	notes:
 		 !done 
-		
 		Upped cost, changed statline, changed FT, changed abilities
 	time_created: 2018-11-30 22:58:40
 	time_modified: 2021-05-27 20:21:13

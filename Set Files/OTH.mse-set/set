@@ -1730,8 +1730,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever a land you control enters, add a quest counter.
-		Create a 1/1 Scout creature token that’s all colors.
-		Creatures you control get +2/+1 until end of turn.
+		1, 2 — Create a 1/1 Scout creature token that’s all colors.
+		3 — Creatures you control get +2/+1 until end of turn.
 		Creatures you control get +1/+1 until end of turn.
 
 card:
@@ -2084,8 +2084,8 @@ card:
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		Create two 1/1 white Human creature tokens.
-		Put a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on target creature you control. It becomes a legendary God in addition to its other types.
-		Exile target creature an opponent controls that’s a God or that has power 4 or greater.
+		I — Put a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on target creature you control. It becomes a legendary God in addition to its other types.
+		II — Exile target creature an opponent controls that’s a God or that has power 4 or greater.
 
 card:
 	stylesheet: m15-altered
@@ -3656,8 +3656,8 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Create a 1/1 blue Pirate creature token or a 2/2 white Dwarf creature token.
-		Until end of turn, creatures you control gain “Whenever this creature attacks, draw a card, then discard a card unless this creature is a Pirate.”
+		I, II — Create a 1/1 blue Pirate creature token or a 2/2 white Dwarf creature token.
+		III — Until end of turn, creatures you control gain “Whenever this creature attacks, draw a card, then discard a card unless this creature is a Pirate.”
 		​
 
 card:
@@ -4864,9 +4864,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Esper Enabler
+	notes:
+		Esper Enabler
+		!update
 	time_created: 2021-06-30 21:26:35
-	time_modified: 2022-01-26 01:38:50
+	time_modified: 2025-12-01 17:33:08
 	name: Rotrider Renegade
 	casting_cost: B
 	image: image138
@@ -4879,7 +4881,7 @@ card:
 	rule_text:
 		<atom-cardname><nospellcheck>Rotrider Renegade</nospellcheck></atom-cardname> can’t block or be blocked.
 		<sym-auto>1B</sym-auto>: <atom-cardname><nospellcheck>Rotrider Renegade</nospellcheck></atom-cardname> gets +1/+1 until end of turn.
-		<kw-1><nospellcheck><key>Dash—<param-cost>Reveal a Rogue card from your hand, Pay 2 life</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)</i-auto></atom-reminder-expert></kw-1>
+		<kw-1><nospellcheck><key>Dash—<param-cost>Reveal another Rogue card from your hand, Pay 2 life</param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell for its dash cost. If you do, it gains haste, and it’s returned from the battlefield to its owner’s hand at the beginning of the next end step.)</i-auto></atom-reminder-expert></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -6637,8 +6639,8 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)</i-auto>
-		Create a tapped colorless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Powercell</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> artifact token with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”
-		Sacrifice three artifacts.
+		I, II, III — Create a tapped colorless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Powercell</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> artifact token with “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”
+		IV — Sacrifice three artifacts.
 		​
 
 card:
@@ -7932,9 +7934,9 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Create a 3/3 green Elk creature token.
-		<kw-a><nospellcheck><key>Scry <param-number>X</param-number></key></nospellcheck></kw-a>, where X is the number of Elk you control, then draw a card.
-		Revive <sym>6G</sym> <i-auto>(<sym-auto>6G</sym-auto>, Exile this card from your graveyard: Create a token that’s a copy of it, except it has no mana cost. Revive only as a sorcery.)</i-auto>
+		I — Create a 3/3 green Elk creature token.
+		II — <kw-a><nospellcheck><key>Scry <param-number>X</param-number></key></nospellcheck></kw-a>, where X is the number of Elk you control, then draw a card.
+		III — Revive <sym>6G</sym> <i-auto>(<sym-auto>6G</sym-auto>, Exile this card from your graveyard: Create a token that’s a copy of it, except it has no mana cost. Revive only as a sorcery.)</i-auto>
 
 card:
 	has_styling: false
@@ -8163,7 +8165,7 @@ card:
 		overlay: 
 	notes:
 		!replacetoken landAura;1
-		!update
+
 	time_created: 2021-06-14 23:10:03
 	time_modified: 2023-02-28 22:32:34
 	name: Ramzi, Traveling Merchant
@@ -11999,8 +12001,8 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto>
-		You may sacrifice any number of artifacts. If you do, draw that many cards.
+		I, II — Create a <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto>
+		III — You may sacrifice any number of artifacts. If you do, draw that many cards.
 		​
 
 card:
@@ -12286,7 +12288,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update buffed: Can now swap cards with different mana costs.
+	notes: 
 	time_created: 2020-05-28 14:46:47
 	time_modified: 2025-10-29 00:14:35
 	extra_data:
@@ -12559,7 +12561,6 @@ card:
 	notes:
 		!exportname land Aura
 		!tokentag landAura
-		!update
 	time_created: 2021-07-23 12:20:38
 	time_modified: 2021-07-23 15:26:38
 	card_color: white

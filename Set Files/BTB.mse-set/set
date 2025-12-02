@@ -2257,9 +2257,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: UR 12 — Non-creature
+	notes:
+		UR 12 — Non-creature
+		!update nerfed: Increased flashback cost by {1}.
 	time_created: 2021-05-23 20:18:23
-	time_modified: 2024-04-21 23:19:24
+	time_modified: 2025-12-01 17:34:58
 	card_color: red
 	name: Relive Reality
 	casting_cost: 1R
@@ -2272,7 +2274,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Target instant or sorcery card in your graveyard gains flashback until end of turn. Its flashback cost is equal to its mana cost.
-		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>R</sym-auto>, Discard a card</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Flashback—<param-cost><sym-auto>1R</sym-auto>, Discard a card</param-cost>.</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	level_1: 
 	level_1_text: 
@@ -5817,7 +5819,7 @@ card:
 	stylesheet: m15-saga
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: !update nerfed: Mana cost and each submodule cost increased by {1}. First submodule no longer targets tapped creatures.
+	notes: 
 	time_created: 2021-12-20 21:40:59
 	time_modified: 2025-10-31 10:39:18
 	name: Precognition Module
@@ -6581,7 +6583,6 @@ card:
 	notes:
 		UW 10 — Non-creature
 		!design Bergland
-		!update buffed: Now has flashback, and copies itself when cast from a graveyard.
 		The faithful looked upon the silent, silicon heart. In its circuits was salvation. Here was divinity, reignited at last.
 	time_created: 2022-01-30 20:56:08
 	time_modified: 2025-10-29 00:59:39

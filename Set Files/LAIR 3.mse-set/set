@@ -1197,9 +1197,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		center_text: always
 		overlay: 
-	notes: !hidetag (SL104)
+	notes:
+		!hidetag (SL104)
+		!update
 	time_created: 2023-09-26 10:01:45
-	time_modified: 2024-01-01 21:58:57
+	time_modified: 2025-12-01 17:29:30
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: 
@@ -1214,7 +1216,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Draw a card.
 	flavor_text:
 		<i-flavor>You shall go west, and face the god who has turned,
@@ -2965,7 +2967,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL110)
-		!update
+
 	time_created: 2023-10-02 17:05:06
 	time_modified: 2025-10-29 00:30:38
 	name: Here With You
@@ -4908,7 +4910,7 @@ card:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2023-11-14 03:05:34
 	time_modified: 2023-11-29 17:28:57
 	card_color: white
@@ -4940,7 +4942,7 @@ card:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2023-11-14 03:13:57
 	time_modified: 2023-11-29 17:29:00
 	card_color: green
@@ -7540,7 +7542,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL124)
-		!update
+
 	time_created: 2024-02-09 18:47:31
 	time_modified: 2025-10-03 22:29:22
 	name: Gathering the Gang
@@ -7708,7 +7710,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL124)
-		!update
+
 	time_created: 2024-02-09 18:38:21
 	time_modified: 2025-10-29 17:30:54
 	name: Moment of Tranquility
@@ -9815,8 +9817,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I, II — You may exile target nonland permanent. If you do, you lose 3 life.
-		III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		I — You may exile target nonland permanent. If you do, you lose 3 life.
+		II, III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
@@ -14122,7 +14124,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL142)
-		!update
+
 	time_created: 2018-11-30 22:58:24
 	time_modified: 2025-10-03 22:28:10
 	name: Apex's Oath
@@ -17456,9 +17458,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!update
-		!hidetag (SL148)
+	notes: !hidetag (SL148)
 	time_created: 2024-10-26 19:46:22
 	time_modified: 2025-10-22 15:22:47
 	name: Arrive, Surrounded by Petals
@@ -17633,10 +17633,10 @@ card:
 card:
 	has_styling: false
 	notes:
-		
+		!update
 		!hidetag (SL148)
 	time_created: 2024-10-26 19:32:22
-	time_modified: 2024-10-30 17:18:16
+	time_modified: 2025-12-01 17:29:33
 	name: Oracle’s Vision
 	casting_cost: U/B
 	image: image519
@@ -17653,7 +17653,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Draw a card.
 	flavor_text:
 		<i-flavor>“We watch but we do not interfere. If we did would you truly be free?”<soft-line>
@@ -17677,7 +17677,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL148)
-		!update
+
 	time_created: 2024-10-26 20:40:42
 	time_modified: 2025-02-06 01:38:36
 	card_color: colorless
