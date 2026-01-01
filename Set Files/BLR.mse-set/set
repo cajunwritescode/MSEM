@@ -6748,7 +6748,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2021-08-15 13:56:36
 	time_modified: 2025-09-24 20:24:05
 	name: Ella’s Agent

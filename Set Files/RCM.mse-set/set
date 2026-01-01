@@ -192,7 +192,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update buffed: Condor now triggers on Warrior death instead of targeting.
+	notes:  buffed: Condor now triggers on Warrior death instead of targeting.
 	time_created: 2021-02-14 14:46:27
 	time_modified: 2025-10-29 00:38:11
 	extra_data:

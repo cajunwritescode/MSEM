@@ -1787,7 +1787,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update buffed: Now creates a Food if you aren’t horrific.
+	notes:  buffed: Now creates a Food if you aren’t horrific.
 	time_created: 2020-10-20 13:57:09
 	time_modified: 2025-10-29 00:35:03
 	name: Zealous Rabble

@@ -5223,7 +5223,7 @@ card:
 	notes:
 		UR 12 — Non-creature
 		!hidetag (SL151)
-		!update
+		
 		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 	time_created: 2021-05-23 20:18:23
 	time_modified: 2025-12-01 17:36:31
@@ -9009,6 +9009,569 @@ card:
 	card_code_text_2: Completed by Pipsqueak
 	card_code_text_3: Completed by Pipsqueak
 	copyright: Eltensia Prophecies — Pipsqueak
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		popout_image_style: 0,0,752,523,
+		back_style: 3 ability planeswalker
+		other_options: vorthos box, use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
+		level_1_chop: -5,5
+		level_5_chop: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (SL168)
+		!num 1503
+	time_created: 2023-12-26 10:13:17
+	time_modified: 2025-10-02 22:47:56
+	extra_data:
+		magic-m15-mainframe-dfc:
+			front_color_hint: k
+			vorthos_box_2: They/them
+	card_color_2: white, red, multicolor, horizontal
+	name: The Lost and Seeking
+	name_2: Ameret, Shining and Proud
+	casting_cost: R/W
+	image: image251
+	image_2: image252
+	mainframe_image: image253
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-planeswalker>Ameret</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Whenever another legendary creature you control enters, put a +1/+1 counter on <atom-cardname><nospellcheck>The Lost and Seeking</nospellcheck></atom-cardname>.
+		Surpass <sym>4RW</sym> <i-auto>(<sym-auto>4RW</sym-auto>: Transform this creature. This costs <sym-auto>1</sym-auto> less to activate for each counter on it. Activate only as a sorcery.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_6: +1
+	loyalty_cost_7: -2
+	loyalty_cost_8: 
+	loyalty_cost_10: +1
+	loyalty_cost_11: -2
+	loyalty_2: 
+	level_2_text: <i-flavor></i-flavor>
+	level_3_text: 
+	level_5_text: As this permanent transforms into <atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname>, counters on <soft-line><atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname></soft-line> become loyalty counters instead.
+	level_6_text: <margin:130:0:0>Until end of turn, you may have <atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname> become a X/X Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, where X is the number of counters on them.</margin:130:0:0>
+	level_7_text: <margin:130:0:0>Create three 1/1 white and red Cleric creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_8_text: 
+	level_9_text: As this permanent transforms into <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Shining and Proud, counters on them become loyalty counters instead.
+	level_10_text: <margin:130:0:0>Until end of turn, you may have <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> become an X/X Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, where X is the number of counters on them.</margin:130:0:0>
+	level_11_text: <margin:130:0:0>Create three 1/1 red and white Cleric creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_12_text: 
+	power: 1
+	toughness: 1
+	illustrator: Astri Lohne
+	illustrator_2: Assassinmilks
+	custom_card_number: 1503
+	card_code_text: Zangy
+	card_code_text_2: Zangy
+	card_code_text_3: 
+	copyright: INM/TPW Top Xs — Alittleblank
+	copyright_2: INM/TPW Top Xs — Alittleblank
+	copyright_3: 
+	secondary_copyright_2: 
+	special_text: 
+	special_text_2:
+		As this permanent transforms into <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Shining and Proud, counters on them become loyalty counters instead.
+		[+1]: <margin:130:0:0>Until end of turn, you may have <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> become an X/X Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, where X is the number of counters on them.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Create three 1/1 red and white Cleric creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: true
+	styling_data:
+		icon_link: front triangle.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !noexport
+	time_created: 2025-10-02 22:27:14
+	time_modified: 2025-10-02 22:47:13
+	name: The Lost and Seeking
+	casting_cost: R/W
+	image: image254
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever another legendary creature you control enters, put a +1/+1 counter on The Lost and Seeking.
+		Surpass <sym>4RW</sym>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Qiyang Feng
+	custom_card_number: 1503a
+	card_code_text: Zangy
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: INM/TPW Top Xs — Alittleblank
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: true
+	styling_data:
+		icon_link: back triangle.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !noexport
+	time_created: 2025-10-02 22:27:14
+	time_modified: 2025-10-02 22:46:52
+	card_color: white, red, hybrid, horizontal
+	name: Ameret, Shining and Proud
+	casting_cost: 
+	image: image255
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>Ameret</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: As this permanent transforms into <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Shining and Proud, counters on them become loyalty counters instead.
+	flavor_text: <i-flavor><margin:230:0:0>Until end of turn, you may have <error-spelling:en_US>Ameret</error-spelling:en_US> become an X/X Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, where X is the number of counters on them.</margin:230:0:0></i-flavor>
+	loyalty_cost_2: +1
+	loyalty_cost_3: -2
+	level_1_text: As this permanent transforms into <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Shining and Proud, counters on them become loyalty counters instead.
+	level_2_text: <margin:230:0:0>Until end of turn, you may have <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> become an X/X Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, where X is the number of counters on them.</margin:230:0:0>
+	level_3_text: <margin:230:0:0>Create three 1/1 red and white Cleric creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:230:0:0>
+	level_4_text: 
+	power: 
+	toughness: 
+	illustrator: Lejia Chan
+	custom_card_number: 1503b
+	card_code_text: Zangy
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: INM/TPW Top Xs — Alittleblank
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: !hidetag (SL168)
+	time_created: 2025-10-02 22:36:46
+	time_modified: 2025-10-31 16:42:49
+	card_color: white, red, multicolor, horizontal
+	name: Cleric
+	image: image256
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Cleric</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Park Jun Seong
+	custom_card_number: 97
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: INM/TPW Top Xs — Alittleblank
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: !hidetag (SL169)
+	time_created: 2023-03-17 08:46:17
+	time_modified: 2025-10-31 15:33:09
+	card_color: white
+	name: Avacyn, the Savior
+	casting_cost: 4WWW
+	image: image257
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
+		At the beginning of your end step, return up to one target permanent card from your graveyard to the battlefield with an <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 7
+	toughness: 7
+	illustrator: R Adrian Z
+	custom_card_number: 1513
+	card_code_text: Mako
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: X Out of X — Nix
+	copyright_2: ™ & © 2021 Wizards of the Coast
+	copyright_3: ™ & © 2021 Wizards of the Coast
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: !hidetag (SL169)
+	time_created: 2022-05-28 11:36:04
+	time_modified: 2025-10-31 15:33:44
+	name: Become Oneself
+	casting_cost: 3WWW
+	image: image258
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		If you control ten or more nonland permanents, you get an emblem with “At the beginning of your end step, return target permanent card from your graveyard to the battlefield.”
+		Destroy all nonland permanents.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: As9Mcko
+	custom_card_number: 1511
+	card_code_text: Purplemurasaki
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: X Out of X — Nix
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright:
+		 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: !hidetag (SL169)
+	time_created: 2022-02-05 22:19:41
+	time_modified: 2025-10-31 15:33:59
+	name: Biohazard
+	casting_cost: XBGU
+	image: image259
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Biohazard</nospellcheck></atom-cardname> enters, destroy all other nonland permanents with mana value X or less.
+		At the beginning of each end step, each opponent loses life equal to the number of cards they’ve drawn this turn plus the number of spells they’ve cast this turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: kelgrid
+	custom_card_number: 1510
+	card_code_text: Pipsqueak
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: X Out of X — Nix
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright:
+		 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: !hidetag (SL169)
+	time_created: 2019-09-29 22:18:00
+	time_modified: 2025-10-31 15:34:07
+	extra_data:
+		magic-m15-altered: vorthos_box: She/Her
+	name: Dayang, Aspiring Muse
+	casting_cost: RW
+	image: image260
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		At the beginning of each player’s end step, that player discards each card in their hand, then draws that many cards. When no cards are discarded this way, <atom-cardname><nospellcheck>Dayang, Aspiring Muse</nospellcheck></atom-cardname> deals 2 damage to each opponent.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Zeen Chin
+	custom_card_number: 1509
+	card_code_text: HerziQuerzi
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: X Out of X — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: !hidetag (SL169)
+	time_created: 2025-03-25 19:51:18
+	time_modified: 2025-10-31 15:35:01
+	name: Devka, Mad Memory
+	casting_cost: 1UBR
+	image: image261
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Nightmare</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		If a player would draw one or more cards, instead they draw that many cards plus one, then discard a card at random.
+		<kw-A><nospellcheck><key>Haunt</key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature dies, exile it haunting target creature.)</i-auto></atom-reminder-expert></kw-A>
+		You may cast <atom-legname><nospellcheck>Devka</nospellcheck></atom-legname> from exile if it’s haunting a creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 3
+	illustrator: R Adrian Z
+	custom_card_number: 1506
+	card_code_text: HerziQuerzi
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: X Out of X — Nix
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: !hidetag (SL169)
+	time_created: 2016-05-12 17:02:10
+	time_modified: 2025-10-31 15:34:28
+	extra_data:
+		magic-m15-extra:
+			stamp: spectral
+			creator: Yoshi
+			frame: spectral
+	name: The Infinite
+	casting_cost: 8
+	image: image262
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		You pay <sym-auto>0</sym-auto> to cast your first spell each turn rather than its mana cost. If you cast a spell with <sym>X</sym> in its mana cost this way, X is 8.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 8
+	illustrator: R Adrian Z
+	custom_card_number: 1508
+	card_code_text: Fleur
+	card_code_text_2: Fleur
+	card_code_text_3: Fleur
+	copyright: X Out of X — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: !hidetag (SL169)
+	time_created: 2018-03-11 17:15:01
+	time_modified: 2025-10-31 15:33:23
+	extra_data:
+		magic-m15-altered: vorthos_box: She/Her
+	name: Seeker Lizaveth
+	casting_cost: 1G
+	image: image263
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever you play a land, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		<sym-auto>1GUR</sym-auto>, Sacrifice three Clues: Exile cards from the top of your library until you exile three nonland cards. You may cast any number of those cards without paying their mana costs.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Yuumei
+	custom_card_number: 1512
+	card_code_text: water the weeds
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: X Out of X — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: !hidetag (SL169)
+	time_created: 2023-11-25 21:12:34
+	time_modified: 2025-10-31 15:35:22
+	name: Shadowbinder Touka
+	casting_cost: UBR
+	image: image264
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Shadowbinder Touka</nospellcheck></atom-cardname> enters or attacks, exile up to one target creature card from a graveyard.
+		You may play creature cards exiled with <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Touka</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
+		Sacrifice another creature: Add two mana in any combination of colors. You can’t spend this mana to cast spells from your hand. If this mana is spent to cast a creature spell, that creature enters with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Neg101
+	custom_card_number: 1504
+	card_code_text: Featherfall
+	card_code_text_2: Featherfall
+	card_code_text_3: Featherfall
+	copyright: X Out of X — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 0,0,375,523,
+		other_options: un-indent nonloyalty abilities
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL169)
+	time_created: 2023-02-14 02:20:13
+	time_modified: 2025-10-31 15:38:01
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			vorthos_box: She/her
+	name: Salome
+	casting_cost: 4UB
+	image: image265
+	image_2: image266
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Salome</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	loyalty_cost_2: +1
+	loyalty_cost_3: -4
+	loyalty_cost_4: -8
+	loyalty: 4
+	level_1_text: Whenever you cast your second spell during each of your turns, you may activate one of <atom-cardname><nospellcheck>Salome</nospellcheck></atom-cardname>’s loyalty abilities.
+	level_2_text: <margin:130:0:0>Draw a card. Untap up to two lands.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Destroy all creatures.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>You get an emblem with “You may pay <sym>0</sym> rather than pay the mana cost for the second spell you cast each turn.”</margin:130:0:0>
+	level_5_text: 
+	level_6_text: 
+	illustrator: colour0816
+	custom_card_number: 1505
+	card_code_text: Zangy & Fleur
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: X Out of X — Nix
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		Whenever you cast your second spell during each of your turns, you may activate one of <atom-cardname><nospellcheck>Salome</nospellcheck></atom-cardname>’s loyalty abilities.
+		[+1]: <margin:130:0:0>Draw a card. Untap up to two lands.</margin:130:0:0>
+		[-4]: <margin:130:0:0>Destroy all creatures.</margin:130:0:0>
+		[-8]: <margin:130:0:0>You get an emblem with “You may pay <sym>0</sym> rather than pay the mana cost for the second spell you cast each turn.”</margin:130:0:0>
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: !hidetag (SL169)
+	time_created: 2024-03-16 15:40:25
+	time_modified: 2025-10-31 15:34:44
+	extra_data:
+		magic-m15-altered: vorthos_box: It/Its
+	name: Yhzag, Alpha and Omega
+	casting_cost: 13
+	image: image267
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>God</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
+		Once during each of your turns, you may cast a spell from your graveyard without paying its mana cost.
+		When <atom-cardname><nospellcheck>Yhzag, Alpha and Omega</nospellcheck></atom-cardname> is put into a graveyard from anywhere, its owner shuffles their graveyard into their library.
+	flavor_text: <i-flavor></i-flavor>
+	power: 13
+	toughness: 13
+	illustrator: malebeja
+	custom_card_number: 1507
+	card_code_text: Timespiraled
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: X Out of X — Nix
 	copyright_2: 
 	copyright_3: 
 

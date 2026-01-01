@@ -7165,7 +7165,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update buffed: Now has ward {3}.
+	notes:  buffed: Now has ward {3}.
 	time_created: 2019-06-27 02:52:19
 	time_modified: 2025-10-29 00:02:06
 	name: Nidhir, the One Beyond

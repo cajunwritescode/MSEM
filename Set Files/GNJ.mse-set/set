@@ -1267,7 +1267,7 @@ card:
 	notes:
 		r!ability
 		r!pt
-		!update buffed: Now sacrifices non-Demons
+		 buffed: Now sacrifices non-Demons
 	time_created: 2016-03-07 14:27:12
 	time_modified: 2025-10-28 22:38:10
 	extra_data:
@@ -9163,7 +9163,7 @@ card:
 		overlay: 
 		custom_mask: 
 		old_image_size: yes
-	notes: !update
+	notes: 
 	time_created: 2017-09-18 20:08:17
 	time_modified: 2025-10-22 15:55:21
 	name: Emblem
@@ -9470,7 +9470,7 @@ card:
 		r!ability
 		r!pt
 		!revivetoken
-		!update
+		
 	time_created: 2016-03-07 14:27:12
 	time_modified: 2025-10-28 22:38:18
 	card_color: black

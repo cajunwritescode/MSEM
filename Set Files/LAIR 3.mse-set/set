@@ -1199,7 +1199,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL104)
-		!update
+
 	time_created: 2023-09-26 10:01:45
 	time_modified: 2025-12-01 17:29:30
 	extra_data:
@@ -2965,9 +2965,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag (SL110)
-
+	notes: !hidetag (SL110)
 	time_created: 2023-10-02 17:05:06
 	time_modified: 2025-10-29 00:30:38
 	name: Here With You
@@ -7540,9 +7538,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL124)
-
+	notes: !hidetag (SL124)
 	time_created: 2024-02-09 18:47:31
 	time_modified: 2025-10-03 22:29:22
 	name: Gathering the Gang
@@ -7708,9 +7704,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL124)
-
+	notes: !hidetag (SL124)
 	time_created: 2024-02-09 18:38:21
 	time_modified: 2025-10-29 17:30:54
 	name: Moment of Tranquility
@@ -9817,8 +9811,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I — You may exile target nonland permanent. If you do, you lose 3 life.
-		II, III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		You may exile target nonland permanent. If you do, you lose 3 life.
+		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
@@ -10395,9 +10389,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !hidetag (SL132)
+	notes:
+		!hidetag (SL132)
+		
 	time_created: 2024-06-05 10:01:42
-	time_modified: 2024-06-30 21:33:45
+	time_modified: 2025-12-31 20:28:11
 	name: Pitchpyre Curse
 	casting_cost: BR
 	image: image306
@@ -10409,7 +10405,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		Whenever one or more creatures attack enchanted player, their controller may sacrifice a creature. If they do, enchanted player loses 3 life, sacrifices a nonland permanent, and discards a card.
+		Whenever one or more creatures attack enchanted player, their controller may sacrifice a creature. If they do, enchanted player loses 3 life. Then you may have them discard a card. If you don’t, they sacrifice a nonland permanent.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Kyle Ferrin
 	custom_card_number: 1121
@@ -12170,9 +12166,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL137)
+	notes:
+		!hidetag (SL137)
+		
 	time_created: 2024-08-22 00:27:08
-	time_modified: 2024-08-26 03:20:16
+	time_modified: 2025-12-31 20:26:57
 	name: Jak, Daring Vanguard
 	casting_cost: RR
 	image: image356
@@ -12185,7 +12183,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jak</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Daring Vanguard or another legendary creature you control enters, creatures you control get +1/+0 and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	rule_text: Once each turn, when <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Jak</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Daring Vanguard or another legendary creature you control enters, you may have creatures you control get +1/+0 and gain <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -14122,9 +14120,7 @@ card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes:
-		!hidetag (SL142)
-
+	notes: !hidetag (SL142)
 	time_created: 2018-11-30 22:58:24
 	time_modified: 2025-10-03 22:28:10
 	name: Apex's Oath
@@ -14387,9 +14383,11 @@ card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes: !hidetag (SL142)
+	notes:
+		!hidetag (SL142)
+		
 	time_created: 2020-11-23 20:46:20
-	time_modified: 2024-08-30 00:19:06
+	time_modified: 2025-12-31 20:28:02
 	card_color: black, red, multicolor, horizontal
 	name: Pitchpyre Curse
 	casting_cost: BR
@@ -14402,7 +14400,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		Whenever one or more creatures attack enchanted player, their controller may sacrifice a creature. If they do, enchanted player loses 3 life, sacrifices a nonland permanent, and discards a card.
+		Whenever one or more creatures attack enchanted player, their controller may sacrifice a creature. If they do, enchanted player loses 3 life. Then you may have them discard a card. If you don’t, they sacrifice a nonland permanent.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Alexey Karelin
 	custom_card_number: 1218
@@ -16698,8 +16696,8 @@ card:
 	secondary_copyright: 
 	special_text:
 		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-		I, II — You may exile target nonland permanent. If you do, you lose 3 life.
-		III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		You may exile target nonland permanent. If you do, you lose 3 life.
+		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
@@ -17633,7 +17631,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		!update
+		
 		!hidetag (SL148)
 	time_created: 2024-10-26 19:32:22
 	time_modified: 2025-12-01 17:29:33
@@ -17675,9 +17673,7 @@ card:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag (SL148)
-
+	notes: !hidetag (SL148)
 	time_created: 2024-10-26 20:40:42
 	time_modified: 2025-02-06 01:38:36
 	card_color: colorless

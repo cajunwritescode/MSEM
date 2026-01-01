@@ -1419,7 +1419,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update buffed: Was {2}{W}{B}, with Monument {W}{B} for a monument that drained for 1 on upkeep.
+	notes:  buffed: Was {2}{W}{B}, with Monument {W}{B} for a monument that drained for 1 on upkeep.
 	time_created: 2020-06-07 17:23:58
 	time_modified: 2025-10-29 00:10:28
 	card_color_2: white, black, artifact, multicolor, horizontal

@@ -399,7 +399,7 @@ card:
 	has_styling: false
 	notes:
 		If Maria survives, the power and toughness change is permanent until she blocks again.
-		!update
+		
 	time_created: 2016-08-03 11:54:07
 	time_modified: 2024-09-06 16:11:26
 	extra_data:
@@ -1693,7 +1693,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2016-08-03 11:50:46
 	time_modified: 2025-10-23 21:11:10
 	name: Mirrorstalk
@@ -5339,7 +5339,7 @@ card:
 		overlay: 
 	notes:
 		1.4 Now Legendary, Mainframe Planeswalkers
-		!update buffed: First ability changed from [+2]: Each opponent loses 2 life. Scry 2.
+		 buffed: First ability changed from [+2]: Each opponent loses 2 life. Scry 2.
 	time_created: 2017-03-27 23:36:11
 	time_modified: 2025-10-28 22:45:16
 	extra_data:

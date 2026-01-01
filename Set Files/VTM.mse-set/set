@@ -2575,7 +2575,7 @@ card:
 	notes:
 		!vivian!guest 
 		!design fluffyDeathbringer
-		!update
+		
 	time_created: 2018-03-22 06:19:21
 	time_modified: 2025-10-23 21:55:51
 	name: Wheat from Chaff
@@ -2733,7 +2733,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2018-07-12 01:07:37
 	time_modified: 2018-07-14 01:08:32
 	name: Blood Artist
@@ -2846,7 +2846,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update buffed: Now has menace and two more mark triggers.
+	notes:  buffed: Now has menace and two more mark triggers.
 	time_created: 2018-07-03 16:49:25
 	time_modified: 2025-10-28 23:18:09
 	card_color: black
@@ -10494,7 +10494,7 @@ card:
 		overlay: 
 	notes:
 		!promo
-		!update
+		
 	time_created: 2018-07-12 01:07:37
 	time_modified: 2021-12-01 00:43:33
 	name: Blood Artist

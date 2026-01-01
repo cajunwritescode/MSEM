@@ -2284,7 +2284,7 @@ card:
 		overlay: 
 	notes:
 		!Flag: Power level concern
-		!update adjusted: Costs {U} less and regrows one card instead of X.
+		 adjusted: Costs {U} less and regrows one card instead of X.
 	time_created: 2020-11-03 17:16:23
 	time_modified: 2025-10-29 00:18:49
 	card_color: blue
@@ -12453,9 +12453,10 @@ card:
 	notes:
 		!Change  
 		!New
+		 nerfed: Now puts the card on bottom instead of discarding.
 		!Replaces Living Grimoire
 	time_created: 2022-02-25 13:33:57
-	time_modified: 2023-01-01 21:09:06
+	time_modified: 2025-12-31 20:17:02
 	name: Anthus’s Accomplice
 	casting_cost: U
 	image: image48
@@ -12468,7 +12469,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		At the beginning of each end step, if two or more spells were cast this turn, you may draw a card. If you do, discard a card.
+		At the beginning of each end step, if two or more spells were cast this turn, you may draw a card. If you do, put a card from your hand on the bottom of your library.
 	flavor_text: <i-flavor>“One for all and—well, the rest doesn’t matter.”</i-flavor>
 	power: 1
 	toughness: 1

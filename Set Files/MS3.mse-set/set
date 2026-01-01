@@ -8200,10 +8200,10 @@ card:
 	has_styling: false
 	notes:
 		!design Pipsqueak
-		
+		 nerfed: Now have to choose between discard and sacrifice.
 		!Community
 	time_created: 2020-11-23 20:46:20
-	time_modified: 2021-01-31 20:16:48
+	time_modified: 2025-12-31 20:28:45
 	card_color: black, red, multicolor, horizontal
 	name: Pitchpyre Curse
 	casting_cost: BR
@@ -8216,7 +8216,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		Whenever one or more creatures attack enchanted player, their controller may sacrifice a creature. If they do, enchanted player loses 3 life, sacrifices a nonland permanent, and discards a card.
+		Whenever one or more creatures attack enchanted player, their controller may sacrifice a creature. If they do, enchanted player loses 3 life. Then you may have them discard a card. If you don’t, they sacrifice a nonland permanent.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: ömer tunç
 	card_code_text: Pipsqueak

@@ -1408,7 +1408,7 @@ card:
 		overlay: 
 	notes:
 		!ArtU
-		!update
+		
 	time_created: 2017-05-16 14:00:50
 	time_modified: 2023-12-09 10:48:07
 	name: Zahar, Aghavaan’s Legacy
@@ -3112,7 +3112,7 @@ card:
 	has_styling: false
 	notes:
 		!ArtU
-		!update
+		
 		!inpend Gold./add/  (It can’t be targeted, dealt damage, enchanted, or equipped by anything colorless or multicolored.)
 	time_created: 2017-09-11 15:06:34
 	time_modified: 2025-10-23 21:27:46
@@ -5067,7 +5067,7 @@ card:
 	notes:
 		!ArtistCred
 		!ArtU
-		!update buffed: Used to destroy a creature that was dealt damage this turn.
+		 buffed: Used to destroy a creature that was dealt damage this turn.
 	time_created: 2017-06-22 18:14:33
 	time_modified: 2025-10-28 23:00:35
 	card_color: black

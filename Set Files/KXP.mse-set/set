@@ -3764,7 +3764,7 @@ card:
 	has_styling: false
 	notes:
 		!codex Versatility
-		!update 101: Now creates Scout tokens.
+		 101: Now creates Scout tokens.
 		!rul Adventures and Tales are not alternate costs.
 	time_created: 2021-07-22 17:59:41
 	time_modified: 2025-10-29 00:28:20
@@ -3980,7 +3980,7 @@ card:
 		overlay: 
 	notes:
 		!backup https://www.deviantart.com/snatti89/art/Farewell-727485345
-		!update buffed: Back to instant, tokens have decayed.
+		 buffed: Back to instant, tokens have decayed.
 	time_created: 2022-02-19 07:30:46
 	time_modified: 2025-10-29 00:23:21
 	name: Here With You
@@ -9144,7 +9144,7 @@ card:
 		overlay: 
 	notes:
 		!codex Versatility
-		!update
+		
 		Adventures and Tales are not alternate costs.
 		!hidetag (Zero)
 	time_created: 2021-07-22 17:59:41
@@ -10939,7 +10939,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Red Elemental
-		!update
+		
 	time_created: 2022-02-07 00:26:35
 	time_modified: 2025-10-29 00:25:01
 	card_color: red

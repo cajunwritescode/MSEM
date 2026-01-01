@@ -77,7 +77,7 @@ card:
 		shrink_name_text: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !update buffed: Was {1}{W}{W} with +1: Up to two target creatures you control each get +1/+1 and gain vigilance until end of turn.;-3: Create two 1/1 white Dwarf Peasant creature tokens. You gain 2 life.;-7: You get an emblem with “Creatures you control get +2/+2 and have double strike.”
+	notes:  buffed: Was {1}{W}{W} with +1: Up to two target creatures you control each get +1/+1 and gain vigilance until end of turn.;-3: Create two 1/1 white Dwarf Peasant creature tokens. You gain 2 life.;-7: You get an emblem with “Creatures you control get +2/+2 and have double strike.”
 	time_created: 2019-04-19 19:08:11
 	time_modified: 2025-10-29 00:21:29
 	extra_data:
@@ -9498,7 +9498,7 @@ card:
 		overlay: 
 	notes:
 		!exportname Helgard Emblem
-		!update
+		
 	time_created: 2022-03-31 19:35:59
 	time_modified: 2025-10-29 00:21:49
 	name: Emblem

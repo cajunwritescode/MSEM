@@ -6550,7 +6550,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:45:27
 	time_modified: 2015-10-24 14:07:08
 	name: Plains
@@ -6574,7 +6574,7 @@ card:
 	has_styling: false
 	notes:
 		
-		!update
+		
 	time_created: 2015-10-22 00:45:27
 	time_modified: 2015-10-24 17:30:42
 	name: Plains
@@ -6598,7 +6598,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:45:27
 	time_modified: 2015-10-24 17:36:22
 	name: Plains
@@ -6622,7 +6622,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:45:27
 	time_modified: 2015-10-29 23:36:16
 	name: Plains
@@ -6646,7 +6646,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:45:48
 	time_modified: 2015-10-24 14:23:09
 	name: Island
@@ -6670,7 +6670,7 @@ card:
 	has_styling: false
 	notes:
 		
-		!update
+		
 	time_created: 2015-10-22 00:45:48
 	time_modified: 2015-10-24 14:31:06
 	name: Island
@@ -6694,7 +6694,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:45:48
 	time_modified: 2015-10-24 14:41:41
 	name: Island
@@ -6718,7 +6718,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:45:48
 	time_modified: 2015-10-24 15:14:16
 	name: Island
@@ -6742,7 +6742,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:46:17
 	time_modified: 2015-10-24 14:12:13
 	name: Swamp
@@ -6766,7 +6766,7 @@ card:
 	has_styling: false
 	notes:
 		
-		!update
+		
 	time_created: 2015-10-22 00:46:17
 	time_modified: 2015-10-24 14:29:05
 	name: Swamp
@@ -6790,7 +6790,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:46:17
 	time_modified: 2015-11-01 16:00:21
 	name: Swamp
@@ -6814,7 +6814,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:46:17
 	time_modified: 2015-11-01 16:10:46
 	name: Swamp
@@ -6838,7 +6838,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:47:21
 	time_modified: 2015-11-01 13:44:24
 	name: Mountain
@@ -6862,7 +6862,7 @@ card:
 	has_styling: false
 	notes:
 		
-		!update
+		
 	time_created: 2015-10-22 00:47:21
 	time_modified: 2015-10-24 14:17:19
 	name: Mountain
@@ -6886,7 +6886,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:47:21
 	time_modified: 2015-10-24 14:24:41
 	name: Mountain
@@ -6910,7 +6910,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:47:21
 	time_modified: 2021-08-25 16:45:58
 	name: Mountain
@@ -6932,7 +6932,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2015-10-22 00:47:44
 	time_modified: 2015-10-24 14:29:37
 	name: Forest
@@ -6956,7 +6956,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:47:44
 	time_modified: 2015-10-24 14:32:33
 	name: Forest
@@ -6980,7 +6980,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:47:44
 	time_modified: 2015-10-24 14:39:27
 	name: Forest
@@ -7004,7 +7004,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		!update
+		
 	time_created: 2015-10-22 00:47:44
 	time_modified: 2015-10-24 14:54:33
 	name: Forest

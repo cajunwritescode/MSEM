@@ -3870,8 +3870,6 @@ Enchanted creature can't attack or block, and its activated abilities can't be a
  <reverse-related>Brajjebaw, the Gambler</reverse-related>
  <reverse-related>Imperial Tribute</reverse-related>
  <reverse-related count="2">Sword of Rags and Riches</reverse-related>
- <reverse-related>Pay Up_MPS_MSE</reverse-related>
- <reverse-related>Pay Up_CHAMPIONS</reverse-related>
  <set num="TOJ26" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/TOJ26.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -19805,6 +19803,17 @@ Whenever this creature attacks, scry 1.</text>
  <set num="MPS_MSE24" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MPS_MSE24.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Treasure MPS_MSE</name>
+ <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+ <colors></colors>
+ <type>Token Artifact — Treasure</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Pay Up_MPS_MSE</reverse-related>
+ <reverse-related>Ragavan, Most Wanted_MPS_MSE</reverse-related>
+ <set num="MPS_MSE32" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MPS_MSE32.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>green Antelope 11MPS_MSE</name>
  <text></text>
  <colors>G</colors>
@@ -20079,6 +20088,17 @@ Whenever this creature attacks, scry 1.</text>
  <tablerow>2</tablerow>
  <reverse-related>Paint with Starflame_CHAMPIONS</reverse-related>
  <set num="CHAMPIONS24" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/CHAMPIONS24.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Treasure CHAMPIONS</name>
+ <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+ <colors></colors>
+ <type>Token Artifact — Treasure</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Pay Up_CHAMPIONS</reverse-related>
+ <reverse-related>Ragavan, Most Wanted_CHAMPIONS</reverse-related>
+ <set num="CHAMPIONS32" muid="20251131" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/CHAMPIONS32.jpg?v=20251131" rarity="token">tokens</set>
 </card>
 <card>
  <name>green Antelope 11CHAMPIONS</name>

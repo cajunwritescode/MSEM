@@ -44,7 +44,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Swamp (Desolation)
+	notes: !hiddenname Swamp (Desolation)
 	time_created: 2022-12-18 11:44:29
 	time_modified: 2022-12-24 11:09:19
 	name: Swamp
@@ -575,7 +575,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Plains (Armory)
+	notes: !hiddenname Plains (Armory)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-18 15:55:51
 	name: Plains
@@ -599,7 +599,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Island (Wild Blue Yonder)
+	notes: !hiddenname Island (Wild Blue Yonder)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:44:08
 	name: Island
@@ -623,7 +623,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Swamp (True Evil)
+	notes: !hiddenname Swamp (True Evil)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:08:11
 	name: Swamp
@@ -647,7 +647,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Mountain (Riches Galore)
+	notes: !hiddenname Mountain (Riches Galore)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:22:35
 	name: Mountain
@@ -671,7 +671,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Forest (Expeditions)
+	notes: !hiddenname Forest (Expeditions)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:43:33
 	name: Forest
@@ -695,7 +695,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Forest (Recycling)
+	notes: !hiddenname Forest (Recycling)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:45:02
 	name: Forest
@@ -719,7 +719,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Island (Forgotten Memories)
+	notes: !hiddenname Island (Forgotten Memories)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:44:13
 	name: Island
@@ -743,7 +743,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Mountain (Sharpened)
+	notes: !hiddenname Mountain (Sharpened)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:22:03
 	name: Mountain
@@ -767,7 +767,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Swamp (Rainbow Road)
+	notes: !hiddenname Swamp (Rainbow Road)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:16:10
 	name: Swamp
@@ -791,7 +791,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Forest (Worldsoul)
+	notes: !hiddenname Forest (Worldsoul)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:45:55
 	name: Forest
@@ -815,7 +815,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Island (Deluge)
+	notes: !hiddenname Island (Deluge)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 01:03:58
 	name: Island
@@ -839,7 +839,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Mountain (Evocation)
+	notes: !hiddenname Mountain (Evocation)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:28:40
 	name: Mountain
@@ -863,7 +863,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Swamp (Undercity)
+	notes: !hiddenname Swamp (Undercity)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:13:24
 	name: Swamp
@@ -887,7 +887,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Forest (Invigorated)
+	notes: !hiddenname Forest (Invigorated)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:49:08
 	name: Forest
@@ -911,7 +911,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Island (Robotics)
+	notes: !hiddenname Island (Robotics)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 01:02:35
 	name: Island
@@ -935,7 +935,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Mountain (Blazing)
+	notes: !hiddenname Mountain (Blazing)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:21:19
 	name: Mountain
@@ -959,7 +959,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Plains (Leadership)
+	notes: !hiddenname Plains (Leadership)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:45:41
 	name: Plains
@@ -983,7 +983,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Swamp (Dark Pact)
+	notes: !hiddenname Swamp (Dark Pact)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:08:39
 	name: Swamp
@@ -1007,7 +1007,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Forest (Innumerable)
+	notes: !hiddenname Forest (Innumerable)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:47:37
 	name: Forest
@@ -1031,7 +1031,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Island (Beneath the Tides)
+	notes: !hiddenname Island (Beneath the Tides)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 01:08:19
 	name: Island
@@ -1055,7 +1055,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Mountain (Plundering)
+	notes: !hiddenname Mountain (Plundering)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:20:15
 	name: Mountain
@@ -1079,7 +1079,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Swamp (Shallow Graves)
+	notes: !hiddenname Swamp (Shallow Graves)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:05:23
 	name: Swamp
@@ -1103,7 +1103,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Forest (Overgrowth)
+	notes: !hiddenname Forest (Overgrowth)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:46:32
 	name: Forest
@@ -1127,7 +1127,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Island (Expeditious)
+	notes: !hiddenname Island (Expeditious)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:55:40
 	name: Island
@@ -1151,7 +1151,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Mountain (Draconic)
+	notes: !hiddenname Mountain (Draconic)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:25:26
 	name: Mountain
@@ -1175,7 +1175,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Plains (Multitudes)
+	notes: !hiddenname Plains (Multitudes)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:48:58
 	name: Plains
@@ -1199,7 +1199,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Swamp (Necromancy)
+	notes: !hiddenname Swamp (Necromancy)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:11:39
 	name: Swamp
@@ -1223,7 +1223,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Forest (Sylvan)
+	notes: !hiddenname Forest (Sylvan)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:48:01
 	name: Forest
@@ -1247,7 +1247,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Island (Rainbow Road)
+	notes: !hiddenname Island (Rainbow Road)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:57:04
 	name: Island
@@ -1271,7 +1271,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Mountain (Skirmish)
+	notes: !hiddenname Mountain (Skirmish)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 13:13:30
 	name: Mountain
@@ -1295,7 +1295,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Plains (Shimmering)
+	notes: !hiddenname Plains (Shimmering)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:46:11
 	name: Plains
@@ -1319,7 +1319,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Swamp (Snakebite)
+	notes: !hiddenname Swamp (Snakebite)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:06:57
 	name: Swamp
@@ -1343,7 +1343,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Forest (Mysticism)
+	notes: !hiddenname Forest (Mysticism)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:44:20
 	name: Forest
@@ -1367,7 +1367,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Island (Arcane Studies)
+	notes: !hiddenname Island (Arcane Studies)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 00:43:08
 	name: Island
@@ -1391,7 +1391,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Mountain (Overpower)
+	notes: !hiddenname Mountain (Overpower)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:23:08
 	name: Mountain
@@ -1446,7 +1446,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Plains (Legion)
+	notes: !hiddenname Plains (Legion)
 	time_created: 2022-10-02 10:47:54
 	time_modified: 2022-10-02 10:50:55
 	name: Plains
@@ -1470,7 +1470,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Plains (Grand Army)
+	notes: !hiddenname Plains (Grand Army)
 	time_created: 2022-10-02 10:47:54
 	time_modified: 2022-12-24 00:44:26
 	name: Plains
@@ -1494,7 +1494,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Plains (Foxes)
+	notes: !hiddenname Plains (Foxes)
 	time_created: 2022-10-02 10:47:54
 	time_modified: 2022-10-02 10:58:07
 	name: Plains
@@ -1518,7 +1518,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Plains (Theocracy)
+	notes: !hiddenname Plains (Theocracy)
 	time_created: 2022-10-02 10:47:54
 	time_modified: 2022-12-24 00:44:37
 	name: Plains
@@ -3135,7 +3135,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Plains (Rainbow Road)
+	notes: !hiddenname Plains (Rainbow Road)
 	time_created: 2022-10-02 10:47:54
 	time_modified: 2022-12-24 11:44:25
 	name: Plains
@@ -3159,7 +3159,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Island (Overflow)
+	notes: !hiddenname Island (Overflow)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 01:03:54
 	name: Island
@@ -3735,7 +3735,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Swamp (Offerings)
+	notes: !hiddenname Swamp (Offerings)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:13:02
 	name: Swamp
@@ -3759,7 +3759,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Mountain (Rainbow Road)
+	notes: !hiddenname Mountain (Rainbow Road)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:32:53
 	name: Mountain
@@ -3783,7 +3783,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Forest (Rainbow Road)
+	notes: !hiddenname Forest (Rainbow Road)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:50:21
 	name: Forest
@@ -3807,7 +3807,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Mountain (Resilient)
+	notes: !hiddenname Mountain (Resilient)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:51:07
 	name: Mountain
@@ -3831,7 +3831,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Forest (Resilient)
+	notes: !hiddenname Forest (Resilient)
 	time_created: 2022-12-18 12:03:32
 	time_modified: 2022-12-24 11:53:29
 	name: Forest
@@ -3855,7 +3855,7 @@ card:
 	stylesheet: m15-textless-land
 	stylesheet_version: 2024-09-01
 	has_styling: false
-	notes: !update!hiddenname Plains (Resilient)
+	notes: !hiddenname Plains (Resilient)
 	time_created: 2022-10-02 10:47:54
 	time_modified: 2022-12-24 11:51:36
 	name: Plains

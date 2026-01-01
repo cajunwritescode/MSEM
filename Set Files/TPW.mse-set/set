@@ -3951,7 +3951,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update buffed: Removed mv3 restriction.
+	notes:  buffed: Removed mv3 restriction.
 	time_created: 2022-10-26 15:04:07
 	time_modified: 2025-10-29 01:05:42
 	name: Horseman of Conquest
@@ -6321,7 +6321,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update nerfed: Was Arise {9}{B}.
+	notes:  nerfed: Was Arise {9}{B}.
 	time_created: 2022-11-11 14:45:18
 	time_modified: 2025-10-31 10:36:51
 	name: Bleakfell Mauler
@@ -7939,7 +7939,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update nerfed: Was Arise {4}{R}. This ability costs {1} less for each instant and sorcery card in your graveyard.
+	notes:  nerfed: Was Arise {4}{R}. This ability costs {1} less for each instant and sorcery card in your graveyard.
 	time_created: 2022-10-15 18:45:31
 	time_modified: 2025-10-31 10:35:59
 	name: Cinderfeather Phoenix

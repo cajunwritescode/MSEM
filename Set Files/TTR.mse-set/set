@@ -3332,7 +3332,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update!exportname Forest (Nyx)_TTR
+	notes: !exportname Forest (Nyx)_TTR
 	time_created: 2021-09-04 16:24:46
 	time_modified: 2022-03-11 05:05:37
 	card_color: green, land
@@ -3355,7 +3355,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Forest (Mortal)_TTR
+	notes: !exportname Forest (Mortal)_TTR
 	time_created: 2021-09-04 16:58:58
 	time_modified: 2023-07-31 10:32:16
 	name: Forest
@@ -3377,7 +3377,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Forest (Underworld)_TTR
+	notes: !exportname Forest (Underworld)_TTR
 	time_created: 2021-09-04 16:24:18
 	time_modified: 2023-07-31 10:32:23
 	name: Forest
@@ -3399,7 +3399,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Forest_TTR
+	notes: !exportname Forest_TTR
 	time_created: 2021-09-04 16:24:37
 	time_modified: 2023-07-31 10:32:36
 	name: Forest
@@ -4681,7 +4681,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update!exportname Island (Nyx)_TTR
+	notes: !exportname Island (Nyx)_TTR
 	time_created: 2021-09-04 16:24:46
 	time_modified: 2022-03-11 05:05:24
 	card_color: blue, land
@@ -4704,7 +4704,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Island (Underworld)_TTR
+	notes: !exportname Island (Underworld)_TTR
 	time_created: 2021-09-04 16:58:58
 	time_modified: 2023-07-31 10:30:29
 	name: Island
@@ -4726,7 +4726,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Island (Mortal)_TTR
+	notes: !exportname Island (Mortal)_TTR
 	time_created: 2021-09-04 16:24:37
 	time_modified: 2023-07-31 10:30:50
 	name: Island
@@ -4748,7 +4748,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Island_TTR
+	notes: !exportname Island_TTR
 	time_created: 2021-09-04 16:24:18
 	time_modified: 2023-07-31 10:30:42
 	name: Island
@@ -6400,7 +6400,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update!exportname Mountain (Nyx)_TTR
+	notes: !exportname Mountain (Nyx)_TTR
 	time_created: 2021-09-04 16:24:18
 	time_modified: 2022-03-11 05:05:41
 	card_color: red, land
@@ -6423,7 +6423,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Mountain (Mortal)_TTR
+	notes: !exportname Mountain (Mortal)_TTR
 	time_created: 2021-09-04 16:58:58
 	time_modified: 2023-07-31 10:31:44
 	name: Mountain
@@ -6445,7 +6445,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Mountain (Underworld)_TTR
+	notes: !exportname Mountain (Underworld)_TTR
 	time_created: 2021-09-04 16:24:46
 	time_modified: 2023-07-31 10:31:53
 	name: Mountain
@@ -6467,7 +6467,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Mountain_TTR
+	notes: !exportname Mountain_TTR
 	time_created: 2021-09-04 16:24:37
 	time_modified: 2023-07-31 10:32:01
 	name: Mountain
@@ -6761,7 +6761,7 @@ card:
 	notes:
 		“Do not fall into the darkness where your dreams replace your reality.”
 		—Perisophia the Philosopher”
-		!update buffed: Was 1/1.
+		 buffed: Was 1/1.
 		She speaks for all the gods, but those who listen only hear the one they have faith in the most.
 	time_created: 2021-09-04 16:22:20
 	time_modified: 2025-10-29 00:48:24
@@ -7888,7 +7888,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update!exportname Plains (Nyx)_TTR
+	notes: !exportname Plains (Nyx)_TTR
 	time_created: 2021-09-04 16:24:46
 	time_modified: 2023-02-02 14:17:40
 	card_color: white, land
@@ -7912,7 +7912,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Plains (Mortal)_TTR
+	notes: !exportname Plains (Mortal)_TTR
 	time_created: 2021-09-04 16:58:58
 	time_modified: 2023-07-31 10:29:32
 	name: Plains
@@ -7934,7 +7934,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Plains (Underworld)_TTR
+	notes: !exportname Plains (Underworld)_TTR
 	time_created: 2021-09-04 16:24:18
 	time_modified: 2023-07-31 10:30:03
 	name: Plains
@@ -7957,7 +7957,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		!update!exportname Plains_TTR
+		!exportname Plains_TTR
 		Ferdinand Ladera alt
 	time_created: 2021-09-04 16:24:37
 	time_modified: 2023-07-31 10:29:49
@@ -9685,7 +9685,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update!exportname Swamp (Nyx)_TTR
+	notes: !exportname Swamp (Nyx)_TTR
 	time_created: 2021-09-04 16:24:46
 	time_modified: 2022-03-11 05:05:45
 	card_color: black, land
@@ -9708,7 +9708,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Swamp (Mortal)_TTR
+	notes: !exportname Swamp (Mortal)_TTR
 	time_created: 2021-09-04 16:58:58
 	time_modified: 2023-07-31 10:31:07
 	name: Swamp
@@ -9730,7 +9730,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Swamp (Underworld)_TTR
+	notes: !exportname Swamp (Underworld)_TTR
 	time_created: 2021-09-04 16:24:18
 	time_modified: 2023-07-31 10:31:18
 	name: Swamp
@@ -9752,7 +9752,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update!exportname Swamp_TTR
+	notes: !exportname Swamp_TTR
 	time_created: 2021-09-04 16:24:37
 	time_modified: 2023-07-31 10:31:28
 	name: Swamp

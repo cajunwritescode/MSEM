@@ -1208,7 +1208,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2016-06-21 12:45:58
 	time_modified: 2022-06-26 09:31:10
 	name: Final Revelation
@@ -6365,7 +6365,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2024-09-23
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2016-08-15 13:53:16
 	time_modified: 2025-10-23 20:53:41
 	name: Formidable Bulkvine

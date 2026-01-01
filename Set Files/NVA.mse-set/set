@@ -289,7 +289,7 @@ card:
 	notes:
 		Manifestation Cycle
 		!remaster: rebalance
-		!update buffed: Was 3/3 for {3}{B}{B}, gave your creatures -1/-1, and reanimated from any grave on attack.
+		 buffed: Was 3/3 for {3}{B}{B}, gave your creatures -1/-1, and reanimated from any grave on attack.
 	time_created: 2015-02-19 01:32:46
 	time_modified: 2025-10-28 23:03:10
 	extra_data:
@@ -5707,7 +5707,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2015-12-04 14:44:39
 	time_modified: 2025-10-23 21:30:26
 	card_color: white

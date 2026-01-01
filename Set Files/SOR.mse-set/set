@@ -3087,7 +3087,7 @@ card:
 	notes:
 		Plane: Volaria
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:54
 	time_modified: 2015-09-07 08:42:10
 	name: Island
@@ -3112,7 +3112,7 @@ card:
 	notes:
 		Plane: Terrana
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:54
 	time_modified: 2018-06-18 23:46:54
 	name: Mountain
@@ -3137,7 +3137,7 @@ card:
 	notes:
 		Plane: Terrana
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:54
 	time_modified: 2018-06-18 23:50:23
 	name: Forest
@@ -3161,7 +3161,7 @@ card:
 	has_styling: false
 	notes:
 		Plane: Rysela
-		!update
+		
 	time_created: 2015-08-05 12:41:57
 	time_modified: 2015-08-20 12:26:14
 	name: Island
@@ -3186,7 +3186,7 @@ card:
 	notes:
 		Plane: Intera
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:57
 	time_modified: 2015-09-08 22:37:39
 	name: Mountain
@@ -3211,7 +3211,7 @@ card:
 	notes:
 		Plane: Rysela
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:57
 	time_modified: 2017-09-17 19:49:56
 	name: Forest
@@ -3236,7 +3236,7 @@ card:
 	notes:
 		Plane: Rysela
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:58
 	time_modified: 2015-08-20 12:26:07
 	name: Mountain
@@ -3261,7 +3261,7 @@ card:
 	notes:
 		Plane: Linela
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:58
 	time_modified: 2015-10-15 18:20:19
 	name: Forest
@@ -3287,7 +3287,7 @@ card:
 	has_styling: false
 	notes:
 		Plane: Sythis
-		!update
+		
 	time_created: 2015-08-05 12:41:58
 	time_modified: 2019-12-30 21:24:10
 	name: Forest
@@ -3311,7 +3311,7 @@ card:
 	has_styling: false
 	notes:
 		Plane: Zendikar
-		!update
+		
 	time_created: 2014-03-31 19:54:36
 	time_modified: 2015-09-04 23:55:46
 	name: Mountain
@@ -6466,7 +6466,7 @@ card:
 	has_styling: false
 	notes:
 		Plane: Terrana
-		!update
+		
 	time_created: 2015-08-05 12:41:58
 	time_modified: 2018-06-18 23:35:09
 	name: Plains
@@ -6491,7 +6491,7 @@ card:
 	notes:
 		Plane: Volaria
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:57
 	time_modified: 2015-08-06 11:22:29
 	name: Plains
@@ -6516,7 +6516,7 @@ card:
 	notes:
 		Plane: Sythis
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:58
 	time_modified: 2015-10-05 21:43:25
 	name: Plains
@@ -6541,7 +6541,7 @@ card:
 	notes:
 		Plane: Leritha
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:54
 	time_modified: 2015-08-20 10:44:48
 	name: Plains
@@ -6566,7 +6566,7 @@ card:
 	notes:
 		Plane: Leritha
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:54
 	time_modified: 2015-10-13 07:27:08
 	name: Island
@@ -6591,8 +6591,8 @@ card:
 	notes:
 		Plane: Terrana
 		!addnum
-		!update
-		!update
+		
+		
 	time_created: 2015-08-05 12:41:58
 	time_modified: 2018-06-18 23:38:16
 	name: Island
@@ -6616,7 +6616,7 @@ card:
 	has_styling: false
 	notes:
 		Plane: Leritha
-		!update
+		
 	time_created: 2015-08-05 12:41:54
 	time_modified: 2015-08-20 11:09:43
 	name: Swamp
@@ -6641,7 +6641,7 @@ card:
 	notes:
 		Plane: Rysela
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:58
 	time_modified: 2015-08-20 11:10:16
 	name: Swamp
@@ -6666,7 +6666,7 @@ card:
 	notes:
 		Plane: Terrana
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:54
 	time_modified: 2018-06-03 23:50:25
 	name: Swamp
@@ -6691,7 +6691,7 @@ card:
 	notes:
 		Plane: Sythis
 		!addnum
-		!update
+		
 	time_created: 2015-08-05 12:41:57
 	time_modified: 2015-10-12 19:13:52
 	name: Swamp

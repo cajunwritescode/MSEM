@@ -2038,7 +2038,7 @@ card:
 		overlay: 
 	notes:
 		!design Wrenn
-		!update
+		
 		!num 51
 		FINAL STN 
 	time_created: 2020-05-26 17:44:53
@@ -6061,7 +6061,7 @@ card:
 	notes:
 		!design Mako
 		!num 145
-		!update
+		
 		FINAL TTR
 		!inpend [{]U[}][{]U[}][{]U[}]/add/ (You may cast this for its colossal cost to have it enter with four +1/+1 counters; or pay {5}{U}{U}{U} as a sorcery: Put four +1/+1 counters on it if it has none.)
 	time_created: 2021-09-04 16:22:20
@@ -6481,7 +6481,7 @@ card:
 	notes:
 		TPW FINAL 
 		!num 154
-		!update
+		
 		!design Matt
 		!append  ({R}, Exile four instant and/or sorcery cards and this card from your graveyard as a sorcery: Create a black token copy of it that’s also a Zombie and can’t block.)
 	time_created: 2022-10-15 18:45:31
@@ -6633,7 +6633,7 @@ card:
 	has_styling: false
 	notes:
 		INM FINAL
-		!update !num 158
+		 !num 158
 		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 	time_created: 2021-05-01 05:09:34
 	time_modified: 2025-10-10 20:27:06
@@ -6664,6 +6664,184 @@ card:
 	copyright: Design — Mako
 	copyright_2: ™ & © 2021 Wizards of the Coast
 	copyright_3: ™ & © 2021 Wizards of the Coast
+
+card:
+	has_styling: false
+	notes:
+		!num 159
+		!design Timespiraled
+		
+		TOJ FINAL
+	time_created: 2018-06-06 12:33:43
+	time_modified: 2025-12-31 22:06:06
+	name: Nightmare Riders
+	casting_cost: 1BG
+	image: image17.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: At the beginning of your upkeep, if <atom-cardname><nospellcheck>Nightmare Riders</nospellcheck></atom-cardname> is in your graveyard, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Tervola
+	custom_card_number: Grand Prix Ulaanbataar — aanginer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Design — Timespiraled
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes:
+		!num 160
+		
+		!design Matt
+		Wesley Lin, 
+	time_created: 2023-01-03 20:46:57
+	time_modified: 2025-12-01 21:50:11
+	name: Journey Beyond
+	casting_cost: 2W
+	image: image183
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Exile up to one target nonland permanent you control and up to one target nonland permanent card with mana value 3 or less from your graveyard. Then return the exiled cards to the battlefield tapped under their owner’s control.
+	flavor_text: <i-flavor></i-flavor>
+	card_stamp: none
+	illustrator: mnstrcndy, Wesley Lin, AlectorFencer 
+	additional_credit: Claudya Schmidt, Antonio J. Manzanedo
+	additional_credit_2: 
+	additional_credit_brush: art
+	additional_credit_brush_2: none
+	custom_card_number: Grand Prix Vina del Mar — amethyst
+	card_code_text: 
+	card_code_text_2: Matt
+	card_code_text_3: Matt
+	copyright: Design — Matt
+	copyright_2: © Wizards of the Coast
+	copyright_3: © Wizards of the Coast
+
+card:
+	has_styling: false
+	notes:
+		!num 161
+		
+		!design gynoidpoet
+	time_created: 2022-12-28 02:26:18
+	time_modified: 2025-12-31 22:02:42
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/Him
+	name: Ragavan, Most Wanted
+	casting_cost: R
+	image: image15.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Monkey</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Pirate</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		As long as you control two or more other Pirates, <atom-legname><nospellcheck>Ragavan</nospellcheck></atom-legname> has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+		Whenever one or more Pirates you control deal combat damage to a player, create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Hiroshi Yugen
+	custom_card_number: Grand Prix Wichita — alittleblank
+	card_code_text: 
+	card_code_text_2: gynoidpoet
+	card_code_text_3: gynoidpoet
+	copyright: Design — gynoidpoet
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		remove_from_autocount: yes
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!num 32
+		
+	time_created: 2022-12-24 11:54:47
+	time_modified: 2025-12-31 22:05:20
+	name: Treasure
+	image: image16.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Treasure</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Hiroshi Yugen
+	custom_card_number: Grand Prix Wichita — alittleblank
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+
+card:
+	has_styling: false
+	notes:
+		!num 162
+		
+		!design Pipsqueak
+	time_created: 2020-05-06 00:52:18
+	time_modified: 2025-12-31 22:50:41
+	card_color: land, multicolor
+	name: Nebula of Empty Gold
+	image: image18.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: mythic rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Nebula of Empty Gold</nospellcheck></atom-cardname> enters, choose two or three colors. You lose life equal to the number of colors chosen this way.
+		<sym-auto>T</sym-auto>: Add one mana of any of the chosen colors.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: 明ノ宮 飛鳥
+	custom_card_number: INM/TPW League Champion — RickyRister
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Design — Pipsqueak
+	copyright_2: 
+	copyright_3: 
 
 keyword:
 	keyword: Coalesce

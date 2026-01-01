@@ -7287,7 +7287,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !update buffed: Was {U} and only castable during your turn.
+	notes:  buffed: Was {U} and only castable during your turn.
 	time_created: 2016-09-06 13:09:35
 	time_modified: 2025-10-28 22:56:04
 	name: Moment of Tranquility
