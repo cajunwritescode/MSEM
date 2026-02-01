@@ -9575,6 +9575,305 @@ card:
 	copyright_2: 
 	copyright_3: 
 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL170)
+	time_created: 2025-12-12 00:01:27
+	time_modified: 2025-12-31 20:25:11
+	name: Debaser of Truth
+	casting_cost: 1B
+	image: image268
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Debaser of Truth</nospellcheck></atom-cardname> enters, if you control three or more Horrors, each opponent discards two cards.
+		Other Horror creatures you control get +1/+1.
+	flavor_text: <i-flavor>“I think you’ll find the service at the Baroness to be exemplary.”</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: hieumayart
+	custom_card_number: 1514
+	card_code_text: Pipsqueak
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Deadlocked — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	has_styling: false
+	notes: !hidetag (SL170)
+	time_created: 2025-12-12 00:24:14
+	time_modified: 2025-12-31 20:25:49
+	name: Mechanomind Researcher
+	casting_cost: 2
+	image: image269
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Scientist</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Artifact vision <i-auto>(Whenever this or another artifact you control enters, reveal the top card of your library. Then you may put that card into your graveyard.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Mechanomind Researcher</nospellcheck></atom-cardname> envisions an artifact card, put a +1/+1 counter on it.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Bojlero1
+	custom_card_number: 1521
+	card_code_text: Matt & DrChillbrain
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Deadlocked — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: !hidetag (SL170)
+	time_created: 2025-12-12 00:01:27
+	time_modified: 2025-12-31 20:25:26
+	name: Meteor Harbinger
+	casting_cost: 3RR
+	image: image270
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When Meteor Harbinger enters, choose one —
+		<li><bullet>• </bullet>Meteor Harbinger deals 2 damage to each creature.
+		</li><li><bullet>• </bullet>Each player sacrifices two lands.
+		</li><li><bullet>• </bullet>Meteor Harbinger deals 2 damage to each of two target players or planeswalkers.</li>
+	flavor_text: <i-flavor>“With these hands, I will destroy. And with these hands, I will rebuild.”</i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: ulsae1995
+	custom_card_number: 1517
+	card_code_text: Pipsqueak
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Deadlocked — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL170)
+	time_created: 2025-12-12 00:32:27
+	time_modified: 2025-12-31 20:25:16
+	name: Midnight's Pale Moon
+	casting_cost: 2BB
+	image: image271
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Each player loses 2 life, discards two cards, sacrifices two creatures, then sacrifices two lands.
+	flavor_text: <i-flavor>“I’m not a witch. Witches are people. They have wants and dreams. All I have is revenge.”</i-flavor>
+	illustrator: SadYellow7670
+	custom_card_number: 1515
+	card_code_text: Timespiraled
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Deadlocked — Nix
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2024-09-23
+	has_styling: false
+	notes: !hidetag (SL170)
+	time_created: 2025-12-12 00:01:27
+	time_modified: 2025-12-31 20:25:37
+	name: Persecutor of Truths
+	casting_cost: 2UB
+	image: image272
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When Persecutor of Truths enters, return target creature card with mana value 2 or less from your graveyard to the battlefield.
+		Once each turn, when you cast a spell from anywhere other than your hand or another nontoken creature you control enters and wasn’t cast, you may draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: dano80085
+	custom_card_number: 1519
+	card_code_text: Zangy
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Deadlocked — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	has_styling: false
+	notes:
+		!hidetag (SL170)
+		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+	time_created: 2025-12-12 00:49:14
+	time_modified: 2025-12-31 20:25:21
+	name: Resleeve
+	casting_cost: 3BB
+	image: image273
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Return target creature or planeswalker card from your graveyard to the battlefield.
+		<kw-0><nospellcheck><key>Flashback—<param-cost><sym-auto>1BB</sym-auto>, Sacrifice a creature or a planeswalker</param-cost>.</key></nospellcheck></kw-0>
+	flavor_text: <i-flavor>“I feel like one of my hands belongs to a piccolo player, and the other belonged to a guy who was nicknamed Johnny Sausage Fingers.”</i-flavor>
+	illustrator: Aslan Aygazin
+	custom_card_number: 1516
+	card_code_text: Bergland
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Deadlocked — Nix
+
+card:
+	has_styling: false
+	notes:
+		!hidetag (SL170)
+		!inpend harmonize./add/ (Trigger up to one harmony of a permanent you control.)
+	time_created: 2025-12-12 00:27:56
+	time_modified: 2025-12-31 20:25:31
+	name: Speed Reader
+	casting_cost: 1R
+	image: image274
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Speed Reader</nospellcheck></atom-cardname> enters, harmonize.
+		Harmony — Add <sym-auto>RR</sym-auto>.
+	flavor_text: <i-flavor>“Do you think I brought enough books? I mean, it’s probably enough, but I remember this one time, I planned on it being an Austin day, but life was like, sorry, lady, it’s Bronte time, and I was just, God, I was not prepared.”</i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: rozichh
+	custom_card_number: 1518
+	card_code_text: HerziQuerzi
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Deadlocked — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	has_styling: false
+	notes: !hidetag (SL170)
+	time_created: 2025-12-12 00:59:58
+	time_modified: 2025-12-31 20:25:43
+	name: Watch Me Burn
+	casting_cost: BRG
+	image: image275
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Whenever Watch Me Burn enters or another source you control deals noncombat damage, put an ignition counter on Watch Me Burn. Then it deals damage equal to the number of ignition counters on it to each opponent.
+	flavor_text: <i-flavor>“The fires keep burning brighter.”</i-flavor>
+	illustrator: Aslan Aygazin
+	custom_card_number: 1520
+	card_code_text: Pipsqueak
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Deadlocked — Nix
+
 keyword:
 	keyword: Reconstruct
 	match: Reconstruct <atom-param>cost</atom-param>

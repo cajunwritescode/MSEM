@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: LAIR 3
 	set_code: LAIR
@@ -1148,7 +1148,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -1187,7 +1187,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 10
@@ -1197,9 +1197,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		center_text: always
 		overlay: 
-	notes:
-		!hidetag (SL104)
-
+	notes: !hidetag (SL104)
 	time_created: 2023-09-26 10:01:45
 	time_modified: 2025-12-01 17:29:30
 	extra_data:
@@ -1268,7 +1266,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 10
@@ -1363,7 +1361,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 25
@@ -1465,7 +1463,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1510,7 +1508,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1551,7 +1549,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1591,7 +1589,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1631,7 +1629,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1676,7 +1674,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1714,7 +1712,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -1754,7 +1752,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -1793,7 +1791,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -1834,7 +1832,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -1871,7 +1869,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -1912,7 +1910,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -1956,7 +1954,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -1995,7 +1993,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -2033,7 +2031,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -2073,7 +2071,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL107)
 	time_created: 2023-03-22 00:00:00
@@ -2196,7 +2194,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL107)
 	time_created: 2023-03-22 00:00:00
@@ -2228,7 +2226,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL107)
 	time_created: 2023-03-22 00:00:00
@@ -2290,7 +2288,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL107)
 	time_created: 2023-03-22 00:00:00
@@ -2322,7 +2320,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL107)
 	time_created: 2023-03-22 00:00:00
@@ -2384,7 +2382,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL107)
 	time_created: 2023-03-22 00:00:00
@@ -2796,7 +2794,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -4077,7 +4075,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		!hidetag (SL112)
@@ -4994,7 +4992,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL115)
 	time_created: 2021-02-19 22:14:45
@@ -5021,7 +5019,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL115)
 	time_created: 2021-02-19 22:14:45
@@ -5054,7 +5052,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL115)
 	time_created: 2021-02-19 22:14:45
@@ -5086,7 +5084,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL115)
 	time_created: 2021-02-19 22:14:45
@@ -5113,7 +5111,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL115)
 	time_created: 2021-03-28 19:23:22
@@ -5140,7 +5138,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL115)
 	time_created: 2021-03-28 16:41:01
@@ -5171,7 +5169,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL115)
 	time_created: 2021-02-19 22:14:45
@@ -5503,7 +5501,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 10
@@ -5599,7 +5597,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6064,7 +6062,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -6158,7 +6156,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -6266,7 +6264,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6502,7 +6500,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6724,7 +6722,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7051,7 +7049,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -7059,7 +7057,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		center_text: always
 		overlay: 
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		
 	time_created: 2024-01-25 13:11:22
 	time_modified: 2024-01-31 17:35:03
 	name: Fatigue
@@ -7077,7 +7077,7 @@ card:
 	card_code_text: HerziQuerzi
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
@@ -7085,6 +7085,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
+		
 		!append  (If you cast this from your hand, exile it as it resolves. Whenever a creature you control dies, you may cast this card from exile without paying its mana cost.)
 	time_created: 2024-01-25 13:20:18
 	time_modified: 2024-04-28 00:55:30
@@ -7106,13 +7107,15 @@ card:
 	card_code_text: Avery
 	card_code_text_2: Avery
 	card_code_text_3: Avery
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		
 	time_created: 2024-01-25 12:23:03
 	time_modified: 2024-01-31 17:34:58
 	name: Unified Theory
@@ -7133,13 +7136,15 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		
 	time_created: 2024-01-25 13:05:46
 	time_modified: 2024-01-31 17:35:19
 	name: Eve’s Scheme
@@ -7158,13 +7163,15 @@ card:
 	card_code_text: Emily
 	card_code_text_2: Emily
 	card_code_text_3: Emily
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		
 	time_created: 2024-01-25 13:28:33
 	time_modified: 2024-01-31 17:36:17
 	name: Expose
@@ -7183,15 +7190,17 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		
 	time_created: 2024-01-25 12:38:50
-	time_modified: 2024-01-31 17:35:26
+	time_modified: 2026-02-01 15:30:21
 	name: Culminating Chaos
 	casting_cost: 1RR
 	image: image201
@@ -7212,13 +7221,16 @@ card:
 	card_code_text: HerziQuerzi
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		
 	time_created: 2024-01-25 13:05:15
 	time_modified: 2024-09-30 22:41:34
 	name: Daydream
@@ -7245,13 +7257,15 @@ card:
 	card_code_text: HerziQuerzi
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		
 	time_created: 2024-01-25 13:26:50
 	time_modified: 2024-01-31 17:35:33
 	name: Flamecaller’s Command
@@ -7275,13 +7289,15 @@ card:
 	card_code_text: Emily
 	card_code_text_2: Emily
 	card_code_text_3: Emily
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		
 	time_created: 2024-01-25 12:54:16
 	time_modified: 2024-01-31 17:35:38
 	name: Break Free
@@ -7300,13 +7316,15 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		
 	time_created: 2024-01-25 13:02:36
 	time_modified: 2024-01-31 17:35:41
 	name: Digital Immortality
@@ -7328,13 +7346,15 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		
 	time_created: 2024-01-25 13:36:30
 	time_modified: 2024-01-31 17:36:30
 	name: Gathering the Gang
@@ -7355,13 +7375,15 @@ card:
 	card_code_text: CyberChronometer
 	card_code_text_2: CyberChronometer
 	card_code_text_3: CyberChronometer
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		
 	time_created: 2024-01-25 12:47:09
 	time_modified: 2024-01-31 17:35:47
 	name: No Rest
@@ -7382,7 +7404,7 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
@@ -7394,7 +7416,9 @@ card:
 		frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		
 	time_created: 2024-01-31 21:06:53
 	time_modified: 2024-01-31 18:15:56
 	name: Treasure
@@ -7411,7 +7435,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	copyright: Artist Series: Catwheezi — Chumbeque
+	copyright: Artist Series: Catwheezie — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
@@ -7475,7 +7499,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -7822,7 +7846,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 21
@@ -7857,7 +7881,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 25
@@ -7998,7 +8022,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -8037,7 +8061,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -8075,7 +8099,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -8111,7 +8135,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -8150,7 +8174,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -8188,7 +8212,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -8226,7 +8250,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -8262,7 +8286,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -9188,7 +9212,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -9380,7 +9404,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -9529,7 +9553,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -9685,7 +9709,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9723,7 +9747,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9811,13 +9835,13 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		You may exile target nonland permanent. If you do, you lose 3 life.
-		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		I, II — You may exile target nonland permanent. If you do, you lose 3 life.
+		III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9854,7 +9878,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -10393,7 +10417,7 @@ card:
 		!hidetag (SL132)
 		
 	time_created: 2024-06-05 10:01:42
-	time_modified: 2025-12-31 20:28:11
+	time_modified: 2026-02-01 15:38:35
 	name: Pitchpyre Curse
 	casting_cost: BR
 	image: image306
@@ -10405,7 +10429,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		Whenever one or more creatures attack enchanted player, their controller may sacrifice a creature. If they do, enchanted player loses 3 life. Then you may have them discard a card. If you don’t, they sacrifice a nonland permanent.
+		Whenever one or more creatures attack enchanted player, you may sacrifice a creature. If you do, enchanted player loses 3 life. Then you may have them discard a card. If you don’t, they sacrifice a nonland permanent.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Kyle Ferrin
 	custom_card_number: 1121
@@ -10830,7 +10854,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -10868,7 +10892,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -10906,7 +10930,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10943,7 +10967,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -10981,7 +11005,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11016,7 +11040,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11055,7 +11079,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -11094,7 +11118,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -11132,7 +11156,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11171,7 +11195,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -11241,7 +11265,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: map
@@ -11274,7 +11298,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: map
@@ -11310,7 +11334,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: map
@@ -11346,7 +11370,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: map
@@ -11382,7 +11406,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: map
@@ -11418,7 +11442,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: map
@@ -11454,7 +11478,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11489,7 +11513,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: map
@@ -11568,7 +11592,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11602,7 +11626,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: map
@@ -11798,7 +11822,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11848,7 +11872,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11895,7 +11919,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11940,7 +11964,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12050,7 +12074,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12101,7 +12125,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12157,7 +12181,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12166,9 +12190,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag (SL137)
-		
+	notes: !hidetag (SL137)
 	time_created: 2024-08-22 00:27:08
 	time_modified: 2025-12-31 20:26:57
 	name: Jak, Daring Vanguard
@@ -12204,7 +12226,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12251,7 +12273,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12300,7 +12322,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12347,7 +12369,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -13700,7 +13722,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: frameless art
@@ -13730,7 +13752,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: frameless art
@@ -13760,7 +13782,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: frameless art
@@ -13790,7 +13812,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: frameless art
@@ -13820,7 +13842,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: frameless art
@@ -13850,7 +13872,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: frameless art
@@ -13880,7 +13902,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: frameless art
@@ -13910,7 +13932,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: frameless art
@@ -13940,7 +13962,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: frameless art
@@ -13970,7 +13992,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: frameless art
@@ -14383,11 +14405,9 @@ card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes:
-		!hidetag (SL142)
-		
+	notes: !hidetag (SL142)
 	time_created: 2020-11-23 20:46:20
-	time_modified: 2025-12-31 20:28:02
+	time_modified: 2026-02-01 15:38:48
 	card_color: black, red, multicolor, horizontal
 	name: Pitchpyre Curse
 	casting_cost: BR
@@ -14400,7 +14420,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		Whenever one or more creatures attack enchanted player, their controller may sacrifice a creature. If they do, enchanted player loses 3 life. Then you may have them discard a card. If you don’t, they sacrifice a nonland permanent.
+		Whenever one or more creatures attack enchanted player, you may sacrifice a creature. If you do, enchanted player loses 3 life. Then you may have them discard a card. If you don’t, they sacrifice a nonland permanent.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Alexey Karelin
 	custom_card_number: 1218
@@ -15785,7 +15805,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -15831,7 +15851,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -15964,7 +15984,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -16004,7 +16024,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -16696,8 +16716,8 @@ card:
 	secondary_copyright: 
 	special_text:
 		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-		You may exile target nonland permanent. If you do, you lose 3 life.
-		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		I, II — You may exile target nonland permanent. If you do, you lose 3 life.
+		III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
@@ -16874,7 +16894,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -16920,7 +16940,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -17011,7 +17031,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -17055,7 +17075,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -17181,7 +17201,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -17246,7 +17266,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -17340,7 +17360,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12

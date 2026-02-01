@@ -1027,6 +1027,7 @@ card:
 	has_styling: false
 	notes:
 		Everything Is Going Great — Tiny Stills
+		!replacetoken AVXEle;1;
 		!script "s>l>Spawn Elemental/l>f>/spawn Elemental AVX/f>/s>","r"
 	time_created: 2021-04-17 00:03:22
 	time_modified: 2023-03-08 14:42:50
@@ -1083,9 +1084,11 @@ card:
 	has_styling: false
 	notes:
 		Accidentally In Love — Counting Crows
+		
+		!replacetoken AVXEle;1;
 		!script "s>l>Spawn Elemental/l>f>/spawn Elemental AVX/f>/s>","r"
 	time_created: 2021-04-17 00:03:34
-	time_modified: 2023-08-21 21:27:13
+	time_modified: 2026-01-31 17:12:05
 	name: The World Follows After
 	casting_cost: 2GU
 	image: image197
@@ -1096,7 +1099,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		Search your library for two basic land cards that don’t share a land type and put them onto the battlefield tapped.
+		Search your library for two basic land cards that don’t share a land type, put them onto the battlefield tapped, then shuffle.
 		<sym-auto>WUBRG</sym-auto>, Exile <atom-cardname><nospellcheck>The World Follows After</nospellcheck></atom-cardname> from your graveyard: Create a 4/4 Elemental creature token that’s all colors. It can’t block this turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Timi Honkanen
@@ -3050,9 +3053,11 @@ card:
 
 card:
 	has_styling: false
-	notes: In Too Deep — Sum 41
+	notes:
+		In Too Deep — Sum 41
+		 buffed: Gained Horror type.
 	time_created: 2022-11-27 20:00:51
-	time_modified: 2023-08-21 20:02:15
+	time_modified: 2026-01-31 16:51:39
 	name: Olten Tarrasque
 	casting_cost: 5GG
 	image: image113
@@ -3060,7 +3065,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 		<kw-A><nospellcheck><key>Ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays <param-mana><sym-auto>3</sym-auto></param-mana>.)</i-auto></atom-reminder-expert></kw-A>
@@ -5757,6 +5768,7 @@ card:
 		overlay: 
 	notes:
 		When You Were Young — The Killers
+		!replacetoken AVXEle;1;
 		!script "s>l>Spawn Elemental/l>f>/spawn Elemental AVX/f>/s>","r"
 	time_created: 2023-01-28 00:16:19
 	time_modified: 2023-02-17 19:26:09
@@ -7811,6 +7823,8 @@ card:
 		overlay: 
 	notes:
 		!exportname Gold Elemental
+		!tokentag AVXEle
+		
 		!related All-Devouring Hope; Faith Given Form; Sage of Folded Possibilities; Everything Is Going Great; Life as a Means to a Triumph; The World Follows After
 		!tokenlink AVXele
 	time_created: 2023-02-14 15:43:34
@@ -9401,9 +9415,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		The End Of The Movie from Crazy Ex Girlfriend
-		
+	notes: The End Of The Movie from Crazy Ex Girlfriend
 	time_created: 2023-08-27 00:30:21
 	time_modified: 2025-10-28 23:09:50
 	name: Past, Present, Future

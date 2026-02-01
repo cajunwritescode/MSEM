@@ -178,11 +178,11 @@ card:
 	has_styling: false
 	notes:
 		She/her
-		 buffed: Discount now works on all turns.
+		 adjusted: Discount now only works on your turn. Now 2/2 (from 2/1).
 		fullart
 		!inpend Angel\\n/replace/Angel — !inpend Elder\\n/replace/Elder — 
 	time_created: 2023-12-26 04:47:13
-	time_modified: 2025-10-29 01:02:44
+	time_modified: 2026-01-31 16:54:05
 	name: Rahstahde, Brand of Truth
 	casting_cost: UR
 	image: image255.png
@@ -196,7 +196,7 @@ card:
 	level_2: Angel
 	level_3: Elder
 	level_4: 
-	level_1_text: The first instant or sorcery spell you cast each turn costs <sym>U/R</sym> <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast.
+	level_1_text: The first instant or sorcery spell you cast during each of your turns costs <sym>U/R</sym> <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast.
 	level_2_text: <margin:0:0:30>Put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter and a <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a> counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Rahstahde</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:0:0:30>
 	level_3_text: <margin:0:0:30>Exile any number of instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it. You may cast the copies without paying their mana costs.</margin:0:0:30>
 	level_4_text: 
@@ -204,7 +204,7 @@ card:
 	level_10_text: <sym-auto>5UR</sym-auto>:
 	level_11_text: 
 	power: 2
-	toughness: 1
+	toughness: 2
 	illustrator: Nadia Dibaj
 	card_code_text: She/her
 	card_code_text_2: She/her
@@ -214,7 +214,7 @@ card:
 	copyright_3: 
 	special_text:
 		Transcend <i-auto>(Activate as a sorcery to gain the next type and a +1/+1 counter.)</i-auto>
-		The first instant or sorcery spell you cast each turn costs <sym>U/R</sym> <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast.
+		The first instant or sorcery spell you cast during each of your turns costs <sym>U/R</sym> <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast.
 		<sym-auto>UR</sym-auto>: Angel
 		<margin:0:0:30>Put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter and a <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a> counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Rahstahde</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:0:0:30>
 		<sym-auto>5UR</sym-auto>: Elder
@@ -6770,7 +6770,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature gets +2/+2.
-		When enchanted creature dies, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>two</param-number> +1/+1 counters on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		When enchanted creature dies, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>two</param-number> +1/+1 counters on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ryan Portillo
 	card_code_text: 
@@ -6796,7 +6796,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>non-Army creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature can’t attack or block.
-		When <atom-cardname><nospellcheck>Banishment of Aspirations</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Banishment of Aspirations</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anton Fedotov
 	card_code_text: 

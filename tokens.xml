@@ -610,10 +610,44 @@
  <reverse-related>Stellar Mandate</reverse-related>
  <reverse-related>Sword of Rage and Tranquility</reverse-related>
  <reverse-related>Toil in Strife</reverse-related>
+ <reverse-related>Atashvar Mobilized</reverse-related>
+ <reverse-related>Cyrukan, the Measured Blade</reverse-related>
+ <reverse-related>Huma of Radiant Flames</reverse-related>
+ <reverse-related>Seizure of Atashvar</reverse-related>
+ <reverse-related>Skycrested Roc</reverse-related>
+ <reverse-related>Stalker of Horizons</reverse-related>
+ <reverse-related>The Only Constant</reverse-related>
+ <reverse-related>Cartographer's Step_MSY</reverse-related>
+ <reverse-related>Culminating Chaos_MSY</reverse-related>
+ <reverse-related>Culminating Chaos (Signed)</reverse-related>
+ <reverse-related>Cultish Sorcerer </reverse-related>
+ <reverse-related>Dragon of Kaomor Cliffs</reverse-related>
+ <reverse-related>Flamingo Rock_MSY</reverse-related>
+ <reverse-related>Goldbrim Incantor</reverse-related>
+ <reverse-related>Ha'Eng, Figure of Greed_MSY</reverse-related>
+ <reverse-related>Infectious Ego_MSY</reverse-related>
+ <reverse-related>Kaone of the Golden Sonata_MSY</reverse-related>
+ <reverse-related>Kaone of the Golden Sonata (Signed)</reverse-related>
+ <reverse-related>Leafdown Sizzlemage_MSY</reverse-related>
+ <reverse-related>Mikkino, Realized Greatness_MSY</reverse-related>
+ <reverse-related>Obey_MSY</reverse-related>
+ <reverse-related>Ominous Discovery_MSY</reverse-related>
+ <reverse-related>Pensive Songwriter_MSY</reverse-related>
+ <reverse-related>Pensive Songwriter (Signed)</reverse-related>
+ <reverse-related>Splinter of Creation_MSY</reverse-related>
+ <reverse-related>Stand Everlasting</reverse-related>
+ <reverse-related>Stardust Nova</reverse-related>
+ <reverse-related>Surge of the Leylines_MSY</reverse-related>
+ <reverse-related>Titanic Fossil_MSY</reverse-related>
+ <reverse-related>Arisen Tyrant_MSY</reverse-related>
+ <reverse-related>Twisting Memories_MSY</reverse-related>
+ <reverse-related>Twisting Memories (Signed)</reverse-related>
+ <reverse-related>Whims of Fate_MSY</reverse-related>
  <reverse-related>Autumnal Watch_MPS_MSE</reverse-related>
  <reverse-related>Culminating Chaos_MPS_MSE</reverse-related>
  <reverse-related>Exhilarating Prescience_MPS_MSE</reverse-related>
  <reverse-related>Find Happiness in Misery_MPS_MSE</reverse-related>
+ <reverse-related>Infectious Ego_MPS_MSE</reverse-related>
  <reverse-related>Infuse the Apparatus_MPS_MSE</reverse-related>
  <reverse-related>Latent Potential_MPS_MSE</reverse-related>
  <reverse-related>Reflected Moment_MPS_MSE</reverse-related>
@@ -622,6 +656,7 @@
  <reverse-related>Culminating Chaos_CHAMPIONS</reverse-related>
  <reverse-related>Exhilarating Prescience_CHAMPIONS</reverse-related>
  <reverse-related>Find Happiness in Misery_CHAMPIONS</reverse-related>
+ <reverse-related>Infectious Ego_CHAMPIONS</reverse-related>
  <reverse-related>Infuse the Apparatus_CHAMPIONS</reverse-related>
  <reverse-related>Latent Potential_CHAMPIONS</reverse-related>
  <reverse-related>Reflected Moment_CHAMPIONS</reverse-related>
@@ -781,6 +816,7 @@ Equip {4}</text>
  <reverse-related>Rallios Reincarnated</reverse-related>
  <reverse-related>Undying Welcome</reverse-related>
  <reverse-related count="x">Unhallowed Legion</reverse-related>
+ <reverse-related count="2">Labor of Life</reverse-related>
  <set num="AFM6" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AFM6.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -794,6 +830,8 @@ Equip {4}</text>
  <reverse-related>Duskwood Wildcaller</reverse-related>
  <reverse-related count="2">Feralborn Druid</reverse-related>
  <reverse-related>Wolfbriar Sapling</reverse-related>
+ <reverse-related count="2">Leyran Alpha_MSY</reverse-related>
+ <reverse-related count="2">Leyran Alpha (Signed)</reverse-related>
  <set num="AFM12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AFM12.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -1312,6 +1350,28 @@ Equip {4}</text>
  <reverse-related>Starcrossed Arcana</reverse-related>
  <reverse-related>Twincall Chant</reverse-related>
  <reverse-related>Wildcourt Cavalier</reverse-related>
+ <reverse-related>Core of Swelling Fields</reverse-related>
+ <reverse-related>Grove of the Sherdal</reverse-related>
+ <reverse-related>Legion of Infinite Maws</reverse-related>
+ <reverse-related>Stalker of Horizons</reverse-related>
+ <reverse-related>Stories in Shifting Sand</reverse-related>
+ <reverse-related>The First Blade of Alkabah</reverse-related>
+ <reverse-related>Bad // Worse_MSY</reverse-related>
+ <reverse-related>Beleaguered Conquistador</reverse-related>
+ <reverse-related>Glimpse in the Static_MSY</reverse-related>
+ <reverse-related>Glimpse in the Static (Signed)</reverse-related>
+ <reverse-related>Grim Botanist_MSY</reverse-related>
+ <reverse-related>Grim Botanist (Signed)</reverse-related>
+ <reverse-related>Heir's Legacy_MSY</reverse-related>
+ <reverse-related>Kinken Shrine Steppe</reverse-related>
+ <reverse-related>Lackeybot_MSY</reverse-related>
+ <reverse-related>Lackeybot (Signed)</reverse-related>
+ <reverse-related>Ogura, Contracted Rebel_MSY</reverse-related>
+ <reverse-related>Ogura, Contracted Rebel (Signed)</reverse-related>
+ <reverse-related>Righteous Transgression</reverse-related>
+ <reverse-related>Starfall Singer_MSY</reverse-related>
+ <reverse-related>Voidtouched Nightblade_MSY</reverse-related>
+ <reverse-related>Voidtouched Nightblade (Signed)</reverse-related>
  <reverse-related>Glimmer_MPS_MSE</reverse-related>
  <reverse-related>Glimmer_CHAMPIONS</reverse-related>
  <reverse-related>Aethermancer's Familiar (SL62)</reverse-related>
@@ -1631,6 +1691,7 @@ When Lizhao dies, each opponent sacrifices a creature.</text>
  <reverse-related>Test the Winds</reverse-related>
  <reverse-related>Gamhaugen Owlkeeper</reverse-related>
  <reverse-related>Gamhaugen Owlkeeper</reverse-related>
+ <reverse-related>Aven Warmonger_MSY</reverse-related>
  <set num="GNJ2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/GNJ2.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -1643,6 +1704,7 @@ When this creature dies, draw a card.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related count="2">Twisted Mist</reverse-related>
+ <reverse-related>Parrot Pools_MSY</reverse-related>
  <set num="GNJ5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/GNJ5.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -1687,6 +1749,8 @@ Equip {5}</text>
  <tablerow>2</tablerow>
  <reverse-related>Xiusheng of the Dragon Realm</reverse-related>
  <reverse-related>Apex's Prey</reverse-related>
+ <reverse-related>Chikyu Champion_MSY</reverse-related>
+ <reverse-related>Chikyu Champion (Signed)</reverse-related>
  <set num="GNJ22" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/GNJ22.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -1752,6 +1816,8 @@ Equip {1}</text>
  <reverse-related>Harbinger of Growth</reverse-related>
  <reverse-related count="x">Saproling Genesis</reverse-related>
  <reverse-related>Spore Vessel</reverse-related>
+ <reverse-related>Grim Botanist_MSY</reverse-related>
+ <reverse-related>Grim Botanist (Signed)</reverse-related>
  <reverse-related>Overgrowth Guardian (SL159)</reverse-related>
  <reverse-related>Sporeflow Protector (SL74)</reverse-related>
  <set num="K1512" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/K1512.jpg?v=0" rarity="token">tokens</set>
@@ -1903,6 +1969,7 @@ Equip {1}</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Raidragos' Avenger</reverse-related>
+ <reverse-related>Raidragos' Avenger_MSY</reverse-related>
  <set num="K159" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/K159.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2192,6 +2259,8 @@ A card with morph can be turned face up any time for its morph cost.</text>
  <reverse-related>Benthic Thaumaturge</reverse-related>
  <reverse-related>Rune-Scribe's Revealing</reverse-related>
  <reverse-related>Malefic Portal_MC25</reverse-related>
+ <reverse-related>Starlight Seraph_MSY</reverse-related>
+ <reverse-related>Starlight Seraph (Signed)</reverse-related>
  <reverse-related>Hopebringer Cherub (SL128)</reverse-related>
  <reverse-related>Ishim of Devilry (SL128)</reverse-related>
  <reverse-related>Ishim of Genesis (SL128)</reverse-related>
@@ -2253,6 +2322,10 @@ A manifested creature card can be turned face up any time for its mana cost. A f
  <reverse-related>Scene of Nativity_MS1</reverse-related>
  <reverse-related>Hayda, Worldseeder Archmage_MS2</reverse-related>
  <reverse-related>Primordial Manifestation</reverse-related>
+ <reverse-related>Dimensional Denial_MSY</reverse-related>
+ <reverse-related>Dimensional Denial (Signed)</reverse-related>
+ <reverse-related>Recombobulate_MSY</reverse-related>
+ <reverse-related>Recombobulate (Signed)</reverse-related>
  <reverse-related>Hand of Genesis (SL128)</reverse-related>
  <reverse-related>Soul Cajoler (SL128)</reverse-related>
  <reverse-related>Manifest MIS_tokens</reverse-related>
@@ -2398,6 +2471,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
  <tablerow>2</tablerow>
  <reverse-related>Dylso Charmer</reverse-related>
  <reverse-related count="3">Pride // Prejudice</reverse-related>
+ <reverse-related count="3">Pride // Prejudice_MSY</reverse-related>
  <set num="OPH1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/OPH1.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2464,6 +2538,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related count="2">Rite of Fangs</reverse-related>
+ <reverse-related>Above // Beyond_MSY</reverse-related>
  <set num="OPH12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/OPH12.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2589,6 +2664,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
  <reverse-related>Heat of the Moment_MS3</reverse-related>
  <reverse-related>Refraction Diver</reverse-related>
  <reverse-related>Haunting Visitations</reverse-related>
+ <reverse-related>Starfall Singer_MSY</reverse-related>
  <reverse-related>Heat of the Moment_PRO_ORP</reverse-related>
  <set num="ORP2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ORP2.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -2911,6 +2987,8 @@ A manifested creature card can be turned face up any time for its mana cost. A f
  <tablerow>2</tablerow>
  <reverse-related>Artian, Phyrexian Architect</reverse-related>
  <reverse-related>Phyrexian Arcforger</reverse-related>
+ <reverse-related>Artian, Phyrexian Architect_MSY</reverse-related>
+ <reverse-related>Artian, Phyrexian Architect (Signed)</reverse-related>
  <reverse-related>Artian, Phyrexian Architect_PRO_SOR</reverse-related>
  <set num="SOR13" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SOR13.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -2944,6 +3022,10 @@ A manifested creature card can be turned face up any time for its mana cost. A f
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Forgemaster's Altar</reverse-related>
+ <reverse-related>S-40 Wallbreaker </reverse-related>
+ <reverse-related>S-40 Wallbreaker  (Signed)</reverse-related>
+ <reverse-related>Yeshin of New Humanity </reverse-related>
+ <reverse-related>Yeshin of New Humanity  (Signed)</reverse-related>
  <set num="SOR12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SOR12.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -3352,6 +3434,9 @@ All creatures have haste and can't block.</text>
  <reverse-related>Overgrown Refuge</reverse-related>
  <reverse-related>Unlit Alley</reverse-related>
  <reverse-related>Stolen Cache</reverse-related>
+ <reverse-related>Snagged Truck_MSY</reverse-related>
+ <reverse-related>Wheat from Chaff_MSY</reverse-related>
+ <reverse-related>Wheat from Chaff (Signed)</reverse-related>
  <reverse-related>Alratha, Pearl of the Sand Sea_MPS_MSE</reverse-related>
  <reverse-related>Crest_MPS_MSE</reverse-related>
  <reverse-related>Alratha, Pearl of the Sand Sea_CHAMPIONS</reverse-related>
@@ -3398,6 +3483,8 @@ All creatures have haste and can't block.</text>
  <reverse-related count="3">Secrets Unearthed</reverse-related>
  <reverse-related>Swell of Birth</reverse-related>
  <reverse-related count="x">Vitality Unbridled</reverse-related>
+ <reverse-related count="2">Abbey of Masquerades_MSY</reverse-related>
+ <reverse-related count="2">Birds of Odd Feathers_MSY</reverse-related>
  <reverse-related>Simul, Sylvan Alchemist_MPS_MSE</reverse-related>
  <reverse-related>Simul, Sylvan Alchemist_CHAMPIONS</reverse-related>
  <reverse-related>Simul, Sylvan Alchemist (SL129)</reverse-related>
@@ -3608,6 +3695,7 @@ Equip {1}</text>
  <reverse-related>Blessing of Bliss</reverse-related>
  <reverse-related>Light's Blessing</reverse-related>
  <reverse-related count="x">United Force</reverse-related>
+ <reverse-related>Light's Blessing_MSY</reverse-related>
  <set num="NVA2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/NVA2.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -3652,6 +3740,7 @@ Equip {1}</text>
  <reverse-related>Deceitful Tutor_MSL</reverse-related>
  <reverse-related>Vartrossen Primalist</reverse-related>
  <reverse-related>Vartrossen Packleader</reverse-related>
+ <reverse-related>Thunderstride_MSY</reverse-related>
  <reverse-related>Dovon's Masterwork (SL78)</reverse-related>
  <reverse-related>Not All Who Wander (SL131)</reverse-related>
  <set num="NVA1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/NVA1.jpg?v=0" rarity="token">tokens</set>
@@ -3680,6 +3769,7 @@ Equip {1}</text>
  <reverse-related>Gorru Wolftender</reverse-related>
  <reverse-related>Keeping the Wolfpack</reverse-related>
  <reverse-related>Master of the Glen</reverse-related>
+ <reverse-related>Master of the Glen_MSY</reverse-related>
  <set num="NVA6" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/NVA6.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -3781,6 +3871,8 @@ Equip {1}</text>
  <reverse-related count="2">Aetherlock Effigy</reverse-related>
  <reverse-related>Derelict Watcher</reverse-related>
  <reverse-related>The Wicker Lord</reverse-related>
+ <reverse-related>Inked Summoner </reverse-related>
+ <reverse-related>Inked Summoner  (Signed)</reverse-related>
  <set num="HI123" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/HI123.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -3870,6 +3962,12 @@ Enchanted creature can't attack or block, and its activated abilities can't be a
  <reverse-related>Brajjebaw, the Gambler</reverse-related>
  <reverse-related>Imperial Tribute</reverse-related>
  <reverse-related count="2">Sword of Rags and Riches</reverse-related>
+ <reverse-related count="2">Lost Empire's Legacy_MSY</reverse-related>
+ <reverse-related>Splendor_MSY</reverse-related>
+ <reverse-related>Splendor (Signed)</reverse-related>
+ <reverse-related>Strongarm_MSY</reverse-related>
+ <reverse-related>Xiyue Dragondancer_MSY</reverse-related>
+ <reverse-related>Xiyue Dragondancer (Signed)</reverse-related>
  <set num="TOJ26" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/TOJ26.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -4664,6 +4762,8 @@ Equip {2}</text>
  <reverse-related>Abbey of Masquerades</reverse-related>
  <reverse-related>Distant Shores</reverse-related>
  <reverse-related>Troubled Heir</reverse-related>
+ <reverse-related>Abbey of Masquerades_MSY</reverse-related>
+ <reverse-related>Unbound Expanse_MSY</reverse-related>
  <set num="UNR20" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/UNR20.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -4779,6 +4879,8 @@ Enchanted creature can't attack or block, and its activated abilities can't be a
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Crack in Time</reverse-related>
+ <reverse-related>Crack in Time_MSY</reverse-related>
+ <reverse-related>Crack in Time (Signed)</reverse-related>
  <set num="MS116" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS116.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -4797,6 +4899,8 @@ Enchanted creature can't attack or block, and its activated abilities can't be a
  <reverse-related>The Ardent Prodigy</reverse-related>
  <reverse-related>The River Treader</reverse-related>
  <reverse-related>Long Journey_EOW</reverse-related>
+ <reverse-related>The River Treader_MSY</reverse-related>
+ <reverse-related>The River Treader (Signed)</reverse-related>
  <reverse-related>Crossing the Fog (SL29)</reverse-related>
  <reverse-related>Crossing the Fog (SL82)</reverse-related>
  <set num="MSEMAR14" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSEMAR14.jpg?v=0" rarity="token">tokens</set>
@@ -5179,6 +5283,7 @@ Enchanted creature can't attack or block, and its activated abilities can't be a
  <reverse-related>Aether Gateway_MS2</reverse-related>
  <reverse-related>Abbey of Masquerades</reverse-related>
  <reverse-related>Distant Shores</reverse-related>
+ <reverse-related>Abbey of Masquerades_MSY</reverse-related>
  <set num="WAY24" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/WAY24.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -5299,6 +5404,9 @@ Enchanted creature can't attack or block, and its activated abilities can't be a
  <tablerow>2</tablerow>
  <reverse-related>Magdel, Caller of Souls</reverse-related>
  <reverse-related count="x">Wandering Souls</reverse-related>
+ <reverse-related count="2">Astral Gateway_MSY</reverse-related>
+ <reverse-related count="2">Astral Gateway (Signed)</reverse-related>
+ <reverse-related>Moonlit Wishes</reverse-related>
  <reverse-related count="x">Wandering Souls Reminder 101_tokens</reverse-related>
  <set num="1012" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/1012.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -5429,6 +5537,7 @@ Enchanted creature can't attack or block, and its activated abilities can't be a
  <tablerow>2</tablerow>
  <reverse-related>Emerald Warcaller</reverse-related>
  <reverse-related>Crimson Skycaller</reverse-related>
+ <reverse-related count="x">Hatsuo's Maneuver_MSY</reverse-related>
  <set num="ATB8" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ATB8.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -5854,6 +5963,12 @@ When Resolution of Stone enters, put a +1/+1 counter on target creature you cont
  <reverse-related count="3">Tempted by Lotuses</reverse-related>
  <reverse-related>Wade Through</reverse-related>
  <reverse-related count="2">Woopip Wanderer</reverse-related>
+ <reverse-related>Storehouse Collapse_MSY</reverse-related>
+ <reverse-related>Storehouse Collapse (Signed)</reverse-related>
+ <reverse-related>Vivid March_MSY</reverse-related>
+ <reverse-related>Vivid March (Signed)</reverse-related>
+ <reverse-related>Wade Through_MSY</reverse-related>
+ <reverse-related>Wade Through (Signed)</reverse-related>
  <set num="EAU8" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/EAU8.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -5946,6 +6061,7 @@ When Resolution of Stone enters, put a +1/+1 counter on target creature you cont
  <reverse-related>Aether Gateway_MS2</reverse-related>
  <reverse-related>Abbey of Masquerades</reverse-related>
  <reverse-related>Distant Shores</reverse-related>
+ <reverse-related>Abbey of Masquerades_MSY</reverse-related>
  <set num="WAY27" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/WAY27.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -5960,6 +6076,7 @@ When Resolution of Stone enters, put a +1/+1 counter on target creature you cont
  <reverse-related>Aether Gateway_MS2</reverse-related>
  <reverse-related>Abbey of Masquerades</reverse-related>
  <reverse-related>Distant Shores</reverse-related>
+ <reverse-related>Abbey of Masquerades_MSY</reverse-related>
  <set num="WAY36" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/WAY36.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -5974,6 +6091,7 @@ When Resolution of Stone enters, put a +1/+1 counter on target creature you cont
  <reverse-related>Aether Gateway_MS2</reverse-related>
  <reverse-related>Abbey of Masquerades</reverse-related>
  <reverse-related>Distant Shores</reverse-related>
+ <reverse-related>Abbey of Masquerades_MSY</reverse-related>
  <set num="WAY30" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/WAY30.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -6231,6 +6349,8 @@ Enchanted creature gets +2/+2.</text>
  <reverse-related count="2">Zhargetan Reclaimer</reverse-related>
  <reverse-related count="2">Zhedina Envoys</reverse-related>
  <reverse-related>Karina's Explorations</reverse-related>
+ <reverse-related>Endless Expedition_MSY</reverse-related>
+ <reverse-related>Endless Expedition (Signed)</reverse-related>
  <reverse-related count="2">Into the Unknown_MPS_MSE</reverse-related>
  <reverse-related count="2">Into the Unknown_CHAMPIONS</reverse-related>
  <set num="WAY18" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/WAY18.jpg?v=0" rarity="token">tokens</set>
@@ -6311,6 +6431,7 @@ Enchanted creature gets +1/+1.</text>
  <token>1</token>
  <tablerow>0</tablerow>
  <reverse-related>Mabil Fardancer</reverse-related>
+ <reverse-related>Boundless Strider</reverse-related>
  <set num="WAY23" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/WAY23.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -6538,6 +6659,7 @@ Enchanted creature gets +1/+0 and has flying and lifelink.</text>
  <reverse-related>Studies in Scientific Theory</reverse-related>
  <reverse-related>Volta, Construct Consultant_MSC</reverse-related>
  <reverse-related>Iterative Designer_MC25</reverse-related>
+ <reverse-related>Avid Researcher_MSY</reverse-related>
  <reverse-related>Avid Researcher (SL112)</reverse-related>
  <set num="MSEMAR12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSEMAR12.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -6713,6 +6835,8 @@ Whenever a creature deals combat damage to you, its controller becomes the monar
  <token>1</token>
  <tablerow>1</tablerow>
  <reverse-related>Champion of Destinies</reverse-related>
+ <reverse-related>Champion of Destinies_MSY</reverse-related>
+ <reverse-related>Champion of Destinies (Signed)</reverse-related>
  <reverse-related>Champion of Destinies (SL43)</reverse-related>
  <set num="MSEMAR16" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSEMAR16.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -7422,6 +7546,9 @@ Enchanted creature gets +2/+0 and has trample.</text>
  <reverse-related>Senator Christian Winters</reverse-related>
  <reverse-related count="2">Source Decay</reverse-related>
  <reverse-related count="3">Unending Armies</reverse-related>
+ <reverse-related>Astral Surveyor</reverse-related>
+ <reverse-related>Plasma Enforcer_MSY</reverse-related>
+ <reverse-related>Plasma Enforcer (Signed)</reverse-related>
  <reverse-related>Olten Surveyor (SL137)</reverse-related>
  <reverse-related>Plasma Enforcer (SL134)</reverse-related>
  <set num="LVS3" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LVS3.jpg?v=0" rarity="token">tokens</set>
@@ -7445,6 +7572,8 @@ Enchanted creature gets +2/+0 and has trample.</text>
  <reverse-related count="2">Space Jelly Swarm</reverse-related>
  <reverse-related count="2">Stalwart Guardian</reverse-related>
  <reverse-related count="2">United Guardian</reverse-related>
+ <reverse-related>Out-of-Body Experience_MSY</reverse-related>
+ <reverse-related>Out-of-Body Experience (Signed)</reverse-related>
  <set num="LVS1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LVS1.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -7885,6 +8014,8 @@ Equip {2}</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Chikyu Champion</reverse-related>
+ <reverse-related>Chikyu Champion_MSY</reverse-related>
+ <reverse-related>Chikyu Champion (Signed)</reverse-related>
  <set num="MON7" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MON7.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -7896,6 +8027,8 @@ Equip {2}</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Chikyu Champion</reverse-related>
+ <reverse-related>Chikyu Champion_MSY</reverse-related>
+ <reverse-related>Chikyu Champion (Signed)</reverse-related>
  <set num="MON12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MON12.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -7907,6 +8040,8 @@ Equip {2}</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Chikyu Champion</reverse-related>
+ <reverse-related>Chikyu Champion_MSY</reverse-related>
+ <reverse-related>Chikyu Champion (Signed)</reverse-related>
  <set num="MON10" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MON10.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -7929,6 +8064,8 @@ Equip {2}</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Chikyu Champion</reverse-related>
+ <reverse-related>Chikyu Champion_MSY</reverse-related>
+ <reverse-related>Chikyu Champion (Signed)</reverse-related>
  <set num="MON4" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MON4.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -7940,6 +8077,8 @@ Equip {2}</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Chikyu Champion</reverse-related>
+ <reverse-related>Chikyu Champion_MSY</reverse-related>
+ <reverse-related>Chikyu Champion (Signed)</reverse-related>
  <set num="MON2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MON2.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -7984,6 +8123,8 @@ Equip {2}</text>
  <tablerow>2</tablerow>
  <reverse-related>Viper Ambush</reverse-related>
  <reverse-related count="4">Andazir, First to Aspire</reverse-related>
+ <reverse-related>Viper Ambush_MSY</reverse-related>
+ <reverse-related>Viper Ambush (Signed)</reverse-related>
  <set num="MON5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MON5.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -8293,6 +8434,8 @@ Sacrifice this token: Untap enchanted creature.                             </te
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Inked Summoner</reverse-related>
+ <reverse-related>Inked Summoner </reverse-related>
+ <reverse-related>Inked Summoner  (Signed)</reverse-related>
  <set num="MS317" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS317.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -8304,6 +8447,8 @@ Sacrifice this token: Untap enchanted creature.                             </te
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Inked Summoner</reverse-related>
+ <reverse-related>Inked Summoner </reverse-related>
+ <reverse-related>Inked Summoner  (Signed)</reverse-related>
  <set num="MS320" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS320.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -8475,6 +8620,7 @@ A substantiated noncreature card can be turned face up and cast any time.</text>
  <reverse-related>Silent Hunt</reverse-related>
  <reverse-related>Sink</reverse-related>
  <reverse-related>Siren's Song</reverse-related>
+ <reverse-related>Under Pressure</reverse-related>
  <reverse-related count="3">Last Passage (SL35)</reverse-related>
  <set num="DSS7" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/DSS7.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -9199,6 +9345,7 @@ When this creature dies, create an 8/5 black Elder Demon Horror creature token w
  <type>Token Artifact — Clue</type>
  <token>1</token>
  <tablerow>1</tablerow>
+ <reverse-related>Alratha, Pearl of the Sand Sea</reverse-related>
  <reverse-related>Azure Archaeologist</reverse-related>
  <reverse-related>Cold Shoulder</reverse-related>
  <reverse-related>Crest</reverse-related>
@@ -9457,6 +9604,8 @@ Whenever Everember Phoenix deals combat damage to a player or planeswalker, you 
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Gentle Omens</reverse-related>
+ <reverse-related>Gentle Omens_MSY</reverse-related>
+ <reverse-related>Gentle Omens (Signed)</reverse-related>
  <set num="BYK2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/BYK2.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -10510,6 +10659,7 @@ When Crimson Hellmaw enters, it deals 3 damage to any target.</text>
  <reverse-related>Tantalizing Glutton</reverse-related>
  <reverse-related>Zealous Rabble</reverse-related>
  <reverse-related>The Disappearance of Faye</reverse-related>
+ <reverse-related>Explorer's Potluck</reverse-related>
  <reverse-related>Just Out of Reach OTH_tokens</reverse-related>
  <set num="OTH66" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/OTH66.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -10566,6 +10716,12 @@ When Crimson Hellmaw enters, it deals 3 damage to any target.</text>
  <reverse-related>Salt Road</reverse-related>
  <reverse-related>Streets of Worship</reverse-related>
  <reverse-related>Walls of Almgrove</reverse-related>
+ <reverse-related>Cartographer's Step_MSY</reverse-related>
+ <reverse-related>Flamingo Rock_MSY</reverse-related>
+ <reverse-related>Leafdown Sizzlemage_MSY</reverse-related>
+ <reverse-related>Mikkino, Realized Greatness_MSY</reverse-related>
+ <reverse-related>Ominous Dragoncaller_MSY</reverse-related>
+ <reverse-related>Ominous Dragoncaller (Signed)</reverse-related>
  <reverse-related>Aegisul, the Sunspear (SL114)</reverse-related>
  <reverse-related>Burning Hart (SL114)</reverse-related>
  <reverse-related>Critters' Companion (SL114)</reverse-related>
@@ -11548,6 +11704,7 @@ When this creature enters, it deals 5 damage to any target.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Posey, of the Seal Cloak</reverse-related>
+ <reverse-related>Posey, of the Seal Cloak_MSY</reverse-related>
  <set num="MSC70" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC70.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -11613,7 +11770,24 @@ Sacrifice this token: Untap enchanted land.</text>
  <token>1</token>
  <tablerow>1</tablerow>
  <reverse-related>Ramzi, Traveling Merchant</reverse-related>
+ <reverse-related>Ramzi, Traveling Merchant_MSY</reverse-related>
+ <reverse-related>Ramzi, Traveling Merchant (SL100)_LAIR</reverse-related>
+ <reverse-related>Ramzi, Traveling Merchant_MPS_MSE</reverse-related>
+ <reverse-related>Ramzi, Traveling Merchant_CHAMPIONS</reverse-related>
  <set num="OTH4" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/OTH4.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Antelope 11OTH</name>
+ <text></text>
+ <colors>G</colors>
+ <type>Token Creature — Antelope</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Ramzi, Traveling Merchant</reverse-related>
+ <reverse-related>Ramzi, Traveling Merchant_MSY</reverse-related>
+ <reverse-related>Ramzi, Traveling Merchant (SL100)</reverse-related>
+ <set num="OTH42" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/OTH42.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Sowing Spring OTH</name>
@@ -11686,6 +11860,8 @@ Whenever enchanted land becomes tapped for mana, add one mana of any color.</tex
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Rini, Sundial Archcleric</reverse-related>
+ <reverse-related>Rini, Sundial Archcleric_MSY</reverse-related>
+ <reverse-related>Rini, Sundial Archcleric (Signed)</reverse-related>
  <set num="MSC6" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC6.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -12908,6 +13084,7 @@ Equip {2}</text>
  <reverse-related>Spark of Inspiration</reverse-related>
  <reverse-related>Timely Arrival</reverse-related>
  <reverse-related>Unravel the Unfathomable</reverse-related>
+ <reverse-related>Usurper's End_MSY</reverse-related>
  <reverse-related>Sofia, Fortune's Fated (SL58)</reverse-related>
  <reverse-related>Sofia, Fortune's Fated (SL70)</reverse-related>
  <reverse-related>Foretell QRB_tokens</reverse-related>
@@ -13039,6 +13216,7 @@ Equip {2}</text>
  <reverse-related>Sewer Dweller</reverse-related>
  <reverse-related>Swarming Midden</reverse-related>
  <reverse-related>Witch of the Midden</reverse-related>
+ <reverse-related>Prophet of the Plague</reverse-related>
  <set num="QRB8" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/QRB8.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -13299,6 +13477,7 @@ Whenever this creature becomes the target of a spell, sacrifice it.</text>
  <reverse-related count="2">Creativity</reverse-related>
  <reverse-related count="2">Creativity (Zero)</reverse-related>
  <reverse-related>Gleaming Waypoint</reverse-related>
+ <reverse-related count="2">Creativity_MSY</reverse-related>
  <set num="KXP20" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/KXP20.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -13720,6 +13899,7 @@ Equip {2}</text>
  <reverse-related>Feng Bao, Storm's Center</reverse-related>
  <reverse-related>Nanzan Daio, Hidden Mist</reverse-related>
  <reverse-related>Terramorphic Cradle</reverse-related>
+ <reverse-related>Terramorphic Cradle_MSY</reverse-related>
  <reverse-related>Feng Bao, Storm's Center (SL92)</reverse-related>
  <set num="PAX7" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/PAX7.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -14152,6 +14332,8 @@ Mother can't block.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Lisa, the Daughter</reverse-related>
+ <reverse-related>Lisa, the Daughter_MSY</reverse-related>
+ <reverse-related>Lisa, the Daughter (Signed)</reverse-related>
  <set num="VHS3" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/VHS3.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -15051,7 +15233,6 @@ Enchanted creature gets -2/-0.</text>
  <tablerow>2</tablerow>
  <reverse-related count="3">Everything Is Going Great</reverse-related>
  <reverse-related count="3">Faith Given Form</reverse-related>
- <reverse-related count="3">The World Follows After</reverse-related>
  <set num="MSC78" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC78.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -15065,6 +15246,17 @@ Enchanted creature gets -2/-0.</text>
  <reverse-related>Sesilius of Wicked Ways_MC25</reverse-related>
  <reverse-related>Sesilius of Wicked Ways (SL117)</reverse-related>
  <set num="MC2577" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2577.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Elemental AVX</name>
+ <text>This is all colors.</text>
+ <colors></colors>
+ <type>Token Creature — Elemental</type>
+ <pt>★/★</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>The World Follows After</reverse-related>
+ <set num="AVX4" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AVX4.jpg?v=20260101" rarity="token">tokens</set>
 </card>
 <card>
  <name>Copy TTR</name>
@@ -15509,6 +15701,7 @@ III — You may cast a copy of the exiled card from exile without paying its man
  <reverse-related>Digital Encores</reverse-related>
  <reverse-related>Dream Monologue_MC25</reverse-related>
  <reverse-related>Study the Maps_MC25</reverse-related>
+ <reverse-related>Stand Everlasting</reverse-related>
  <reverse-related>Compose Function MC25</reverse-related>
  <set num="ACT22" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ACT22.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -18660,6 +18853,8 @@ Enchanted creature has base power and toughness 2/3, has vigilance, and is a Sco
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Veiled Transmuter</reverse-related>
+ <reverse-related>Veiled Transmuter_MSY</reverse-related>
+ <reverse-related>Veiled Transmuter (Signed)</reverse-related>
  <set num="MC2529" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2529.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -18828,6 +19023,7 @@ This creature can't block.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Bleakfell Mauler</reverse-related>
+ <reverse-related>Bleakfell Mauler_MSY</reverse-related>
  <set num="TPW29" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/TPW29.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -19238,6 +19434,7 @@ When this creature enters, search your library for a creature card with mana val
  <tablerow>2</tablerow>
  <reverse-related>Bad // Worse</reverse-related>
  <reverse-related>Pervasive Memories</reverse-related>
+ <reverse-related>Bad // Worse_MSY</reverse-related>
  <set num="HQZ12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/HQZ12.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -19600,6 +19797,7 @@ Equip {2}</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Natural Majesty</reverse-related>
+ <reverse-related>Kriemhild of One Truth</reverse-related>
  <set num="BLR10" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/BLR10.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -19622,6 +19820,327 @@ Equip {2}</text>
  <tablerow>1</tablerow>
  <reverse-related>Vengeful Whisper</reverse-related>
  <set num="BLR1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/BLR1.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Army 22G5L</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Army</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Atashvar Mobilized</reverse-related>
+ <set num="G5L9" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L9.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Soldier 11G5L</name>
+ <text></text>
+ <colors>W</colors>
+ <type>Token Creature — Soldier</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Banish the False Prince</reverse-related>
+ <reverse-related count="2">Caravan Rhino</reverse-related>
+ <reverse-related count="x">Cyrukan, the Measured Blade</reverse-related>
+ <reverse-related count="2">Decree of the First Shah</reverse-related>
+ <reverse-related count="x">Fateshifter's Augur</reverse-related>
+ <reverse-related>Scour the Tombs</reverse-related>
+ <reverse-related>Shir, Friend of Golna</reverse-related>
+ <reverse-related>Strategist of Empty Halls</reverse-related>
+ <reverse-related>Strike of the Faceless</reverse-related>
+ <reverse-related>Wealth of Sarvagan</reverse-related>
+ <set num="G5L2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L2.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Satrapy G5L</name>
+ <text>{T}: Add {C}.</text>
+ <colors></colors>
+ <type>Token Land — Satrapy</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Chart the Plane</reverse-related>
+ <reverse-related>Core of Swelling Fields</reverse-related>
+ <reverse-related>Death of the First Shah</reverse-related>
+ <set num="G5L21" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L21.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Treasure G5L</name>
+ <text>{T}, Sacrifice this token: Add one mana of any color.</text>
+ <colors></colors>
+ <type>Token Artifact — Treasure</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Clutch of the Tyrant</reverse-related>
+ <reverse-related>Div of the Wandering Mind</reverse-related>
+ <reverse-related>Djinn of Hidden Riches</reverse-related>
+ <reverse-related>Draining Revelation</reverse-related>
+ <reverse-related>Dungeoneering Opportunist</reverse-related>
+ <reverse-related>Endearing Companionship</reverse-related>
+ <reverse-related>Hollow Eyed Ghulspawn</reverse-related>
+ <reverse-related>Scepter of Malice</reverse-related>
+ <reverse-related>Scour the Tombs</reverse-related>
+ <reverse-related>Shir, Friend of Golna</reverse-related>
+ <reverse-related>Wonderlight Magus</reverse-related>
+ <set num="G5L20" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L20.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Manticore 33G5L</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Manticore</type>
+ <pt>3/3</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Endearing Companionship</reverse-related>
+ <reverse-related>Spoils of the Stinging King</reverse-related>
+ <reverse-related>Twins of the Unresting Sting</reverse-related>
+ <set num="G5L15" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L15.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Horror 44G5L</name>
+ <text></text>
+ <colors>G</colors>
+ <type>Token Creature — Horror</type>
+ <pt>4/4</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Fall of Marjavar</reverse-related>
+ <reverse-related>Hollow Eyed Ghulspawn</reverse-related>
+ <reverse-related>Labor of Loyalty</reverse-related>
+ <reverse-related>Scepter of Malice</reverse-related>
+ <set num="G5L19" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L19.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Horror G5L</name>
+ <text></text>
+ <colors>B</colors>
+ <type>Token Creature — Horror</type>
+ <pt>X/X</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Heart of Creeping Doubt</reverse-related>
+ <set num="G5L5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L5.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Satrapy G5L 2</name>
+ <text>{T}: Add {C}.
+{1}, {T}: Add one mana of any color.</text>
+ <colors></colors>
+ <type>Token Land — Satrapy</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Ironhollow Cavern</reverse-related>
+ <set num="G5L22" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L22.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Noble 22G5L</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Noble</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Labor of Family</reverse-related>
+ <set num="G5L16" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L16.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Assassin 11G5L</name>
+ <text>Deathtouch</text>
+ <colors>B</colors>
+ <type>Token Creature — Assassin</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="3">Labor of Mercy</reverse-related>
+ <set num="G5L4" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L4.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Dragon 44G5L</name>
+ <text>Flying</text>
+ <colors>R</colors>
+ <type>Token Creature — Dragon</type>
+ <pt>4/4</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Labor of Wit</reverse-related>
+ <set num="G5L14" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L14.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Army G5L</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Army</type>
+ <pt>X/X</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>March of Many Banners</reverse-related>
+ <set num="G5L13" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L13.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Wizard 22G5L</name>
+ <text>Prowess</text>
+ <colors>R</colors>
+ <type>Token Creature — Wizard</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Rally the Firebinders</reverse-related>
+ <set num="G5L18" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L18.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Bird 11G5L</name>
+ <text>Flying</text>
+ <colors>W</colors>
+ <type>Token Creature — Bird</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Regiment on Wings</reverse-related>
+ <set num="G5L1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L1.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>blue Rogue 22G5L</name>
+ <text></text>
+ <colors>U</colors>
+ <type>Token Creature — Rogue</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Spymaster Sphinx</reverse-related>
+ <set num="G5L3" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L3.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Army 33G5L</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Army</type>
+ <pt>3/3</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Tidewatcher's Wisdom</reverse-related>
+ <set num="G5L10" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L10.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Squirrel 11MS2</name>
+ <text></text>
+ <colors>G</colors>
+ <type>Token Creature — Squirrel</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="x">Aila, Forest Visitor (Signed)</reverse-related>
+ <reverse-related count="x">Aila, Forest Visitor_MSY</reverse-related>
+ <set num="MS233" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS233.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>revived Beleaguered Conquistador MSY</name>
+ <text>Sacrifice this creature: Destroy target artifact or enchantment. Activate only as a sorcery.</text>
+ <colors>W</colors>
+ <type>Token Creature — Vampire Soldier</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Beleaguered Conquistador</reverse-related>
+ <set num="MSY1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSY1.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Celosia's Emblem MSY</name>
+ <text>Creatures you control have prowess, prowess, prowess, and haste. (Whenever you cast a noncreature spell, that creature gets +3/+3 until end of turn.)</text>
+ <colors>R</colors>
+ <type>Emblem — Celosia</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Celosia on Burning Wings</reverse-related>
+ <set num="MSY6" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSY6.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>all colors Ally 11MSY</name>
+ <text>This creature is all colors.</text>
+ <colors>WUBRG</colors>
+ <type>Token Creature — Ally</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Drorix, Divine Outcast</reverse-related>
+ <set num="MSY8" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSY8.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Yaromir MSY</name>
+ <text>Noncreature spells you cast cost {1} less to cast.</text>
+ <colors>W</colors>
+ <type>Token Legendary Creature — Fox</type>
+ <pt>3/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Kateryna, Weaver of Winter</reverse-related>
+ <set num="MSY2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSY2.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>blue Cat Illusion 11MSY</name>
+ <text></text>
+ <colors>U</colors>
+ <type>Token Creature — Cat Illusion</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="x">Kayes Broadens Her Horizons</reverse-related>
+ <set num="MSY3" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSY3.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Scrap MSY</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Artifact</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Manufactorum Bureaucrat</reverse-related>
+ <set num="MSY9" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSY9.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Cat 22MSY</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Cat</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Mistress of Cats</reverse-related>
+ <set num="MSY5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSY5.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Zombie 22MSY</name>
+ <text>Decayed (This creature can't block. When it attacks, sacrifice it at end of combat.)</text>
+ <colors>B</colors>
+ <type>Token Creature — Zombie</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Skull Splice</reverse-related>
+ <set num="MSY4" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSY4.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Splinter</name>
+ <text>{T}, Sacrifice this token: Add {C}.</text>
+ <colors></colors>
+ <type>Token Snow Artifact — Splinter</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related count="x">Splintershell Abomination</reverse-related>
+ <set num="MSY10" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSY10.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Plant 01GNJ</name>
+ <text></text>
+ <colors>G</colors>
+ <type>Token Creature — Plant</type>
+ <pt>0/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Sundew Tender_MSY</reverse-related>
+ <reverse-related>Sundew Tender (Signed)</reverse-related>
+ <reverse-related>Master Chef_CHAMPIONS</reverse-related>
+ <set num="GNJ24" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/GNJ24.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>colorless Construct 11MPS_MSE</name>
@@ -19811,7 +20330,7 @@ Whenever this creature attacks, scry 1.</text>
  <tablerow>1</tablerow>
  <reverse-related>Pay Up_MPS_MSE</reverse-related>
  <reverse-related>Ragavan, Most Wanted_MPS_MSE</reverse-related>
- <set num="MPS_MSE32" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MPS_MSE32.jpg?v=0" rarity="token">tokens</set>
+ <set num="MPS_MSE32" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MPS_MSE32.jpg?v=20260101" rarity="token">tokens</set>
 </card>
 <card>
  <name>green Antelope 11MPS_MSE</name>
@@ -20032,17 +20551,6 @@ Enchanted creature has double strike as long as there's another Aura attached to
  <tablerow>2</tablerow>
  <reverse-related>Inked Summoner_CHAMPIONS</reverse-related>
  <set num="CHAMPIONS23" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/CHAMPIONS23.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>green Plant 01GNJ</name>
- <text></text>
- <colors>G</colors>
- <type>Token Creature — Plant</type>
- <pt>0/1</pt>
- <token>1</token>
- <tablerow>2</tablerow>
- <reverse-related>Master Chef_CHAMPIONS</reverse-related>
- <set num="GNJ24" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/GNJ24.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>black Horror CHAMPIONS</name>
@@ -20848,17 +21356,6 @@ Enchanted creature gets +1/+0 and can't be blocked by creatures with power 3 or 
  <set num="LAIR9" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR9.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
- <name>green Antelope 11OTH</name>
- <text></text>
- <colors>G</colors>
- <type>Token Creature — Antelope</type>
- <pt>1/1</pt>
- <token>1</token>
- <tablerow>2</tablerow>
- <reverse-related>Ramzi, Traveling Merchant (SL100)</reverse-related>
- <set num="OTH42" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/OTH42.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
  <name>red Elemental (SL19) 11LAIR</name>
  <text></text>
  <colors>R</colors>
@@ -20883,6 +21380,118 @@ Enchanted creature gets +1/+0 and can't be blocked by creatures with power 3 or 
  <set num="LAIR19" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR19.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Plains Island LAIR</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Land — Plains Island</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Shiftscape Canyon (SL173)</reverse-related>
+ <reverse-related>Shiftscape Cascade (SL173)</reverse-related>
+ <set num="LAIR103" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR103.jpg?v=20260101" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Plains Swamp LAIR</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Land — Plains Swamp</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Shiftscape Canyon (SL173)</reverse-related>
+ <reverse-related>Shiftscape Morass (SL173)</reverse-related>
+ <set num="LAIR104" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR104.jpg?v=20260101" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Mountain Plains LAIR</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Land — Mountain Plains</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Shiftscape Canyon (SL173)</reverse-related>
+ <reverse-related>Shiftscape Crag (SL173)</reverse-related>
+ <set num="LAIR102" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR102.jpg?v=20260101" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Forest Plains LAIR</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Land — Forest Plains</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Shiftscape Canyon (SL173)</reverse-related>
+ <reverse-related>Shiftscape Grove (SL173)</reverse-related>
+ <set num="LAIR98" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR98.jpg?v=20260101" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Island Swamp LAIR</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Land — Island Swamp</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Shiftscape Cascade (SL173)</reverse-related>
+ <reverse-related>Shiftscape Morass (SL173)</reverse-related>
+ <set num="LAIR100" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR100.jpg?v=20260101" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Island Mountain LAIR</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Land — Island Mountain</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Shiftscape Cascade (SL173)</reverse-related>
+ <reverse-related>Shiftscape Crag (SL173)</reverse-related>
+ <set num="LAIR99" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR99.jpg?v=20260101" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Forest Island LAIR</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Land — Forest Island</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Shiftscape Cascade (SL173)</reverse-related>
+ <reverse-related>Shiftscape Grove (SL173)</reverse-related>
+ <set num="LAIR107" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR107.jpg?v=20260101" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Swamp Mountain LAIR</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Land — Swamp Mountain</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Shiftscape Crag (SL173)</reverse-related>
+ <reverse-related>Shiftscape Morass (SL173)</reverse-related>
+ <set num="LAIR106" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR106.jpg?v=20260101" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Mountain Forest LAIR</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Land — Mountain Forest</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Shiftscape Crag (SL173)</reverse-related>
+ <reverse-related>Shiftscape Grove (SL173)</reverse-related>
+ <reverse-related>Tend to the Grove (SL29)</reverse-related>
+ <reverse-related>Tend to the Grove (SL142)</reverse-related>
+ <set num="LAIR101" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR101.jpg?v=20260101" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Swamp Forest LAIR</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Land — Swamp Forest</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Shiftscape Grove (SL173)</reverse-related>
+ <reverse-related>Shiftscape Morass (SL173)</reverse-related>
+ <set num="LAIR105" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR105.jpg?v=20260101" rarity="token">tokens</set>
+</card>
+<card>
  <name>white Ox 02LAIR</name>
  <text></text>
  <colors>W</colors>
@@ -20903,17 +21512,6 @@ Enchanted creature gets +1/+0 and can't be blocked by creatures with power 3 or 
  <tablerow>2</tablerow>
  <reverse-related>Squid Pro Quo (SL61)</reverse-related>
  <set num="LAIR48" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR48.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Mountain Forest LAIR</name>
- <text>({T}: Add {R} or {G}.)</text>
- <colors></colors>
- <type>Token Land — Mountain Forest</type>
- <token>1</token>
- <tablerow>0</tablerow>
- <reverse-related>Tend to the Grove (SL29)</reverse-related>
- <reverse-related>Tend to the Grove (SL142)</reverse-related>
- <set num="LAIR33" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR33.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>black Zombie Horror LAIR</name>
@@ -21013,6 +21611,46 @@ Target player draws three cards.</text>
  <token>1</token>
  <tablerow>1</tablerow>
  <set num="MC2582" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2582.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Army 11G5L</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Army</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="G5L8" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L8.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Army 02G5L</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Army</type>
+ <pt>0/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="G5L7" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L7.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Army 44G5L</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Army</type>
+ <pt>4/4</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="G5L11" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L11.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Army 55G5L</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Army</type>
+ <pt>5/5</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="G5L12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L12.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>white Aura MIS 2</name>
@@ -21571,14 +22209,14 @@ Enchanted creature gets +10/+10 and has trample and annihilator 2. </text>
  <set num="MS131" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS131.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
- <name>colorless Elemental AVX</name>
- <text>This is all colors.</text>
- <colors></colors>
+ <name>green Elemental 44MSY</name>
+ <text>Trample</text>
+ <colors>G</colors>
  <type>Token Creature — Elemental</type>
- <pt>★/★</pt>
+ <pt>4/4</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <set num="AVX4" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AVX4.jpg?v=0" rarity="token">tokens</set>
+ <set num="MSY7" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSY7.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>blue and green Elemental SPK</name>
@@ -22360,6 +22998,16 @@ Whenever enchanted creature deals combat damage to a player, create a 2/1 white 
  <set num="LAW11" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAW11.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Polyp Pools MSY</name>
+ <text>Changeling (This card is every creature type.)
+{T}: Add {C}.</text>
+ <colors></colors>
+ <type>Token Kindred Land — Shapeshifter</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <set num="MSY11" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSY11.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>Powercell MSL</name>
  <text>{T}: Add {C}.</text>
  <colors></colors>
@@ -22596,16 +23244,6 @@ A deck can have any number of cards named Senaturian Legion.</text>
  <set num="MS112" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS112.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
- <name>green Squirrel 11MS2</name>
- <text></text>
- <colors>G</colors>
- <type>Token Creature — Squirrel</type>
- <pt>1/1</pt>
- <token>1</token>
- <tablerow>2</tablerow>
- <set num="MS233" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS233.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
  <name>Storm Count MSEMAR</name>
  <text>(Use this to track how many spells have been cast this turn.)</text>
  <colors>RW</colors>
@@ -22764,7 +23402,7 @@ Each player shuffles their hand and graveyard into their library, then draws sev
  <type>Token Artifact — Treasure</type>
  <token>1</token>
  <tablerow>1</tablerow>
- <set num="LAIR74" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR74.jpg?v=0" rarity="token">tokens</set>
+ <set num="LAIR74" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR74.jpg?v=20260101" rarity="token">tokens</set>
 </card>
 <card>
  <name>Unceasing Flames Reminder 101</name>
@@ -22889,6 +23527,16 @@ When Warden of the Dead dies, conjure three cards named Warden of the Dead and s
  <set num="LAIR56" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR56.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>red Warrior 32G5L</name>
+ <text>Haste</text>
+ <colors>R</colors>
+ <type>Token Creature — Warrior</type>
+ <pt>3/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="G5L17" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L17.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>Warrior Role (SL148)</name>
  <text>(Put other Roles on this creature into your graveyard.)
 Enchant creature you control
@@ -22917,6 +23565,15 @@ Enchanted creature has base power and toughness 3/2, has trample, and is a Warri
  <token>1</token>
  <tablerow>2</tablerow>
  <set num="GNJ18" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/GNJ18.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Zombie G5L</name>
+ <text></text>
+ <colors>B</colors>
+ <type>Token Creature — Zombie</type>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="G5L6" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L6.jpg?v=0" rarity="token">tokens</set>
 </card>
 </cards>
 </cockatrice_carddatabase>

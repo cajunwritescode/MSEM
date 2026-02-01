@@ -1,0 +1,180 @@
+﻿mse_version: 0.3.5
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Rectangle
+		combine: border
+		point:
+			position: (0.2248587571,0.3000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2788135593,0.1603107345)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.3518518519)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.5333333333)
+			lock: free
+			line_after: line
+	part:
+		type: shape
+		name: Rectangle
+		combine: border
+		point:
+			position: (0.2248587571,0.3000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2788135593,0.1603107345)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.3518518519)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.5000000000)
+			lock: free
+			line_after: line
+	part:
+		type: shape
+		name: Rectangle
+		combine: overlap
+		point:
+			position: (0.2666666667,0.2666666667)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3000000000,0.1666666667)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.3333333333)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.4666666667)
+			lock: free
+			line_after: line
+	part:
+		type: shape
+		name: Rectangle
+		combine: overlap
+		point:
+			position: (0.0439265537,0.5475988701)
+			lock: free
+			line_after: curve
+			handle_after: (0.1000000000,-0.0666666667)
+		point:
+			position: (0.3333333333,0.2666666667)
+			lock: free
+			line_after: line
+			handle_before: (0.0000000000,0.1000000000)
+		point:
+			position: (0.4333333333,0.3333333333)
+			lock: free
+			line_after: curve
+			handle_after: (0.0000000000,0.1666666667)
+		point:
+			position: (0.1809322034,0.8206214689)
+			lock: free
+			line_after: line
+			handle_before: (0.1666666667,-0.0666666667)
+	part:
+		type: shape
+		name: Rectangle
+		combine: border
+		point:
+			position: (0.0000000000,0.5333333333)
+			lock: free
+			line_after: curve
+			handle_after: (0.1083333333,-0.0745098039)
+		point:
+			position: (0.3250000000,0.2333333333)
+			lock: free
+			line_after: line
+			handle_before: (0.0000000000,0.1117647059)
+		point:
+			position: (0.4333333333,0.3078431373)
+			lock: free
+			line_after: curve
+			handle_after: (0.0333333333,0.2921568627)
+		point:
+			position: (0.1666666667,0.9000000000)
+			lock: free
+			line_after: line
+			handle_before: (0.1805555556,-0.0745098039)
+	part:
+		type: shape
+		name: Rectangle
+		combine: subtract
+		point:
+			position: (0.0000000000,0.5333333333)
+			lock: free
+			line_after: curve
+			handle_after: (0.1083333333,-0.0745098039)
+		point:
+			position: (0.3250000000,0.2333333333)
+			lock: free
+			line_after: line
+			handle_before: (0.0000000000,0.1117647059)
+		point:
+			position: (0.4333333333,0.3078431373)
+			lock: free
+			line_after: curve
+			handle_after: (0.0333333333,0.2921568627)
+		point:
+			position: (0.1666666667,0.9000000000)
+			lock: free
+			line_after: line
+			handle_before: (0.1805555556,-0.0745098039)
+	part:
+		type: shape
+		name: Rectangle
+		combine: border
+		point:
+			position: (0.3666666667,0.3000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.3666666667)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000000000,0.9000000000)
+			lock: free
+			line_after: curve
+			handle_after: (-0.1666666667,-0.0666666667)
+		point:
+			position: (0.1666666667,0.6000000000)
+			lock: free
+			line_after: line
+			handle_before: (0.1222222222,0.0850241546)
+	part:
+		type: shape
+		name: Rectangle
+		combine: border
+		point:
+			position: (0.2962349398,0.1423694779)
+			lock: free
+			line_after: curve
+			handle_after: (0.0370983936,-0.0423694779)
+		point:
+			position: (0.5000000000,0.1000000000)
+			lock: free
+			line_after: line
+			handle_before: (-0.0679216867,0.0030120482)
+		point:
+			position: (0.5000000000,0.3333333333)
+			lock: free
+			line_after: line

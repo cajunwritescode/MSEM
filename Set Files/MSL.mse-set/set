@@ -127,8 +127,9 @@ card:
 	notes:
 		!GU Ramp
 		!FT:splashcat
+		
 	time_created: 2023-10-25 14:14:20
-	time_modified: 2023-11-25 23:42:25
+	time_modified: 2026-01-31 16:51:05
 	name: Olten Tarrasque
 	casting_cost: 5GG
 	image: image20
@@ -136,7 +137,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dinosaur</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Horror</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>3</sym-auto></param-cost></key></nospellcheck></kw-0>
 		<kw-A><nospellcheck><key>Cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Discard this card: Draw a card.)</i-auto></atom-reminder-expert></kw-A>
@@ -5076,7 +5083,7 @@ card:
 	has_styling: false
 	notes:
 		!Generic 
-		
+
 	time_created: 2023-08-05 10:12:07
 	time_modified: 2025-10-29 00:30:44
 	name: Here With You

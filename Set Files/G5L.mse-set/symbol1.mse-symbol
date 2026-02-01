@@ -1,0 +1,116 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Rectangle
+	combine: subtract
+	point:
+		position: (0.0084745763,0.4635593220)
+		lock: free
+		line_after: line
+	point:
+		position: (0.0418079096,0.4635593220)
+		lock: free
+		line_after: line
+	point:
+		position: (0.0418079096,0.5302259887)
+		lock: free
+		line_after: line
+	point:
+		position: (0.0084745763,0.5302259887)
+		lock: free
+		line_after: line
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5000000000,0.5000000000)
+	handle: (0.0000000000,0.2000000000)
+	part:
+		type: shape
+		name: Star
+		combine: subtract
+		point:
+			position: (0.4047567657,0.2400947233)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3000000000,0.4000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5146166399,0.3667168983)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3333333333,0.4666666667)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5333333333,0.5000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2000000000,0.5000000000)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2000000000,0.4000000000)
+			lock: free
+			line_after: line
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.8000000000,0.5000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,0.1656854331)
+		handle_after: (-0.0000000000,-0.1656854331)
+	point:
+		position: (0.5000000000,0.2000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.1656854331,0.0000000000)
+		handle_after: (-0.1656854331,-0.0000000000)
+	point:
+		position: (0.2000000000,0.5000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,-0.1656854331)
+		handle_after: (-0.0000000000,0.1656854331)
+	point:
+		position: (0.5000000000,0.8000000000)
+		lock: size
+		line_after: curve
+		handle_before: (-0.1656854331,0.0000000000)
+		handle_after: (0.1656854331,-0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: border
+	point:
+		position: (0.8666666667,0.5000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,0.2025044183)
+		handle_after: (-0.0000000000,-0.2025044183)
+	point:
+		position: (0.5000000000,0.1333333333)
+		lock: size
+		line_after: curve
+		handle_before: (0.2025044183,0.0000000000)
+		handle_after: (-0.2025044183,-0.0000000000)
+	point:
+		position: (0.1333333333,0.5000000000)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,-0.2025044183)
+		handle_after: (-0.0000000000,0.2025044183)
+	point:
+		position: (0.5000000000,0.8666666667)
+		lock: size
+		line_after: curve
+		handle_before: (-0.2025044183,0.0000000000)
+		handle_after: (0.2025044183,-0.0000000000)

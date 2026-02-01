@@ -4854,9 +4854,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes:  nerfed: Now only triggers once each turn.
 	time_created: 2022-12-25 23:52:19
-	time_modified: 2023-01-30 15:24:46
+	time_modified: 2026-01-31 16:55:41
 	name: Treacherous Warden
 	casting_cost: 1BB
 	image: image181
@@ -4868,7 +4868,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>Treacherous Warden</nospellcheck></atom-cardname> enters, search your library for a card, put into your graveyard, then shuffle.
-		Whenever a creature enters from your graveyard, each opponent loses 2 life and you gain 2 life.
+		Whenever a creature enters from your graveyard, each opponent loses 2 life and you gain 2 life. This ability triggers only once each turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 1

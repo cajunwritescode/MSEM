@@ -2581,19 +2581,18 @@ card:
 		overlay: 
 	notes:
 		!grave
-		“Look at your past, settlers. See all behind you that lies in ruins. What will stop you from bringing destruction with you once more?”
-		—Chief Striking Dawn
+		 nerfed: Was {1}{G} and unbounded.
 	time_created: 2016-10-22 01:32:13
-	time_modified: 2018-04-27 13:34:01
+	time_modified: 2026-01-31 16:57:41
 	name: Bloodleaf Warcry
-	casting_cost: 1G
+	casting_cost: G
 	image: image64
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Target creature gets +1/+1 until end of turn for each card in your graveyard.
+	rule_text: Target creature gets +1/+1 until end of turn for each card in your graveyard, to a maximum of 6.
 	flavor_text:
 		<i-flavor>“Look at your past, settlers. See all behind you that lies in ruins. What stops you from bringing destruction with you once more?”<soft-line>
 		—Chief Striking Dawn</soft-line></i-flavor>
