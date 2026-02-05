@@ -8850,7 +8850,7 @@ card:
 		!tag GolnaRule
 		!update
 	time_created: 2025-11-03 12:19:34
-	time_modified: 2026-02-05 11:27:16
+	time_modified: 2026-02-05 11:53:38
 	name: Secondhand Serenade
 	casting_cost: 1R
 	image: image74.png
@@ -8866,7 +8866,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost, and is reduced by <sym>2</sym> if this spell was cast from your graveyard.
-		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>1R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>3R</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text: <i-flavor>“Relax. I only sing the good parts.”</i-flavor>
 	illustrator: Ognjen Sporin
 	card_code_text: 
