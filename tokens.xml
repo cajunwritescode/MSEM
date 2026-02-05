@@ -620,7 +620,7 @@
  <reverse-related>Cartographer's Step_MSY</reverse-related>
  <reverse-related>Culminating Chaos_MSY</reverse-related>
  <reverse-related>Culminating Chaos (Signed)</reverse-related>
- <reverse-related>Cultish Sorcerer </reverse-related>
+ <reverse-related>Cultish Sorcerer</reverse-related>
  <reverse-related>Dragon of Kaomor Cliffs</reverse-related>
  <reverse-related>Flamingo Rock_MSY</reverse-related>
  <reverse-related>Goldbrim Incantor</reverse-related>
@@ -3022,10 +3022,10 @@ A manifested creature card can be turned face up any time for its mana cost. A f
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Forgemaster's Altar</reverse-related>
- <reverse-related>S-40 Wallbreaker </reverse-related>
- <reverse-related>S-40 Wallbreaker  (Signed)</reverse-related>
- <reverse-related>Yeshin of New Humanity </reverse-related>
- <reverse-related>Yeshin of New Humanity  (Signed)</reverse-related>
+ <reverse-related>S-40 Wallbreaker_MSY</reverse-related>
+ <reverse-related>S-40 Wallbreaker (Signed)</reverse-related>
+ <reverse-related>Yeshin of New Humanity_MSY</reverse-related>
+ <reverse-related>Yeshin of New Humanity (Signed)</reverse-related>
  <set num="SOR12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SOR12.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -3871,8 +3871,8 @@ Equip {1}</text>
  <reverse-related count="2">Aetherlock Effigy</reverse-related>
  <reverse-related>Derelict Watcher</reverse-related>
  <reverse-related>The Wicker Lord</reverse-related>
- <reverse-related>Inked Summoner </reverse-related>
- <reverse-related>Inked Summoner  (Signed)</reverse-related>
+ <reverse-related>Inked Summoner_MSY</reverse-related>
+ <reverse-related>Inked Summoner (Signed)</reverse-related>
  <set num="HI123" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/HI123.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -8434,8 +8434,8 @@ Sacrifice this token: Untap enchanted creature.                             </te
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Inked Summoner</reverse-related>
- <reverse-related>Inked Summoner </reverse-related>
- <reverse-related>Inked Summoner  (Signed)</reverse-related>
+ <reverse-related>Inked Summoner_MSY</reverse-related>
+ <reverse-related>Inked Summoner (Signed)</reverse-related>
  <set num="MS317" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS317.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -8447,8 +8447,8 @@ Sacrifice this token: Untap enchanted creature.                             </te
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Inked Summoner</reverse-related>
- <reverse-related>Inked Summoner </reverse-related>
- <reverse-related>Inked Summoner  (Signed)</reverse-related>
+ <reverse-related>Inked Summoner_MSY</reverse-related>
+ <reverse-related>Inked Summoner (Signed)</reverse-related>
  <set num="MS320" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS320.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -19833,6 +19833,23 @@ Equip {2}</text>
  <set num="G5L9" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L9.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>colorless Satrapy G5L</name>
+ <text>{T}: Add {C}.</text>
+ <colors></colors>
+ <type>Token Land — Satrapy</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Atashvar Palace</reverse-related>
+ <reverse-related>Avaz Palace</reverse-related>
+ <reverse-related>Chart the Plane</reverse-related>
+ <reverse-related>Core of Swelling Fields</reverse-related>
+ <reverse-related count="2">Danaj Palace</reverse-related>
+ <reverse-related>Death of the First Shah</reverse-related>
+ <reverse-related>Garmrud Palace</reverse-related>
+ <reverse-related>Soli Palace</reverse-related>
+ <set num="G5L21" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L21.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>white Soldier 11G5L</name>
  <text></text>
  <colors>W</colors>
@@ -19851,18 +19868,6 @@ Equip {2}</text>
  <reverse-related>Strike of the Faceless</reverse-related>
  <reverse-related>Wealth of Sarvagan</reverse-related>
  <set num="G5L2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L2.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>colorless Satrapy G5L</name>
- <text>{T}: Add {C}.</text>
- <colors></colors>
- <type>Token Land — Satrapy</type>
- <token>1</token>
- <tablerow>0</tablerow>
- <reverse-related>Chart the Plane</reverse-related>
- <reverse-related>Core of Swelling Fields</reverse-related>
- <reverse-related>Death of the First Shah</reverse-related>
- <set num="G5L21" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L21.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Treasure G5L</name>
