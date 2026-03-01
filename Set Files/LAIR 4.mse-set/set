@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: LAIR 4
 	set_code: LAIR
@@ -609,7 +609,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -718,7 +718,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -827,7 +827,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -937,7 +937,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1046,7 +1046,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1155,7 +1155,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1264,7 +1264,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1373,7 +1373,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1483,7 +1483,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1593,7 +1593,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2320,7 +2320,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_bottom: 
@@ -2365,7 +2365,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2406,7 +2406,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: mutate
@@ -2448,7 +2448,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -2492,7 +2492,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: mutate
@@ -2532,7 +2532,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -2576,7 +2576,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -2891,7 +2891,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL158)
 	time_created: 2023-03-22 00:00:00
@@ -3008,7 +3008,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL158)
 	time_created: 2023-03-22 00:00:00
@@ -3038,7 +3038,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL158)
 	time_created: 2023-03-22 00:00:00
@@ -3096,7 +3096,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL158)
 	time_created: 2023-03-22 00:00:00
@@ -3126,7 +3126,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL158)
 	time_created: 2023-03-22 00:00:00
@@ -5667,7 +5667,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5746,7 +5746,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5786,7 +5786,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -7435,7 +7435,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7516,7 +7516,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7556,7 +7556,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -7744,7 +7744,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -7854,7 +7854,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -8010,7 +8010,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -8199,7 +8199,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -8240,7 +8240,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -8392,7 +8392,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -8432,7 +8432,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -8525,7 +8525,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -8796,7 +8796,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -9577,7 +9577,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9655,7 +9655,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL170)
 	time_created: 2025-12-12 00:01:27
@@ -9694,7 +9694,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9734,7 +9734,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !hidetag (SL170)
 	time_created: 2025-12-12 00:01:27
@@ -9873,6 +9873,1040 @@ card:
 	copyright_2: 
 	copyright_3: 
 	secondary_copyright: Deadlocked — Nix
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL171)
+	time_created: 2020-05-20 15:16:26
+	time_modified: 2026-02-01 14:09:55
+	name: Banished Companion
+	casting_cost: R
+	image: image276
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Banished Companion</nospellcheck></atom-cardname> attacks, it deals 2 damage to you.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: emily-e-draws
+	custom_card_number: 1530
+	card_code_text: Wrenn
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: HQZ/BLR Top Xs — kayiu
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL171)
+	time_created: 2020-04-26 04:16:40
+	time_modified: 2026-02-01 14:10:07
+	card_color: white, blue, red, multicolor, horizontal
+	name: Call of the Huma
+	casting_cost: 1URW
+	image: image277
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Return up to one target noncreature, nonland card from your graveyard to your hand.
+		<atom-cardname><nospellcheck>Call of the Huma</nospellcheck></atom-cardname> deals 4 damage to any target.
+		Exile <atom-cardname><nospellcheck>Call of the Huma</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Andrzej Sykut
+	custom_card_number: 1532
+	card_code_text: Zangy
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: HQZ/BLR Top Xs — Pipsqueak
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: HQZ/BLR Top Xs — Pipsqueak
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: true
+	styling_data:
+		icon_link: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		center_text: always
+		overlay: 
+	notes:
+		!hidetag (SL172)
+		!inpend 1./add/ (Look at the top card of your library. You may put it into your graveyard.)
+	time_created: 2024-01-19 23:06:31
+	time_modified: 2026-02-01 14:10:26
+	name: Consider
+	casting_cost: U
+	image: image278
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck></kw-0>.
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: nerozou
+	custom_card_number: 1534
+	card_code_text: Purplemurasaki
+	card_code_text_2: Canon
+	card_code_text_3: Canon
+	copyright: HQZ/BLR League Leaders — RickyRister
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL171)
+	time_created: 2019-09-29 21:50:04
+	time_modified: 2026-02-01 14:10:13
+	name: Counting Clouds
+	casting_cost: 2GWU
+	image: image279
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Reveal the top five cards of your library. For each card type, you may put a card of that type revealed this way into your hand. Put the rest into your graveyard. Then you may cast a nonland card with mana value 3 or less from your hand without paying its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: NASA
+	custom_card_number: 1533
+	card_code_text: HerziQuerzi
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: HQZ/BLR Top Xs — CyberChronometer
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL171)
+	time_created: 2018-07-07 20:36:14
+	time_modified: 2026-02-01 14:09:17
+	name: Cursory Glance
+	casting_cost: 1U
+	image: image280
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Counter target spell with mana value </sym>3<sym> or less.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Hidefu Kitayan
+	custom_card_number: 1522
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: HQZ/BLR Top Xs — RickyRister
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes:
+		!hidetag (SL172)
+		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+	time_created: 2021-05-01 05:08:21
+	time_modified: 2026-02-01 14:10:36
+	name: Death Undone
+	casting_cost: 5B
+	image: image281
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Return target creature card from your graveyard to the battlefield. If this spell was cast from a graveyard, you lose life equal to that creature’s mana value.
+		<kw-0><nospellcheck><key>Flashback <param-cost><sym-auto>1BB</sym-auto></param-cost></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aaron Natanael
+	custom_card_number: 1536
+	card_code_text: Mako
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: HQZ/BLR League Leaders — Chumbeque
+	copyright_2: ™ & © 2021 Wizards of the Coast
+	copyright_3: ™ & © 2021 Wizards of the Coast
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL172)
+	time_created: 2018-09-21 18:25:03
+	time_modified: 2026-02-01 14:10:46
+	name: Den of Vice
+	image: image282
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Den of Vice</nospellcheck></atom-cardname> enters, you may pay 3 life. If you don’t, it enters tapped.
+		<sym>T</sym>: Add <sym>U</sym>, <sym-auto>B</sym-auto>, or <sym-auto>R</sym-auto>.
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: paokkaa
+	custom_card_number: 1538
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: HQZ/BLR League Leaders — amethyst
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: !hidetag (SL173)
+	time_created: 2023-10-29 01:32:57
+	time_modified: 2026-02-01 14:32:50
+	name: Forest
+	image: image283
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol green
+	illustrator: Alyn Spiller
+	custom_card_number: 1549
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-01-03 22:08:40
+	time_modified: 2026-02-01 15:59:22
+	card_color: blue, green, land, horizontal
+	name: Forest Island
+	image: image284
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	illustrator: Artem Chebokha
+	custom_card_number: 107
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-01-03 22:08:40
+	time_modified: 2026-02-01 14:30:14
+	card_color: white, green, land, horizontal
+	name: Forest Plains
+	image: image285
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	illustrator: Artem Chebokha
+	custom_card_number: 98
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL172)
+	time_created: 2021-08-15 13:40:41
+	time_modified: 2026-02-01 14:10:41
+	name: In Search of Peace
+	casting_cost: 1WU
+	image: image286
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Whenever you cast a spell, exile up to one other target permanent you control. Return that card to the battlefield under your control at the beginning of the next end step.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: ggutu
+	custom_card_number: 1537
+	card_code_text: Pipsqueak
+	card_code_text_2: Story Spotlight 2/5
+	card_code_text_3: Story Spotlight 2/5
+	copyright: HQZ/BLR League Leaders — Styles
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: !hidetag (SL173)
+	time_created: 2023-10-29 01:32:57
+	time_modified: 2026-02-01 14:32:33
+	name: Island
+	image: image287
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol blue
+	illustrator: Chase Henson
+	custom_card_number: 1546
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-01-03 22:08:40
+	time_modified: 2026-02-01 14:30:19
+	card_color: blue, red, land, horizontal
+	name: Island Mountain
+	image: image288
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	illustrator: Artem Chebokha
+	custom_card_number: 99
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-01-03 22:08:40
+	time_modified: 2026-02-01 14:30:25
+	card_color: blue, black, land, horizontal
+	name: Island Swamp
+	image: image289
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><atom-sep> </atom-sep><word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	power: 
+	toughness: 
+	illustrator: Artem Chebokha
+	custom_card_number: 100
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes:
+		!hidetag (SL171)
+		!inpend harmonize./add/ (Trigger up to one harmony of a permanent you control.)
+	time_created: 2019-09-29 22:55:59
+	time_modified: 2026-02-01 14:09:27
+	name: Learn Through Error
+	casting_cost: 1B
+	image: image290
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Once each turn, when a player loses life, you may harmonize.
+		Harmony — Each opponent loses 1 life and you gain that much life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: reachartwork
+	custom_card_number: 1524
+	card_code_text: HerziQuerzi
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: HQZ/BLR Top Xs — HerziQuerzi
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL171)
+	time_created: 2018-08-31 18:40:03
+	time_modified: 2026-02-01 14:10:01
+	name: Lonely Devil
+	casting_cost: R
+	image: image291
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Devil</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Menace</key></nospellcheck></kw-0>
+		<atom-cardname><nospellcheck>Lonely Devil</nospellcheck></atom-cardname> can’t attack or block alone.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Muzu Jei
+	custom_card_number: 1531
+	card_code_text: Alexander
+	card_code_text_2: *
+	card_code_text_3: *
+	copyright: HQZ/BLR Top Xs — n3onblue
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL171)
+	time_created: 2017-04-06 12:03:18
+	time_modified: 2026-02-01 14:09:31
+	name: Midnight’s Pale Moon
+	casting_cost: 2BB
+	image: image292
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Each player loses 2 life, discards two cards, sacrifices two creatures, then sacrifices two lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jessica Wijaya
+	custom_card_number: 1525
+	card_code_text: Timespiraled
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: HQZ/BLR Top Xs — Epid
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: !hidetag (SL173)
+	time_created: 2023-10-29 01:32:57
+	time_modified: 2026-02-01 14:32:45
+	name: Mountain
+	image: image293
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol red
+	illustrator: Chase Henson
+	custom_card_number: 1548
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-01-03 22:08:40
+	time_modified: 2026-02-01 14:30:30
+	card_color: red, green, land, horizontal
+	name: Mountain Forest
+	image: image294
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	power: 
+	toughness: 
+	illustrator: Artem Chebokha
+	custom_card_number: 101
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-01-03 22:08:40
+	time_modified: 2026-02-01 14:30:35
+	card_color: white, red, land, horizontal
+	name: Mountain Plains
+	image: image295
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><atom-sep> </atom-sep><word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	illustrator: Artem Chebokha
+	custom_card_number: 102
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	has_styling: false
+	notes: !hidetag (SL173)
+	time_created: 2023-10-29 01:52:43
+	time_modified: 2026-02-01 14:31:24
+	card_color: land, multicolor
+	name: Nebula of Empty Gold
+	image: image296
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Nebula of Empty Gold</nospellcheck></atom-cardname> enters, choose two or three colors. You lose life equal to the number of colors chosen this way.
+		<sym-auto>T</sym-auto>: Add one mana of any of the chosen colors.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jian Guo
+	additional_credit_2: 
+	custom_card_number: 1539
+	card_code_text: Pipsqueak
+	card_code_text_2: Pipsqueak
+	card_code_text_3: Pipsqueak
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: !hidetag (SL173)
+	time_created: 2023-10-29 01:32:57
+	time_modified: 2026-02-01 14:32:28
+	name: Plains
+	image: image297
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol white
+	illustrator: Kory Lynn Hubbell
+	custom_card_number: 1545
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: !booster
+	time_created: 2024-01-03 22:08:40
+	time_modified: 2026-02-01 14:30:41
+	card_color: white, blue, land, horizontal
+	name: Plains Island
+	image: image298
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	illustrator: Artem Chebokha
+	custom_card_number: 103
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-01-03 22:08:40
+	time_modified: 2026-02-01 14:30:46
+	card_color: white, black, land, horizontal
+	name: Plains Swamp
+	image: image299
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><atom-sep> </atom-sep><word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	illustrator: Artem Chebokha
+	custom_card_number: 104
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL171)
+	time_created: 2022-10-26 15:04:07
+	time_modified: 2026-02-01 14:09:36
+	name: Sanguine Chevalier
+	casting_cost: 1B
+	image: image300
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Menace</key></nospellcheck></kw-a>
+		At the beginning of your end step, if you gained or lost life this turn, look at the top card of your library. You may reveal it and put it into your hand. If you do, you lose life equal to its mana value. If you don’t, you may put it into your graveyard.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Mag Cora Imparo
+	custom_card_number: 1526
+	card_code_text: Matt
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: HQZ/BLR Top Xs — Zangy
+	copyright_2: © Wizards of the Coast and Matt
+	copyright_3: © Wizards of the Coast and Matt
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL172)
+	time_created: 2018-05-11 14:44:14
+	time_modified: 2026-02-01 14:10:31
+	name: Selene the Cruel
+	casting_cost: 1U
+	image: image301
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever you cast a spell, sacrifice a permanent and draw a card.
+		Exile three cards from your graveyard: Counter target noncreature spell unless its controller pays <sym-auto>1</sym-auto>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Rhea Wong
+	custom_card_number: 1535
+	card_code_text: FifthDragon
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: HQZ/BLR League Leaders — trewq
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes:
+		Артем
+		!update
+		!hidetag (SL171)
+		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+	time_created: 2021-05-01 05:09:34
+	time_modified: 2026-02-28 19:06:10
+	name: Skirsdag Edict
+	casting_cost: 1B
+	image: image307
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Choose one —
+		<li><bullet>• </bullet>Each opponent sacrifices a creature.
+		</li><li><bullet>• </bullet>Each opponent sacrifices a planeswalker.
+		</li><kw-0><nospellcheck><key>Flashback—<param-cost><sym>4B</sym>, Discard a card</param-cost>.</key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Aptem (Edited by Styles)
+	custom_card_number: 1527
+	card_code_text: Mako
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: HQZ/BLR Top Xs — Styles
+	copyright_2: ™ & © 2021 Wizards of the Coast
+	copyright_3: ™ & © 2021 Wizards of the Coast
+
+card:
+	stylesheet: m15-textless-land
+	stylesheet_version: 2024-09-01
+	has_styling: false
+	notes: !hidetag (SL173)
+	time_created: 2023-10-29 01:32:57
+	time_modified: 2026-02-01 14:32:38
+	name: Swamp
+	image: image308
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	rarity: basic land
+	watermark: mana symbol black
+	illustrator: Alyn Spiller
+	custom_card_number: 1547
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-01-03 22:08:40
+	time_modified: 2026-02-01 14:30:51
+	card_color: black, green, land, horizontal
+	name: Swamp Forest
+	image: image309
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	illustrator: Artem Chebokha
+	custom_card_number: 105
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: 
+	time_created: 2024-01-03 22:08:40
+	time_modified: 2026-02-01 14:30:55
+	card_color: black, red, land, horizontal
+	name: Swamp Mountain
+	image: image310
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><atom-sep> </atom-sep><word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	illustrator: Artem Chebokha
+	custom_card_number: 106
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL171)
+	time_created: 2022-12-25 23:52:19
+	time_modified: 2026-02-01 14:09:46
+	name: Treacherous Warden
+	casting_cost: 1BB
+	image: image311
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Demon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Treacherous Warden</nospellcheck></atom-cardname> enters, search your library for a card, put into your graveyard, then shuffle.
+		Whenever a creature enters from your graveyard, each opponent loses 2 life and you gain 2 life. This ability triggers only once each turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Catastrofae
+	custom_card_number: 1528
+	card_code_text: gynoidpoet
+	card_code_text_2: gynoidpoet
+	card_code_text_3: gynoidpoet
+	copyright: HQZ/BLR Top Xs — aanginer
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL171)
+	time_created: 2020-09-03 18:41:30
+	time_modified: 2026-02-01 14:09:51
+	name: Void Portal
+	casting_cost: 2B
+	image: image312
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Discard a card: Search your library for a card with the same mana value as the discarded card, reveal it, put it into your hand, then shuffle. Activate only as a sorcery and only once each turn.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Olya Bossak
+	custom_card_number: 1529
+	card_code_text: Emily
+	card_code_text_2: Night Terrors
+	card_code_text_3: Night Terrors
+	copyright: HQZ/BLR Top Xs — Skagra
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes:
+		!hidetag (SL171)
+		!append  (You still pay its costs.)
+	time_created: 2020-10-20 12:58:06
+	time_modified: 2026-02-01 14:09:21
+	name: Wiretapper
+	casting_cost: 1UU
+	image: image313
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Wiretapper</nospellcheck></atom-cardname> enters, choose one —
+		<li><bullet>• </bullet>Exile target spell. For as long as that card remains exiled, its owner may play it. A spell cast this way costs <sym-auto>2</sym-auto> more to cast.
+		</li><li><bullet>• </bullet>Create a copy of the card with target spell’s name. You may cast the copy.</li>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: lou-ellen
+	custom_card_number: 1523
+	card_code_text: Avery
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: HQZ/BLR Top Xs — Toasty
+	copyright_2: 
+	copyright_3: 
 
 keyword:
 	keyword: Reconstruct

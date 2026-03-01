@@ -6634,9 +6634,10 @@ card:
 	notes:
 		INM FINAL
 		 !num 158
+		!update
 		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 	time_created: 2021-05-01 05:09:34
-	time_modified: 2025-10-10 20:27:06
+	time_modified: 2026-02-28 19:10:42
 	name: Skirsdag Edict
 	casting_cost: 1B
 	image: image166
@@ -6653,7 +6654,6 @@ card:
 		Choose one —
 		<li><bullet>• </bullet>Each opponent sacrifices a creature.
 		</li><li><bullet>• </bullet>Each opponent sacrifices a planeswalker.
-		</li><li><bullet>• </bullet>Each opponent sacrifices an enchantment.
 		<margin:0:0:5></li><kw-0><nospellcheck><key>Flashback—<param-cost><sym>4B</sym>, Discard a card</param-cost>.</key></nospellcheck></kw-0></margin:0:0:5>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: dusk ming
@@ -6910,6 +6910,43 @@ card:
 	copyright: Design — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
+
+card:
+	has_styling: false
+	notes:
+		!num 165
+		!update
+		!design Matt
+		FINAL QRB
+	time_created: 2019-10-15 20:00:45
+	time_modified: 2026-02-28 00:04:25
+	name: Swarming Midden
+	image: image21.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<atom-cardname><nospellcheck>Swarming Midden</nospellcheck></atom-cardname> enters tapped unless you control a basic Swamp.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
+		<sym-auto>1BB</sym-auto>: <atom-cardname><nospellcheck>Swarming Midden</nospellcheck></atom-cardname> becomes a 2/3 black Rat creature with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> until end of turn. It’s still a land. Whenever it attacks this turn, create a 1/1 black Rat creature token with “This creature can’t block.”
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: flandore
+	custom_card_number: Grand Prix Yerevan — Pipsqueak
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Design — Matt
+	copyright_2: © Wizards of the Coast and Matt
+	copyright_3: © Wizards of the Coast and Matt
+	secondary_copyright: 
 
 keyword:
 	keyword: Coalesce

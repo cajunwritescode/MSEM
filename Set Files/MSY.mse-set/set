@@ -405,7 +405,7 @@ card:
 	has_styling: false
 	notes: !Downshift
 	time_created: 2025-11-08 08:44:26
-	time_modified: 2025-11-17 16:30:29
+	time_modified: 2026-02-28 19:24:29
 	name: Heir's Legacy
 	casting_cost: 1UU
 	image: image17.png
@@ -423,7 +423,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Create a token that’s a copy of target creature you control.
-		Resurface 3 <i-auto>(You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Exile it as it resolves.)</i-auto>
+		Resurface 3 <i-auto>(You may cast this spell from your graveyard by tapping any number of untapped creatures you control with total power 3 or greater in addition to its other costs. Then exile it.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sam Kanios
 	card_code_text: Deorum: Holy War
@@ -5541,9 +5541,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2025-12-27 11:32:29
-	time_modified: 2026-01-15 21:03:04
+	time_modified: 2026-02-28 12:53:10
 	name: Mana Ascetic
 	casting_cost: G
 	image: image313.png
@@ -5558,7 +5558,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
-	rarity: rare
+	rarity: uncommon
 	rule_text: <sym-auto>T</sym-auto>: Add one mana of any color.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
@@ -16991,7 +16991,7 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
-	special_text_2: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
+	special_text_2: (As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 
 card:
 	has_styling: false

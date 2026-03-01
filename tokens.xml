@@ -11771,9 +11771,6 @@ Sacrifice this token: Untap enchanted land.</text>
  <tablerow>1</tablerow>
  <reverse-related>Ramzi, Traveling Merchant</reverse-related>
  <reverse-related>Ramzi, Traveling Merchant_MSY</reverse-related>
- <reverse-related>Ramzi, Traveling Merchant (SL100)_LAIR</reverse-related>
- <reverse-related>Ramzi, Traveling Merchant_MPS_MSE</reverse-related>
- <reverse-related>Ramzi, Traveling Merchant_CHAMPIONS</reverse-related>
  <set num="OTH4" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/OTH4.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -13217,6 +13214,8 @@ Equip {2}</text>
  <reverse-related>Swarming Midden</reverse-related>
  <reverse-related>Witch of the Midden</reverse-related>
  <reverse-related>Prophet of the Plague</reverse-related>
+ <reverse-related>Swarming Midden_MPS_MSE</reverse-related>
+ <reverse-related>Swarming Midden_CHAMPIONS</reverse-related>
  <set num="QRB8" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/QRB8.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>

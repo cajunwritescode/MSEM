@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	description:
 		ARCHETYPES
@@ -607,9 +607,9 @@ card:
 	styling_data:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update nerfed: -2 used to put second from the top.
 	time_created: 2017-06-15 12:27:30
-	time_modified: 2018-07-06 10:55:45
+	time_modified: 2026-03-01 12:54:49
 	name: Hemley Eggfeather
 	casting_cost: WU
 	image: image8
@@ -630,8 +630,9 @@ card:
 	loyalty_cost_3: -X
 	loyalty: 3
 	level_1_text: <margin:130:0:0>Tap target nonland permanent. It doesn’t untap during its controller’s next untap step.</margin:130:0:0>
-	level_2_text: <margin:130:0:0>Put target nonland permanent into its owner’s library second from the top.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Target nonland permanent’s owner puts it on the top or bottom of their library.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Shuffle up to X cards from your hand into your library, then draw that many cards. You gain that much life.</margin:130:0:0>
+	level_4_text: 
 	illustrator: Wesley Lin
 	card_code_text: 
 	card_code_text_2: 
@@ -641,7 +642,7 @@ card:
 	copyright_3: ™ & © 2017 Wizards of the Coast
 	special_text:
 		[-1]: <margin:130:0:0>Tap target nonland permanent. It doesn’t untap during its controller’s next untap step.</margin:130:0:0>
-		[-2]: <margin:130:0:0>Put target nonland permanent into its owner’s library second from the top.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Target nonland permanent’s owner puts it on the top or bottom of their library.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Shuffle up to X cards from your hand into your library, then draw that many cards. You gain that much life.</margin:130:0:0>
 
 card:
@@ -1288,7 +1289,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  reworked: Was {U} instant that bounced a creature or countered a noncreature spell unless its controller paid {1}.
+	notes: reworked: Was {U} instant that bounced a creature or countered a noncreature spell unless its controller paid {1}.
 	time_created: 2017-06-15 12:27:30
 	time_modified: 2025-10-28 23:13:20
 	name: Treacherous Conditions

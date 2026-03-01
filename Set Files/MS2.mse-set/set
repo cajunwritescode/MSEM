@@ -1113,9 +1113,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!design water the weeds
-
+	notes: !design water the weeds
 	time_created: 2019-10-12 11:48:15
 	time_modified: 2025-12-01 17:26:10
 	name: Oracle’s Vision
@@ -2817,9 +2815,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		center_text: short text only
 		overlay: 
-	notes:
-		!design FifthDragon
-		
+	notes: !design FifthDragon
 	time_created: 2019-11-08 10:59:55
 	time_modified: 2026-02-01 15:29:23
 	name: Selene the Cruel
@@ -5036,10 +5032,12 @@ card:
 card:
 	has_styling: false
 	notes:
+		!update
 		!design Timespiraled
 		!script "s>l>Spawn Plains Island/l>f>/spawn Plains Island/f>/s>s>l>Spawn Island Swamp/l>f>/spawn Island Swamp/f>/s>s>l>Spawn Island Mountain/l>f>/spawn Island Mountain/f>/s>s>l>Spawn Forest Island/l>f>/spawn Forest Island/f>/s>","r"
 	time_created: 2019-11-23 14:46:55
-	time_modified: 2025-10-27 23:31:46
+	time_modified: 2026-02-28 19:18:42
+	card_color: blue, land, multicolor
 	name: Shiftscape Cascade
 	image: image179
 	image_2: 
@@ -5050,7 +5048,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shiftscape Cascade</nospellcheck></atom-cardname>: Choose a basic land type other than Island. Create a colorless land token that’s an Island and the chosen basic land type. Activate only during your upkeep.
+		<sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Shiftscape Cascade</nospellcheck></atom-cardname>: Choose a basic land type other than Island. Create a colorless land token that’s an Island and the chosen basic land type. Activate only during your upkeep.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: welshdragon
 	custom_card_number: 
@@ -5064,10 +5062,12 @@ card:
 card:
 	has_styling: false
 	notes:
+		!update
 		!design Timespiraled
 		!script "s>l>Spawn Mountain Plains/l>f>/spawn Mountain Plains/f>/s>s>l>Spawn Island Mountain/l>f>/spawn Island Mountain/f>/s>s>l>Spawn Swamp Mountain/l>f>/spawn Swamp Mountain/f>/s>s>l>Spawn Mountain Forest/l>f>/spawn Mountain Forest/f>/s>","r"
 	time_created: 2019-11-23 14:46:55
-	time_modified: 2025-10-27 23:31:51
+	time_modified: 2026-02-28 19:18:46
+	card_color: red, land, multicolor
 	name: Shiftscape Crag
 	image: image180
 	image_2: 
@@ -5078,7 +5078,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shiftscape Crag</nospellcheck></atom-cardname>: Choose a basic land type other than Mountain. Create a colorless land token that’s a Mountain and the chosen basic land type. Activate only during your upkeep.
+		<sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Shiftscape Crag</nospellcheck></atom-cardname>: Choose a basic land type other than Mountain. Create a colorless land token that’s a Mountain and the chosen basic land type. Activate only during your upkeep.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Nele-Diel
 	custom_card_number: 
@@ -5092,10 +5092,12 @@ card:
 card:
 	has_styling: false
 	notes:
+		!update
 		!design Timespiraled
 		!script "s>l>Spawn Forest Plains/l>f>/spawn Forest Plains/f>/s>s>l>Spawn Forest Island/l>f>/spawn Forest Island/f>/s>s>l>Spawn Swamp Forest/l>f>/spawn Swamp Forest/f>/s>s>l>Spawn Mountain Forest/l>f>/spawn Mountain Forest/f>/s>","r"
 	time_created: 2019-11-23 14:46:56
-	time_modified: 2025-10-27 23:31:56
+	time_modified: 2026-02-28 19:18:50
+	card_color: green, land, multicolor
 	name: Shiftscape Grove
 	image: image182
 	image_2: 
@@ -5106,7 +5108,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shiftscape Grove</nospellcheck></atom-cardname>: Choose a basic land type other than Forest. Create a colorless land token that’s a Forest and the chosen basic land type. Activate only during your upkeep.
+		<sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Shiftscape Grove</nospellcheck></atom-cardname>: Choose a basic land type other than Forest. Create a colorless land token that’s a Forest and the chosen basic land type. Activate only during your upkeep.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anton Kurbativ
 	custom_card_number: 
@@ -5120,10 +5122,12 @@ card:
 card:
 	has_styling: false
 	notes:
+		!update
 		!design Timespiraled
 		!script "s>l>Spawn Plains Swamp/l>f>/spawn Plains Swamp/f>/s>s>l>Spawn Island Swamp/l>f>/spawn Island Swamp/f>/s>s>l>Spawn Swamp Mountain/l>f>/spawn Swamp Mountain/f>/s>s>l>Spawn Swamp Forest/l>f>/spawn Swamp Forest/f>/s>","r"
 	time_created: 2019-11-23 14:46:58
-	time_modified: 2025-10-27 23:32:01
+	time_modified: 2026-02-28 19:18:59
+	card_color: black, land, multicolor
 	name: Shiftscape Morass
 	image: image181
 	image_2: 
@@ -5134,7 +5138,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shiftscape Morass</nospellcheck></atom-cardname>: Choose a basic land type other than Swamp. Create a colorless land token that’s a Swamp and the chosen basic land type. Activate only during your upkeep.
+		<sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Shiftscape Morass</nospellcheck></atom-cardname>: Choose a basic land type other than Swamp. Create a colorless land token that’s a Swamp and the chosen basic land type. Activate only during your upkeep.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anton Kurbatov
 	custom_card_number: 
@@ -5242,10 +5246,12 @@ card:
 card:
 	has_styling: false
 	notes:
+		!update
 		!design Timespiraled
 		!script "s>l>Spawn Plains Island/l>f>/spawn Plains Island/f>/s>s>l>Spawn Plains Swamp/l>f>/spawn Plains Swamp/f>/s>s>l>Spawn Mountain Plains/l>f>/spawn Mountain Plains/f>/s>s>l>Spawn Forest Plains/l>f>/spawn Forest Plains/f>/s>","r"
 	time_created: 2019-11-23 14:47:00
-	time_modified: 2025-10-27 23:31:38
+	time_modified: 2026-02-28 19:18:34
+	card_color: white, land, multicolor
 	name: Shiftscape Canyon
 	image: image178
 	image_2: 
@@ -5256,7 +5262,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Shiftscape Canyon</nospellcheck></atom-cardname>: Choose a basic land type other than Plains. Create a colorless land token that’s a Plains and the chosen basic land type. Activate only during your upkeep.
+		<sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Shiftscape Canyon</nospellcheck></atom-cardname>: Choose a basic land type other than Plains. Create a colorless land token that’s a Plains and the chosen basic land type. Activate only during your upkeep.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Varrulin
 	custom_card_number: 
