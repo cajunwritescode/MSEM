@@ -320,7 +320,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2020-06-07 18:06:33
-	time_modified: 2021-10-31 18:46:43
+	time_modified: 2026-03-04 17:38:14
 	extra_data:
 		magic-m15-mainframe-dfc:
 			vorthos_box: He/him
@@ -343,7 +343,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Sahra, the Consuming</nospellcheck></atom-cardname> enters or attacks, sacrifice a permanent.
+		Whenever <atom-cardname><nospellcheck>Sahra, the Consuming</nospellcheck></atom-cardname> enters or attacks, sacrifice a permanent.
 		At the beginning of your end step, transform <atom-legname><nospellcheck>Sahra</nospellcheck></atom-legname> unless you’ve sacrificed two or more permanents this turn.
 	rule_text_2:
 		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>

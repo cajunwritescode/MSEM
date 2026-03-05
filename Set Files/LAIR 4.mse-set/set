@@ -9459,9 +9459,11 @@ card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
 	has_styling: false
-	notes: !hidetag (SL169)
+	notes:
+		!hidetag (SL169)
+		
 	time_created: 2023-11-25 21:12:34
-	time_modified: 2025-10-31 15:35:22
+	time_modified: 2026-03-04 17:40:57
 	name: Shadowbinder Touka
 	casting_cost: UBR
 	image: image264
@@ -9475,7 +9477,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Shadowbinder Touka</nospellcheck></atom-cardname> enters or attacks, exile up to one target creature card from a graveyard.
+		Whenever <atom-cardname><nospellcheck>Shadowbinder Touka</nospellcheck></atom-cardname> enters or attacks, exile up to one target creature card from a graveyard.
 		You may play creature cards exiled with <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Touka</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
 		Sacrifice another creature: Add two mana in any combination of colors. You can’t spend this mana to cast spells from your hand. If this mana is spent to cast a creature spell, that creature enters with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.
 	flavor_text: <i-flavor></i-flavor>
@@ -10688,7 +10690,7 @@ card:
 	has_styling: false
 	notes:
 		Артем
-		!update
+		
 		!hidetag (SL171)
 		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
 	time_created: 2021-05-01 05:09:34
@@ -10905,6 +10907,522 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: HQZ/BLR Top Xs — Toasty
+	copyright_2: 
+	copyright_3: 
+
+card:
+	has_styling: false
+	notes: !hidetag (SL173)
+	time_created: 2024-01-03 22:20:26
+	time_modified: 2026-02-28 19:06:46
+	card_color: white, land, multicolor
+	name: Shiftscape Canyon
+	image: image38
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Shiftscape Canyon</nospellcheck></atom-cardname>: Choose a basic land type other than Plains. Create a colorless land token that’s a Plains and the chosen basic land type. Activate only during your upkeep.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Artem Chebokha
+	additional_credit_2: 
+	custom_card_number: 1540
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	has_styling: false
+	notes: !hidetag (SL173)
+	time_created: 2024-01-03 22:20:26
+	time_modified: 2026-02-28 19:06:54
+	card_color: blue, land, multicolor
+	name: Shiftscape Cascade
+	image: image75
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Shiftscape Cascade</nospellcheck></atom-cardname>: Choose a basic land type other than Island. Create a colorless land token that’s an Island and the chosen basic land type. Activate only during your upkeep.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Artem Chebokha
+	additional_credit_2: 
+	additional_credit_brush_2: none
+	custom_card_number: 1541
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	has_styling: false
+	notes: !hidetag (SL173)
+	time_created: 2024-01-03 22:20:26
+	time_modified: 2026-02-28 19:07:01
+	card_color: red, land, multicolor
+	name: Shiftscape Crag
+	image: image302
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Shiftscape Crag</nospellcheck></atom-cardname>: Choose a basic land type other than Mountain. Create a colorless land token that’s a Mountain and the chosen basic land type. Activate only during your upkeep.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Artem Chebokha
+	additional_credit_2: 
+	additional_credit_brush_2: none
+	custom_card_number: 1542
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	has_styling: false
+	notes: !hidetag (SL173)
+	time_created: 2024-01-03 22:20:26
+	time_modified: 2026-02-28 19:07:05
+	card_color: green, land, multicolor
+	name: Shiftscape Grove
+	image: image303
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Shiftscape Grove</nospellcheck></atom-cardname>: Choose a basic land type other than Forest. Create a colorless land token that’s a Forest and the chosen basic land type. Activate only during your upkeep.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: Artem Chebokha
+	additional_credit_2: 
+	additional_credit_brush_2: none
+	custom_card_number: 1543
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	has_styling: false
+	notes: !hidetag (SL173)
+	time_created: 2024-01-03 22:20:26
+	time_modified: 2026-02-28 19:07:10
+	card_color: black, land, multicolor
+	name: Shiftscape Morass
+	image: image304
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+		<sym-auto>T</sym-auto>, Exile <atom-cardname><nospellcheck>Shiftscape Morass</nospellcheck></atom-cardname>: Choose a basic land type other than Swamp. Create a colorless land token that’s a Swamp and the chosen basic land type. Activate only during your upkeep.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Artem Chebokha
+	additional_credit_2: 
+	additional_credit_brush_2: none
+	custom_card_number: 1544
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Views of the Ink Sea — HerziQuerzi
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 12
+		chop_bottom: 12
+		shrink_name_text: 2
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL174)
+	time_created: 2026-02-04 20:30:30
+	time_modified: 2026-02-28 19:42:39
+	name: Climbing the Oldest Mountain
+	casting_cost: 2G
+	image: image305
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Road</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		When Climbing the Oldest Mountain enters, draw a card, then choose a card name.
+		Whenever a creature you control with the chosen name deals combat damage to a player, put two +1/+1 counters on it.
+	flavor_text:
+		<i-flavor>“There was nothing before it, and there will be nothing after.”<soft-line>
+		—<error-spelling:en_US>Aava</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Mathieu Bablet
+	custom_card_number: 1550
+	card_code_text: gynoidpoet
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: CAIRN — Timespiraled
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 21
+		chop_bottom: 21
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL174)
+	time_created: 2026-02-04 20:32:09
+	time_modified: 2026-02-28 19:42:44
+	name: Explore
+	casting_cost: 1G
+	image: image306
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		You may play an additional land this turn.
+		Draw a card.
+	flavor_text:
+		<i-flavor>“All I ever wanted was to touch eternity for an instant.”<soft-line>
+		—<error-spelling:en_US>Aava</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Mathieu Bablet
+	custom_card_number: 1551
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: CAIRN — Timespiraled
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 21
+		chop_bottom: 21
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL174)
+	time_created: 2026-02-04 20:32:09
+	time_modified: 2026-02-28 19:42:50
+	name: Farseek
+	casting_cost: 1G
+	image: image314
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Search your library for a Plains, Island, Swamp, or Mountain card, put it onto the battlefield tapped, then shuffle.
+	flavor_text:
+		<i-flavor>“Are you ready for <error-spelling:en_US>Kami</error-spelling:en_US>?”<soft-line>
+		—<error-spelling:en_US>Aava</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: Mathieu Bablet
+	custom_card_number: 1552
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: CAIRN — Timespiraled
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2023-08-15
+	has_styling: true
+	styling_data:
+		stretch_art_to_whole_card: no
+		textbox_opacity_percentage: 35
+		rounded_textbox: yes
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !hidetag (SL174)
+	time_created: 2026-02-04 20:32:41
+	time_modified: 2026-02-28 19:42:55
+	name: Wayfarer’s Shrine
+	image: image315
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life, Sacrifice Wayfarer’s Shrine: Search your library for a basic land card, put it onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Mathieu Bablet
+	custom_card_number: 1553
+	card_code_text: Timespiraled
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: CAIRN — Timespiraled
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2023-08-15
+	has_styling: true
+	styling_data:
+		textbox_opacity_percentage: 
+		rounded_textbox: yes
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !hidetag (SL174)
+	time_created: 2026-02-04 20:26:47
+	time_modified: 2026-02-28 19:43:27
+	name: Forest
+	image: image316
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: 
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Mathieu Bablet
+	custom_card_number: 1558
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: CAIRN — Timespiraled
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2023-08-15
+	has_styling: true
+	styling_data:
+		textbox_opacity_percentage: 
+		rounded_textbox: yes
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !hidetag (SL174)
+	time_created: 2026-02-04 20:26:47
+	time_modified: 2026-02-28 19:43:05
+	name: Island
+	image: image317
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: 
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Mathieu Bablet
+	custom_card_number: 1555
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: CAIRN — Timespiraled
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2023-08-15
+	has_styling: true
+	styling_data:
+		textbox_opacity_percentage: 
+		rounded_textbox: yes
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !hidetag (SL174)
+	time_created: 2026-02-04 20:26:47
+	time_modified: 2026-02-28 19:43:15
+	name: Mountain
+	image: image318
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: 
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Mathieu Bablet
+	custom_card_number: 1557
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: CAIRN — Timespiraled
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2023-08-15
+	has_styling: true
+	styling_data:
+		textbox_opacity_percentage: 
+		rounded_textbox: yes
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !hidetag (SL174)
+	time_created: 2026-02-04 20:26:47
+	time_modified: 2026-02-28 19:43:00
+	name: Plains
+	image: image319
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: 
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Mathieu Bablet
+	custom_card_number: 1554
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: CAIRN — Timespiraled
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2023-08-15
+	has_styling: true
+	styling_data:
+		textbox_opacity_percentage: 
+		rounded_textbox: yes
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !hidetag (SL174)
+	time_created: 2026-02-04 20:26:47
+	time_modified: 2026-02-28 19:43:11
+	name: Swamp
+	image: image320
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: 
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Mathieu Bablet
+	custom_card_number: 1556
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: CAIRN — Timespiraled
 	copyright_2: 
 	copyright_3: 
 

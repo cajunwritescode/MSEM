@@ -4080,7 +4080,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update nerfed: Can no longer edict enchantments.
+	notes: nerfed: Can no longer edict enchantments.
 	time_created: 2021-05-01 05:09:34
 	time_modified: 2026-02-28 19:03:27
 	name: Skirsdag Edict
@@ -4150,9 +4150,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update buffed: Can now destroy enchantments.
+	notes: 
 	time_created: 2021-05-01 05:09:34
-	time_modified: 2026-02-28 19:03:06
+	time_modified: 2026-03-04 17:07:22
 	name: Curse of Nightmares
 	casting_cost: 3B
 	image: image135
@@ -4164,7 +4164,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>player</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Curse of Nightmares</nospellcheck></atom-cardname> enters, destroy target creature,enchantment, or planeswalker enchanted player controls.
+		When <atom-cardname><nospellcheck>Curse of Nightmares</nospellcheck></atom-cardname> enters, destroy target creature, enchantment, or planeswalker enchanted player controls.
 		Whenever enchanted player draws a card, they lose 1 life and you gain 1 life.
 	flavor_text: <i-flavor>Whether real or imagined, terror takes hold.</i-flavor>
 	illustrator: SIXMOREVODKA

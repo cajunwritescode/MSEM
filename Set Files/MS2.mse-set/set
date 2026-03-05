@@ -5032,7 +5032,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		!update
+		
 		!design Timespiraled
 		!script "s>l>Spawn Plains Island/l>f>/spawn Plains Island/f>/s>s>l>Spawn Island Swamp/l>f>/spawn Island Swamp/f>/s>s>l>Spawn Island Mountain/l>f>/spawn Island Mountain/f>/s>s>l>Spawn Forest Island/l>f>/spawn Forest Island/f>/s>","r"
 	time_created: 2019-11-23 14:46:55
@@ -5062,7 +5062,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		!update
+		
 		!design Timespiraled
 		!script "s>l>Spawn Mountain Plains/l>f>/spawn Mountain Plains/f>/s>s>l>Spawn Island Mountain/l>f>/spawn Island Mountain/f>/s>s>l>Spawn Swamp Mountain/l>f>/spawn Swamp Mountain/f>/s>s>l>Spawn Mountain Forest/l>f>/spawn Mountain Forest/f>/s>","r"
 	time_created: 2019-11-23 14:46:55
@@ -5092,7 +5092,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		!update
+		
 		!design Timespiraled
 		!script "s>l>Spawn Forest Plains/l>f>/spawn Forest Plains/f>/s>s>l>Spawn Forest Island/l>f>/spawn Forest Island/f>/s>s>l>Spawn Swamp Forest/l>f>/spawn Swamp Forest/f>/s>s>l>Spawn Mountain Forest/l>f>/spawn Mountain Forest/f>/s>","r"
 	time_created: 2019-11-23 14:46:56
@@ -5122,7 +5122,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		!update
+		
 		!design Timespiraled
 		!script "s>l>Spawn Plains Swamp/l>f>/spawn Plains Swamp/f>/s>s>l>Spawn Island Swamp/l>f>/spawn Island Swamp/f>/s>s>l>Spawn Swamp Mountain/l>f>/spawn Swamp Mountain/f>/s>s>l>Spawn Swamp Forest/l>f>/spawn Swamp Forest/f>/s>","r"
 	time_created: 2019-11-23 14:46:58
@@ -5246,7 +5246,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		!update
+		
 		!design Timespiraled
 		!script "s>l>Spawn Plains Island/l>f>/spawn Plains Island/f>/s>s>l>Spawn Plains Swamp/l>f>/spawn Plains Swamp/f>/s>s>l>Spawn Mountain Plains/l>f>/spawn Mountain Plains/f>/s>s>l>Spawn Forest Plains/l>f>/spawn Forest Plains/f>/s>","r"
 	time_created: 2019-11-23 14:47:00

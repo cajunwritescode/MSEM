@@ -2169,12 +2169,14 @@ card:
 
 card:
 	has_styling: false
-	notes: !design Cajun
+	notes:
+		!design Cajun
+		
 	time_created: 2024-09-08 09:50:03
-	time_modified: 2024-12-31 00:54:51
+	time_modified: 2026-03-04 17:15:14
 	extra_data:
 		magic-m15-altered:
-			vorthos_box: Shye/Her
+			vorthos_box: She/Her
 	name: Luna, Loyal Friend
 	casting_cost: 1W
 	image: image109
@@ -3937,9 +3939,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
 	has_styling: false
-	notes: !FT: n3onblue
+	notes:
+		!FT: n3onblue
+		
 	time_created: 2024-09-08 09:50:03
-	time_modified: 2024-12-22 11:29:36
+	time_modified: 2026-03-04 17:18:34
 	name: Mischievous Sprite
 	casting_cost: 2U
 	image: image161
@@ -3958,7 +3962,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When Mischievous Sprite enters,you may tap or untap target permanent.
+		When Mischievous Sprite enters, you may tap or untap target permanent.
 	flavor_text: <i-flavor>Stasis is an insult to the <error-spelling:en_US>fae</error-spelling:en_US>.</i-flavor>
 	power: 2
 	toughness: 1
@@ -4800,7 +4804,7 @@ card:
 		other_options: un-indent nonloyalty abilities, mythic edition fullart
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2019-04-19 19:08:11
 	time_modified: 2026-03-01 12:59:21
 	extra_data:
@@ -9919,7 +9923,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-09-08 09:50:03
-	time_modified: 2025-02-28 16:34:38
+	time_modified: 2026-03-04 17:42:32
 	name: Primordial Artisan
 	casting_cost: 4GGG
 	image: image321
@@ -9937,7 +9941,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>
-		When Primordial Artisan enters or attacks, look at the top card of your library. If it’s a permanent card with mana value less than or equal to your <kw-A><nospellcheck><key>devotion to <param-one_word>green</param-one_word></key></nospellcheck>, you may put it onto the battlefield.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>G</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>green</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
+		Whenever Primordial Artisan enters or attacks, look at the top card of your library. If it’s a permanent card with mana value less than or equal to your <kw-A><nospellcheck><key>devotion to <param-one_word>green</param-one_word></key></nospellcheck>, you may put it onto the battlefield.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>G</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>green</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 7
 	toughness: 7

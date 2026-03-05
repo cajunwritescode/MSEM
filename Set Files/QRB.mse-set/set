@@ -204,7 +204,7 @@ card:
 		combined_chop: 0,3,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !update nerfed: Now costs an extra {1}. old +1 changed to a -1, and a new +1 added.
+	notes:  nerfed: Now costs an extra {1}. old +1 changed to a -1, and a new +1 added.
 	time_created: 2019-04-19 19:08:11
 	time_modified: 2026-03-01 12:57:07
 	extra_data:

@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Road To Carü Mapu
 	copyright: 
@@ -192,7 +192,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  buffed: Condor now triggers on Warrior death instead of targeting.
+	notes: buffed: Condor now triggers on Warrior death instead of targeting.
 	time_created: 2021-02-14 14:46:27
 	time_modified: 2025-10-29 00:38:11
 	extra_data:
@@ -2134,7 +2134,7 @@ card:
 		
 		“I deliver death sentences before our enemies can even begin to feel guilty.”
 	time_created: 2021-02-17 06:55:23
-	time_modified: 2023-03-30 03:40:38
+	time_modified: 2026-03-04 17:45:27
 	name: Fletcher Kalku
 	casting_cost: 1U
 	image: image53
@@ -2145,7 +2145,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Fletcher Kalku</nospellcheck></atom-cardname> enters or attacks, you may exile a card from your hand face down. If you do, draw a card.
+		Whenever <atom-cardname><nospellcheck>Fletcher Kalku</nospellcheck></atom-cardname> enters or attacks, you may exile a card from your hand face down. If you do, draw a card.
 		You may look at cards exiled with <atom-cardname><nospellcheck>Fletcher Kalku</nospellcheck></atom-cardname>.
 		<sym-auto>UU</sym-auto>, Reveal a card exiled with <atom-cardname><nospellcheck>Fletcher Kalku</nospellcheck></atom-cardname>: Counter target spell if it has the same mana value as the revealed card. Then put the exiled card into its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>

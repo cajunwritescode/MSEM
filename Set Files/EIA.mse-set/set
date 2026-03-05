@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Elmare: Into the Abyss
 	description:
@@ -5455,7 +5455,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2020-10-07 16:47:38
-	time_modified: 2021-02-18 22:32:17
+	time_modified: 2026-03-04 17:47:40
 	name: Dawson’s Marauder
 	casting_cost: 1B
 	image: image52
@@ -5467,7 +5467,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<atom-cardname><nospellcheck>Dawson’s Marauder</nospellcheck></atom-cardname> can’t block.
-		When <atom-cardname><nospellcheck>Dawson’s Marauder</nospellcheck></atom-cardname> attacks, it can’t be blocked this turn unless defending player sacrifices an artifact.
+		Whenever <atom-cardname><nospellcheck>Dawson’s Marauder</nospellcheck></atom-cardname> attacks, it can’t be blocked this turn unless defending player sacrifices an artifact.
 	flavor_text:
 		<i-flavor>“Can’t pay the fine? Blood stains the brine.”<soft-line>
 		—Grim</soft-line></i-flavor>

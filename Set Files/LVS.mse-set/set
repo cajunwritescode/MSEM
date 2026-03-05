@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Love Song
 	description:
@@ -1788,9 +1788,9 @@ card:
 		overlay: 
 	notes:
 		New Divide — Linkin Park 
-		!done
+		!done 
 	time_created: 2020-05-02 18:58:06
-	time_modified: 2023-07-31 20:42:31
+	time_modified: 2026-03-04 19:02:24
 	name: Cosmic Sinkhole
 	casting_cost: XXU
 	image: image61
@@ -1800,7 +1800,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text: <kw-A><i-auto><nospellcheck><key>Converge</key></nospellcheck></i-auto></kw-A> — Counter target spell unless its controller pays <sym>1</sym> for each color of mana spent to cast <atom-cardname><nospellcheck>Cosmic Sinkhole</nospellcheck></atom-cardname>.
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>As the ship approached the anomaly, time began to blur.</i-flavor>
 	illustrator: Vadim Sadovski
 	card_code_text: 
 	card_code_text_2: 
@@ -6217,7 +6217,7 @@ card:
 		Eminem/Doctor Dre
 		!done 
 	time_created: 2020-05-12 15:16:46
-	time_modified: 2021-05-29 15:52:00
+	time_modified: 2026-03-04 17:11:03
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/Her or They/Them
@@ -6234,9 +6234,10 @@ card:
 	loyalty_cost_2: -2
 	loyalty_cost_3: -6
 	loyalty: 3
-	level_1_text: <margin:130:0:0>Draw two cards, then put a card from your hand on the bottom of your library unless you’ve spent <sym>WUBRG</sym> on spells this turn.</margin:130:0:0>
+	level_1_text: <margin:130:0:0>Draw two cards, then put a card from your hand on the bottom of your library unless you’ve spent <sym>WUBRG</sym> to cast spells this turn.</margin:130:0:0>
 	level_2_text: <margin:130:0:0>Add <sym-auto>WUBRG</sym-auto>.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>For each card type, you may return a card of that type from your graveyard to your hand.</margin:130:0:0>
+	level_4_text: 
 	illustrator: Younghun Byun
 	card_code_text: 
 	card_code_text_2: 
@@ -6245,7 +6246,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		[+1]: <margin:130:0:0>Draw two cards, then put a card from your hand on the bottom of your library unless you’ve spent <sym>WUBRG</sym> on spells this turn.</margin:130:0:0>
+		[+1]: <margin:130:0:0>Draw two cards, then put a card from your hand on the bottom of your library unless you’ve spent <sym>WUBRG</sym> to cast spells this turn.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Add <sym-auto>WUBRG</sym-auto>.</margin:130:0:0>
 		[-6]: <margin:130:0:0>For each card type, you may return a card of that type from your graveyard to your hand.</margin:130:0:0>
 

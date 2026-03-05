@@ -2203,7 +2203,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		!update
+		
 		!MSEM2: A "dual land" that produces C on turn 1, and the other two colors the following turn. Changed to Sacrifice AA to work better in the context of MSEM2. Doesn't require shuffling and can't be missed so no penalties or judge calls there. Also can't be fetched.
 		 !rul This creates a land named Plains Island, Island Swamp,  Island Mountain, or Forest Island.
 		!script "s>l>Spawn Plains Island/l>f>/spawn Plains Island/f>/s>s>l>Spawn Island Swamp/l>f>/spawn Island Swamp/f>/s>s>l>Spawn Island Mountain/l>f>/spawn Island Mountain/f>/s>s>l>Spawn Forest Island/l>f>/spawn Forest Island/f>/s>","r"
@@ -2242,7 +2242,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		!update
+		
 		!MSEM2: A "dual land" that produces C on turn 1, and the other two colors the following turn. Changed to Sacrifice AA to work better in the context of MSEM2. Doesn't require shuffling and can't be missed so no penalties or judge calls there. Also can't be fetched.
 		 !rul This creates a land named Mountain Plains, Island Mountain, Swamp Mountain, or Mountain Forest.
 		!script "s>l>Spawn Mountain Plains/l>f>/spawn Mountain Plains/f>/s>s>l>Spawn Island Mountain/l>f>/spawn Island Mountain/f>/s>s>l>Spawn Swamp Mountain/l>f>/spawn Swamp Mountain/f>/s>s>l>Spawn Mountain Forest/l>f>/spawn Mountain Forest/f>/s>","r"
@@ -2281,7 +2281,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		!update
+		
 		!MSEM2: A "dual land" that produces C on turn 1, and the other two colors the following turn. Changed to Sacrifice AA to work better in the context of MSEM2. Doesn't require shuffling and can't be missed so no penalties or judge calls there. Also can't be fetched.
 		 !rul This creates a land named Plains Swamp, Island Swamp, Swamp Mountain, or Swamp Forest.
 		!script "s>l>Spawn Plains Swamp/l>f>/spawn Plains Swamp/f>/s>s>l>Spawn Island Swamp/l>f>/spawn Island Swamp/f>/s>s>l>Spawn Swamp Mountain/l>f>/spawn Swamp Mountain/f>/s>s>l>Spawn Swamp Forest/l>f>/spawn Swamp Forest/f>/s>","r"
@@ -2320,7 +2320,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		!update
+		
 		!MSEM2: A "dual land" that produces C on turn 1, and the other two colors the following turn. Changed to Sacrifice AA to work better in the context of MSEM2. Doesn't require shuffling and can't be missed so no penalties or judge calls there. Also can't be fetched.
 		 !rul This creates a land named Plains Island, Plains Swamp, Mountain Plains, or Forest Plains.
 		!script "s>l>Spawn Plains Island/l>f>/spawn Plains Island/f>/s>s>l>Spawn Plains Swamp/l>f>/spawn Plains Swamp/f>/s>s>l>Spawn Mountain Plains/l>f>/spawn Mountain Plains/f>/s>s>l>Spawn Forest Plains/l>f>/spawn Forest Plains/f>/s>","r"
@@ -2359,7 +2359,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		!update
+		
 		MSEM2: A "dual land" that produces C on turn 1, and the other two colors the following turn. Changed to Sacrifice AA to work better in the context of MSEM2. Doesn't require shuffling and can't be missed so no penalties or judge calls there. Also can't be fetched.
 		 !rul This creates a land named Forest Plains, Forest Island, Swamp Forest, or Mountain Forest.
 		!script "s>l>Spawn Forest Plains/l>f>/spawn Forest Plains/f>/s>s>l>Spawn Forest Island/l>f>/spawn Forest Island/f>/s>s>l>Spawn Swamp Forest/l>f>/spawn Swamp Forest/f>/s>s>l>Spawn Mountain Forest/l>f>/spawn Mountain Forest/f>/s>","r"

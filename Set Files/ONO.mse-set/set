@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	description:
 		Adventures
@@ -3942,8 +3942,8 @@ card:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you cast your second spell each turn, add a quest counter.
 		1 — Exile the top card of your library. You may play that card until the end of your next turn.
-		The second spell you cast during your next turn cost <sym-auto>1</sym-auto> less to cast.
-		2 — You may cast target instant or sorcery card from your graveyard this turn. When you do, copy it. You may choose new targets for the copy.
+		2 — The second spell you cast during your next turn cost <sym-auto>1</sym-auto> less to cast.
+		3 — You may cast target instant or sorcery card from your graveyard this turn. When you do, copy it. You may choose new targets for the copy.
 
 card:
 	stylesheet: m15-adventure
@@ -4081,8 +4081,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		At the beginning of your end step, if you cast two or more spells this turn, add a quest counter.
-		1, 2 — <atom-cardname><nospellcheck>The Symphony of Leafdown</nospellcheck></atom-cardname> deals 2 damage to any target. Draw a card.
-		3 — Until the end of your next turn, instant and sorcery spells you cast cost <sym-auto>1</sym-auto> less to cast.
+		1, 2, 3 — <atom-cardname><nospellcheck>The Symphony of Leafdown</nospellcheck></atom-cardname> deals 2 damage to any target. Draw a card.
+		Until the end of your next turn, instant and sorcery spells you cast cost <sym-auto>1</sym-auto> less to cast.
 		​
 
 card:
@@ -4127,8 +4127,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you cast an Equipment or Adventure spell, add a quest counter.
-		1, 2 — Exile the top two cards of your library, then choose one of them. You may play that card until the end of your next turn.
-		3 — Until end of turn, target creature you control gets +1/+0 and gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
+		1, 2, 3 — Exile the top two cards of your library, then choose one of them. You may play that card until the end of your next turn.
+		Until end of turn, target creature you control gets +1/+0 and gains <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
 		​
 
 card:
@@ -4173,8 +4173,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever the second card is put into your graveyard from anywhere each turn, add a quest counter.
-		1, 2 — You may sacrifice a creature. When you do, you may return target creature card from your graveyard to your hand.
-		3 — Destroy target nonland permanent an opponent controls.
+		1, 2, 3 — You may sacrifice a creature. When you do, you may return target creature card from your graveyard to your hand.
+		Destroy target nonland permanent an opponent controls.
 		​
 
 card:
@@ -4190,9 +4190,11 @@ card:
 		replacement_chapter_location: arkadai/quests/
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !altleader 1,2,3,
+	notes:
+		!altleader 1,2,3,
+		
 	time_created: 2021-03-29 12:00:56
-	time_modified: 2022-06-30 20:19:51
+	time_modified: 2026-03-04 17:16:43
 	name: X Marks the Spot
 	casting_cost: 1BR
 	image: image111
@@ -4209,7 +4211,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: Create a 2/1 black and red Cat Pirate creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
 	level_2_text:
-		Create a  colorless artifact token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Motherlode</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with “<sym-auto>T</sym-auto>: Add two mana of any one color” and <soft-line>
+		Create a colorless artifact token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Motherlode</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with “<sym-auto>T</sym-auto>: Add two mana of any one color” and <soft-line>
 		</soft-line>“<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Discard your hand: Draw two cards.”
 	illustrator: Nikol Petkova
 	card_code_text: 
@@ -4222,7 +4224,7 @@ card:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever two or more creatures you control deal combat damage to a player, add a quest counter.
 		1, 2 — Create a 2/1 black and red Cat Pirate creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
-		3 — Create a  colorless artifact token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Motherlode</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with “<sym-auto>T</sym-auto>: Add two mana of any one color” and <soft-line>
+		3 — Create a colorless artifact token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Motherlode</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> with “<sym-auto>T</sym-auto>: Add two mana of any one color” and <soft-line>
 		</soft-line>“<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Discard your hand: Draw two cards.”
 		​
 
@@ -4271,8 +4273,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you attack with one or more creatures with power 4 or greater, add a quest counter.
-		1, 2 — Until end of turn, target creature you control gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.”
-		3 — Put two +1/+1 counters on target creature you control. It fights up to one target creature you don’t control.
+		1, 2, 3 — Until end of turn, target creature you control gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature deals combat damage to a player, put a +1/+1 counter on it.”
+		Put two +1/+1 counters on target creature you control. It fights up to one target creature you don’t control.
 		​
 
 card:
@@ -4364,8 +4366,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		At the beginning of your end step, if you cast no spells this turn, add a quest counter.
-		1, 2 — Untap each creature you control. Until your next turn, they gain “<sym>T</sym>: <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.”
-		3 — <kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw two cards. You gain 2 life.
+		1, 2, 3 — Untap each creature you control. Until your next turn, they gain “<sym>T</sym>: <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>.”
+		<kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw two cards. You gain 2 life.
 		​
 
 card:
@@ -4410,8 +4412,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you put one or more +1/+1 counters on a creature, add a quest counter.
-		1, 2 — Create two 1/1 green and white Mouse Soldier creature tokens with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
-		3 — Until end of turn, creatures you control get +1/+1 and gain <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
+		1, 2, 3 — Create two 1/1 green and white Mouse Soldier creature tokens with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
+		Until end of turn, creatures you control get +1/+1 and gain <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
 		​
 
 card:
@@ -4456,8 +4458,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		At the beginning of your end step, if you have more life than an opponent, add a quest counter.
-		I, II — <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put one of those cards into your hand. If you do, you lose 3 life. Otherwise, you gain 3 life.
-		III — Return target creature or planeswalker card from your graveyard to the battlefield.
+		I, II, III — <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. You may put one of those cards into your hand. If you do, you lose 3 life. Otherwise, you gain 3 life.
+		Return target creature or planeswalker card from your graveyard to the battlefield.
 		​
 
 card:
@@ -4556,8 +4558,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you attack with exactly two creatures, add a quest counter.
-		1, 2 — Reveal the top four cards of your library. You may put a creature card from among them into your hand. Put the rest on the bottom in a random order.
-		3 — Put two +1/+1 counters on each of up to two target creatures you control.
+		1, 2, 3 — Reveal the top four cards of your library. You may put a creature card from among them into your hand. Put the rest on the bottom in a random order.
+		Put two +1/+1 counters on each of up to two target creatures you control.
 		​
 
 card:
@@ -6165,8 +6167,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Once each turn, when you cast a creature spell, you may add a quest counter.
-		1, 2 — Return up to X target creatures you control to their owner’s hand, where X is the number of quest counters on <atom-cardname><nospellcheck>Paw Valley Expedition</nospellcheck></atom-cardname>.
-		3 — Create a 1/2 white Bear Monk creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and a 2/1 white Bear Knight creature token with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
+		1, 2, 3 — Return up to X target creatures you control to their owner’s hand, where X is the number of quest counters on <atom-cardname><nospellcheck>Paw Valley Expedition</nospellcheck></atom-cardname>.
+		Create a 1/2 white Bear Monk creature token with <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> and a 2/1 white Bear Knight creature token with <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
 		​
 
 card:
@@ -6211,8 +6213,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you cast your first spell outside your main phase each turn, add a quest counter.
-		1, 2 — Draw cards equal to the number of quest counters on <atom-cardname><nospellcheck>Siltbottom Expedition</nospellcheck></atom-cardname>, then discard that many cards.
-		3 — Put up to two target instant or sorcery cards from your graveyard on top of your library in any order, then draw a card.
+		1, 2, 3 — Draw cards equal to the number of quest counters on <atom-cardname><nospellcheck>Siltbottom Expedition</nospellcheck></atom-cardname>, then discard that many cards.
+		Put up to two target instant or sorcery cards from your graveyard on top of your library in any order, then draw a card.
 		​
 
 card:
@@ -6257,8 +6259,8 @@ card:
 	special_text:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Once each turn, when a player discards a card, you may add a quest counter.
-		1, 2 — Each opponent loses X life and you gain X life, where X is the number of quest counters on <atom-cardname><nospellcheck>Gloomhollow Expedition</nospellcheck></atom-cardname>.
-		3 — Choose up to two target creature cards in graveyards with total mana value 3 or less. Put those cards onto the battlefield under your control.
+		1, 2, 3 — Each opponent loses X life and you gain X life, where X is the number of quest counters on <atom-cardname><nospellcheck>Gloomhollow Expedition</nospellcheck></atom-cardname>.
+		Choose up to two target creature cards in graveyards with total mana value 3 or less. Put those cards onto the battlefield under your control.
 		​
 
 card:
@@ -8218,8 +8220,8 @@ card:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever one or more creatures you control survive damage, add a quest counter.
 		1 — You may put a creature card with mana value 2 or less from your hand onto the battlefield.
-		Put two +1/+1 counters on target creature you control.
-		2 — Choose target creature you control. You draw cards equal to half that creature’s power, rounded down.
+		2 — Put two +1/+1 counters on target creature you control.
+		3 — Choose target creature you control. You draw cards equal to half that creature’s power, rounded down.
 
 card:
 	stylesheet: m15-saga
@@ -8265,8 +8267,8 @@ card:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever an opponent loses 3 or more life, add a quest counter.
 		1 — Destroy up to one target creature with power or toughness 2 or less.
-		Create Sir Jasper Reborn, a legendary 3/1 black Zombie Mouse Knight creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
-		2 — Search your library for a card, reveal it, put it into your hand, then shuffle. If you revealed a card named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Karoa’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Downfall this way, you may cast it without paying its mana cost.
+		2 — Create Sir Jasper Reborn, a legendary 3/1 black Zombie Mouse Knight creature token with <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>.
+		3 — Search your library for a card, reveal it, put it into your hand, then shuffle. If you revealed a card named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Karoa’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Downfall this way, you may cast it without paying its mana cost.
 
 card:
 	has_styling: false
@@ -8544,8 +8546,8 @@ card:
 		<i-auto>(Add a quest counter as this enters. Sacrifice after 3.)</i-auto>
 		Whenever you scry or search your library, add a quest counter.
 		1 — Target creature you don’t control gets -3/-0 until your next turn.
-		Reveal cards from the top of your library until you reveal a nonland card, then put the revealed cards into your hand.
-		2 — Reveal the top card of your library. If its mana value is less than or equal to the number of cards in your hand, you may cast it without paying its mana cost.
+		2 — Reveal cards from the top of your library until you reveal a nonland card, then put the revealed cards into your hand.
+		3 — Reveal the top card of your library. If its mana value is less than or equal to the number of cards in your hand, you may cast it without paying its mana cost.
 
 card:
 	has_styling: false
@@ -8795,7 +8797,7 @@ card:
 		Whenever you cast a legendary spell, add a quest counter.
 		1, 2 — Look at the top seven cards of your library. You may reveal up to two legendary cards from among them and put them into your hand. Put the rest on the bottom of your library in a random order.
 		You gain 5 life.
-		Destroy all <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonlegendary</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures.
+		3 — Destroy all <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonlegendary</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> creatures.
 
 card:
 	has_styling: false

@@ -7059,7 +7059,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 13:11:22
 	time_modified: 2024-01-31 17:35:03
 	name: Fatigue
@@ -7115,7 +7115,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 12:23:03
 	time_modified: 2024-01-31 17:34:58
 	name: Unified Theory
@@ -7144,7 +7144,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 13:05:46
 	time_modified: 2024-01-31 17:35:19
 	name: Eve’s Scheme
@@ -7171,7 +7171,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 13:28:33
 	time_modified: 2024-01-31 17:36:17
 	name: Expose
@@ -7198,7 +7198,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 12:38:50
 	time_modified: 2026-02-01 15:30:21
 	name: Culminating Chaos
@@ -7230,7 +7230,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 13:05:15
 	time_modified: 2024-09-30 22:41:34
 	name: Daydream
@@ -7265,7 +7265,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 13:26:50
 	time_modified: 2024-01-31 17:35:33
 	name: Flamecaller’s Command
@@ -7297,7 +7297,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 12:54:16
 	time_modified: 2024-01-31 17:35:38
 	name: Break Free
@@ -7324,7 +7324,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 13:02:36
 	time_modified: 2024-01-31 17:35:41
 	name: Digital Immortality
@@ -7354,7 +7354,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 13:36:30
 	time_modified: 2024-01-31 17:36:30
 	name: Gathering the Gang
@@ -7383,7 +7383,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 12:47:09
 	time_modified: 2024-01-31 17:35:47
 	name: No Rest
@@ -7418,7 +7418,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-31 21:06:53
 	time_modified: 2024-01-31 18:15:56
 	name: Treasure
@@ -10415,7 +10415,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL132)
-		
+
 	time_created: 2024-06-05 10:01:42
 	time_modified: 2026-02-01 15:38:35
 	name: Pitchpyre Curse
@@ -14472,9 +14472,11 @@ card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes: !hidetag (SL142)
+	notes:
+		!hidetag (SL142)
+		
 	time_created: 2023-11-25 21:12:34
-	time_modified: 2024-08-30 00:19:17
+	time_modified: 2026-03-04 17:39:59
 	name: Shadowbinder Touka
 	casting_cost: UBR
 	image: image422
@@ -14485,7 +14487,7 @@ card:
 	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Shadowbinder Touka</nospellcheck></atom-cardname> enters or attacks, exile up to one target creature card from a graveyard.
+		Whenever <atom-cardname><nospellcheck>Shadowbinder Touka</nospellcheck></atom-cardname> enters or attacks, exile up to one target creature card from a graveyard.
 		You may play creature cards exiled with <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Touka</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.
 		Sacrifice another creature: Add two mana in any combination of colors. You can’t spend this mana to cast spells from your hand. If this mana is spent to cast a creature spell, that creature enters with a <kw-a><nospellcheck><key>finality counter</key></nospellcheck></kw-a> on it.
 	flavor_text: <i-flavor></i-flavor>

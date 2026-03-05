@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Hunting Quiet Horizons
 	description: hunting? quaint?
@@ -720,7 +720,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -1062,7 +1062,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1114,7 +1114,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -1181,7 +1181,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1564,10 +1564,10 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		 nerfed: Can no longer reanimate other copies.
+		
 		!inpend : ([^ \n]+)\\n(.)/replace/: \1 — \2
 	time_created: 2023-11-25 21:12:34
-	time_modified: 2026-01-31 16:58:47
+	time_modified: 2026-03-04 17:20:00
 	name: Maghbri Votary
 	casting_cost: 1B
 	image: image18.png
@@ -1590,7 +1590,7 @@ card:
 	level_3: Shaman
 	level_4: 
 	level_1_text: When <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> enters and at the beginning of your upkeep, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-	level_2_text: <margin:0:0:30>Return up to two target creature cards not name <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> with mana value X or less from your graveyard to the battlefield.</margin:0:0:30>
+	level_2_text: <margin:0:0:30>Return up to two target creature cards not named <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> with mana value X or less from your graveyard to the battlefield.</margin:0:0:30>
 	level_3_text: <margin:0:0:30>Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>X</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, where X is the number of cards in your graveyard.</margin:0:0:30>
 	level_4_text: 
 	level_9_text: <sym-auto>XW</sym-auto>:
@@ -1611,7 +1611,7 @@ card:
 		<kw-A><nospellcheck><key>Diverge</key></nospellcheck><atom-reminder-custom> <i-auto>(Pick only one path as a sorcery to gain that type and a +1/+1 counter.)</i-auto></atom-reminder-custom></kw-A>
 		When <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> enters and at the beginning of your upkeep, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		<sym-auto>XW</sym-auto>: Zombie
-		<margin:0:0:30>Return up to two target creature cards not name <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> with mana value X or less from your graveyard to the battlefield.</margin:0:0:30>
+		<margin:0:0:30>Return up to two target creature cards not named <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> with mana value X or less from your graveyard to the battlefield.</margin:0:0:30>
 		<sym-auto>3U</sym-auto>: Shaman
 		<margin:0:0:30>Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>X</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, where X is the number of cards in your graveyard.</margin:0:0:30>
 
@@ -1818,7 +1818,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1859,7 +1859,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -1892,7 +1892,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		frames: 
@@ -2944,7 +2944,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-12-05 22:03:10
-	time_modified: 2025-09-29 23:28:03
+	time_modified: 2026-03-04 17:15:47
 	name: Szengyi Monolith
 	casting_cost: 2
 	image: image135.png
@@ -2961,7 +2961,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<atom-cardname><nospellcheck>Szengyi Monolith</nospellcheck></atom-cardname> enters tapped.
-		When <atom-cardname><nospellcheck>Szengyi Monolith</nospellcheck></atom-cardname> enters the battlefield, exile all graveyards.
+		When <atom-cardname><nospellcheck>Szengyi Monolith</nospellcheck></atom-cardname> enters, exile all graveyards.
 		<sym-auto>T</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Szengyi Monolith</nospellcheck></atom-cardname>: Purge. <i-auto>(Exile two cards that share a type from graveyards. If you do, draw a card.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Kuryliuk Darya
@@ -4363,9 +4363,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !check zangy
+	notes:
+		!check zangy
+		
 	time_created: 2024-12-05 22:03:10
-	time_modified: 2025-07-30 14:28:18
+	time_modified: 2026-03-04 17:14:14
 	card_color_2: green
 	name: Night on the Town
 	name_2: Union Organizers
@@ -4381,7 +4383,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	chapter_text: <kw-A><nospellcheck><key>Read ahead</key></nospellcheck><atom-reminder-expert> <i-auto>(Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don’t trigger. Sacrifice after III.)</i-auto></atom-reminder-expert></kw-A>
+	chapter_text: <kw-0><nospellcheck><key>Read ahead</key></nospellcheck></kw-0><> <i-auto>(Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don’t trigger.)</i-auto>
 	rule_text: 
 	rule_text_2:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
@@ -4401,7 +4403,7 @@ card:
 	card_code_text_2: Detrosse
 	card_code_text_3: 
 	special_text:
-		<kw-A><nospellcheck><key>Read ahead</key></nospellcheck><atom-reminder-expert> <i-auto>(Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don’t trigger. Sacrifice after III.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-0><nospellcheck><key>Read ahead</key></nospellcheck></kw-0><> <i-auto>(Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don’t trigger.)</i-auto>
 		I — Create two 1/1 white Citizen creature tokens.
 		II — For each Citizen creature you control, you gain 1 life and put a +1/+1 counter on that creature.
 		III — Exile this Saga, then return it to the battlefield transformed under your control.
@@ -5114,7 +5116,6 @@ card:
 	notes:
 		!check krow
 		!preview crime
-
 	time_created: 2025-03-25 20:21:33
 	time_modified: 2025-11-03 01:40:28
 	name: Vitalia Tragedienne
