@@ -3990,7 +3990,7 @@ card:
 	notes:
 		!design CanterburyEgg
 		!hidetag (SL61)
-		
+
 	time_created: 2017-06-15 12:27:30
 	time_modified: 2026-03-01 12:53:25
 	name: Hemley Eggfeather
@@ -7784,9 +7784,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL72)
-
+	notes: !hidetag (SL72)
 	time_created: 2022-07-26 05:26:34
 	time_modified: 2025-12-01 17:28:18
 	extra_data:
@@ -10203,9 +10201,11 @@ card:
 		text_chops: 1
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL80)
+	notes:
+		!hidetag (SL80)
+		!update
 	time_created: 2022-12-22 19:30:18
-	time_modified: 2022-12-31 11:00:26
+	time_modified: 2026-04-01 17:51:55
 	extra_data:
 		magic-m15-punk-show:
 			module_title: From the decayed minds of
@@ -10226,7 +10226,6 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
 		When Deadwood Terror enters from a graveyard, create two tokens that are copies of it.
 		<sym-auto>4BB</sym-auto>, Sacrifice a creature: Return Deadwood Terror from your graveyard to the battlefield. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>

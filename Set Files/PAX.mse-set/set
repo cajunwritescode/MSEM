@@ -8822,10 +8822,11 @@ card:
 		overlay: 
 	notes:
 		!design Scribbl
+		!update nerfed: Demigod ability was {1}{R}{G}: Whenever a land you control enters this turn, it deals 3 damage to up to one target creature or planeswalker.
 		
 		!inpend od\\n/replace/od — 
 	time_created: 2021-05-03 20:03:44
-	time_modified: 2024-11-30 22:04:00
+	time_modified: 2026-04-01 18:13:02
 	name: Zhu Bajie, Shepherd of Stone
 	casting_cost: 1RG
 	image: image214
@@ -8837,14 +8838,16 @@ card:
 	rarity: mythic rare
 	chapter_text: <kw-A><nospellcheck><key>Transcend</key></nospellcheck><atom-reminder-custom> <i-auto>(Activate as a sorcery to gain the next type and a +1/+1 counter.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text: 
+	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
 	level_2: Demigod
 	level_3: God
 	level_1_text: You may play an additional land on each of your turns.
-	level_2_text: <margin:0:0:30>Whenever a land you control enters this turn, it deals 3 damage to up to one target creature or planeswalker.</margin:0:0:30>
+	level_2_text: <margin:0:0:30>Exile the top two cards of your library. You may play those cards until the end of your next turn.</margin:0:0:30>
 	level_3_text: <margin:0:0:30>Until end of turn, lands you control become 3/3 Spirit creatures with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> that are still lands. Untap them.</margin:0:0:30>
 	level_4_text: 
-	level_9_text: <sym>1RG</sym>:
+	level_9_text: <sym>2RG</sym>:
 	level_10_text: <sym>6RG</sym>:
 	power: 3
 	toughness: 4
@@ -8858,8 +8861,8 @@ card:
 	special_text:
 		<kw-A><nospellcheck><key>Transcend</key></nospellcheck><atom-reminder-custom> <i-auto>(Activate as a sorcery to gain the next type and a +1/+1 counter.)</i-auto></atom-reminder-custom></kw-A>
 		You may play an additional land on each of your turns.
-		<sym>1RG</sym>: Demigod
-		<margin:0:0:30>Whenever a land you control enters this turn, it deals 3 damage to up to one target creature or planeswalker.</margin:0:0:30>
+		<sym>2RG</sym>: Demigod
+		<margin:0:0:30>Exile the top two cards of your library. You may play those cards until the end of your next turn.</margin:0:0:30>
 		<sym>6RG</sym>: God
 		<margin:0:0:30>Until end of turn, lands you control become 3/3 Spirit creatures with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> that are still lands. Untap them.</margin:0:0:30>
 

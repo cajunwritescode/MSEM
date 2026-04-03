@@ -1029,9 +1029,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update nerfed: Previously searched each player’s library for a card.
 	time_created: 2018-03-28 19:49:32
-	time_modified: 2021-05-31 20:47:27
+	time_modified: 2026-04-01 18:08:33
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/Her
@@ -1050,7 +1050,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Siesa Tremund</nospellcheck></atom-cardname> enters, for each player, search that player’s library for a card and exile it. That player shuffles. You may play those cards for as long as they remain exiled, and you may spend mana as though it were mana of any type to cast those spells.
+		When <atom-cardname><nospellcheck>Siesa Tremund</nospellcheck></atom-cardname> enters, search target opponent’s library for up to three cards with different names. That player shuffles, then may put one of those cards into their hand. You may play the rest for as long as they remain exiled, and you may spend mana as though it were mana of any type to cast those spells.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

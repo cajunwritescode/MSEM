@@ -16610,9 +16610,11 @@ card:
 
 card:
 	has_styling: false
-	notes: Slot 26	‎ 	Green	‎ 	Uncommon	‎ 	Noncreature (Any MV)																						
+	notes:
+		Slot 26	‎ 	Green	‎ 	Uncommon	‎ 	Noncreature (Any MV)																						
+		!update reworked: Used to look at top four and put the permanent into play instead of hand if its mana value was less than or equal to your devotion to green.
 	time_created: 2025-12-02 18:54:54
-	time_modified: 2026-01-31 19:08:04
+	time_modified: 2026-04-01 18:02:22
 	name: Earthly Divination
 	casting_cost: 1G
 	image: image58
@@ -16628,8 +16630,8 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: Look at the top four cards of your library. You may reveal a permanent card from among them and put it into your hand. If its mana value is less than or equal to your <kw-A><nospellcheck><key>devotion to <param-one_word>green</param-one_word></key></nospellcheck>, you may put it onto the battlefield instead. Put the rest on the bottom in a random order.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>G</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>green</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
-	flavor_text: <i-flavor>“Before there were gods, there was the world.”</i-flavor>
+	rule_text: Look at the top X cards of your library, where X is four plus your <kw-A><nospellcheck><key>devotion to <param-one_word>green</param-one_word></key></nospellcheck>. You may reveal a permanent card from among them. If it’s a land card, you may put it onto the battlefield tapped. Otherwise, put it into your hand. Put the rest on the bottom in a random order.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>G</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>green</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
+	flavor_text: <i-flavor></i-flavor>
 	illustrator: Daria Khlebnikova
 	card_code_text: RickyRister
 	card_code_text_2: 
@@ -17927,8 +17929,9 @@ card:
 		!BonusSheet
 		!design n3onblue
 		Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.
+		!update nerfed: Lucid only applies when cast from your hand or exile now.
 	time_created: 2025-01-14 18:20:13
-	time_modified: 2026-01-31 20:01:23
+	time_modified: 2026-04-01 18:05:40
 	name: Shredded Memory
 	casting_cost: UR
 	image: image96
@@ -17949,7 +17952,7 @@ card:
 		<margin:0:0:5>Choose two. You may choose the same mode more than once.</margin:0:0:5>
 		<li><bullet>• </bullet>Draw a card
 		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Shredded Memory</nospellcheck></atom-cardname> deals 2 damage to any target.
-		<margin:0:0:5></li>Lucid <i-auto>(Then exile this spell. As you cast another modal spell, you may put this card into your graveyard to add one of its modes to its list of choices.)</i-auto></margin:0:0:5>
+		<margin:0:0:5></li>Lucid <i-auto>(Then exile this spell if you cast it from your hand or from exile. As you cast another modal spell, you may put this card into your graveyard to add one of its modes to its list of choices.)</i-auto></margin:0:0:5>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Bassem Khaled
 	partition_select: after normal, main set E

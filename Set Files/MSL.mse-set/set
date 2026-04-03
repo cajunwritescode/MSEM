@@ -127,7 +127,6 @@ card:
 	notes:
 		!GU Ramp
 		!FT:splashcat
-
 	time_created: 2023-10-25 14:14:20
 	time_modified: 2026-01-31 16:51:05
 	name: Olten Tarrasque
@@ -5657,9 +5656,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !Generic
+	notes:
+		!Generic
+		!update
 	time_created: 2023-11-18 08:21:20
-	time_modified: 2023-11-25 15:01:46
+	time_modified: 2026-04-01 17:49:37
 	name: Deadwood Terror
 	casting_cost: 1B
 	image: image169
@@ -5670,7 +5671,6 @@ card:
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
 		When Deadwood Terror enters from a graveyard, create two tokens that are copies of it.
 		<sym-auto>4BB</sym-auto>, Sacrifice a creature: Return Deadwood Terror from your graveyard to the battlefield. Activate only as a sorcery.
 	flavor_text: <i-flavor></i-flavor>
@@ -8785,9 +8785,11 @@ card:
 		frames: copy, M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !Generic
+	notes:
+		!Generic
+		!update
 	time_created: 2023-11-18 08:21:20
-	time_modified: 2023-12-29 16:55:46
+	time_modified: 2026-04-01 17:49:45
 	card_color: black
 	name: Deadwood Terror
 	casting_cost: 1B
@@ -8798,7 +8800,7 @@ card:
 	super_type: <word-list-type-en>Token Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Zombie</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: <kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -10810,9 +10812,9 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I — Create two 1/1 white Human creature tokens.
-		II — Put a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on target creature you control. It becomes a legendary God in addition to its other types.
-		III — Exile target creature an opponent controls that’s a God or that has power 4 or greater.
+		Create two 1/1 white Human creature tokens.
+		Put a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on target creature you control. It becomes a legendary God in addition to its other types.
+		Exile target creature an opponent controls that’s a God or that has power 4 or greater.
 
 card:
 	stylesheet: m15-mainframe-tokens
@@ -14686,7 +14688,7 @@ card:
 	special_text:
 		<i-auto>(As this <kw-0><nospellcheck><key>Discovery</key></nospellcheck></kw-0> enters and after your draw step, add a progress counter. Stop after you’ve discovered.)</i-auto>
 		<kw-A><nospellcheck><key>Archive <param-number>6</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(As this enters, shuffle the top <param-number>six</param-number> cards of your main library into a new face up library. Sacrifice this after the archived library is empty.)</i-auto></atom-reminder-custom></kw-A>
-		I, II — Draw a card from each of your libraries.
+		Draw a card from each of your libraries.
 		Discovery — When you draw the last card from the archived library, create a 4/4 blue Sphinx Wizard creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 
 card:
@@ -14734,9 +14736,9 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this <kw-0><nospellcheck><key>Discovery</key></nospellcheck></kw-0> enters and after your draw step, add a progress counter. Stop after you’ve discovered.)</i-auto>
-		I — Target creature or planeswalker you control <kw-0><nospellcheck><key>explores</key></nospellcheck></kw-0>.
+		Target creature or planeswalker you control <kw-0><nospellcheck><key>explores</key></nospellcheck></kw-0>.
 		You may play an additional land this turn.
-		II, III, Discovery — At the beginning of your upkeep, if you control seven or more differently named permanents, create a 1/1 Scout creature token that’s all colors.
+		Discovery — At the beginning of your upkeep, if you control seven or more differently named permanents, create a 1/1 Scout creature token that’s all colors.
 
 card:
 	has_styling: true
