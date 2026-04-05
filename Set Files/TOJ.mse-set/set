@@ -3048,7 +3048,7 @@ card:
 	has_styling: false
 	notes:
 		!Guest 
-		
+
 	time_created: 2018-01-27 22:57:13
 	time_modified: 2026-01-31 22:46:59
 	name: Hundred-Year Blade
@@ -5070,9 +5070,9 @@ card:
 
 card:
 	has_styling: false
-	notes: #GW
+	notes: #GW !update nerfed: no longer tutors to hand
 	time_created: 2018-06-06 11:31:40
-	time_modified: 2020-05-01 00:28:35
+	time_modified: 2026-04-04 22:29:15
 	name: Sevenfold Summoner
 	casting_cost: 1G
 	image: image156
@@ -5082,7 +5082,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: Once each turn, when another creature you control enters, you may search your library for a card with the same name as that creature, reveal it, put it into your hand, then shuffle.
+	rule_text: Once each turn, when another creature you control enters, you may search your library for a card with the same name as that creature, reveal it, shuffle, then put it on top of your library.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 3

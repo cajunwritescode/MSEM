@@ -2357,9 +2357,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !design Timespiraled
+	notes:
+		!design Timespiraled
+		!update
 	time_created: 2019-08-07 11:39:28
-	time_modified: 2021-01-31 20:45:22
+	time_modified: 2026-04-04 22:29:55
 	name: Sevenfold Summoner
 	casting_cost: 1G
 	image: image87
@@ -2369,7 +2371,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: Once each turn, when another creature you control enters, you may search your library for a card with the same name as that creature, reveal it, put it into your hand, then shuffle.
+	rule_text: Once each turn, when another creature you control enters, you may search your library for a card with the same name as that creature, reveal it, shuffle, then put it on top of your library.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 3
