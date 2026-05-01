@@ -1008,7 +1008,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Samurai</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: As long as <atom-cardname><nospellcheck>Kareki Wanderer</nospellcheck></atom-cardname> is embattled, it has <kw-0><nospellcheck><key>protection from <param-name>noncreature spells.</param-name></key></nospellcheck></kw-0> <i-auto>(A creature is embattled if it has a counter on it or has a permanent you control attached to it.)</i-auto>
+	rule_text: As long as <atom-cardname><nospellcheck>Kareki Wanderer</nospellcheck></atom-cardname> is embattled, it has <kw-0><nospellcheck><key>protection from <param-name>noncreature spells</param-name>.</key></nospellcheck></kw-0> <i-auto>(A creature is embattled if it has a counter on it or has a permanent you control attached to it.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -1564,10 +1564,10 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		
+		 nerfed: Now reanimates total mv X instead of both being mv X.
 		!inpend : ([^ \n]+)\\n(.)/replace/: \1 — \2
 	time_created: 2023-11-25 21:12:34
-	time_modified: 2026-03-04 17:20:00
+	time_modified: 2026-04-22 01:07:50
 	name: Maghbri Votary
 	casting_cost: 1B
 	image: image18.png
@@ -1590,7 +1590,7 @@ card:
 	level_3: Shaman
 	level_4: 
 	level_1_text: When <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> enters and at the beginning of your upkeep, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-	level_2_text: <margin:0:0:30>Return up to two target creature cards not named <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> with mana value X or less from your graveyard to the battlefield.</margin:0:0:30>
+	level_2_text: <margin:0:0:30>Return up to two target creature cards not named <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> with total mana value X or less from your graveyard to the battlefield.</margin:0:0:30>
 	level_3_text: <margin:0:0:30>Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>X</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, where X is the number of cards in your graveyard.</margin:0:0:30>
 	level_4_text: 
 	level_9_text: <sym-auto>XW</sym-auto>:
@@ -1611,7 +1611,7 @@ card:
 		<kw-A><nospellcheck><key>Diverge</key></nospellcheck><atom-reminder-custom> <i-auto>(Pick only one path as a sorcery to gain that type and a +1/+1 counter.)</i-auto></atom-reminder-custom></kw-A>
 		When <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> enters and at the beginning of your upkeep, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		<sym-auto>XW</sym-auto>: Zombie
-		<margin:0:0:30>Return up to two target creature cards not named <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> with mana value X or less from your graveyard to the battlefield.</margin:0:0:30>
+		<margin:0:0:30>Return up to two target creature cards not named <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> with total mana value X or less from your graveyard to the battlefield.</margin:0:0:30>
 		<sym-auto>3U</sym-auto>: Shaman
 		<margin:0:0:30>Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>X</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, where X is the number of cards in your graveyard.</margin:0:0:30>
 
@@ -2725,7 +2725,7 @@ card:
 		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
 		Enchanted land is snow.
 		Whenever enchanted land becomes tapped for mana, its controller adds an additional <sym-auto>C</sym-auto>.
-		<i>Flurry </i>— Whenever you cast your second spell each turn, untap enchanted land.
+		<i><kw-A><i-auto><nospellcheck><key>Flurry</key></nospellcheck></i-auto></kw-A> </i>— Whenever you cast your second spell each turn, untap enchanted land.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Giulia Gentilini
 	illustrator_brush: art old
@@ -2860,7 +2860,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Harness <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto>
+		<kw-A><nospellcheck><key>Harness</key></nospellcheck> <i-auto>(You may tap a creature you control as you cast this spell. If you do, reduce this spell’s mana cost by that creature’s power.)</i-auto><atom-reminder-expert> <i-auto>(Once harnessed, its [INF] ability is active.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Relic of Wachibal</nospellcheck></atom-cardname> enters, you gain X life, where X is the amount of mana spent to cast it.
 	flavor_text: <i-flavor></i-flavor>
@@ -3026,7 +3026,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rule_text:
-		Equipped creature gets +2/+2 and has <kw-0><nospellcheck><key>protection from <param-name>activated and triggered abilities.</param-name></key></nospellcheck></kw-0>
+		Equipped creature gets +2/+2 and has <kw-0><nospellcheck><key>protection from <param-name>activated and triggered abilities</param-name>.</key></nospellcheck></kw-0>
 		Whenever equipped creature deals combat damage to a player, put two +1/+1 counters on it. Once this turn, you may activate one of its activated abilities without paying that ability’s cost.
 		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
@@ -3269,7 +3269,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Living ritual</key></nospellcheck><atom-reminder-custom> <i-auto>(When this Equipment enters, create a 1/0 red Devil creature token or a token copy of Sulmina, the Final Age, then attach this to it.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +2/+2 and has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
-		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym>.</param-name> <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
+		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym></param-name>. <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
@@ -4365,7 +4365,7 @@ card:
 		overlay: 
 	notes:
 		!check zangy
-		
+
 	time_created: 2024-12-05 22:03:10
 	time_modified: 2026-03-04 17:14:14
 	card_color_2: green
@@ -4387,7 +4387,7 @@ card:
 	rule_text: 
 	rule_text_2:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Union Organizers</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		Whenever <atom-cardname><nospellcheck>Union Organizers</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor>Sometimes a drink between friends is the first step to changing the world.</i-flavor>
 	level_1_text: Create two 1/1 white Citizen creature tokens.
@@ -4404,9 +4404,9 @@ card:
 	card_code_text_3: 
 	special_text:
 		<kw-0><nospellcheck><key>Read ahead</key></nospellcheck></kw-0><> <i-auto>(Choose a chapter and start with that many lore counters. Add one after your draw step. Skipped chapters don’t trigger.)</i-auto>
-		I — Create two 1/1 white Citizen creature tokens.
-		II — For each Citizen creature you control, you gain 1 life and put a +1/+1 counter on that creature.
-		III — Exile this Saga, then return it to the battlefield transformed under your control.
+		Create two 1/1 white Citizen creature tokens.
+		For each Citizen creature you control, you gain 1 life and put a +1/+1 counter on that creature.
+		Exile this Saga, then return it to the battlefield transformed under your control.
 
 card:
 	has_styling: false
@@ -6415,7 +6415,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Living ritual</key></nospellcheck><atom-reminder-custom> <i-auto>(When this Equipment enters, create a 1/0 red Devil creature token or a token copy of Sulmina, the Final Age, then attach this to it.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +2/+2 and attacks each combat if able.
-		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym>.</param-name> <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
+		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym></param-name>. <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
@@ -6493,7 +6493,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Living ritual</key></nospellcheck><atom-reminder-custom> <i-auto>(When this Equipment enters, create a 1/0 red Devil creature token or a token copy of Sulmina, the Final Age, then attach this to it.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +1/+1 and has “Whenever this creature attacks, it deals 2 damage to defending player.”
-		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym>.</param-name> <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
+		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym></param-name>. <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
@@ -6576,7 +6576,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Living ritual</key></nospellcheck><atom-reminder-custom> <i-auto>(When this Equipment enters, create a 1/0 red Devil creature token or a token copy of Sulmina, the Final Age, then attach this to it.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +3/+3 and has “Whenever this creature attacks, you draw a card and you lose 1 life.”
-		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym>.</param-name> <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
+		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym></param-name>. <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
@@ -6617,7 +6617,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Living ritual</key></nospellcheck><atom-reminder-custom> <i-auto>(When this Equipment enters, create a 1/0 red Devil creature token or a token copy of Sulmina, the Final Age, then attach this to it.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +1/+1 and has “Whenever this creature is dealt damage, it deals that much damage to you.”
-		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym>.</param-name> <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
+		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym></param-name>. <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
@@ -6666,7 +6666,7 @@ card:
 		<kw-A><nospellcheck><key>Living ritual</key></nospellcheck><atom-reminder-custom> <i-auto>(When this Equipment enters, create a 1/0 red Devil creature token or a token copy of Sulmina, the Final Age, then attach this to it.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +2/+2 and has <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>.
 		Whenever an ability of equipped creature is activated or triggered, copy that ability. You may choose new targets for the copy.
-		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym>.</param-name> <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
+		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym></param-name>. <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
@@ -6707,7 +6707,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Living ritual</key></nospellcheck><atom-reminder-custom> <i-auto>(When this Equipment enters, create a 1/0 red Devil creature token or a token copy of Sulmina, the Final Age, then attach this to it.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +2/+2 and has “Whenever this creature deals damage to a player, it deals that much damage to up to one <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonplayer</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> target.”
-		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym>.</param-name> <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
+		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym></param-name>. <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
@@ -6755,7 +6755,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Living ritual</key></nospellcheck><atom-reminder-custom> <i-auto>(When this Equipment enters, create a 1/0 red Devil creature token or a token copy of Sulmina, the Final Age, then attach this to it.)</i-auto></atom-reminder-custom></kw-A>
 		Equipped creature gets +2/+2 and has “Artifact spells you cast cost <sym-auto>1</sym-auto> less to cast.”
-		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym>.</param-name> <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
+		<kw-a><nospellcheck><key>Equip <param-name><sym>3</sym></param-name>. <param-cost>This</param-cost></key></nospellcheck></kw-a> ability costs <sym-auto>3</sym-auto> less to activate if it targets a Demon.
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>

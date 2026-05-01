@@ -564,7 +564,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		Equipped creature gets +2/+2 and has <kw-0><nospellcheck><key>protection from <param-name>blue and from black.</param-name></key></nospellcheck></kw-0> <i-auto>(It can’t be targeted, dealt damage, enchanted, or equipped by anything blue or black.)</i-auto>
+		Equipped creature gets +2/+2 and has <kw-0><nospellcheck><key>protection from <param-name>blue and from black</param-name>.</key></nospellcheck></kw-0> <i-auto>(It can’t be targeted, dealt damage, enchanted, or equipped by anything blue or black.)</i-auto>
 		Whenever equipped creature deals combat damage to a player, <atom-cardname><nospellcheck>Sword of Fanaticism</nospellcheck></atom-cardname> deals 3 damage to up to one target creature and you gain 3 life.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>RW</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
@@ -5905,7 +5905,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		Target permanent you control gains <kw-0><nospellcheck><key>protection from <param-name>your opponents until end of turn.</param-name></key></nospellcheck></kw-0>
+		Target permanent you control gains <kw-0><nospellcheck><key>protection from <param-name>your opponents until end of turn</param-name>.</key></nospellcheck></kw-0>
 		Draw a card.
 	flavor_text: <i-flavor>Mirages contain many surprises.</i-flavor>
 	illustrator: Aaron Miller
@@ -8842,7 +8842,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-01-16 19:52:49
-	time_modified: 2021-06-30 17:21:31
+	time_modified: 2026-04-22 14:35:41
 	card_color: land
 	name: Nizev Citadel
 	image: image321
@@ -8854,7 +8854,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Satrapies</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control have “<sym-auto>U</sym-auto>, <sym-auto>T</sym-auto>: Each opponent <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Satrapies</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control have “<sym-auto>U</sym-auto>, <sym-auto>T</sym-auto>: Each opponent <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.”
 	flavor_text:
 		<i-flavor>“Listen not to the deceivers of the ear. My word is strong and clear. Listen to me and prosper.”<soft-line>
 		</soft-line>—<error-spelling:en_US>Rahstahde</error-spelling:en_US>, Word of Truth</i-flavor>

@@ -8822,7 +8822,7 @@ card:
 		overlay: 
 	notes:
 		!design Scribbl
-		!update nerfed: Demigod ability was {1}{R}{G}: Whenever a land you control enters this turn, it deals 3 damage to up to one target creature or planeswalker.
+		 nerfed: Demigod ability was {1}{R}{G}: Whenever a land you control enters this turn, it deals 3 damage to up to one target creature or planeswalker.
 		
 		!inpend od\\n/replace/od — 
 	time_created: 2021-05-03 20:03:44

@@ -1902,7 +1902,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Generous Hermit</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+	rule_text: When <atom-cardname><nospellcheck>Generous Hermit</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“Be wary of hermits. They hide beneath a veneer of society, but have all been consumed by the <error-spelling:en_US>Wiedfree</error-spelling:en_US>.” <soft-line>
 		</soft-line>—Tales of the Wild Vol. II</i-flavor>
@@ -3680,7 +3680,7 @@ card:
 	sub_type: <word-list-artifact>Clue</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rule_text:
 		<sym-auto>2</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Research Aquarium</nospellcheck></atom-cardname>: Draw a card.
-		When <atom-cardname><nospellcheck>Research Aquarium</nospellcheck></atom-cardname> is put into a graveyard from the battlefield, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Research Aquarium</nospellcheck></atom-cardname> is put into a graveyard from the battlefield, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Grace Liu
 	card_code_text: 
@@ -4027,7 +4027,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		Whenever you cast your first spell each turn, add <sym-auto>UU</sym-auto>, <sym-auto>UR</sym-auto>, or <sym-auto>RR</sym-auto>.
-		Whenever you cast your second spell each turn, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		Whenever you cast your second spell each turn, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 		Whenever you cast your third spell each turn, <atom-cardname><nospellcheck>Stirring Igmel</nospellcheck></atom-cardname> deals 3 damage to each opponent.
 	rule_text_2: 
 	rule_text_3: 
@@ -4422,7 +4422,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Hallowed Perspective</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Hallowed Perspective</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 		You may <kw-A><nospellcheck><key>exert</key></nospellcheck> <atom-cardname><nospellcheck>Hallowed Perspective</nospellcheck></atom-cardname> as it attacks. When you do, until your next turn, you may cast spells as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.<atom-reminder-action> <i-auto>(An exerted creature won’t untap during your next untap step.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -6142,7 +6142,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Elemental, Demon, and Spirit spells you cast cost <sym-auto>1</sym-auto> less to cast.
-		Whenever you cast a Elemental, Demon, or Spirit spell, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		Whenever you cast a Elemental, Demon, or Spirit spell, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
@@ -6517,7 +6517,7 @@ card:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-0><nospellcheck><key>ward <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
 		<margin:0:0:5>Whenever <atom-cardname><nospellcheck>Faraway Albatross</nospellcheck></atom-cardname> attacks, choose one —</margin:0:0:5>
 		<li><bullet>• </bullet><atom-cardname><nospellcheck>Faraway Albatross</nospellcheck></atom-cardname> gets +1/+1 until end of turn for each spell you’ve cast this turn.
-		</li><li><bullet>• </bullet><kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1></li>
+		</li><li><bullet>• </bullet><kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1></li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -6957,8 +6957,9 @@ card:
 	notes:
 		!exportname The Pursuit of Science
 		!note italic
+		
 	time_created: 2023-12-22 01:36:24
-	time_modified: 2024-06-11 20:50:58
+	time_modified: 2026-04-22 00:38:26
 	name: <i>The Pursuit of Science</i>
 	casting_cost: GU
 	image: image119
@@ -6966,10 +6967,16 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Whenever <atom-cardname><nospellcheck><i>The Pursuit of Science</i></nospellcheck></atom-cardname> enters or a nontoken creature you control dies, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		Whenever <atom-cardname><nospellcheck><i>The Pursuit of Science</i></nospellcheck></atom-cardname> enters or a nontoken creature you control dies, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 		Clues you control have “<sym-auto>1</sym-auto>, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.”
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Dimitri Bielak
@@ -7584,7 +7591,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Strange Sights</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Strange Sights</nospellcheck></atom-cardname> dies, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

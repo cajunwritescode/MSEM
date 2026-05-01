@@ -1311,7 +1311,7 @@ card:
 	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		Whenever two or more creatures an opponent controls attack, adjudicate. <i-auto>(Create a white Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>creature and “Sacrifice this token:</param-name></key></nospellcheck></kw-a> Untap enchanted creature” attached to target creature.)</i-auto>
+		Whenever two or more creatures an opponent controls attack, adjudicate. <i-auto>(Create a white Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>creature and “Sacrifice this token</param-name>:</key></nospellcheck></kw-a> Untap enchanted creature” attached to target creature.)</i-auto>
 		Enchanted creatures you control get +0/+2.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -2686,7 +2686,6 @@ card:
 	notes:
 		!GU 
 		!design Timespiraled
-
 	time_created: 2018-12-22 15:07:37
 	time_modified: 2025-10-28 23:09:05
 	name: Past, Present, Future
@@ -3452,7 +3451,7 @@ card:
 	notes:
 		!A 
 		!design Sylph
-		
+
 	time_created: 2018-12-22 15:16:43
 	time_modified: 2026-01-31 22:47:08
 	name: Hundred-Year Blade
@@ -5730,7 +5729,7 @@ card:
 		!A
 		!design Korakhos
 	time_created: 2018-08-26 11:18:33
-	time_modified: 2020-07-01 21:12:30
+	time_modified: 2026-04-22 00:41:50
 	name: Dusty Record
 	casting_cost: 1
 	image: image212
@@ -5738,7 +5737,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Target player <kw-0><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-0>.
@@ -8542,7 +8547,7 @@ card:
 	rarity: rare
 	rule_text:
 		Auras and Equipment you control have <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
-		Whenever <atom-cardname><nospellcheck>Bearidge Marshall</nospellcheck></atom-cardname> attacks, you may create a white Aura enchantment token named Arrest attached to target creature. It has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature can’t attack or block, and its activated abilities can’t be activated.</param-name></key></nospellcheck></kw-a>”
+		Whenever <atom-cardname><nospellcheck>Bearidge Marshall</nospellcheck></atom-cardname> attacks, you may create a white Aura enchantment token named Arrest attached to target creature. It has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature can’t attack or block, and its activated abilities can’t be activated</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 6

@@ -2169,9 +2169,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!design Cajun
-		
+	notes: !design Cajun
 	time_created: 2024-09-08 09:50:03
 	time_modified: 2026-03-04 17:15:14
 	extra_data:
@@ -2481,7 +2479,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
-		Other creatures you control have <kw-0><nospellcheck><key>protection from <param-name>mana value 3 or greater.</param-name></key></nospellcheck></kw-0>
+		Other creatures you control have <kw-0><nospellcheck><key>protection from <param-name>mana value 3 or greater</param-name>.</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor>“Whatever choices I make during this war, they will be done so that my people will be alive to judge them.”</i-flavor>
 	power: 2
 	toughness: 1
@@ -3904,7 +3902,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2024-09-08 09:50:03
-	time_modified: 2024-12-22 10:06:40
+	time_modified: 2026-04-22 22:09:16
 	name: Megalokraken
 	casting_cost: 3UU
 	image: image160
@@ -3922,7 +3920,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Colossal <param-number>4</param-number>—<param-mana><sym-auto>5UUU</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this for its colossal cost to have it enter with <param-number>four</param-number> +1/+1 counters; or pay <param-mana><sym-auto>5UUU</sym-auto></param-mana> as a sorcery: Put <param-number>four</param-number> +1/+1 counters on it if it has none.)</i-auto></atom-reminder-custom></kw-A>
-		Whenever <atom-cardname><nospellcheck>Megalokraken</nospellcheck></atom-cardname> enters or attacks, reveal the top X cards of your library, where X is <atom-cardname><nospellcheck>Megalokraken</nospellcheck></atom-cardname>’s power. You may cast a noncreature spell with mana value X or less from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.
+		Whenever <atom-cardname><nospellcheck>Megalokraken</nospellcheck></atom-cardname> enters after being cast or attacks, reveal the top X cards of your library, where X is <atom-cardname><nospellcheck>Megalokraken</nospellcheck></atom-cardname>’s power. You may cast a noncreature spell with mana value X or less from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5
@@ -3939,9 +3937,7 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
 	has_styling: false
-	notes:
-		!FT: n3onblue
-		
+	notes: !FT: n3onblue
 	time_created: 2024-09-08 09:50:03
 	time_modified: 2026-03-04 17:18:34
 	name: Mischievous Sprite
@@ -4050,7 +4046,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		Ocean’s Edge Kraken enters with a <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> counter on it.
-		<sym-auto>6UU</sym-auto>, Remove a <kw-a><nospellcheck><key>hexproo<param-name>f counter</param-name> from <param-name>Ocean’s Edge Kraken:</param-name></key></nospellcheck></kw-a> Return all other creatures to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands.
+		<sym-auto>6UU</sym-auto>, Remove a <kw-a><nospellcheck><key>hexproo<param-name>f counter</param-name> from <param-name>Ocean’s Edge Kraken</param-name>:</key></nospellcheck></kw-a> Return all other creatures to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands.
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
 	toughness: 5
@@ -5077,9 +5073,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		use_flash_dot: no
 		overlay: 
-	notes: !FT: Mako
+	notes:
+		!FT: Mako
+		
 	time_created: 2024-09-08 09:50:03
-	time_modified: 2024-12-22 11:33:34
+	time_modified: 2026-04-22 00:20:39
 	name: Channeler of the Veil
 	casting_cost: 1B
 	image: image191
@@ -5097,7 +5095,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>Channeler of the Veil</nospellcheck></atom-cardname> enters, create a 1/1 colorless Construct artifact creature token.
-		Sacrifice another creature: Each opponent loses 1 life.
+		Sacrifice another creature: Each opponent loses 1 life. Activate only once each turn.
 	flavor_text: <i-flavor>Captive performers for a captivated audience.</i-flavor>
 	power: 1
 	toughness: 1
@@ -6577,7 +6575,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-09-08 09:50:03
-	time_modified: 2024-12-22 10:16:13
+	time_modified: 2026-04-22 00:32:57
 	name: Shikai Revenant
 	casting_cost: B
 	image: image228
@@ -6595,7 +6593,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-cardname><nospellcheck>Shikai Revenant</nospellcheck></atom-cardname> enters tapped.
-		At the beginning of your end step, if an opponent lost life this turn, you may return <atom-cardname><nospellcheck>Shikai Revenant</nospellcheck></atom-cardname> from your graveyard to your hand.
+		At the beginning of your end step, if an opponent lost 3 or more life this turn, you may return <atom-cardname><nospellcheck>Shikai Revenant</nospellcheck></atom-cardname> from your graveyard to your hand.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -7379,7 +7377,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2024-09-08 09:50:03
-	time_modified: 2024-12-22 10:18:09
+	time_modified: 2026-04-30 12:51:38
 	name: Exhilarating Prescience
 	casting_cost: 1RR
 	image: image251
@@ -7396,8 +7394,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever you cast a spell, put a lore counter on Exhilarating Prescience.
-		At the beginning of your upkeep, exile the top X cards of your library, where X is the number of lore counters on Exhilarating Prescience. You may play those cards until your next turn.
+		When Exhilarating Prescience enters and whenever you cast a spell, put a lore counter on Exhilarating Prescience.
+		At the beginning of your upkeep, exile the top X cards of your library, where X is the number of lore counters on Exhilarating Prescience. You may play one of those cards until your next turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Risachantag
 	custom_card_number: 
@@ -8074,9 +8072,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !addtoken UncounterableFunction;1;ReductionFunction;1;AmplifyFunction;1
+	notes:
+		
+		!addtoken UncounterableFunction;1;ReductionFunction;1;AmplifyFunction;1
 	time_created: 2022-06-17 19:07:23
-	time_modified: 2024-12-22 10:20:39
+	time_modified: 2026-04-21 23:31:38
 	name: Neon Claw Knight
 	casting_cost: 1R
 	image: image270
@@ -8091,7 +8091,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Neon Claw Knight</nospellcheck></atom-cardname> enters or attacks, choose one. Create a Function token with that effect.
+		Whenever <atom-cardname><nospellcheck>Neon Claw Knight</nospellcheck></atom-cardname> attacks, choose one. Create a Function token with that effect.
 		<li><bullet>• </bullet>This spell can’t be countered.
 		</li><li><bullet>• </bullet>This spell costs <sym-auto>R</sym-auto> less to cast.
 		</li><li><bullet>• </bullet>If this spell would deal damage to a permanent or player, it deals that much damage plus 1 instead.</li>
@@ -8556,7 +8556,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-09-04 16:22:20
-	time_modified: 2024-12-22 10:21:39
+	time_modified: 2026-04-22 00:30:21
 	card_color: red
 	name: Valeri Kripac
 	casting_cost: 1RR
@@ -8573,7 +8573,7 @@ card:
 	loyalty_cost_4: 
 	loyalty_cost_5: 
 	loyalty: 3
-	level_1_text: Whenever you cast a spell that targets, put a loyalty counter on <atom-cardname><nospellcheck>Valeri Kripac</nospellcheck></atom-cardname> and create a 1/1 white Soldier creature token.
+	level_1_text: Whenever you cast a spell that targets, create a 1/1 white Soldier creature token.
 	level_2_text: <margin:130:0:0>Add <sym-auto>R</sym-auto>. If you spend this mana on a spell that targets, that spell can’t be countered.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.</margin:130:0:0>
 	level_4_text: 
@@ -8587,7 +8587,7 @@ card:
 	copyright_2: ™ & © 2021 Wizards of the Coast
 	copyright_3: ™ & © 2021 Wizards of the Coast
 	special_text:
-		Whenever you cast a spell that targets, put a loyalty counter on <atom-cardname><nospellcheck>Valeri Kripac</nospellcheck></atom-cardname> and create a 1/1 white Soldier creature token.
+		Whenever you cast a spell that targets, create a 1/1 white Soldier creature token.
 		[+1]: <margin:130:0:0>Add <sym-auto>R</sym-auto>. If you spend this mana on a spell that targets, that spell can’t be countered.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.</margin:130:0:0>
 
@@ -9314,9 +9314,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		use_flash_dot: no
 		overlay: 
-	notes: !FT: Popcornia
+	notes:
+		!FT: Popcornia
+		
 	time_created: 2024-09-08 09:50:03
-	time_modified: 2024-12-22 11:55:12
+	time_modified: 2026-04-21 23:49:08
 	name: Field Tender
 	casting_cost: 1GG
 	image: image305
@@ -9334,7 +9336,7 @@ card:
 	rarity: rare
 	rule_text:
 		You may play lands from your graveyard.
-		Whenever a land you control enters, create a 1/1 white Peasant creature token.
+		Whenever you play a land, create a 1/1 white Peasant creature token.
 	flavor_text: <i-flavor>The sun rises, the sun sets, thus swiftly do the years, seasons, and generations fly.</i-flavor>
 	power: 1
 	toughness: 2
@@ -9835,7 +9837,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Blossom attached to target land. It has <kw-a><nospellcheck><key>enchant <param-name>land and “Enchanted land has ‘<sym>T</sym>:</param-name></key></nospellcheck></kw-a> Add <sym-auto>GG</sym-auto>.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”
+		When <atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Blossom attached to target land. It has <kw-a><nospellcheck><key>enchant <param-name>land and “Enchanted land has ‘<sym>T</sym></param-name>:</key></nospellcheck></kw-a> Add <sym-auto>GG</sym-auto>.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”
 		<atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> gets +1/+1 for each noncreature, nonland permanent you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -9886,11 +9888,13 @@ card:
 
 card:
 	has_styling: false
-	notes: !FT: Zangy
+	notes:
+		!FT: Zangy
+		
 	time_created: 2024-09-08 09:50:03
-	time_modified: 2024-12-25 19:39:25
+	time_modified: 2026-04-30 16:25:52
 	name: Primal Resurgence
-	casting_cost: G
+	casting_cost: 1G
 	image: image320
 	image_2: 
 	mainframe_image: 
@@ -9905,8 +9909,9 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
+		<kw-A><nospellcheck><key>Primal <param-cost><sym-auto>G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may cast this spell for <param-cost><sym-auto>G</sym-auto></param-cost> instead of playing a land.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
-		Enchanted land has “<sym-auto>T</sym-auto>: Add <sym-auto>GG</sym-auto>.”
+		Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
 	flavor_text:
 		<i-flavor>“Behold the pride of our future, grown from the seeds of our past.”<soft-line>
 		—</soft-line><error-spelling:en_US>Havdan</error-spelling:en_US>, <error-spelling:en_US>Dawnglade</error-spelling:en_US> <error-spelling:en_US>Elde</i-flavor></error-spelling:en_US>
@@ -9975,7 +9980,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Relentless Pathcutter</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Enmity attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+0 and has trample.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Relentless Pathcutter</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Enmity attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+0 and has trample</param-name>.</key></nospellcheck></kw-a>”
 		When <atom-cardname><nospellcheck>Relentless Pathcutter</nospellcheck></atom-cardname> dies, return it to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -10290,11 +10295,13 @@ card:
 
 card:
 	has_styling: false
-	notes: !FT: softwood1
+	notes:
+		!FT: softwood1
+		
 	time_created: 2024-09-08 09:50:03
-	time_modified: 2024-12-25 19:40:04
+	time_modified: 2026-04-21 23:47:54
 	name: Verdant Sanctuary
-	casting_cost: 1G
+	casting_cost: 2G
 	image: image331
 	image_2: 
 	mainframe_image: 
@@ -11873,9 +11880,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
 	has_styling: false
-	notes: !design DrChillbrain
+	notes:
+		!design DrChillbrain<soft-line>
+		</soft-line>
 	time_created: 2024-09-08 09:51:24
-	time_modified: 2024-12-22 10:41:02
+	time_modified: 2026-04-22 00:54:31
 	name: Barten’s Journal
 	casting_cost: 2
 	card_symbol: none
@@ -11884,7 +11893,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		Each planeswalker you control enters with an additional loyalty counter on it.
@@ -17714,8 +17729,9 @@ card:
 	notes:
 		!design gynoidpoet
 		!rejected
+		 nerfed: Was Memory {1}{U}{R}.
 	time_created: 2021-06-07 00:11:12
-	time_modified: 2024-12-30 22:38:12
+	time_modified: 2026-04-21 23:46:23
 	name: Lose Your Mind
 	casting_cost: UR
 	image: image59
@@ -17727,7 +17743,7 @@ card:
 	rarity: special
 	rule_text:
 		Draw two cards, then discard a card unless you have seven or more cards in your graveyard.
-		<kw-A><nospellcheck><key>Memory <param-cost><sym-auto>1UR</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card from your graveyard by paying its memory cost and discarding a card. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Memory <param-cost><sym-auto>3UR</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this card from your graveyard by paying its memory cost and discarding a card. Then exile it.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor>“I think I should listen to myself more.”</i-flavor>
 	illustrator: Anton Oxenuk
 	partition_select: after normal, main set C

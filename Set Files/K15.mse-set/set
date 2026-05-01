@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Core set K2015
 	description:
@@ -79,7 +79,7 @@ styling:
 		overlay: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -141,7 +141,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-07-02 22:26:48
@@ -568,7 +568,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-07-06 23:10:40
@@ -863,7 +863,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-07-08 13:06:11
@@ -1215,7 +1215,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-07-12 17:15:42
@@ -1421,7 +1421,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-07-13 19:37:06
@@ -1494,7 +1494,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-07-13 20:02:13
@@ -1890,7 +1890,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-09-07 21:25:07
@@ -1938,7 +1938,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-09-17 23:36:26
@@ -1988,7 +1988,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-09-17 23:48:19
@@ -2072,7 +2072,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-09-18 00:02:01
@@ -2122,7 +2122,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2157,7 +2157,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -2296,7 +2296,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: HQMSEM — "and gains trample"
 	time_created: 2015-09-21 23:39:30
@@ -2348,7 +2348,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -2483,7 +2483,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-09-23 14:41:55
@@ -2611,7 +2611,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-09-23 15:59:53
@@ -2685,7 +2685,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 10
@@ -2748,7 +2748,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-07-10 18:22:40
@@ -2780,7 +2780,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2816,7 +2816,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -2880,7 +2880,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-09-25 15:14:26
@@ -2985,7 +2985,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-07-15 15:21:15
@@ -3043,7 +3043,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 10
@@ -3237,7 +3237,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -3273,7 +3273,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-09-28 21:16:34
@@ -3305,7 +3305,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -3539,7 +3539,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-09-28 21:19:28
@@ -3569,7 +3569,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3606,7 +3606,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -3642,7 +3642,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3698,7 +3698,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: HQMSEM — "equal to that card’s"
 	time_created: 2015-10-01 16:31:54
@@ -3891,7 +3891,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -3929,7 +3929,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-10-05 22:27:36
@@ -4077,7 +4077,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4184,7 +4184,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2015-10-05 22:28:00
-	time_modified: 2018-04-17 21:26:33
+	time_modified: 2026-04-22 00:52:17
 	name: Logayr’s Tome
 	casting_cost: 3
 	image: image23
@@ -4193,8 +4193,12 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
@@ -4453,7 +4457,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-10-07 01:42:15
@@ -4486,7 +4490,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4555,7 +4559,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-10-10 01:16:24
@@ -4645,7 +4649,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 25
@@ -4729,7 +4733,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 1
@@ -4770,7 +4774,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4804,7 +4808,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-10-12 16:37:01
@@ -4888,7 +4892,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5003,7 +5007,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5099,7 +5103,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -5241,7 +5245,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5337,7 +5341,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-10-18 00:13:11
@@ -5391,7 +5395,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -5423,7 +5427,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-10-18 00:13:11
@@ -5479,7 +5483,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-07-03 21:21:14
@@ -5512,7 +5516,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-10-01 16:40:15
@@ -5570,7 +5574,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -5606,7 +5610,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2015-10-18 23:04:09
@@ -5763,7 +5767,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6174,7 +6178,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -6358,7 +6362,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: HQMSEM — I think a lot of the time this will read ’seven mana draw the game’
 	time_created: 2015-10-22 00:40:00
@@ -6455,7 +6459,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6550,7 +6554,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:45:27
 	time_modified: 2015-10-24 14:07:08
 	name: Plains
@@ -6574,7 +6578,7 @@ card:
 	has_styling: false
 	notes:
 		
-		
+
 	time_created: 2015-10-22 00:45:27
 	time_modified: 2015-10-24 17:30:42
 	name: Plains
@@ -6598,7 +6602,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:45:27
 	time_modified: 2015-10-24 17:36:22
 	name: Plains
@@ -6622,7 +6626,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:45:27
 	time_modified: 2015-10-29 23:36:16
 	name: Plains
@@ -6646,7 +6650,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:45:48
 	time_modified: 2015-10-24 14:23:09
 	name: Island
@@ -6670,7 +6674,7 @@ card:
 	has_styling: false
 	notes:
 		
-		
+
 	time_created: 2015-10-22 00:45:48
 	time_modified: 2015-10-24 14:31:06
 	name: Island
@@ -6694,7 +6698,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:45:48
 	time_modified: 2015-10-24 14:41:41
 	name: Island
@@ -6718,7 +6722,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:45:48
 	time_modified: 2015-10-24 15:14:16
 	name: Island
@@ -6742,7 +6746,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:46:17
 	time_modified: 2015-10-24 14:12:13
 	name: Swamp
@@ -6766,7 +6770,7 @@ card:
 	has_styling: false
 	notes:
 		
-		
+
 	time_created: 2015-10-22 00:46:17
 	time_modified: 2015-10-24 14:29:05
 	name: Swamp
@@ -6790,7 +6794,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:46:17
 	time_modified: 2015-11-01 16:00:21
 	name: Swamp
@@ -6814,7 +6818,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:46:17
 	time_modified: 2015-11-01 16:10:46
 	name: Swamp
@@ -6838,7 +6842,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:47:21
 	time_modified: 2015-11-01 13:44:24
 	name: Mountain
@@ -6862,7 +6866,7 @@ card:
 	has_styling: false
 	notes:
 		
-		
+
 	time_created: 2015-10-22 00:47:21
 	time_modified: 2015-10-24 14:17:19
 	name: Mountain
@@ -6886,7 +6890,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:47:21
 	time_modified: 2015-10-24 14:24:41
 	name: Mountain
@@ -6910,7 +6914,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:47:21
 	time_modified: 2021-08-25 16:45:58
 	name: Mountain
@@ -6956,7 +6960,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:47:44
 	time_modified: 2015-10-24 14:32:33
 	name: Forest
@@ -6980,7 +6984,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:47:44
 	time_modified: 2015-10-24 14:39:27
 	name: Forest
@@ -7004,7 +7008,7 @@ card:
 	has_styling: false
 	notes:
 		!addnum
-		
+
 	time_created: 2015-10-22 00:47:44
 	time_modified: 2015-10-24 14:54:33
 	name: Forest
@@ -7411,7 +7415,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: HQMSEM — "Until end of turn, target creature loses all abilities and has base power and toughness 1/1."
 	time_created: 2015-09-27 20:32:35

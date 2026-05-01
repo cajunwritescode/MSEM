@@ -1217,10 +1217,11 @@ card:
 	notes:
 		!GU Ramp
 		!FT:Nix
+		
 	time_created: 2023-10-30 09:39:52
-	time_modified: 2024-04-30 07:31:41
+	time_modified: 2026-04-30 12:34:31
 	name: Primal Resurgence
-	casting_cost: G
+	casting_cost: 1G
 	image: image108
 	image_2: 
 	mainframe_image: 
@@ -1228,8 +1229,9 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
+		<kw-A><nospellcheck><key>Primal <param-cost><sym-auto>G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may cast this spell for <param-cost><sym-auto>G</sym-auto></param-cost> instead of playing a land.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
-		Enchanted land has “<sym-auto>T</sym-auto>: Add <sym-auto>GG</sym-auto>.”
+		Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
 	flavor_text: <i-flavor>Her breath hitched. Tears formed at the edge of her eyes. She didn’t know so much green could exist in one place.</i-flavor>
 	illustrator: Kent Davis
 	custom_card_number: 
@@ -2284,10 +2286,10 @@ card:
 card:
 	has_styling: false
 	notes:
-		!Generic
+		!Generic 
 		!FT:augur
 	time_created: 2023-10-30 09:52:11
-	time_modified: 2023-11-25 21:39:46
+	time_modified: 2026-04-22 00:58:21
 	name: Tactician's Journal
 	casting_cost: 2
 	image: image117
@@ -2295,7 +2297,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text: Whenever you attack, you may draw a card. If you do, discard a card.
 	flavor_text:
 		<i-flavor>“Another giant spider?! <error-spelling:en_US>Vosh</error-spelling:en_US>, grab the aggro and make sure it doesn’t shoot webs. <error-spelling:en_US>Selvar</error-spelling:en_US>, you take care of the adds. I’ll start my DPS rotation.”<soft-line>
@@ -3176,7 +3184,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
 		Draw two cards, then discard two cards.
-		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>“Get this rubbish out of here and come back when you have a real thesis!”</i-flavor>
 	illustrator: SIXMOREVODKA
 	custom_card_number: 
@@ -4910,7 +4918,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Return all creatures with toughness 3 or less to their <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>owners’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> hands.
-		<kw-A><nospellcheck><key>Investigate</key></nospellcheck> three times.<atom-reminder-action> <i-auto>(To investigate, create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck> three times.<atom-reminder-action> <i-auto>(To investigate, create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Harkalé Linaï
 	custom_card_number: 
@@ -5656,9 +5664,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!Generic
-		!update
+	notes: !Generic
 	time_created: 2023-11-18 08:21:20
 	time_modified: 2026-04-01 17:49:37
 	name: Deadwood Terror
@@ -6622,9 +6628,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !Generic
+	notes:
+		!Generic
+		
 	time_created: 2023-11-25 16:12:31
-	time_modified: 2023-11-25 17:18:34
+	time_modified: 2026-04-21 23:51:53
 	name: Field Tender
 	casting_cost: 1GG
 	image: image275
@@ -6636,7 +6644,7 @@ card:
 	rarity: rare
 	rule_text:
 		You may play lands from your graveyard.
-		Whenever a land you control enters, create a 1/1 white Peasant creature token.
+		Whenever you play a land, create a 1/1 white Peasant creature token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
@@ -8785,9 +8793,7 @@ card:
 		frames: copy, M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		!Generic
-		!update
+	notes: !Generic
 	time_created: 2023-11-18 08:21:20
 	time_modified: 2026-04-01 17:49:45
 	card_color: black
@@ -10604,7 +10610,7 @@ card:
 	sub_type_4: 
 	rarity: special
 	rule_text:
-		When you draw your third card in a turn, if <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aryam</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> doesn’t have a stargazing counter, put one on him. He gains <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>instants.</param-name></key></nospellcheck></kw-a>
+		When you draw your third card in a turn, if <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aryam</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> doesn’t have a stargazing counter, put one on him. He gains <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>instants</param-name>.</key></nospellcheck></kw-a>
 		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aryam</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attacks, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>. If he has a stargazing counter, <kw-a><nospellcheck><key>scry <param-number>3</param-number></key></nospellcheck></kw-a> instead.
 		<sym-auto>2U</sym-auto>: Draw a card. Then discard a card unless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Aryam</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> has a stargazing counter.
 	flavor_text: <i-flavor></i-flavor>
@@ -15034,7 +15040,7 @@ card:
 	loyalty_cost_2: -1
 	loyalty: 3
 	level_1_text: Each planeswalker you control is an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Okus</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> in addition to its other types.
-	level_2_text: <margin:130:0:0>Search your library for a planeswalker card or an Aura card with <kw-a><nospellcheck><key>enchant <param-name>planeswalker, reveal it, and put it into your hand, then shuffle.</param-name></key></nospellcheck></kw-a></margin:130:0:0>
+	level_2_text: <margin:130:0:0>Search your library for a planeswalker card or an Aura card with <kw-a><nospellcheck><key>enchant <param-name>planeswalker, reveal it, and put it into your hand, then shuffle</param-name>.</key></nospellcheck></kw-a></margin:130:0:0>
 	level_3_text: <atom-cardname><nospellcheck>The Paragon of Haberdashery</nospellcheck></atom-cardname> can be your commander. If it is, it’s all colors.
 	level_4_text: 
 	level_5_text: 
@@ -15048,7 +15054,7 @@ card:
 	copyright_3: 
 	special_text:
 		Each planeswalker you control is an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Okus</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> in addition to its other types.
-		[-1]: <margin:130:0:0>Search your library for a planeswalker card or an Aura card with <kw-a><nospellcheck><key>enchant <param-name>planeswalker, reveal it, and put it into your hand, then shuffle.</param-name></key></nospellcheck></kw-a></margin:130:0:0>
+		[-1]: <margin:130:0:0>Search your library for a planeswalker card or an Aura card with <kw-a><nospellcheck><key>enchant <param-name>planeswalker, reveal it, and put it into your hand, then shuffle</param-name>.</key></nospellcheck></kw-a></margin:130:0:0>
 		<atom-cardname><nospellcheck>The Paragon of Haberdashery</nospellcheck></atom-cardname> can be your commander. If it is, it’s all colors.
 
 card:

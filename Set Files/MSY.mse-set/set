@@ -940,7 +940,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ramzi</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Traveling Merchant enters, adjudicate land. <i-auto>(Create a white enchantment Aura token with <kw-a><nospellcheck><key>enchant <param-name>land and “Sacrifice this token:</param-name></key></nospellcheck></kw-a> Untap enchanted land.” attached to target land.)</i-auto>
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ramzi</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Traveling Merchant enters, adjudicate land. <i-auto>(Create a white enchantment Aura token with <kw-a><nospellcheck><key>enchant <param-name>land and “Sacrifice this token</param-name>:</key></nospellcheck></kw-a> Untap enchanted land.” attached to target land.)</i-auto>
 		Whenever an Aura becomes attached to a land you control, create a 1/1 green Antelope creature token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
@@ -4897,7 +4897,7 @@ card:
 	rarity: rare
 	rule_text:
 		Draw two cards, then discard two cards.
-		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Agerkvist
 	partition_select: after normal, main set B
@@ -6119,9 +6119,11 @@ card:
 
 card:
 	has_styling: false
-	notes: HerziQuerzi
+	notes:
+		HerziQuerzi
+
 	time_created: 2025-12-27 11:32:29
-	time_modified: 2026-01-28 16:46:46
+	time_modified: 2026-04-30 12:59:30
 	name: Culminating Chaos
 	casting_cost: 1RR
 	image: image272.png
@@ -6141,7 +6143,7 @@ card:
 		<kw-A><nospellcheck><key>Escalate <param-cost><sym-auto>RR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Pay this cost for each mode chosen beyond the first.)</i-auto></atom-reminder-expert></kw-A>
 		<margin:0:0:5>Choose one or more. You may choose the same mode more than once.</margin:0:0:5>
 		<li><bullet>• </bullet>Culminating Chaos deals 2 damage to each creature and each planeswalker.
-		</li><li><bullet>• </bullet>Exile the top two cards of your library and add <sym-auto>RR</sym-auto>. Until end of turn, you may play those cards.</li>
+		</li><li><bullet>• </bullet>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: AleksiRemesArt
 	partition_select: after normal, main set B
@@ -6369,11 +6371,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Mikkjal
+	notes: Mikkjal 
 	time_created: 2025-12-27 11:32:29
-	time_modified: 2025-12-27 14:08:19
+	time_modified: 2026-04-22 00:18:43
 	name: Rini, Sundial Archcleric
-	casting_cost: 6WW
+	casting_cost: 7WW
 	image: image59.png
 	image_2: 
 	mainframe_image: 
@@ -6392,7 +6394,7 @@ card:
 		Once each turn, when you cast an instant or sorcery spell, you may create a 4/4 white Angel Cleric creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
-	toughness: 4
+	toughness: 3
 	illustrator: satoruwada
 	partition_select: after normal, main set B
 	card_code_text: MSEM Masters Cube
@@ -6952,9 +6954,11 @@ card:
 
 card:
 	has_styling: false
-	notes: Matt
+	notes:
+		Matt
+		
 	time_created: 2025-10-01 17:20:24
-	time_modified: 2025-10-12 18:29:03
+	time_modified: 2026-04-30 21:56:46
 	name: Caer Crann, Forest's Heart
 	image: image3
 	image_2: 
@@ -6972,7 +6976,7 @@ card:
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		<sym-auto>2G</sym-auto>, <sym-auto>T</sym-auto>: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-		At the beginning of combat on your turn, if you control ten or more lands, you may pay <sym-auto>3GG</sym-auto> and exile this land. When you do, untap any number of lands you control. They become 2/2 green Elf creatures with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> in addition to their other types.
+		At the beginning of combat on your turn, if you control ten or more lands, you may pay <sym-auto>4GG</sym-auto> and exile this land. When you do, create a 10/10 green Elf Army creature token.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Dominik Mayer
 	partition_select: after normal, main set B
@@ -9533,12 +9537,12 @@ card:
 		inverted_common_symbol: yes
 		overlay: 
 	notes:
-		Mikkjal
+		Mikkjal 
 		!hidetag (Signed)
 	time_created: 2025-12-27 11:32:29
-	time_modified: 2026-01-27 18:40:08
+	time_modified: 2026-04-22 00:19:01
 	name: Rini, Sundial Archcleric
-	casting_cost: 6WW
+	casting_cost: 7WW
 	image: image218.png
 	image_2: 
 	mainframe_image: mainframe_image14.png
@@ -9557,7 +9561,7 @@ card:
 		Once each turn, when you cast an instant or sorcery spell, you may create a 4/4 white Angel Cleric creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
-	toughness: 4
+	toughness: 3
 	illustrator: satoruwada
 	partition_select: after normal, main set C
 	card_code_text: MSEM Masters Cube
@@ -12446,10 +12450,10 @@ card:
 		inverted_common_symbol: yes
 		overlay: 
 	notes:
-		HerziQuerzi
+		HerziQuerzi 
 		!hidetag (Signed)
 	time_created: 2025-12-27 11:32:29
-	time_modified: 2026-01-28 16:47:05
+	time_modified: 2026-04-30 12:59:46
 	name: Culminating Chaos
 	casting_cost: 1RR
 	image: image381.png
@@ -12469,7 +12473,7 @@ card:
 		<kw-A><nospellcheck><key>Escalate <param-cost><sym-auto>RR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Pay this cost for each mode chosen beyond the first.)</i-auto></atom-reminder-expert></kw-A>
 		<margin:0:0:5>Choose one or more. You may choose the same mode more than once.</margin:0:0:5>
 		<li><bullet>• </bullet>Culminating Chaos deals 2 damage to each creature and each planeswalker.
-		</li><li><bullet>• </bullet>Exile the top two cards of your library and add <sym-auto>RR</sym-auto>. Until end of turn, you may play those cards.</li>
+		</li><li><bullet>• </bullet>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: AleksiRemesArt
 	partition_select: after normal, main set C
@@ -15139,9 +15143,10 @@ card:
 		overlay: 
 	notes:
 		Matt
+		
 		!hidetag (Signed)
 	time_created: 2025-10-01 17:20:24
-	time_modified: 2026-01-29 17:59:48
+	time_modified: 2026-04-30 21:57:15
 	name: Caer Crann, Forest's Heart
 	image: image250.png
 	image_2: 
@@ -15159,7 +15164,7 @@ card:
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
 		<sym-auto>2G</sym-auto>, <sym-auto>T</sym-auto>: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.
-		At the beginning of combat on your turn, if you control ten or more lands, you may pay <sym-auto>3GG</sym-auto> and exile this land. When you do, untap any number of lands you control. They become 2/2 green Elf creatures with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> in addition to their other types.
+		At the beginning of combat on your turn, if you control ten or more lands, you may pay <sym-auto>4GG</sym-auto> and exile this land. When you do, create a 10/10 green Elf Army creature token.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Dominik Mayer
 	partition_select: after normal, main set C
@@ -15294,7 +15299,7 @@ card:
 	rarity: rare
 	rule_text:
 		Draw two cards, then discard two cards.
-		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>. <atom-reminder-action> <i-auto>(To investigate, create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>. <atom-reminder-action> <i-auto>(To investigate, create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Agerkvist
 	partition_select: after normal, main set C
@@ -16128,9 +16133,11 @@ card:
 
 card:
 	has_styling: false
-	notes: Slot 32	‎ 	Gold	‎ 	Uncommon	‎ 	Noncreature (Any MV)																						
+	notes:
+		Slot 32	‎ 	Gold	‎ 	Uncommon	‎ 	Noncreature (Any MV)																						
+		 nerfed: Previously had Curate, a keyword action that created a Food, Clue, or Treasure. Previously returned the permanent tapped.
 	time_created: 2025-12-02 18:56:27
-	time_modified: 2026-01-31 16:38:47
+	time_modified: 2026-04-30 12:26:49
 	name: Recompose
 	casting_cost: WU
 	image: image43
@@ -16147,8 +16154,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		Return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield tapped.
-		Curate. <i-auto>(Create your choice of a Clue, Food, or <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.)</i-auto>
+		Return target nonland permanent card with mana value 2 or less from your graveyard to the battlefield.
+		Create a tapped <kw-a><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>When all seems lost, new beginnings arise.</i-flavor>
 	illustrator: neptunepisces
 	card_code_text: Amethyst
@@ -16427,7 +16434,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Once each turn, when <atom-cardname><nospellcheck>Fowl Guardian</nospellcheck></atom-cardname> deals combat damage to a player or becomes the target of a spell or ability, you may have it <kw-A><nospellcheck><key>connive</key></nospellcheck>.<atom-reminder-action> <i-auto>(Draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</i-auto></atom-reminder-action></kw-A>
+		Once each turn, when <atom-cardname><nospellcheck>Fowl Guardian</nospellcheck></atom-cardname> deals combat damage to a player or becomes the target of a spell or ability, you may have it <kw-A><nospellcheck><key>connive</key></nospellcheck>.<atom-reminder-action> <i-auto>(To have a creature connive, draw a card, then discard a card. If you discarded a nonland card, put a +1/+1 counter on that creature.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -16494,11 +16501,14 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Slot 5	‎ 	White	‎ 	Rare or Mythic	‎ 	Noncreature (MV 1-3)
+	notes:
+		Slot 5	‎ 	White	‎ 	Rare or Mythic	‎ 	Noncreature (MV 1-3)
+		!renameof Serenenity of the Mundane
+		 nerfed: Was {1}{W}.
 	time_created: 2025-12-02 18:54:57
-	time_modified: 2026-01-31 18:17:35
-	name: Serenenity of the Mundane
-	casting_cost: 1W
+	time_modified: 2026-04-21 23:43:58
+	name: Serenity of the Mundane
+	casting_cost: 1WW
 	image: image54
 	image_2: 
 	mainframe_image: 
@@ -16612,9 +16622,9 @@ card:
 	has_styling: false
 	notes:
 		Slot 26	‎ 	Green	‎ 	Uncommon	‎ 	Noncreature (Any MV)																						
-		!update reworked: Used to look at top four and put the permanent into play instead of hand if its mana value was less than or equal to your devotion to green.
+
 	time_created: 2025-12-02 18:54:54
-	time_modified: 2026-04-01 18:02:22
+	time_modified: 2026-04-22 01:31:22
 	name: Earthly Divination
 	casting_cost: 1G
 	image: image58
@@ -16631,7 +16641,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text: Look at the top X cards of your library, where X is four plus your <kw-A><nospellcheck><key>devotion to <param-one_word>green</param-one_word></key></nospellcheck>. You may reveal a permanent card from among them. If it’s a land card, you may put it onto the battlefield tapped. Otherwise, put it into your hand. Put the rest on the bottom in a random order.<atom-reminder-action> <i-auto>(Each <param-one_word><sym>G</sym></param-one_word> in the mana costs of permanents you control counts toward your devotion to <param-one_word>green</param-one_word>.)</i-auto></atom-reminder-action></kw-A>
-	flavor_text: <i-flavor></i-flavor>
+	flavor_text: <i-flavor>Before there were gods, there was the world.</i-flavor>
 	illustrator: Daria Khlebnikova
 	card_code_text: RickyRister
 	card_code_text_2: 
@@ -16737,7 +16747,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Explorer’s Potluck</nospellcheck></atom-cardname> enters, create a <kw-1><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this artifact: You gain 3 life.”)</i-auto></atom-reminder-core></kw-1>
+		When <atom-cardname><nospellcheck>Explorer’s Potluck</nospellcheck></atom-cardname> enters, create a <kw-1><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this token: You gain 3 life.”)</i-auto></atom-reminder-core></kw-1>
 		As long as you’ve gained life this turn, you may play an additional land this turn.
 	flavor_text: <i-flavor>Every meal tastes best after a long hard day.</i-flavor>
 	illustrator: Jerryium L
@@ -17016,7 +17026,7 @@ card:
 	sub_type_4: 
 	rarity: mythic rare
 	rule_text:
-		<i>Augmented</i> — When <atom-cardname><nospellcheck>The Nebulae God</nospellcheck></atom-cardname> enters, if you cast it and if you’ve spent <sym>WUBRG</sym> to cast spells this turn, you and <atom-cardname><nospellcheck>The Nebulae God</nospellcheck></atom-cardname> gain <kw-0><nospellcheck><key>protection from <param-name>everything until the end of your next turn.</param-name></key></nospellcheck></kw-0>
+		<i>Augmented</i> — When <atom-cardname><nospellcheck>The Nebulae God</nospellcheck></atom-cardname> enters, if you cast it and if you’ve spent <sym>WUBRG</sym> to cast spells this turn, you and <atom-cardname><nospellcheck>The Nebulae God</nospellcheck></atom-cardname> gain <kw-0><nospellcheck><key>protection from <param-name>everything until the end of your next turn</param-name>.</key></nospellcheck></kw-0>
 		When <atom-cardname><nospellcheck>The Nebulae God</nospellcheck></atom-cardname> dies, shuffle it into its owner’s library.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
@@ -17182,11 +17192,13 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Slot 2	‎ 	White	‎ 	Uncommon	‎ 	Noncreature (Any MV)
+	notes:
+		Slot 2	‎ 	White	‎ 	Uncommon	‎ 	Noncreature (Any MV)
+		 nerfed: Was {1}{W}.
 	time_created: 2025-12-02 18:54:54
-	time_modified: 2026-01-31 18:17:48
+	time_modified: 2026-04-21 23:35:03
 	name: Stand Everlasting
-	casting_cost: 1W
+	casting_cost: 2W
 	image: image77
 	image_2: 
 	mainframe_image: 
@@ -17380,9 +17392,21 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Slot 37	‎ 	Colorless	‎ 	Rare or Mythic	‎ 	Creature (Any MV)																						
+	notes:
+		Slot 37	‎ 	Colorless	‎ 	Rare or Mythic	‎ 	Creature (Any MV)																						
+		 nerfed: Previously gave the Clue, Food, and Treasure abilities to all artifact tokens you control.
+		
+		Artifact tokens you control have the following abilities —
+		• “2, Sacrifice this token: Draw a card.”
+		• “2, T, Sacrifice this token: You gain 3 life.”
+		• “T, Sacrifice this token: Add one mana of any color.”
+		
+		Sacrifice an untapped artifact token: Choose one that hasn’t been chosen this turn —
+		• Add one mana of any color.
+		• Pay 2. If you do, draw a card.
+		• Pay 2. If you do, you gain 3 life.
 	time_created: 2025-12-02 18:56:53
-	time_modified: 2026-01-31 19:24:19
+	time_modified: 2026-04-21 23:47:17
 	name: Manufactorum Bureaucrat
 	casting_cost: 2
 	image: image82
@@ -17400,10 +17424,9 @@ card:
 	rarity: rare
 	rule_text:
 		When this creature enters, create a tapped colorless artifact token named Scrap.
-		<margin:0:0:5>Artifact tokens you control have the following abilities —</margin:0:0:5>
-		<li><bullet>• </bullet>“<sym-auto>2</sym-auto>, Sacrifice this token: Draw a card.”
-		</li><li><bullet>• </bullet>“<sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this token: You gain 3 life.”
-		</li><li><bullet>• </bullet>“<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”</li>
+		Sacrifice an untapped artifact token: Add one mana of any color. Activate only once each turn.
+		<sym-auto>2</sym-auto>, Sacrifice an untapped artifact token: You gain 3 life. Activate only once each turn.
+		<sym-auto>2</sym-auto>, Sacrifice an untapped artifact token: Draw a card. Activate only once each turn.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 
@@ -17439,7 +17462,7 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		As an additional cost to cast this spell, behold a creature. <i-auto>(To behold a creature, choose a creature you control or reveal a creature card from your hand.)</i-auto>
+		As an additional cost to cast this spell, <kw-A><nospellcheck><key>behold <param-a>a</param-a> <param-name>creature</param-name>.</key></nospellcheck> <i-auto>(To <kw-A><nospellcheck><key>behold <param-a>a</param-a> <param-name>creature, choose a creature you control or reveal a creature card from your hand</param-name>.</key></nospellcheck>)</i-auto><blob><atom-reminder-action> <i-auto>(To behold <param-a>a</param-a> <param-name>creature</param-name>, choose <param-a>a</param-a> <param-name>creature</param-name> you control or reveal <param-a>a</param-a> <param-name>creature</param-name> card from your hand.</atom-reminder-action></kw-A><moved><atom-reminder-action> To behold <param-a>a</param-a> <param-name>creature, choose a creature you control or reveal a creature card from your hand</param-name>, choose <param-a>a</param-a> <param-name>creature, choose a creature you control or reveal a creature card from your hand</param-name> you control or reveal <param-a>a</param-a> <param-name>creature, choose a creature you control or reveal a creature card from your hand</param-name> card from your hand.)</i-auto></atom-reminder-action></kw-A></moved></blob>
 		Counter target spell if it’s mana value is less than or equal to the beheld creature’s mana value.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Michele Esposito
@@ -17929,11 +17952,11 @@ card:
 		!BonusSheet
 		!design n3onblue
 		Exile this spell as it resolves. You may put it into your graveyard as you cast another modal spell to add one of its modes to that spell.
-		!update nerfed: Lucid only applies when cast from your hand or exile now.
+		 nerfed: Was {U}{R}.
 	time_created: 2025-01-14 18:20:13
-	time_modified: 2026-04-01 18:05:40
+	time_modified: 2026-04-22 14:54:56
 	name: Shredded Memory
-	casting_cost: UR
+	casting_cost: 1UR
 	image: image96
 	image_2: 
 	mainframe_image: 
@@ -17950,7 +17973,7 @@ card:
 	rule_text:
 		As an additional cost to cast this spell, discard a card.
 		<margin:0:0:5>Choose two. You may choose the same mode more than once.</margin:0:0:5>
-		<li><bullet>• </bullet>Draw a card
+		<li><bullet>• </bullet>Draw a card.
 		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Shredded Memory</nospellcheck></atom-cardname> deals 2 damage to any target.
 		<margin:0:0:5></li>Lucid <i-auto>(Then exile this spell if you cast it from your hand or from exile. As you cast another modal spell, you may put this card into your graveyard to add one of its modes to its list of choices.)</i-auto></margin:0:0:5>
 	flavor_text: <i-flavor></i-flavor>
@@ -18182,7 +18205,7 @@ card:
 	rule_text:
 		<kw-A><nospellcheck><key>Emerge <param-cost><sym-auto>4GG</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this spell by sacrificing a creature and paying the emerge cost reduced by that creature’s mana value.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
-		For each mana value among other creatures you control, Unwavering Behemoth gets +1/+1 and has <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>that mana value.</param-name></key></nospellcheck></kw-a>
+		For each mana value among other creatures you control, Unwavering Behemoth gets +1/+1 and has <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>that mana value</param-name>.</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
 	toughness: 5
@@ -18631,10 +18654,11 @@ card:
 	notes:
 		!BonusSheetCommon
 		!design n3onblue
+		 nerfed: Was Premonition {R}.
 	time_created: 2025-01-14 17:51:28
-	time_modified: 2026-01-31 19:33:03
+	time_modified: 2026-04-30 15:45:08
 	card_color: red
-	name: Cultish Sorcerer 
+	name: Cultish Sorcerer
 	casting_cost: R
 	image: image115
 	image_2: 
@@ -18651,7 +18675,7 @@ card:
 	rarity: common
 	rule_text:
 		When this creature enters, you may discard a card. If you do, draw a card.
-		Premonition <sym>R</sym> <i-auto>(You may pay <sym-auto>R</sym-auto> and exile this from your hand as a sorcery to create a token copy of it that enters with a <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> counter. You may cast this later from exile.)</i-auto>
+		Premonition <sym>1R</sym> <i-auto>(You may pay <sym-auto>1R</sym-auto> and exile this from your hand as a sorcery to create a token copy of it that enters with a <kw-0><nospellcheck><key>decayed</key></nospellcheck></kw-0> counter. You may cast this later from exile.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1

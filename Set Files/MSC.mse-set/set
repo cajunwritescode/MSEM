@@ -296,7 +296,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When Bank Skimmer enters, create a green Aura enchantment token named Turtle’s Valor attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +X/+X, where X is its mana value.</param-name></key></nospellcheck></kw-a>”
+		When Bank Skimmer enters, create a green Aura enchantment token named Turtle’s Valor attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +X/+X, where X is its mana value</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -1126,9 +1126,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!OldArt
-		!update
+	notes: !OldArt
 	time_created: 2021-09-21 09:59:20
 	time_modified: 2026-04-01 18:07:28
 	extra_data:
@@ -1524,7 +1522,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Coralight</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Champion enters, create a white Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hila’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Favor attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has double strike as long as there’s another Aura attached to it.</param-name></key></nospellcheck></kw-a> Otherwise, it has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.”
+	rule_text: When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Coralight</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Champion enters, create a white Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hila’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Favor attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has double strike as long as there’s another Aura attached to it</param-name>.</key></nospellcheck></kw-a> Otherwise, it has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.”
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -2569,7 +2567,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-09-21 09:59:20
-	time_modified: 2023-10-01 15:56:15
+	time_modified: 2026-04-22 00:09:48
 	name: Danithra Muckbruiser
 	casting_cost: 1G
 	image: image516
@@ -2580,7 +2578,8 @@ card:
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Spells your opponents cast that target <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Danithra</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Muckbruiser</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> cost <sym-auto>2</sym-auto> more to cast.
+		This spell can’t be countered.
+		<atom-cardname><nospellcheck>Danithra Muckbruiser</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as it’s your turn.
 		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Danithra</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Muckbruiser</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> gets +X/+X, where X is the number of cards in your graveyard minus seven. <i-auto>(If there are fewer than seven, it gets +0/+0.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -3467,9 +3466,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!script "s>l>Spawn Zombie bros/l>f>/spawnx2 Deadwood Terror MSC/f>/s>","t"
-		!update
+	notes: !script "s>l>Spawn Zombie bros/l>f>/spawnx2 Deadwood Terror MSC/f>/s>","t"
 	time_created: 2021-09-21 09:59:20
 	time_modified: 2026-04-01 17:47:32
 	name: Deadwood Terror
@@ -4247,7 +4244,7 @@ card:
 	rarity: rare
 	rule_text:
 		Draw two cards, then discard two cards.
-		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Lily Morran
 	card_code_text: Kaleidoscope
@@ -4405,7 +4402,7 @@ card:
 	rarity: rare
 	rule_text:
 		Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 1 life.
-		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Raymond Swanland
 	card_code_text: The Unraveling
@@ -4544,7 +4541,7 @@ card:
 		Choose two —
 		<li><bullet>• </bullet>Destroy target artifact.
 		</li><li><bullet>• </bullet>Discard a card, then draw a card.
-		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A></li>
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A></li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Antonis Papantoniou
 	card_code_text: The Unraveling
@@ -5104,9 +5101,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !design HerziQuerzi
+	notes:
+		!design HerziQuerzi
+
 	time_created: 2021-09-21 10:00:03
-	time_modified: 2024-08-30 21:36:08
+	time_modified: 2026-04-22 00:57:09
 	name: Warded Tome
 	casting_cost: 2
 	image: image134
@@ -5114,7 +5113,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		Warded Tome doesn’t untap during your untap step.
@@ -5463,9 +5468,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !OldArt
+	notes:
+		!OldArt
+		
 	time_created: 2021-09-21 10:00:03
-	time_modified: 2021-09-25 11:58:18
+	time_modified: 2026-04-30 22:03:49
 	name: Rippling Curtain
 	casting_cost: 3
 	image: image124
@@ -5475,7 +5482,7 @@ card:
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
-	rule_text: At the beginning of your end step, <kw-A><nospellcheck><key>aetherize</key></nospellcheck> target permanent you control.<atom-reminder-action> <i-auto>(To aetherize, create a token that’s a copy of it, then exile that token.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: At the beginning of your upkeep, <kw-A><nospellcheck><key>aetherize</key></nospellcheck> target permanent you control.<atom-reminder-action> <i-auto>(To aetherize, create a token that’s a copy of it, then exile that token.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Chris Cold
 	card_code_text: Worlds Away
@@ -5530,7 +5537,7 @@ card:
 	rule_text:
 		As <atom-cardname><nospellcheck>Alratha, Pearl of the Sand Sea</nospellcheck></atom-cardname> enters, you may have an opponent <kw-0><nospellcheck><key>investigate</key></nospellcheck></kw-0>. If you don’t, it enters tapped.
 		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
-		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>: <kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>1U</sym-auto>, <sym-auto>T</sym-auto>: <kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Herve Groussin
 	card_code_text: Riddles of Revio
@@ -8906,7 +8913,7 @@ card:
 	rarity: rare
 	rule_text:
 		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mettalia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> is all colors.
-		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mettalia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> has <kw-0><nospellcheck><key>protection from <param-name>each color among cards she’s salvaged in exile.</param-name></key></nospellcheck></kw-0>
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mettalia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> has <kw-0><nospellcheck><key>protection from <param-name>each color among cards she’s salvaged in exile</param-name>.</key></nospellcheck></kw-0>
 		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mettalia</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, for each color, you may salvage a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonlegendary</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> card of that color. <i-auto>(You may exile them from your graveyard until this creature leaves the battlefield. Whenever this creature deals combat damage to a player, put a card it salvaged into your hand.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
@@ -9023,7 +9030,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-08-30 14:19:08
-	time_modified: 2021-10-12 02:13:58
+	time_modified: 2026-04-22 01:15:11
 	name: Galvan Coal Line
 	casting_cost: 2
 	image: image94
@@ -9034,9 +9041,9 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		You may return a land you control to its owner’s hand rather than pay this spell’s mana cost.
+		You may return an untapped basic land you control to its owner’s hand rather than pay this spell’s mana cost. If you do, choose a color as it enters.
 		<atom-cardname><nospellcheck>Galvan Coal Line</nospellcheck></atom-cardname> enters tapped.
-		<sym>T</sym>: Add <sym>R</sym>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or one mana of the chosen color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sparth
 	card_code_text: Rail War
@@ -9050,7 +9057,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-08-30 14:19:08
-	time_modified: 2021-10-12 02:14:03
+	time_modified: 2026-04-22 01:15:03
 	name: Lumenbay Flyer Line
 	casting_cost: 2
 	image: image95
@@ -9061,9 +9068,9 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		You may return a land you control to its owner’s hand rather than pay this spell’s mana cost.
+		You may return an untapped basic land you control to its owner’s hand rather than pay this spell’s mana cost. If you do, choose a color as it enters.
 		<atom-cardname><nospellcheck>Lumenbay Flyer Line</nospellcheck></atom-cardname> enters tapped.
-		<sym>T</sym>: Add <sym>W</sym>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or one mana of the chosen color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Polina Udovenko
 	card_code_text: Rail War
@@ -9077,7 +9084,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-08-30 14:19:08
-	time_modified: 2021-10-12 02:14:05
+	time_modified: 2026-04-22 01:15:17
 	name: Marinton-Ravengulch Line
 	casting_cost: 2
 	image: image96
@@ -9088,9 +9095,9 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		You may return a land you control to its owner’s hand rather than pay this spell’s mana cost.
+		You may return an untapped basic land you control to its owner’s hand rather than pay this spell’s mana cost. If you do, choose a color as it enters.
 		<atom-cardname><nospellcheck>Marinton-Ravengulch Line</nospellcheck></atom-cardname> enters tapped.
-		<sym>T</sym>: Add <sym>B</sym>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or one mana of the chosen color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Alejandro Burdisio
 	card_code_text: Rail War
@@ -9104,7 +9111,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-08-30 14:19:08
-	time_modified: 2021-10-12 02:14:09
+	time_modified: 2026-04-22 01:15:23
 	name: Northern Express Line
 	casting_cost: 2
 	image: image97
@@ -9115,9 +9122,9 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		You may return a land you control to its owner’s hand rather than pay this spell’s mana cost.
+		You may return an untapped basic land you control to its owner’s hand rather than pay this spell’s mana cost. If you do, choose a color as it enters.
 		<atom-cardname><nospellcheck>Northern Express Line</nospellcheck></atom-cardname> enters tapped.
-		<sym>T</sym>: Add <sym>U</sym>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or one mana of the chosen color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Didier Graffet
 	card_code_text: Rail War
@@ -9131,7 +9138,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-08-30 14:19:08
-	time_modified: 2021-10-12 02:14:13
+	time_modified: 2026-04-22 01:15:27
 	name: Rawthlin Market Line
 	casting_cost: 2
 	image: image98
@@ -9142,9 +9149,9 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		You may return a land you control to its owner’s hand rather than pay this spell’s mana cost.
+		You may return an untapped basic land you control to its owner’s hand rather than pay this spell’s mana cost. If you do, choose a color as it enters.
 		<atom-cardname><nospellcheck>Rawthlin Market Line</nospellcheck></atom-cardname> enters tapped.
-		<sym>T</sym>: Add <sym>G</sym>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or one mana of the chosen color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Roseum
 	card_code_text: Rail War
@@ -9249,7 +9256,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		Equipped creature gets +2/+2 and <kw-0><nospellcheck><key>protection from <param-name>blue and from black.</param-name></key></nospellcheck></kw-0>
+		Equipped creature gets +2/+2 and <kw-0><nospellcheck><key>protection from <param-name>blue and from black</param-name>.</key></nospellcheck></kw-0>
 		Whenever equipped creature deals combat damage to a player, return up to one target creature card and up to one target instant or sorcery card from your graveyard to your hand.
 		<kw-0><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
@@ -10085,7 +10092,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lilyreed</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Triton enters, create a white Aura enchantment token named Triton’s Gift attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+0 and can’t be blocked by creatures with power 3 or greater.</param-name></key></nospellcheck></kw-a>”
+	rule_text: When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lilyreed</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Triton enters, create a white Aura enchantment token named Triton’s Gift attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+0 and can’t be blocked by creatures with power 3 or greater</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -10653,7 +10660,7 @@ card:
 	rarity: rare
 	rule_text:
 		Counter target noncreature spell.
-		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Donato Giancola
 	card_code_text: Kaleidoscope
@@ -10739,9 +10746,9 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-10-06 19:57:32
-	time_modified: 2021-10-06 21:27:09
+	time_modified: 2026-04-22 00:04:56
 	name: Sights Beyond
-	casting_cost: U
+	casting_cost: 2U
 	image: image292
 	image_2: 
 	mainframe_image: 
@@ -10749,9 +10756,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
-	rule_text:
-		When Sights Beyond enters, <kw-a><nospellcheck><key>scry <param-number>3</param-number></key></nospellcheck></kw-a>.
-		<kw-A><i-auto><nospellcheck><key>Concord</key></nospellcheck></i-auto></kw-A> — At the beginning of your upkeep, if there are four or more card types among permanents you control, draw a card.
+	rule_text: <kw-A><i-auto><nospellcheck><key>Concord</key></nospellcheck></i-auto></kw-A> — At the beginning of your upkeep, draw a card. Then discard a card unless there are four or more card types among permanents you control.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Milena Vasyukova
 	card_code_text: Al Tabaq
@@ -14833,9 +14838,10 @@ card:
 		overlay: 
 	notes:
 		!design DrChillbrain
+		
 		!Community
 	time_created: 2021-11-24 13:34:41
-	time_modified: 2021-12-21 17:11:02
+	time_modified: 2026-04-22 00:57:23
 	name: Barten's Journal
 	casting_cost: 2
 	image: image648
@@ -14843,7 +14849,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		Each planeswalker you control enters with an additional loyalty counter on it.
@@ -15359,7 +15371,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Exile target artifact or enchantment. Its controller creates a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+	rule_text: Exile target artifact or enchantment. Its controller creates a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor>Lord <error-spelling:en_US>Cartidon</error-spelling:en_US> never got to see the irony of a <error-spelling:en_US>hellkite</error-spelling:en_US> being a more merciful ruler than he ever was.</i-flavor>
 	illustrator: Justin Gerard
 	card_code_text: Scriptures of Urshad
@@ -18420,7 +18432,7 @@ card:
 	rarity: special
 	rule_text:
 		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
-		Other creatures you control have <kw-0><nospellcheck><key>protection from <param-name>mana value 3 or greater.</param-name></key></nospellcheck></kw-0>
+		Other creatures you control have <kw-0><nospellcheck><key>protection from <param-name>mana value 3 or greater</param-name>.</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor>With nothing but treachery to the west, <error-spelling:en_US>Andarli</error-spelling:en_US> sought new allies in the burning east and ageless south.</i-flavor>
 	power: 2
 	toughness: 1
@@ -18444,10 +18456,11 @@ card:
 	notes:
 		!Bonus
 		!design Mikkjal
+		 nerfed: Was 3/4 for {6}{W}{W}.
 	time_created: 2021-03-16 20:49:46
-	time_modified: 2024-04-22 16:36:23
+	time_modified: 2026-04-22 00:17:51
 	name: Rini, Sundial Archcleric
-	casting_cost: 6WW
+	casting_cost: 7WW
 	image: image374
 	image_2: 
 	mainframe_image: 
@@ -18460,7 +18473,7 @@ card:
 		Once each turn, when you cast an instant or sorcery spell, you may create a 4/4 white Angel Cleric creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>Under her guidance, the select few can perform the Cosmic Ascension ritual, <error-spelling:en_US>Rini’s</error-spelling:en_US> most coveted secret.</i-flavor>
 	power: 3
-	toughness: 4
+	toughness: 3
 	illustrator: Cynthia Sheppard
 	card_code_text: Astromancers of Telluria
 	card_code_text_2: Astromancers of Telluria
@@ -20011,7 +20024,7 @@ card:
 		frames: M20
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2021-10-12 10:21:25
 	time_modified: 2026-04-01 17:47:39
 	name: Deadwood Terror

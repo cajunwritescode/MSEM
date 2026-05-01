@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Oirohpo
 	copyright: 
@@ -243,7 +243,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -328,7 +328,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -399,7 +399,7 @@ card:
 	has_styling: false
 	notes:
 		If Maria survives, the power and toughness change is permanent until she blocks again.
-		
+
 	time_created: 2016-08-03 11:54:07
 	time_modified: 2024-09-06 16:11:26
 	extra_data:
@@ -526,7 +526,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -716,7 +716,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -906,7 +906,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -969,7 +969,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -1118,7 +1118,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1144,7 +1144,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever a creature enters under an opponent’s control, you may pay <sym-auto>1B</sym-auto>. If you do, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-1>
+		Whenever a creature enters under an opponent’s control, you may pay <sym-auto>1B</sym-auto>. If you do, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>“Too dangerous, or when they least expect it?”</i-flavor>
 	power: 1
 	toughness: 1
@@ -1293,7 +1293,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -1429,7 +1429,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -1450,7 +1450,7 @@ card:
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<sym-auto>1U</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Fatewrench</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Fateseal <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of an opponent’s library, then put any number of them on the bottom of that player’s library and the rest on top in any order.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>1U</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Fatewrench</nospellcheck></atom-cardname>: <kw-A><nospellcheck><key>Fateseal <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>No secret is safe from <error-spelling:en_US>Mei’s</error-spelling:en_US> students, not even those that haven’t been thought of yet.</i-flavor>
 	power: 3
 	toughness: 1
@@ -1464,7 +1464,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -1525,7 +1525,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -1818,7 +1818,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 13
@@ -1878,7 +1878,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1969,7 +1969,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1988,7 +1988,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Student of Secrets</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Student of Secrets</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor><error-spelling:en_US>Mei</error-spelling:en_US> doesn’t leave victims hungry for blood, but students hungry for knowledge.</i-flavor>
 	power: 1
 	toughness: 2
@@ -2027,7 +2027,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -2075,7 +2075,7 @@ card:
 	rule_text:
 		Choose one —
 		<li><bullet>• </bullet><kw-0><nospellcheck><key>Scry <param-number>3</param-number></key></nospellcheck></kw-0>. Draw a card.
-		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Fateseal <param-number>3</param-number></key></nospellcheck>. That player draws a card.<atom-reminder-action> <i-auto>(To fateseal <param-number>3</param-number>, look at the top <param-number>three</param-number> cards of an opponent’s library, then put any number of them on the bottom of that player’s library and the rest on top in any order.)</i-auto></atom-reminder-action></kw-A></li>
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Fateseal <param-number>3</param-number></key></nospellcheck>. That player draws a card.<atom-reminder-action> <i-auto>(Look at the top <param-number>three</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-A></li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Daniel Kamarudin
 	card_code_text: 
@@ -2099,7 +2099,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: Look at target opponent’s hand, then <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-1>
+	rule_text: Look at target opponent’s hand, then <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>Open your mind to me.</i-flavor>
 	power: 
 	toughness: 
@@ -2255,7 +2255,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -2428,7 +2428,7 @@ card:
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature an opponent controls</param-name></key></nospellcheck></kw-a>
-		Whenever enchanted creature attacks or blocks, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-1>
+		Whenever enchanted creature attacks or blocks, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: kou-chann
 	card_code_text: 
@@ -2440,7 +2440,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -2462,7 +2462,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		At the beginning of your upkeep, each player loses 3 life unless they sacrifice a creature.
-		Sacrifice a creature: <kw-A><nospellcheck><key>Fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-A>
+		Sacrifice a creature: <kw-A><nospellcheck><key>Fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jorge Jacinto
 	card_code_text: 
@@ -2499,7 +2499,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -2570,7 +2570,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: Whenever <atom-cardname><nospellcheck>Fickle Feeder</nospellcheck></atom-cardname> blocks, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-1>
+	rule_text: Whenever <atom-cardname><nospellcheck>Fickle Feeder</nospellcheck></atom-cardname> blocks, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor>She steals only the darkest of thoughts.</i-flavor>
 	power: 3
 	toughness: 3
@@ -2632,7 +2632,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -2651,7 +2651,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Last-Thought Feeder</nospellcheck></atom-cardname> dies, <kw-1><nospellcheck><key>fateseal <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of an opponent’s library, then put any number of them on the bottom of that player’s library and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Last-Thought Feeder</nospellcheck></atom-cardname> dies, <kw-1><nospellcheck><key>fateseal <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor><error-spelling:en_US>Mei’s</error-spelling:en_US> students require new knowledge more than food, sleep, or society.</i-flavor>
 	power: 3
 	toughness: 2
@@ -2725,7 +2725,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Target player sacrifices a creature. <kw-A><nospellcheck><key>Fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: Target player sacrifices a creature. <kw-A><nospellcheck><key>Fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>Every symbol spells doom to someone.</i-flavor>
 	illustrator: maCGot
 	card_code_text: 
@@ -2850,7 +2850,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -2935,7 +2935,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -2967,7 +2967,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3077,7 +3077,7 @@ card:
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Vampiric Rise</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>fateseal <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of an opponent’s library, then put any number of them on the bottom of that player’s library and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
+		When <atom-cardname><nospellcheck>Vampiric Rise</nospellcheck></atom-cardname> enters, <kw-1><nospellcheck><key>fateseal <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>two</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
 		Enchanted creature gets +1/+0 and has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Bao Pham
@@ -3287,7 +3287,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 45
@@ -3321,7 +3321,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -3577,7 +3577,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -3787,7 +3787,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -4085,7 +4085,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4255,7 +4255,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -4391,7 +4391,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -4644,7 +4644,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 32
@@ -4796,7 +4796,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -4832,7 +4832,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 14
@@ -5238,7 +5238,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 31
@@ -5428,9 +5428,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes:  nerfed: Previously pulled from their library.
 	time_created: 2016-08-03 11:54:19
-	time_modified: 2021-04-12 13:05:25
+	time_modified: 2026-04-30 12:28:30
 	name: Mindrip
 	casting_cost: XUUB
 	image: image315
@@ -5441,7 +5441,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Counter target spell. Search its controller’s library for a card with mana value </sym>X<sym> or less and cast it without paying its mana cost. Then that player shuffles.
+	rule_text: Counter target spell. You may cast a spell from its controller’s graveyard with mana value X or less without paying its mana cost.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Elmar von Brause
 	card_code_text: 
@@ -5453,7 +5453,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -5493,7 +5493,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -5543,7 +5543,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever an opponent discards one or more cards, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of an opponent’s library, then you may put it on the bottom of that player’s library.)</i-auto></atom-reminder-action></kw-1>
+		Whenever an opponent discards one or more cards, <kw-1><nospellcheck><key>fateseal <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top <param-number>one</param-number> cards of an opponent’s library, then put any number on the bottom and the rest on top in any order.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -6049,7 +6049,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -6370,7 +6370,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6405,7 +6405,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -6446,7 +6446,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7082,7 +7082,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5

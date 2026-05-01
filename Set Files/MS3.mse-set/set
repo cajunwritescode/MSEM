@@ -990,10 +990,10 @@ card:
 		
 		!design CyberChronometer
 	time_created: 2020-10-16 12:27:36
-	time_modified: 2020-10-31 12:32:04
+	time_modified: 2026-04-22 01:14:02
 	card_color: blue
 	name: Ride the Storm
-	casting_cost: 6UU
+	casting_cost: 4UU
 	image: image175
 	image_2: 
 	mainframe_image: 
@@ -1002,8 +1002,8 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		This spell costs <sym-auto>1</sym-auto> less to cast for each artifact and enchantment you control.
-		Reveal the top seven cards of your library. Put any number of noncreature, nonland cards from among them into your hand and the rest of the revealed cards into your graveyard.
+		If you controlled three or more artifacts and/or enchantments as you cast this spell, it can’t be countered.
+		Draw four cards.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Wing Buffet
 	card_code_text: * Rail War
@@ -2266,7 +2266,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Silkweaver</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Matron enters, create a white Aura enchantment token named Spinning Silk attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Whenever enchanted creature attacks, tap target creature defending player controls.</param-name></key></nospellcheck></kw-a>”
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Silkweaver</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Matron enters, create a white Aura enchantment token named Spinning Silk attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Whenever enchanted creature attacks, tap target creature defending player controls</param-name>.</key></nospellcheck></kw-a>”
 		<sym-auto>1W</sym-auto>: Untap target enchanted creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -3406,7 +3406,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Cadalon Experimenter</nospellcheck></atom-cardname> enters, if you control an artifact, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Cadalon Experimenter</nospellcheck></atom-cardname> enters, if you control an artifact, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
@@ -4406,9 +4406,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!FT !design Timespiraled
-
+	notes: !FT !design Timespiraled
 	time_created: 2020-07-20 13:35:13
 	time_modified: 2026-03-04 17:08:33
 	card_color: red
@@ -4768,7 +4766,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When Prismatic Champion enters, create a white Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Sunward</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has protection from creatures.</param-name></key></nospellcheck></kw-a>”
+		When Prismatic Champion enters, create a white Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Sunward</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has protection from creatures</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 1
@@ -5232,9 +5230,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !design HerziQuerzi
+	notes:
+		!design HerziQuerzi
+		
 	time_created: 2020-08-30 10:11:57
-	time_modified: 2024-08-30 21:31:28
+	time_modified: 2026-04-22 00:56:34
 	name: Warded Tome
 	casting_cost: 2
 	image: image181
@@ -5242,7 +5242,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: common
 	rule_text:
 		Warded Tome doesn’t untap during your untap step.
@@ -6792,7 +6798,7 @@ card:
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Enchanted creature has <kw-0><nospellcheck><key>protection from <param-name>creatures.</param-name></key></nospellcheck></kw-0>
+		Enchanted creature has <kw-0><nospellcheck><key>protection from <param-name>creatures</param-name>.</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Julie Dillon
 	card_code_text: 
@@ -7316,7 +7322,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Target creature you control gets +1/+2 until end of turn. If that creature is white, create a white Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has first strike” attached to that creature.</param-name></key></nospellcheck></kw-a>
+	rule_text: Target creature you control gets +1/+2 until end of turn. If that creature is white, create a white Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has first strike” attached to that creature</param-name>.</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Qiang Zhou
 	card_code_text: * Al Tabaq
@@ -9635,7 +9641,7 @@ card:
 	notes:
 		!MS3 !design fluffyDeathbringer
 		Replaces Nighthallow Ritual
-		!update
+		
 	time_created: 2021-03-24 19:57:08
 	time_modified: 2026-04-01 17:45:42
 	name: Deadwood Terror

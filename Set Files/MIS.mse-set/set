@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Mious 1.3.2.
 	description:
@@ -2427,9 +2427,11 @@ card:
 		text_box_mana_symbols: magic-mana-small-extra-m15.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !design Fleur
+	notes:
+		!design Fleur
+		
 	time_created: 2016-05-12 15:18:03
-	time_modified: 2017-03-30 12:53:10
+	time_modified: 2026-04-22 00:55:11
 	name: Angel’s Codex
 	casting_cost: 2
 	image: image140
@@ -2437,7 +2439,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><atom-sep> </atom-sep><word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		Equipped creature gets +1/+1.
 		As long as equipped creature is multicolored, it gets an additional +1/+1.
@@ -4782,9 +4790,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !design Neottolemo
+	notes:
+		!design Neottolemo
+		
 	time_created: 2016-05-12 16:44:17
-	time_modified: 2016-12-15 11:23:32
+	time_modified: 2026-04-22 00:55:20
 	name: Marzen’s Grimoire
 	casting_cost: 4
 	image: image186
@@ -4792,7 +4802,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text: <sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>, Reveal a card at random from your hand: Draw a card.
 	flavor_text:
@@ -5048,7 +5064,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		!design Fleur
@@ -5369,7 +5385,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5555,7 +5571,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !design Neottolemo
 	time_created: 2016-05-12 16:57:14
@@ -5615,7 +5631,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: Reprint
 	time_created: 2016-05-12 16:57:14
@@ -5849,7 +5865,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -6055,7 +6071,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6207,7 +6223,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6243,7 +6259,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7189,7 +7205,7 @@ card:
 	has_styling: false
 	notes:
 		!exportname Aura2
-		
+
 	time_created: 2016-06-09 11:47:42
 	time_modified: 2017-03-05 21:07:37
 	card_color: white
@@ -7523,7 +7539,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3

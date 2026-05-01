@@ -204,7 +204,7 @@ card:
 		combined_chop: 0,3,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:  nerfed: Now costs an extra {1}. old +1 changed to a -1, and a new +1 added.
+	notes: nerfed: Now costs an extra {1}. old +1 changed to a -1, and a new +1 added.
 	time_created: 2019-04-19 19:08:11
 	time_modified: 2026-03-01 12:57:07
 	extra_data:
@@ -2151,9 +2151,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: * — art
+	notes:
+		* — art
+		 nerfed: Now triggers on playing a land instead of landfall.
 	time_created: 2019-04-15 17:41:31
-	time_modified: 2022-11-01 00:54:09
+	time_modified: 2026-04-21 23:49:50
 	name: Field Tender
 	casting_cost: 1GG
 	image: image49
@@ -2165,7 +2167,7 @@ card:
 	rarity: rare
 	rule_text:
 		You may play lands from your graveyard.
-		Whenever a land you control enters, create a 1/1 white Peasant creature token.
+		Whenever you play a land, create a 1/1 white Peasant creature token.
 	flavor_text: <i-flavor>“Quiet harvest this year. Too quiet, if you ask me . . .”</i-flavor>
 	power: 1
 	toughness: 2
@@ -4618,8 +4620,9 @@ card:
 		* — art
 		RW Outfitted — aggro
 		RG Ramp
+		
 	time_created: 2019-02-16 11:21:25
-	time_modified: 2024-04-28 01:45:41
+	time_modified: 2026-04-21 23:50:49
 	card_color_2: red
 	name: Brimstone Courser
 	name_2: Mount of the Order
@@ -4650,7 +4653,7 @@ card:
 	power: 5
 	toughness: 4
 	illustrator: FlerPainter
-	illustrator_2: Darksiders artwork
+	illustrator_2: Bajan-Art
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
@@ -6216,7 +6219,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2019-09-29 11:09:48
-	time_modified: 2022-02-28 23:30:50
+	time_modified: 2026-04-22 00:59:24
 	name: Arcanist’s Tome
 	casting_cost: U
 	image: image174
@@ -6224,7 +6227,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><atom-sep> </atom-sep><word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		Equipped creature gets +1/+0.
 		Whenever equipped creature attacks, you may draw a card then discard a card.
@@ -9499,9 +9508,7 @@ card:
 		popout_image_style: 0,0,375,523,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		!exportname Helgard Emblem
-
+	notes: !exportname Helgard Emblem
 	time_created: 2022-03-31 19:35:59
 	time_modified: 2025-10-29 00:21:49
 	name: Emblem

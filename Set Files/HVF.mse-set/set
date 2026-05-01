@@ -1029,7 +1029,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update nerfed: Previously searched each player’s library for a card.
+	notes:  nerfed: Previously searched each player’s library for a card.
 	time_created: 2018-03-28 19:49:32
 	time_modified: 2026-04-01 18:08:33
 	extra_data:

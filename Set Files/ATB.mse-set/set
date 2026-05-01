@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	description:
 		SW: spirits
@@ -485,7 +485,7 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  403: Banned in MSEM.
 	time_created: 2019-01-18 23:53:49
 	time_modified: 2020-07-01 20:06:06
 	name: Deathless Siege
@@ -854,7 +854,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -944,7 +944,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -978,7 +978,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -1000,7 +1000,7 @@ card:
 	rarity: rare
 	rule_text:
 		As <atom-cardname><nospellcheck>Guiding Light</nospellcheck></atom-cardname> enters, choose a color.
-		You have <kw-a><nospellcheck><key>hexproo<param-name>f</param-name><kw-A> from <param-name>the chosen color.</param-name></key></nospellcheck></kw-a>
+		You have <kw-a><nospellcheck><key>hexproo<param-name>f</param-name><kw-A> from <param-name>the chosen color</param-name>.</key></nospellcheck></kw-a>
 		If a creature you control would be dealt damage by a source of the chosen color, prevent 1 of that damage.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Brett MacDonald
@@ -1257,7 +1257,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1336,7 +1336,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1399,7 +1399,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1463,9 +1463,9 @@ card:
 
 card:
 	has_styling: false
-	notes:  buffed: Was 2/2 for {R} and allowed them to free cast the card.
+	notes:  nerfed: Now allows playing lands.
 	time_created: 2018-12-07 12:32:12
-	time_modified: 2025-10-28 23:24:34
+	time_modified: 2026-04-22 00:01:33
 	name: Herald of the Humble
 	casting_cost: 1R
 	image: image1309
@@ -1477,7 +1477,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Herald of the Humble</nospellcheck></atom-cardname> deals combat damage to a player, they exile the top card of their library. During their next turn, they may cast that spell if it has mana value 3 or less. <i-auto>(They still pay its costs.)</i-auto>
+		Whenever <atom-cardname><nospellcheck>Herald of the Humble</nospellcheck></atom-cardname> deals combat damage to a player, they exile the top card of their library. During their next turn, they may play that card if it has mana value 3 or less. <i-auto>(They still pay its costs.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -1738,7 +1738,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1911,7 +1911,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2072,7 +2072,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2190,7 +2190,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2224,7 +2224,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -2450,7 +2450,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2693,7 +2693,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2778,7 +2778,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3016,7 +3016,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3050,11 +3050,11 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  reworked: Previously cost {U}, scry 3 on enter, and only drew if concord was online without looting.
 	time_created: 2018-12-07 12:39:45
-	time_modified: 2019-01-08 12:22:15
+	time_modified: 2026-04-22 00:03:47
 	name: Sights Beyond
-	casting_cost: U
+	casting_cost: 2U
 	image: image1366
 	image_2: 
 	mainframe_image: 
@@ -3062,9 +3062,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
-	rule_text:
-		When <atom-cardname><nospellcheck>Sights Beyond</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key>scry <param-number>3</param-number></key></nospellcheck></kw-a>.
-		<kw-A><i-auto><nospellcheck><key>Concord</key></nospellcheck></i-auto></kw-A> — At the beginning of your upkeep, if there are four or more card types among permanents you control, draw a card.
+	rule_text: <kw-A><i-auto><nospellcheck><key>Concord</key></nospellcheck></i-auto></kw-A> — At the beginning of your upkeep, draw a card. Then discard a card unless there are four or more card types among permanents you control.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Amir Levi
 	card_code_text: 
@@ -3320,7 +3318,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -3406,7 +3404,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -3488,7 +3486,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3522,7 +3520,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3585,7 +3583,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3746,7 +3744,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3778,7 +3776,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3986,7 +3984,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Blossom attached to target land. It has <kw-a><nospellcheck><key>enchant <param-name>land and “Enchanted land has ‘<sym>T</sym>:</param-name></key></nospellcheck></kw-a> Add <sym-auto>GG</sym-auto>.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”
+		When <atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Blossom attached to target land. It has <kw-a><nospellcheck><key>enchant <param-name>land and “Enchanted land has ‘<sym>T</sym></param-name>:</key></nospellcheck></kw-a> Add <sym-auto>GG</sym-auto>.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”
 		<atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> gets +1/+1 for each noncreature, nonland permanent you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -4027,7 +4025,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4061,7 +4059,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4097,7 +4095,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4155,7 +4153,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -4266,7 +4264,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4302,7 +4300,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4362,7 +4360,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4641,7 +4639,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4805,7 +4803,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4838,7 +4836,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -4869,7 +4867,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4952,7 +4950,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5041,7 +5039,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5074,7 +5072,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5118,7 +5116,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
-	rule_text: Target creature you control gets +1/+2 until end of turn. If that creature is white, create a white Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has first strike” attached to that creature.</param-name></key></nospellcheck></kw-a>
+	rule_text: Target creature you control gets +1/+2 until end of turn. If that creature is white, create a white Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has first strike” attached to that creature</param-name>.</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jeremy Wilson
 	card_code_text: 
@@ -5130,7 +5128,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5161,7 +5159,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5309,7 +5307,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -5342,7 +5340,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5375,7 +5373,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5462,7 +5460,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5547,7 +5545,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5580,7 +5578,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5664,7 +5662,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5697,7 +5695,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5730,7 +5728,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5763,7 +5761,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5879,7 +5877,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 14
@@ -5991,7 +5989,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -6048,7 +6046,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6103,7 +6101,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6203,7 +6201,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6263,7 +6261,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6426,7 +6424,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6459,7 +6457,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6516,7 +6514,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6605,7 +6603,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2018-12-07 12:41:17
-	time_modified: 2018-12-19 22:01:35
+	time_modified: 2026-04-22 14:39:44
 	name: Dutiful Camel
 	casting_cost: 1G
 	image: image1491
@@ -6616,7 +6614,7 @@ card:
 	sub_type: <word-list-race-en>Camel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text: When <atom-cardname><nospellcheck>Dutiful Camel</nospellcheck></atom-cardname> enters, put a +1/+1 counter on target creature you control.
 	flavor_text:
-		<i-flavor>“Laugh at <error-spelling:en_US>Akilu</error-spelling:en_US> if you want. He is my my ally, and he makes me a better man.”<soft-line>
+		<i-flavor>“Laugh at <error-spelling:en_US>Akilu</error-spelling:en_US> if you want. He is my ally, and he makes me a better man.”<soft-line>
 		</soft-line>—Prince <error-spelling:en_US>Quraish</i-flavor></error-spelling:en_US>
 	power: 1
 	toughness: 1
@@ -6657,7 +6655,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6690,7 +6688,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6750,7 +6748,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6785,7 +6783,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6864,7 +6862,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: 
 	time_created: 2018-12-19 16:55:20
@@ -7205,7 +7203,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7238,7 +7236,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7323,7 +7321,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7381,7 +7379,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7448,7 +7446,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7658,7 +7656,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7691,7 +7689,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -7724,7 +7722,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5

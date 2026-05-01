@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	description:
 		WUBr Rail Barons (projects again)
@@ -2798,9 +2798,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  reworked: Previously could return any land, and only tapped for the one color.
 	time_created: 2018-12-03 23:38:09
-	time_modified: 2019-01-31 16:36:33
+	time_modified: 2026-04-22 01:12:16
 	name: Lumenbay Flyer Line
 	casting_cost: 2
 	image: image17
@@ -2811,9 +2811,9 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: uncommon
 	rule_text:
-		You may return a land you control to its owner’s hand rather than pay this spell’s mana cost.
+		You may return an untapped basic land you control to its owner’s hand rather than pay this spell’s mana cost. If you do, choose a color as it enters.
 		<atom-cardname><nospellcheck>Lumenbay Flyer Line</nospellcheck></atom-cardname> enters tapped.
-		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>W</sym-auto> or one mana of the chosen color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Helio Frazao
 	card_code_text: 
@@ -3350,9 +3350,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  reworked: Previously could return any land, and only tapped for the one color.
 	time_created: 2018-12-03 23:38:14
-	time_modified: 2019-01-31 16:35:06
+	time_modified: 2026-04-22 01:12:27
 	name: Marinton-Ravengulch Line
 	casting_cost: 2
 	image: image14
@@ -3363,9 +3363,9 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: uncommon
 	rule_text:
-		You may return a land you control to its owner’s hand rather than pay this spell’s mana cost.
+		You may return an untapped basic land you control to its owner’s hand rather than pay this spell’s mana cost. If you do, choose a color as it enters.
 		<atom-cardname><nospellcheck>Marinton-Ravengulch Line</nospellcheck></atom-cardname> enters tapped.
-		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>B</sym-auto> or one mana of the chosen color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: karola-j
 	card_code_text: 
@@ -3409,9 +3409,11 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:
+		 reworked: Previously could return any land, and only tapped for the one color.
+
 	time_created: 2018-12-03 23:38:14
-	time_modified: 2019-01-31 16:35:29
+	time_modified: 2026-04-22 01:12:39
 	name: Rawthlin Market Line
 	casting_cost: 2
 	image: image31
@@ -3422,9 +3424,9 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: uncommon
 	rule_text:
-		You may return a land you control to its owner’s hand rather than pay this spell’s mana cost.
+		You may return an untapped basic land you control to its owner’s hand rather than pay this spell’s mana cost. If you do, choose a color as it enters.
 		<atom-cardname><nospellcheck>Rawthlin Market Line</nospellcheck></atom-cardname> enters tapped.
-		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>G</sym-auto> or one mana of the chosen color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: James Ng
 	card_code_text: 
@@ -3608,9 +3610,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  reworked: Previously could return any land, and only tapped for the one color.
 	time_created: 2018-12-03 23:38:25
-	time_modified: 2019-01-31 16:34:02
+	time_modified: 2026-04-22 01:12:34
 	name: Northern Express Line
 	casting_cost: 2
 	image: image6
@@ -3621,9 +3623,9 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: uncommon
 	rule_text:
-		You may return a land you control to its owner’s hand rather than pay this spell’s mana cost.
+		You may return an untapped basic land you control to its owner’s hand rather than pay this spell’s mana cost. If you do, choose a color as it enters.
 		<atom-cardname><nospellcheck>Northern Express Line</nospellcheck></atom-cardname> enters tapped.
-		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>U</sym-auto> or one mana of the chosen color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sergio Cardidad
 	card_code_text: 
@@ -3665,9 +3667,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  reworked: Previously could return any land, and only tapped for the one color.
 	time_created: 2018-12-03 23:38:25
-	time_modified: 2019-01-31 16:32:58
+	time_modified: 2026-04-22 01:11:55
 	name: Galvan Coal Line
 	casting_cost: 2
 	image: image7
@@ -3678,9 +3680,9 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: uncommon
 	rule_text:
-		You may return a land you control to its owner’s hand rather than pay this spell’s mana cost.
+		You may return an untapped basic land you control to its owner’s hand rather than pay this spell’s mana cost. If you do, choose a color as it enters.
 		<atom-cardname><nospellcheck>Galvan Coal Line</nospellcheck></atom-cardname> enters tapped.
-		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto>.
+		<sym-auto>T</sym-auto>: Add <sym-auto>R</sym-auto> or one mana of the chosen color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Sean Murray
 	card_code_text: 
@@ -4697,11 +4699,11 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  reworked: Previously {6}{U}{U} that cost {1} less for each artifact/enchantment with "Reveal the top seven cards of your library. Put any number of noncreature, nonland cards from among them into your hand and the rest of the revealed cards into your graveyard."
 	time_created: 2018-12-04 04:15:59
-	time_modified: 2019-04-28 20:59:13
+	time_modified: 2026-04-22 01:10:36
 	name: Ride the Storm
-	casting_cost: 6UU
+	casting_cost: 4UU
 	image: image125
 	image_2: 
 	mainframe_image: 
@@ -4710,9 +4712,9 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
 	rule_text:
-		This spell costs <sym-auto>1</sym-auto> less to cast for each artifact and enchantment you control.
-		Reveal the top seven cards of your library. Put any number of noncreature, nonland cards from among them into your hand and the rest of the revealed cards into your graveyard.
-	flavor_text: <i-flavor></i-flavor>
+		If you controlled three or more artifacts and/or enchantments as you cast this spell, it can’t be countered.
+		Draw four cards.
+	flavor_text: <i-flavor>When truth is more fearsome than fiction, old ghost stories make pleasant company.</i-flavor>
 	illustrator: Benjamin Ee
 	card_code_text: 
 	card_code_text_2: 

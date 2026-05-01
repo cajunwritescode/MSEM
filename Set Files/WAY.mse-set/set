@@ -773,7 +773,7 @@ card:
 	rarity: common
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Saddlesaur Guide</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Hefty Load attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+2 and has trample.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Saddlesaur Guide</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Hefty Load attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+2 and has trample</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
@@ -1471,7 +1471,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Silkweaver Matron</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Spinning Silk attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Whenever enchanted creature attacks, tap target creature defending player controls.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Silkweaver Matron</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Spinning Silk attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Whenever enchanted creature attacks, tap target creature defending player controls</param-name>.</key></nospellcheck></kw-a>”
 		<sym-auto>1W</sym-auto>: Untap target enchanted creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -1504,7 +1504,7 @@ card:
 	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Relentless Pathcutter</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Enmity attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+0 and has <kw-a>trample.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Relentless Pathcutter</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Enmity attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+0 and has <kw-a>trample</param-name>.</key></nospellcheck></kw-a>”
 		When <atom-cardname><nospellcheck>Relentless Pathcutter</nospellcheck></atom-cardname> dies, return it to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -1796,7 +1796,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Telarine Runecarver</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Relic’s Gift attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+1.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Telarine Runecarver</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Relic’s Gift attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+1</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -3168,7 +3168,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		Whenever another nontoken creature you control dies, you may return it to the battlefield. It becomes an Aura enchantment with <kw-a><nospellcheck><key>enchant <param-name>creature you control and “Enchanted creature gets +X/+X, where X is this Aura’s mana value.</param-name></key></nospellcheck></kw-a>”
+		Whenever another nontoken creature you control dies, you may return it to the battlefield. It becomes an Aura enchantment with <kw-a><nospellcheck><key>enchant <param-name>creature you control and “Enchanted creature gets +X/+X, where X is this Aura’s mana value</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -3249,7 +3249,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Phantom Threader</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Spectral Whispers attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has double strike as long as you control it.</param-name></key></nospellcheck></kw-a> Otherwise, it can’t attack or block.”
+	rule_text: When <atom-cardname><nospellcheck>Phantom Threader</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Spectral Whispers attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has double strike as long as you control it</param-name>.</key></nospellcheck></kw-a> Otherwise, it can’t attack or block.”
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -4738,7 +4738,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Rootbound Awakener</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Vivification</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attached to target creature or land. The token has <kw-a><nospellcheck><key>enchant <param-name>creature or land and “Enchanted permanent is a creature with base power and toughness 5/5 in addition to its other types.</param-name></key></nospellcheck></kw-a>”
+	rule_text: When <atom-cardname><nospellcheck>Rootbound Awakener</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Vivification</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attached to target creature or land. The token has <kw-a><nospellcheck><key>enchant <param-name>creature or land and “Enchanted permanent is a creature with base power and toughness 5/5 in addition to its other types</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -5248,7 +5248,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Mausoleum Suffragan</nospellcheck></atom-cardname> enters, create a white and black Aura enchantment token named Pale <kw-a><nospellcheck><key>Shroud</key></nospellcheck></kw-a> attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+1 and has lifelink.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Mausoleum Suffragan</nospellcheck></atom-cardname> enters, create a white and black Aura enchantment token named Pale <kw-a><nospellcheck><key>Shroud</key></nospellcheck></kw-a> attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+1 and has lifelink</param-name>.</key></nospellcheck></kw-a>”
 		Whenever an artifact or enchantment you control enters, each opponent loses 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -5826,7 +5826,7 @@ card:
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Enchanted creature has <kw-0><nospellcheck><key>protection from <param-name>creatures.</param-name></key></nospellcheck></kw-0> <i-auto>(It can’t be targeted or dealt damage by creatures.)</i-auto>
+		Enchanted creature has <kw-0><nospellcheck><key>protection from <param-name>creatures</param-name>.</key></nospellcheck></kw-0> <i-auto>(It can’t be targeted or dealt damage by creatures.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: India Lee Crews
 	custom_card_number: 
@@ -7218,7 +7218,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Prismatic Champion</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Sunward</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has <kw-a>protection from creatures.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Prismatic Champion</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Sunward</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has <kw-a>protection from creatures</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 1
@@ -8420,7 +8420,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Ageless Weaver</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Years of Experience attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+2.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Ageless Weaver</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Years of Experience attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+2</param-name>.</key></nospellcheck></kw-a>”
 		Whenever an enchanted creature you control dies, create a 3/3 green Elemental creature token.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -8533,7 +8533,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Far-Realm Guardian</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Wild Bounty attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+1 and has ward <sym>2</sym>.</param-name></key></nospellcheck></kw-a>”
+	rule_text: When <atom-cardname><nospellcheck>Far-Realm Guardian</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Wild Bounty attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+1 and has ward <sym>2</sym></param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor>“This place is under my care, so you can forget any delusions of owning it.”</i-flavor>
 	power: 1
 	toughness: 1
@@ -8865,7 +8865,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Zhedina Valiant</nospellcheck></atom-cardname> enters, create a white and blue Aura enchantment token named Winds of Chance attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+0 and has flying and lifelink.</param-name></key></nospellcheck></kw-a>”
+	rule_text: When <atom-cardname><nospellcheck>Zhedina Valiant</nospellcheck></atom-cardname> enters, create a white and blue Aura enchantment token named Winds of Chance attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+0 and has flying and lifelink</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -8935,7 +8935,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Cat</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: Whenever <atom-cardname><nospellcheck>Journeying Giftbearer</nospellcheck></atom-cardname> or another nontoken creature you control enters, create a green and white Aura enchantment token named Wild Boon attached to that creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+1.</param-name></key></nospellcheck></kw-a>”
+	rule_text: Whenever <atom-cardname><nospellcheck>Journeying Giftbearer</nospellcheck></atom-cardname> or another nontoken creature you control enters, create a green and white Aura enchantment token named Wild Boon attached to that creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+1</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -9190,13 +9190,13 @@ card:
 		overlay: 
 	notes:
 		!A
-		
+		 nerfed: Changed from end step to upkeep.
 		!FT
 		
 		!2021-Change
 		> Lost XXX cost and now is a flat 3.
 	time_created: 2019-09-15 15:47:52
-	time_modified: 2021-07-28 00:34:44
+	time_modified: 2026-04-30 22:02:52
 	name: Rippling Curtain
 	casting_cost: 3
 	image: image151
@@ -9206,7 +9206,7 @@ card:
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
-	rule_text: At the beginning of your end step, <kw-A><nospellcheck><key>aetherize</key></nospellcheck> target permanent you control.<atom-reminder-action> <i-auto>(To aetherize, create a token that’s a copy of it, then exile that token.)</i-auto></atom-reminder-action></kw-A>
+	rule_text: At the beginning of your upkeep, <kw-A><nospellcheck><key>aetherize</key></nospellcheck> target permanent you control.<atom-reminder-action> <i-auto>(To aetherize, create a token that’s a copy of it, then exile that token.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text:
 		<i-flavor>“We are all naught but droplets of water on a storm both blind and eternal.”<soft-line>
 		—<error-spelling:en_US>Zisvu</error-spelling:en_US>, planar eulogist</soft-line></i-flavor>
@@ -10126,22 +10126,27 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: nerfed: Was previously a Study enchantment with Archive 3 and {1}, {T}: Scry 1.
 	time_created: 2019-08-15 11:09:04
-	time_modified: 2020-04-14 21:16:09
+	time_modified: 2026-04-22 00:25:59
 	card_color: land
 	name: Zhelid, Planar Academy
 	image: image49
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Enchantment Land</word-list-type-en>
-	sub_type: <word-list-land>Study</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: special
 	rule_text:
-		Archive 3 <i-auto>(As this enters, shuffle the top three cards of your main library into a new face up library. Sacrifice this after the archived library is empty.)</i-auto>
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: <kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>.
+		<kw-A><i-auto><nospellcheck><key>Wanderlust</key></nospellcheck></i-auto></kw-A> — <sym-auto>T</sym-auto>: <kw-a><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-a>. Activate only if you control four or more differently named lands.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anton Fadeev
 	custom_card_number: 

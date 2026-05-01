@@ -9,7 +9,7 @@ set_info:
 	symbol: symbol2.mse-symbol
 	masterpiece_symbol: 
 	auto_errata: yes
-	shorten_types_for_rarity: no
+	shorten_types_for_rarity: yes
 	rarity_codes: no
 	automatic_copyright: no
 	automatic_card_numbers: no
@@ -647,7 +647,7 @@ card:
 	rarity: rare
 	rule_text:
 		As Guiding Light enters, choose a color.
-		You have <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>the chosen color.</param-name></key></nospellcheck></kw-a>
+		You have <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>the chosen color</param-name>.</key></nospellcheck></kw-a>
 		If a creature you control would be dealt damage by a source of the chosen color, prevent 1 of that damage.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Hoàng Lap (Solan)
@@ -677,7 +677,7 @@ card:
 	rarity: rare
 	rule_text:
 		As Guiding Light enters, choose a color.
-		You have <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>the chosen color.</param-name></key></nospellcheck></kw-a>
+		You have <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>the chosen color</param-name>.</key></nospellcheck></kw-a>
 		If a creature you control would be dealt damage by a source of the chosen color, prevent 1 of that damage.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Hoàng Lap (Solan)
@@ -1446,7 +1446,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		When Stalked Healer enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		When Stalked Healer enters, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -2850,7 +2850,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<atom-legname><nospellcheck>Mettalia</nospellcheck></atom-legname> is all colors.
-		<atom-legname><nospellcheck>Mettalia</nospellcheck></atom-legname> has <kw-0><nospellcheck><key>protection from <param-name>each color among cards she’s salvaged in exile.</param-name></key></nospellcheck></kw-0>
+		<atom-legname><nospellcheck>Mettalia</nospellcheck></atom-legname> has <kw-0><nospellcheck><key>protection from <param-name>each color among cards she’s salvaged in exile</param-name>.</key></nospellcheck></kw-0>
 		When <atom-legname><nospellcheck>Mettalia</nospellcheck></atom-legname> enters, for each color, you may salvage a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonlegendary</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> card of that color.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
@@ -3876,7 +3876,7 @@ card:
 	sub_type: <word-list-race-en>Spirit</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Spirit of Infamy</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>post a bounty on target <param-name>creature.</param-name></key></nospellcheck><atom-reminder-action> <i-auto>(Put a bounty counter on that creature. It has “When this creature dies, each opponent draws a card” as long as it has a bounty counter on it.)</i-auto></atom-reminder-action></kw-A>
+		Whenever <atom-cardname><nospellcheck>Spirit of Infamy</nospellcheck></atom-cardname> attacks, <kw-A><nospellcheck><key>post a bounty on target <param-name>creature</param-name>.</key></nospellcheck><atom-reminder-action> <i-auto>(Put a bounty counter on that creature. It has “When this creature dies, each opponent draws a card” as long as it has a bounty counter on it.)</i-auto></atom-reminder-action></kw-A>
 		Spirit of Infamy gets +2/+2 for each bounty counter on it.
 		When Spirit of Infamy dies, you gain life equal to its power.
 	flavor_text: <i-flavor></i-flavor>
@@ -3990,7 +3990,6 @@ card:
 	notes:
 		!design CanterburyEgg
 		!hidetag (SL61)
-
 	time_created: 2017-06-15 12:27:30
 	time_modified: 2026-03-01 12:53:25
 	name: Hemley Eggfeather
@@ -4768,8 +4767,9 @@ card:
 	notes:
 		!design Dodger
 		!hidetag (SL63)
+		
 	time_created: 2021-01-15 20:26:31
-	time_modified: 2023-10-01 15:57:02
+	time_modified: 2026-04-22 00:12:12
 	name: Danithra Muckbruiser
 	casting_cost: 1G
 	image: image651
@@ -4780,7 +4780,8 @@ card:
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Spells your opponents cast that target <atom-cardname><nospellcheck>Danithra Muckbruiser</nospellcheck></atom-cardname> cost <sym-auto>2</sym-auto> more to cast.
+		This spell can’t be countered.
+		<atom-cardname><nospellcheck>Danithra Muckbruiser</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as it’s your turn.
 		<atom-cardname><nospellcheck>Danithra Muckbruiser</nospellcheck></atom-cardname> gets +X/+X, where X is the number of cards in your graveyard minus seven. <i-auto>(If there are fewer than seven, it gets +0/+0.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -7610,15 +7611,16 @@ card:
 	stylesheet_version: 2024-09-01
 	has_styling: true
 	styling_data:
-		shrink_typeline_text: 3.5
+		shrink_typeline_text: 
 		subscriber_style: tens
 		subscriber_magnitude: K
 		overlay: 
 	notes:
 		!hidetag (SL71)
 		!design Timespiraled
+		
 	time_created: 2019-08-15 11:09:04
-	time_modified: 2024-07-31 22:05:43
+	time_modified: 2026-04-22 00:24:31
 	extra_data:
 		magic-m15-youtube:
 			title: ♪ ♫ on top of the world with you ♫ ♪
@@ -7629,13 +7631,18 @@ card:
 	image_2: image749
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Enchantment Land</word-list-type-en>
-	sub_type: <word-list-land>Study</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-0><nospellcheck><key>Archive <param-number>3</param-number></key></nospellcheck></kw-0> <i-auto>(As this enters, shuffle the top three cards of your main library into a new face up library. Sacrifice this after the archived library is empty.)</i-auto>
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: <kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>.
+		<i>Wanderlust</i> — <sym-auto>T</sym-auto>: <kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>. Activate only if you control four or more differently named lands.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: 泉彩
 	custom_card_number: 587
@@ -8077,7 +8084,7 @@ card:
 	rarity: rare
 	rule_text:
 		Counter target noncreature spell.
-		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		<kw-1><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	flavor_text:
 		<i-flavor>Your body looks to me a way it never has before<soft-line>
 		</soft-line>And is this what’s making you so sad?<soft-line>
@@ -8889,7 +8896,7 @@ card:
 		overlay: 
 	notes: !hidetag (SL76)
 	time_created: 2022-06-27 00:09:38
-	time_modified: 2022-09-26 18:53:20
+	time_modified: 2026-04-22 00:21:15
 	name: Channeler of the Veil
 	casting_cost: 1B
 	image: image795
@@ -8901,7 +8908,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>Channeler of the Veil</nospellcheck></atom-cardname> enters, create a 1/1 colorless Construct artifact creature token.
-		Sacrifice another creature: Each opponent loses 1 life.
+		Sacrifice another creature: Each opponent loses 1 life. Activate only once each turn.
 	flavor_text: <i-flavor>She peers across the veil eagerly, every sight drawing her own journey across it ever closer. </i-flavor>
 	power: 1
 	toughness: 1
@@ -10201,9 +10208,7 @@ card:
 		text_chops: 1
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag (SL80)
-		!update
+	notes: !hidetag (SL80)
 	time_created: 2022-12-22 19:30:18
 	time_modified: 2026-04-01 17:51:55
 	extra_data:
@@ -11989,7 +11994,7 @@ card:
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Construct</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: <atom-cardname><nospellcheck>Shining Crusader</nospellcheck></atom-cardname> has <kw-0><nospellcheck><key>protection from <param-name>all colors as long as you control no colored permanents.</param-name></key></nospellcheck></kw-0>
+	rule_text: <atom-cardname><nospellcheck>Shining Crusader</nospellcheck></atom-cardname> has <kw-0><nospellcheck><key>protection from <param-name>all colors as long as you control no colored permanents</param-name>.</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 2
@@ -13374,7 +13379,7 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Sending Stones</nospellcheck></atom-cardname> enters, harmonize twice. <i-auto>(To harmonize, trigger up to one harmony of a permanent you control.)</i-auto>
+		When <atom-cardname><nospellcheck>Sending Stones</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>harmonize <param-cost>twice</param-cost></key></nospellcheck>. <i-auto>(To harmonize, trigger up to one harmony of a permanent you control.)</i-auto><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by <sym>X</sym>, where X is its power. Then exile this spell.)</i-auto></atom-reminder-expert></kw-A>
 		If you would harmonize, you may trigger a harmony of a permanent card in your graveyard instead.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Adam Schumpert
@@ -15202,7 +15207,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lilyreed</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Triton enters, create a white Aura enchantment token named Triton’s Gift attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+0 and can’t be blocked by creatures with power 3 or greater.</param-name></key></nospellcheck></kw-a>”
+	rule_text: When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Lilyreed</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Triton enters, create a white Aura enchantment token named Triton’s Gift attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+0 and can’t be blocked by creatures with power 3 or greater</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -15965,9 +15970,11 @@ card:
 		chop_bottom: 5
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL99)
+	notes:
+		!hidetag (SL99)
+		
 	time_created: 2023-08-18 16:53:56
-	time_modified: 2023-08-31 15:09:46
+	time_modified: 2026-04-30 12:30:33
 	name: Mindrip
 	casting_cost: XUUB
 	image: image1013
@@ -15977,7 +15984,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Counter target spell. Search its controller’s library for a card with mana value X or less and cast it without paying its mana cost. Then that player shuffles.
+	rule_text: Counter target spell. You may cast a spell from its controller’s graveyard with mana value X or less without paying its mana cost.
 	rule_text_2: 
 	flavor_text:
 		<i-flavor>“You won’t remember a thing except me.” <soft-line>
@@ -16323,7 +16330,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-cardname><nospellcheck>Stormsurge</nospellcheck></atom-cardname> deals 3 damage to any target.
-		<kw-A><nospellcheck><key>Orchestrate <param-cost><sym>R</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Orchestrate <param-cost><sym>R</sym></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may exile this card from your hand anytime you could cast a sorcery for its orchestrate cost. When you next resolve a spell, you may cast this from exile without paying its mana cost.)</i-auto></atom-reminder-custom></kw-A>
 	rule_text_2: 
 	flavor_text: <i-flavor>Every action calls forth a hundred more.</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
@@ -16362,7 +16369,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Merchant</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Ramzi, Traveling Merchant</nospellcheck></atom-cardname> enters, adjudicate land. <i-auto>(Create a white enchantment Aura token with <kw-a><nospellcheck><key>enchant <param-name>land and “Sacrifice this token:</param-name></key></nospellcheck></kw-a> Untap enchanted land.” attached to target land.)</i-auto>
+		When <atom-cardname><nospellcheck>Ramzi, Traveling Merchant</nospellcheck></atom-cardname> enters, adjudicate land. <i-auto>(Create a white enchantment Aura token with <kw-a><nospellcheck><key>enchant <param-name>land and “Sacrifice this token</param-name>:</key></nospellcheck></kw-a> Untap enchanted land.” attached to target land.)</i-auto>
 		Whenever an Aura becomes attached to a land you control, create a 1/1 green Antelope creature token.
 	rule_text_2: 
 	flavor_text: <i-flavor>Never underestimate the power a hundred coins carry.</i-flavor>

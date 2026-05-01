@@ -9,6 +9,7 @@
  <token>1</token>
  <tablerow>1</tablerow>
  <reverse-related>Accursed Existence</reverse-related>
+ <reverse-related>Curse of the Drow</reverse-related>
  <reverse-related>Elemental Clash</reverse-related>
  <reverse-related>Fervent Arcanomancer</reverse-related>
  <reverse-related>Hao'Tai, the Ancient One</reverse-related>
@@ -389,6 +390,7 @@
  <reverse-related>Celestial Mandate</reverse-related>
  <reverse-related>Diviner of the Mists</reverse-related>
  <reverse-related>Harmonic Confluence</reverse-related>
+ <reverse-related>Zhu Bajie, Shepherd of Stone</reverse-related>
  <reverse-related>For the Court of the Queen</reverse-related>
  <reverse-related>Hao'Tai, the Reverent</reverse-related>
  <reverse-related>Lin, the Opportunist</reverse-related>
@@ -634,6 +636,7 @@
  <reverse-related>Ominous Discovery_MSY</reverse-related>
  <reverse-related>Pensive Songwriter_MSY</reverse-related>
  <reverse-related>Pensive Songwriter (Signed)</reverse-related>
+ <reverse-related>Shredded Memory</reverse-related>
  <reverse-related>Splinter of Creation_MSY</reverse-related>
  <reverse-related>Stand Everlasting</reverse-related>
  <reverse-related>Stardust Nova</reverse-related>
@@ -680,6 +683,7 @@
  <reverse-related>Find Greater Purpose (SL52b)</reverse-related>
  <reverse-related>Find Greater Purpose (SL85)</reverse-related>
  <reverse-related>Flamecaller's Command (SL122)</reverse-related>
+ <reverse-related>Herald of the Humble (SL176)</reverse-related>
  <reverse-related>Ignition Engine (SL120)</reverse-related>
  <reverse-related>Ignition Engine (SL121)</reverse-related>
  <reverse-related>Infectious Ego (SL52)</reverse-related>
@@ -3434,7 +3438,6 @@ All creatures have haste and can't block.</text>
  <reverse-related>Overgrown Refuge</reverse-related>
  <reverse-related>Unlit Alley</reverse-related>
  <reverse-related>Stolen Cache</reverse-related>
- <reverse-related>Recompose</reverse-related>
  <reverse-related>Snagged Truck_MSY</reverse-related>
  <reverse-related>Wheat from Chaff_MSY</reverse-related>
  <reverse-related>Wheat from Chaff (Signed)</reverse-related>
@@ -3717,6 +3720,7 @@ Equip {1}</text>
  <reverse-related>Not All Who Wander</reverse-related>
  <reverse-related>Orria's Ward</reverse-related>
  <reverse-related>Planar Eviction</reverse-related>
+ <reverse-related>Primal Resurgence</reverse-related>
  <reverse-related>Primeval Expansion</reverse-related>
  <reverse-related>Return to Light</reverse-related>
  <reverse-related>Ride the Waves</reverse-related>
@@ -3739,9 +3743,13 @@ Equip {1}</text>
  <reverse-related>Forgotten Library</reverse-related>
  <reverse-related>The Sun Also Rises_AVX</reverse-related>
  <reverse-related>Deceitful Tutor_MSL</reverse-related>
+ <reverse-related>Primal Resurgence_MSL</reverse-related>
+ <reverse-related>Primal Resurgence_MC25</reverse-related>
  <reverse-related>Vartrossen Primalist</reverse-related>
  <reverse-related>Vartrossen Packleader</reverse-related>
  <reverse-related>Thunderstride_MSY</reverse-related>
+ <reverse-related>Primal Resurgence_MPS_MSE</reverse-related>
+ <reverse-related>Primal Resurgence_CHAMPIONS</reverse-related>
  <reverse-related>Dovon's Masterwork (SL78)</reverse-related>
  <reverse-related>Not All Who Wander (SL131)</reverse-related>
  <set num="NVA1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/NVA1.jpg?v=0" rarity="token">tokens</set>
@@ -4207,7 +4215,6 @@ Equip {1}</text>
  <reverse-related>Salva Tore's Study</reverse-related>
  <reverse-related>Aerida's Study</reverse-related>
  <reverse-related>Felice's Study</reverse-related>
- <reverse-related>Zhelid, Planar Academy</reverse-related>
  <reverse-related>Ardy's Study_MS2</reverse-related>
  <reverse-related>Ekebram's Archive</reverse-related>
  <reverse-related>Turin's Study</reverse-related>
@@ -4273,7 +4280,6 @@ Equip {1}</text>
  <reverse-related>Pidge's Workbench (SL71)</reverse-related>
  <reverse-related>Rahit's Study (SL28)</reverse-related>
  <reverse-related>Reyhsia's Chronicle (SL71)</reverse-related>
- <reverse-related>Zhelid, Planar Academy (SL71)</reverse-related>
  <reverse-related>Family Tree_PRO_KXP</reverse-related>
  <set num="MSEMAR15" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSEMAR15.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -7552,6 +7558,7 @@ Enchanted creature gets +2/+0 and has trample.</text>
  <reverse-related>Plasma Enforcer_MSY</reverse-related>
  <reverse-related>Plasma Enforcer (Signed)</reverse-related>
  <reverse-related>Olten Surveyor (SL137)</reverse-related>
+ <reverse-related>Olten Surveyor (SL175)</reverse-related>
  <reverse-related>Plasma Enforcer (SL134)</reverse-related>
  <set num="LVS3" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LVS3.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -10662,7 +10669,6 @@ When Crimson Hellmaw enters, it deals 3 damage to any target.</text>
  <reverse-related>Zealous Rabble</reverse-related>
  <reverse-related>The Disappearance of Faye</reverse-related>
  <reverse-related>Explorer's Potluck</reverse-related>
- <reverse-related>Recompose</reverse-related>
  <reverse-related>Just Out of Reach OTH_tokens</reverse-related>
  <set num="OTH66" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/OTH66.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -19838,6 +19844,35 @@ Equip {2}</text>
  <set num="BLR1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/BLR1.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>red Army 11G5L</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Army</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Akvani Warbrute</reverse-related>
+ <reverse-related count="2">Andazir, Destined Prince</reverse-related>
+ <reverse-related count="3">Broken Wing Paragon</reverse-related>
+ <reverse-related count="x">Child of Maaru</reverse-related>
+ <reverse-related count="3">Choir of Steadfast Hearts</reverse-related>
+ <reverse-related>Cloaked Instigator</reverse-related>
+ <reverse-related count="2">Devourer of Devotees</reverse-related>
+ <reverse-related count="2">Div of Broken Teeth</reverse-related>
+ <reverse-related>Enduring Sandshaper</reverse-related>
+ <reverse-related>Garmrud Skyscout</reverse-related>
+ <reverse-related>Harborline Fishermen</reverse-related>
+ <reverse-related>Heist Captain</reverse-related>
+ <reverse-related count="2">Host of the Honored</reverse-related>
+ <reverse-related count="x">Legion of Infinite Maws</reverse-related>
+ <reverse-related>Nizev Conspirators</reverse-related>
+ <reverse-related count="2">Phantomsteed Cavalier</reverse-related>
+ <reverse-related count="2">Regiment on Wings</reverse-related>
+ <reverse-related count="3">Satrap of Empty Halls</reverse-related>
+ <reverse-related count="2">Sepidgar Conscript</reverse-related>
+ <set num="G5L8" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L8.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>red Army 22G5L</name>
  <text></text>
  <colors>R</colors>
@@ -19846,6 +19881,11 @@ Equip {2}</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Atashvar Mobilized</reverse-related>
+ <reverse-related count="2">Bearer of Fallen Tidings</reverse-related>
+ <reverse-related count="2">Sahra, Hand of Ruin</reverse-related>
+ <reverse-related count="2">Shepherd of the Pride</reverse-related>
+ <reverse-related>Voice of Caravans</reverse-related>
+ <reverse-related count="2">Withered Marshal</reverse-related>
  <set num="G5L9" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L9.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -19884,6 +19924,19 @@ Equip {2}</text>
  <reverse-related>Strike of the Faceless</reverse-related>
  <reverse-related>Wealth of Sarvagan</reverse-related>
  <set num="G5L2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L2.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Army 33G5L</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Army</type>
+ <pt>3/3</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Blossoming Elemental</reverse-related>
+ <reverse-related count="3">Choir of Trembling Hearts</reverse-related>
+ <reverse-related>Tidewatcher's Wisdom</reverse-related>
+ <set num="G5L10" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L10.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Treasure G5L</name>
@@ -19931,6 +19984,17 @@ Equip {2}</text>
  <reverse-related>Labor of Loyalty</reverse-related>
  <reverse-related>Scepter of Malice</reverse-related>
  <set num="G5L19" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L19.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Army 02G5L</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Army</type>
+ <pt>0/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="4">General of Phantasms</reverse-related>
+ <set num="G5L7" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L7.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>black Horror G5L</name>
@@ -20021,6 +20085,17 @@ Equip {2}</text>
  <set num="G5L1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L1.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>white Griffin 33G5L</name>
+ <text>Flying</text>
+ <colors>W</colors>
+ <type>Token Creature — Griffin</type>
+ <pt>3/3</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Soli Palace</reverse-related>
+ <set num="G5L23" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L23.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>blue Rogue 22G5L</name>
  <text></text>
  <colors>U</colors>
@@ -20032,15 +20107,15 @@ Equip {2}</text>
  <set num="G5L3" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L3.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
- <name>red Army 33G5L</name>
+ <name>red Army 44G5L</name>
  <text></text>
  <colors>R</colors>
  <type>Token Creature — Army</type>
- <pt>3/3</pt>
+ <pt>4/4</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <reverse-related>Tidewatcher's Wisdom</reverse-related>
- <set num="G5L10" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L10.jpg?v=0" rarity="token">tokens</set>
+ <reverse-related>Tombbound Creeper</reverse-related>
+ <set num="G5L11" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L11.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>green Squirrel 11MS2</name>
@@ -21046,6 +21121,28 @@ Whenever this creature attacks, scry 1.</text>
  <set num="LAIR23" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR23.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>white Avatar LAIR</name>
+ <text>Indestructible</text>
+ <colors>W</colors>
+ <type>Token Creature — Avatar</type>
+ <pt>★/★</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Divinity (SL176)</reverse-related>
+ <set num="LAIR108" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR108.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Avatar LAIR 2</name>
+ <text>Indestructible</text>
+ <colors>W</colors>
+ <type>Token Creature — Avatar</type>
+ <pt>★/★</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Divinity (SL176)</reverse-related>
+ <set num="LAIR109" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR109.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>Bullet LAIR</name>
  <text>{T}, Sacrifice this artifact: It deals 1 damage to any target.</text>
  <colors></colors>
@@ -21634,36 +21731,6 @@ Target player draws three cards.</text>
  <set num="MC2582" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2582.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
- <name>red Army 11G5L</name>
- <text></text>
- <colors>R</colors>
- <type>Token Creature — Army</type>
- <pt>1/1</pt>
- <token>1</token>
- <tablerow>2</tablerow>
- <set num="G5L8" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L8.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>red Army 02G5L</name>
- <text></text>
- <colors>R</colors>
- <type>Token Creature — Army</type>
- <pt>0/2</pt>
- <token>1</token>
- <tablerow>2</tablerow>
- <set num="G5L7" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L7.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>red Army 44G5L</name>
- <text></text>
- <colors>R</colors>
- <type>Token Creature — Army</type>
- <pt>4/4</pt>
- <token>1</token>
- <tablerow>2</tablerow>
- <set num="G5L11" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L11.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
  <name>red Army 55G5L</name>
  <text></text>
  <colors>R</colors>
@@ -22028,35 +22095,34 @@ You may play an additional land on each of your turns.</text>
 </card>
 <card>
  <name>Deadwood Terror LAW</name>
- <text>Deathtouch
-When Deadwood Terror enters from a graveyard, create two tokens that are copies of it.
+ <text>When Deadwood Terror enters from a graveyard, create two tokens that are copies of it.
 {4}{B}{B}, Sacrifice a creature: Return Deadwood Terror from your graveyard to the battlefield. Activate only as a sorcery.</text>
  <colors>B</colors>
  <type>Token Creature — Zombie</type>
  <pt>2/2</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <set num="LAW4" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAW4.jpg?v=0" rarity="token">tokens</set>
+ <set num="LAW4" muid="20260330" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAW4.jpg?v=20260330" rarity="token">tokens</set>
 </card>
 <card>
  <name>Deadwood Terror MSC</name>
- <text>Deathtouch</text>
+ <text></text>
  <colors>B</colors>
  <type>Token Creature — Zombie</type>
  <pt>2/2</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <set num="MSC34" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC34.jpg?v=0" rarity="token">tokens</set>
+ <set num="MSC34" muid="20260304" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC34.jpg?v=20260304" rarity="token">tokens</set>
 </card>
 <card>
  <name>Deadwood Terror MSL</name>
- <text>Deathtouch</text>
+ <text></text>
  <colors>B</colors>
  <type>Token Creature — Zombie</type>
  <pt>2/2</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <set num="MSL33" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSL33.jpg?v=0" rarity="token">tokens</set>
+ <set num="MSL33" muid="20260304" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSL33.jpg?v=20260304" rarity="token">tokens</set>
 </card>
 <card>
  <name>black Demon 55CHAMPIONS 2</name>

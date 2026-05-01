@@ -7194,9 +7194,9 @@ card:
 	notes:
 		!tag Alkabah
 		!tag GolnaRule
-
+		
 	time_created: 2025-11-03 12:45:17
-	time_modified: 2026-02-01 21:22:35
+	time_modified: 2026-04-22 14:51:18
 	card_color: land
 	name: Soli Palace
 	image: image239.png
@@ -7212,7 +7212,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		Nontoken <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Satrapies</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control have “<sym-auto>3W</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Create a tapped colorless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Satrapy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> land token with ‘<sym>T</sym>: Add <sym>C</sym>’ and a 3/3 white Griffin creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. It can’t block this turn.
+		Nontoken <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Satrapies</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> you control have “<sym-auto>3W</sym-auto>, <sym-auto>T</sym-auto>, Sacrifice this land: Create a tapped colorless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Satrapy</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> land token with ‘<sym>T</sym>: Add <sym>C</sym>’ and a 3/3 white Griffin creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. It can’t block this turn.”
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Stijn Windig
 	card_code_text: 
@@ -7226,7 +7226,6 @@ card:
 	notes:
 		!tag Alkabah
 		!tag GolnaRule
-
 	time_created: 2025-11-03 12:45:17
 	time_modified: 2026-02-01 21:21:54
 	card_color: land
@@ -7258,7 +7257,6 @@ card:
 	notes:
 		!tag Alkabah
 		!tag GolnaRule
-		
 
 	time_created: 2025-11-03 12:45:17
 	time_modified: 2026-03-04 17:36:37
@@ -7291,7 +7289,6 @@ card:
 	notes:
 		!tag Alkabah
 		!tag GolnaRule
-
 	time_created: 2025-11-03 12:45:17
 	time_modified: 2026-02-01 21:22:22
 	card_color: land
@@ -8850,7 +8847,6 @@ card:
 	notes:
 		!tag Alkabah
 		!tag GolnaRule
-
 	time_created: 2025-11-03 12:19:34
 	time_modified: 2026-02-05 11:53:38
 	name: Secondhand Serenade
@@ -10780,6 +10776,37 @@ card:
 	card_code_text_3: 
 	copyright_2: 
 	copyright_3: 
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: false
+	notes: 
+	time_created: 2026-04-22 14:51:50
+	time_modified: 2026-04-22 14:53:12
+	card_color: white
+	name: Griffin
+	image: image88.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Griffin</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Therafa
+	partition_select: after normal, main set B
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
 
 keyword:
 	keyword: 

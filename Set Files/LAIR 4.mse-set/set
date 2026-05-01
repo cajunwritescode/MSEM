@@ -158,10 +158,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	notes:
 		!hidetag (SL154)
+		
 		!addtoken UncounterableFunction;1;ReductionFunction;1;AmplifyFunction;1
 		!inpend effect./add/ (It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)
 	time_created: 2022-06-17 19:07:23
-	time_modified: 2025-01-30 17:39:45
+	time_modified: 2026-04-21 23:32:31
 	name: Neon Claw Knight
 	casting_cost: 1R
 	image: image1
@@ -177,7 +178,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Neon Claw Knight</nospellcheck></atom-cardname> enters or attacks, choose one. Create a Function token with that effect.
+		Whenever <atom-cardname><nospellcheck>Neon Claw Knight</nospellcheck></atom-cardname> attacks, choose one. Create a Function token with that effect.
 		<li><bullet>• </bullet>This spell can’t be countered.
 		</li><li><bullet>• </bullet>This spell costs <sym-auto>R</sym-auto> less to cast.
 		</li><li><bullet>• </bullet>If this spell would deal damage to a permanent or player, it deals that much damage plus 1 instead.</li>
@@ -3312,10 +3313,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
+		
 		!addtoken UncounterableFunction;1;ReductionFunction;1;AmplifyFunction;1
 		!hidetag (SL151)
 	time_created: 2022-06-17 19:07:23
-	time_modified: 2025-04-30 12:23:55
+	time_modified: 2026-04-21 23:32:37
 	name: Neon Claw Knight
 	casting_cost: 1R
 	image: image91
@@ -3331,7 +3333,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Neon Claw Knight</nospellcheck></atom-cardname> enters or attacks, choose one. Create a Function token with that effect.
+		Whenever <atom-cardname><nospellcheck>Neon Claw Knight</nospellcheck></atom-cardname> attacks, choose one. Create a Function token with that effect.
 		<li><bullet>• </bullet>This spell can’t be countered.
 		</li><li><bullet>• </bullet>This spell costs <sym-auto>R</sym-auto> less to cast.
 		</li><li><bullet>• </bullet>If this spell would deal damage to a permanent or player, it deals that much damage plus 1 instead.</li>
@@ -4230,10 +4232,17 @@ card:
 card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
-	has_styling: false
-	notes: !hidetag (SL159)
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (SL159)
+		
 	time_created: 2017-05-20 08:35:23
-	time_modified: 2025-04-30 18:34:52
+	time_modified: 2026-04-22 00:34:21
 	name: Shikai Revenant
 	casting_cost: B
 	image: image118
@@ -4248,7 +4257,7 @@ card:
 	rarity: rare
 	rule_text:
 		<atom-cardname><nospellcheck>Shikai Revenant</nospellcheck></atom-cardname> enters tapped.
-		At the beginning of your end step, if an opponent lost life this turn, you may return <atom-cardname><nospellcheck>Shikai Revenant</nospellcheck></atom-cardname> from your graveyard to your hand.
+		At the beginning of your end step, if an opponent lost 3 or more life this turn, you may return <atom-cardname><nospellcheck>Shikai Revenant</nospellcheck></atom-cardname> from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -4821,7 +4830,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL159)
-		!update
+		
 		!inpend explores./add/  (Reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may put that card into your graveyard.)!append  (It stops being a land indefinitely.)
 	time_created: 2022-01-28 01:40:36
 	time_modified: 2025-04-30 18:37:40
@@ -5155,9 +5164,10 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL152)
-		!inpend Slipstream/add/ (This creature can't be blocked as long as only creatures with slipstream are attacking.)
+		
+		!inpend turn./add/ (It can't be blocked as long as only creatures with slipstream are attacking.)
 	time_created: 2020-12-06 07:27:26
-	time_modified: 2025-04-30 12:27:11
+	time_modified: 2026-04-22 00:16:42
 	extra_data:
 		magic-m15-altered: vorthos_box: She/Her
 	name: Mina, Jeweled Minnow
@@ -5173,8 +5183,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Slipstream
-		You may cast the first spell that’s an enchantment, instant, or sorcery with mana value 1 you cast each turn without paying its mana cost.
+		Whenever you cast an enchantment, instant, or sorcery spell, target creature gains slipstream until end of turn.
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mina</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals combat damage to a player, put a wish counter on her. Then if she has three or more, exile her, then return an enchantment card, an instant card, and a sorcery card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -8289,10 +8299,11 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL168)
+		
 		!addtoken UncounterableFunction;1;ReductionFunction;1;AmplifyFunction;1
 		!inpend effect./add/ (It's an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)
 	time_created: 2022-06-17 19:07:23
-	time_modified: 2025-09-30 21:17:10
+	time_modified: 2026-04-21 23:32:48
 	name: Neon Claw Knight
 	casting_cost: 1R
 	image: image231
@@ -8308,7 +8319,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Neon Claw Knight</nospellcheck></atom-cardname> enters or attacks, choose one. Create a Function token with that effect.
+		Whenever <atom-cardname><nospellcheck>Neon Claw Knight</nospellcheck></atom-cardname> attacks, choose one. Create a Function token with that effect.
 		<li><bullet>• </bullet>This spell can’t be countered.
 		</li><li><bullet>• </bullet>This spell costs <sym-auto>R</sym-auto> less to cast.
 		</li><li><bullet>• </bullet>If this spell would deal damage to a permanent or player, it deals that much damage plus 1 instead.</li>
@@ -9442,7 +9453,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		Whenever you play a land, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		Whenever you play a land, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 		<sym-auto>1GUR</sym-auto>, Sacrifice three Clues: Exile cards from the top of your library until you exile three nonland cards. You may cast any number of those cards without paying their mana costs.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -9460,9 +9471,7 @@ card:
 	stylesheet: m15-art-lair
 	stylesheet_version: 2024-05-26
 	has_styling: false
-	notes:
-		!hidetag (SL169)
-
+	notes: !hidetag (SL169)
 	time_created: 2023-11-25 21:12:34
 	time_modified: 2026-03-04 17:40:57
 	name: Shadowbinder Touka
@@ -11515,14 +11524,15 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL175)
+		
 		!inpend : ([^ \n]+)\\n(.)/replace/: \1 — \2
 	time_created: 2023-11-25 21:12:34
-	time_modified: 2026-04-01 18:33:54
+	time_modified: 2026-04-30 17:05:10
 	name: Maghbri Votary
 	casting_cost: 1B
 	image: image323
 	image_2: 
-	mainframe_image: image324
+	mainframe_image: mainframe_image3.png
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
@@ -11540,7 +11550,7 @@ card:
 	level_3: Shaman
 	level_4: 
 	level_1_text: When <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> enters and at the beginning of your upkeep, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-	level_2_text: <margin:0:0:30>Return up to two target creature cards not named <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> with mana value X or less from your graveyard to the battlefield.</margin:0:0:30>
+	level_2_text: <margin:0:0:30>Return up to two target creature cards not named <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> with total mana value X or less from your graveyard to the battlefield.</margin:0:0:30>
 	level_3_text: <margin:0:0:30>Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>X</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, where X is the number of cards in your graveyard.</margin:0:0:30>
 	level_4_text: 
 	level_9_text: <sym-auto>XW</sym-auto>:
@@ -11561,7 +11571,7 @@ card:
 		Diverge
 		When <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> enters and at the beginning of your upkeep, you may <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		<sym-auto>XW</sym-auto>: Zombie
-		<margin:0:0:30>Return up to two target creature cards not named <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> with mana value X or less from your graveyard to the battlefield.</margin:0:0:30>
+		<margin:0:0:30>Return up to two target creature cards not named <atom-cardname><nospellcheck>Maghbri Votary</nospellcheck></atom-cardname> with total mana value X or less from your graveyard to the battlefield.</margin:0:0:30>
 		<sym-auto>3U</sym-auto>: Shaman
 		<margin:0:0:30>Target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>X</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>, where X is the number of cards in your graveyard.</margin:0:0:30>
 
@@ -11791,6 +11801,32 @@ card:
 	illustrator: John Harper
 	custom_card_number: 1567
 	card_code_text: Timespiraled
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Blades in the Dark — CyberChronometer
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes:
+		votary
+		!noexport
+	time_created: 2026-04-30 17:03:23
+	time_modified: 2026-04-30 17:04:55
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	sub_type: 
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	illustrator: John Harper
+	custom_card_number: 1561
+	card_code_text: HerziQuerzi
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Blades in the Dark — CyberChronometer

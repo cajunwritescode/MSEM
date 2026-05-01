@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Carpe Arcanum
 	description:
@@ -162,7 +162,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -197,7 +197,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -257,7 +257,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -380,7 +380,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -1243,7 +1243,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -1409,9 +1409,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  nerfed: Now only lets you play one card. Now enters with a counter.
 	time_created: 2017-10-12 00:59:14
-	time_modified: 2017-12-31 22:25:06
+	time_modified: 2026-04-30 12:49:05
 	name: Exhilarating Prescience
 	casting_cost: 1RR
 	image: image41
@@ -1422,8 +1422,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: rare
 	rule_text:
-		Whenever you cast a spell, put a lore counter on <atom-cardname><nospellcheck>Exhilarating Prescience</nospellcheck></atom-cardname>.
-		At the beginning of your upkeep, exile the top X cards of your library, where X is the number of lore counters on <atom-cardname><nospellcheck>Exhilarating Prescience</nospellcheck></atom-cardname>. You may play those cards until your next turn.
+		When <atom-cardname><nospellcheck>Exhilarating Prescience</nospellcheck></atom-cardname> enters and whenever you cast a spell, put a lore counter on <atom-cardname><nospellcheck>Exhilarating Prescience</nospellcheck></atom-cardname>.
+		At the beginning of your upkeep, exile the top X cards of your library, where X is the number of lore counters on <atom-cardname><nospellcheck>Exhilarating Prescience</nospellcheck></atom-cardname>. You may play one of those cards until your next turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Lea Faske
 	card_code_text: 
@@ -1598,7 +1598,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -1608,7 +1608,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2017-11-16 13:54:17
-	time_modified: 2024-08-30 03:15:02
+	time_modified: 2026-04-22 00:49:42
 	name: Warded Tome
 	casting_cost: 2
 	image: image2
@@ -1616,7 +1616,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		<atom-cardname><nospellcheck>Warded Tome</nospellcheck></atom-cardname> doesn’t untap during your untap step.
@@ -1683,7 +1689,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 10
@@ -1847,7 +1853,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2035,7 +2041,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2219,7 +2225,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3

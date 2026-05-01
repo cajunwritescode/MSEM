@@ -688,7 +688,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-05-01 04:54:04
-	time_modified: 2025-03-22 23:30:53
+	time_modified: 2026-04-22 00:51:21
 	card_color: white, artifact, horizontal
 	name: Slayer’s Grimoire
 	casting_cost: 3W
@@ -697,7 +697,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		When <atom-cardname><nospellcheck>Slayer’s Grimoire</nospellcheck></atom-cardname> enters, exile target non-Human creature an opponent controls until <atom-cardname><nospellcheck>Slayer’s Grimoire</nospellcheck></atom-cardname> leaves the battlefield.
 		<sym>2W</sym>, <sym>T</sym>: You gain 2 life.
@@ -3511,7 +3517,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2023-04-09 07:38:00
-	time_modified: 2025-03-23 00:21:20
+	time_modified: 2026-04-22 00:51:33
 	card_color: black, artifact, horizontal, reversed
 	name: Lich’s Grimoire
 	casting_cost: 1B
@@ -3520,7 +3526,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		When <atom-cardname><nospellcheck>Lich’s Grimoire</nospellcheck></atom-cardname> enters, create a 2/2 black Zombie creature token.
 		<sym>2B</sym>, <sym>T</sym>: Target opponent loses 1 life. <kw-A><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
@@ -4751,7 +4763,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Vampire</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		When <atom-cardname><nospellcheck>Affluent Host</nospellcheck></atom-cardname> dies, it deals 1 damage to each opponent. Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		When <atom-cardname><nospellcheck>Affluent Host</nospellcheck></atom-cardname> dies, it deals 1 damage to each opponent. Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 		<kw-A><nospellcheck><key>Foreshadow <param-cost><sym-auto>2R</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this spell for its foreshadow cost. If you do, also trigger its “dies” abilities when it enters.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -5069,7 +5081,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2021-05-01 05:12:39
-	time_modified: 2024-08-25 02:45:41
+	time_modified: 2026-04-22 00:51:41
 	card_color: red, artifact, horizontal
 	name: Alchemist’s Grimoire
 	casting_cost: R
@@ -5080,9 +5092,11 @@ card:
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		When <atom-cardname><nospellcheck>Alchemist’s Grimoire</nospellcheck></atom-cardname> enters, it deals 2 damage to any target.
 		<sym>1R</sym>, <sym>T</sym>, Discard a card: Draw a card.
@@ -5440,7 +5454,7 @@ card:
 		Whenever <atom-cardname><nospellcheck>Kessig Jeweler</nospellcheck></atom-cardname> attacks, you may discard a card. If you do, draw a card.
 		<sym>1R</sym>: Transform <atom-cardname><nospellcheck>Kessig Jeweler</nospellcheck></atom-cardname>. Activate only if it’s attacking.
 	rule_text_2:
-		At the beginning of your first main phase, you may discard a card. If you do, draw a card and create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		At the beginning of your first main phase, you may discard a card. If you do, draw a card and create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 		At the beginning of your end step, if <atom-cardname><nospellcheck>Kessig Tombrobber</nospellcheck></atom-cardname> didn’t attack this turn, transform it.
 	flavor_text: <i-flavor>“Simply beautiful! And you say your father was buried with how many of these?”</i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
@@ -6940,7 +6954,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2021-05-01 06:07:53
-	time_modified: 2024-07-21 17:42:54
+	time_modified: 2026-04-22 00:51:46
 	name: Druid’s Grimoire
 	casting_cost: 3G
 	image: image225
@@ -6950,9 +6964,11 @@ card:
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	sub_type_2: 
 	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		When <atom-cardname><nospellcheck>Druid’s Grimoire</nospellcheck></atom-cardname> enters, create two 2/2 green Wolf creature tokens.
 		<sym>T</sym>: Add <sym-auto>G</sym-auto>.
@@ -10751,7 +10767,7 @@ card:
 	has_styling: false
 	notes: 
 	time_created: 2025-01-26 05:44:57
-	time_modified: 2025-01-26 05:45:31
+	time_modified: 2026-04-22 00:51:28
 	name: Geistmage’s Grimoire
 	casting_cost: 2U
 	image: image3.png
@@ -10762,7 +10778,7 @@ card:
 	super_type_2: <word-list-type-en></word-list-type-en>
 	super_type_3: <word-list-type-en></word-list-type-en>
 	super_type_4: <word-list-type-en></word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 

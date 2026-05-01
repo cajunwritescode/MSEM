@@ -565,7 +565,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
-		<sym>2WW</sym>, Exile Archon of Sunrise from your graveyard: Create a token that’s a copy of it, except it’s an Aura enchantment with <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +4/+4 and has flying and lifelink.</param-name></key></nospellcheck></kw-a>” Activate only as a sorcery.
+		<sym>2WW</sym>, Exile Archon of Sunrise from your graveyard: Create a token that’s a copy of it, except it’s an Aura enchantment with <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +4/+4 and has flying and lifelink</param-name>.</key></nospellcheck></kw-a>” Activate only as a sorcery.
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>
@@ -615,7 +615,7 @@ card:
 	rule_text:
 		When <atom-cardname><nospellcheck>Asphodel Gravedealer</nospellcheck></atom-cardname> dies, choose one —
 		<li><bullet>• </bullet>Put a +1/+1 counter on target creature you control.
-		</li><li><bullet>• </bullet>Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1></li>
+		</li><li><bullet>• </bullet>Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1></li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 3
@@ -3454,7 +3454,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		<kw-A><i-auto><nospellcheck><key>Heroic</key></nospellcheck></i-auto></kw-A> — Whenever you cast a spell that targets <atom-cardname><nospellcheck>Forge Adept</nospellcheck></atom-cardname>, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		<kw-A><i-auto><nospellcheck><key>Heroic</key></nospellcheck></i-auto></kw-A> — Whenever you cast a spell that targets <atom-cardname><nospellcheck>Forge Adept</nospellcheck></atom-cardname>, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 		<sym>6R</sym>: Create a 3/3 colorless Golem enchantment artifact creature token. If mana from an artifact was spent to activate this ability, that token gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -3531,7 +3531,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		<sym>3</sym>, Discard <atom-cardname><nospellcheck>Gilded Ram</nospellcheck></atom-cardname>: Draw a card, gain 2 life, and create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		<sym>3</sym>, Discard <atom-cardname><nospellcheck>Gilded Ram</nospellcheck></atom-cardname>: Draw a card, gain 2 life, and create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor>To <error-spelling:en_US>Akroans</error-spelling:en_US>, the ram is a symbol of strength and determination.</i-flavor>
 	power: 5
 	toughness: 3
@@ -5738,8 +5738,9 @@ card:
 		4KLS8
 		alt: Aleksi Briclot
 		Trample, ward 4
+		 nerfed: Enter trigger now requires being cast.
 	time_created: 2021-09-04 16:22:20
-	time_modified: 2023-08-29 22:49:40
+	time_modified: 2026-04-22 21:58:49
 	card_color: blue
 	name: Megalokraken
 	casting_cost: 3UU
@@ -5752,7 +5753,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-1><nospellcheck><key>Colossal <param-number>4</param-number>—<param-mana><sym-auto>5UUU</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this for its colossal cost to have it enter with <param-number>four</param-number> +1/+1 counters; or pay <param-mana><sym-auto>5UUU</sym-auto></param-mana> as a sorcery: Put <param-number>four</param-number> +1/+1 counters on it if it has none.)</i-auto></atom-reminder-custom></kw-1>
-		Whenever <atom-cardname><nospellcheck>Megalokraken</nospellcheck></atom-cardname> enters or attacks, reveal the top X cards of your library, where X is <atom-cardname><nospellcheck>Megalokraken</nospellcheck></atom-cardname>’s power. You may cast a noncreature spell with mana value X or less from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.
+		Whenever <atom-cardname><nospellcheck>Megalokraken</nospellcheck></atom-cardname> enters after being cast or attacks, reveal the top X cards of your library, where X is <atom-cardname><nospellcheck>Megalokraken</nospellcheck></atom-cardname>’s power. You may cast a noncreature spell with mana value X or less from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5
@@ -7401,7 +7402,7 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: Target opponent reveals their hand. You choose a nonland card from it. If you can’t, they discard a card. Otherwise, that player discards a card, then if they didn’t discard the chosen card, you create a tapped <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+	rule_text: Target opponent reveals their hand. You choose a nonland card from it. If you can’t, they discard a card. Otherwise, that player discards a card, then if they didn’t discard the chosen card, you create a tapped <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Benjamin Ee
 	card_code_text: Designed by Dodger
@@ -8438,7 +8439,7 @@ card:
 	level_2: III
 	level_1_text: <kw-A><nospellcheck><key>Chronicle</key></nospellcheck><atom-reminder-custom> <i-auto>(As this enters and after your draw step, add a lore counter. Stop after III.)</i-auto></atom-reminder-custom></kw-A>
 	level_2_text: <atom-cardname><nospellcheck>Purphoros’s Gemback</nospellcheck></atom-cardname> deals 1 damage to target player or planeswalker.
-	level_3_text: Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+	level_3_text: Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	power: 2
 	toughness: 2
 	illustrator: Camille Alquier
@@ -8720,7 +8721,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
 		Each opponent can cast spells only any time they could cast a sorcery.
-		Auras you control attached to other permanents you control also <kw-a><nospellcheck><key>enchant <param-name>Sacred Lynx if able.</param-name></key></nospellcheck></kw-a>
+		Auras you control attached to other permanents you control also <kw-a><nospellcheck><key>enchant <param-name>Sacred Lynx if able</param-name>.</key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5
@@ -11019,6 +11020,7 @@ card:
 	notes:
 		angelica steve argyle
 		Izmeralde Vatrescu
+		 nerfed: Trigger no longer gives a loyalty counter.
 		SPARKS
 		Valery
 		Pamarn Hengpraprom
@@ -11026,7 +11028,7 @@ card:
 		replace character 
 		YR02 deals 4 damage to any target. If a creature or planeswalker dealt damage this way would die this turn, exile it instead.
 	time_created: 2021-09-04 16:22:20
-	time_modified: 2023-10-31 19:26:11
+	time_modified: 2026-04-22 00:29:45
 	card_color: red
 	name: Valeri Kripac
 	casting_cost: 1RR
@@ -11043,7 +11045,7 @@ card:
 	loyalty_cost_4: 
 	loyalty_cost_5: 
 	loyalty: 3
-	level_1_text: Whenever you cast a spell that targets, put a loyalty counter on <atom-cardname><nospellcheck>Valeri Kripac</nospellcheck></atom-cardname> and create a 1/1 white Soldier creature token.
+	level_1_text: Whenever you cast a spell that targets, create a 1/1 white Soldier creature token.
 	level_2_text: <margin:130:0:0>Add <sym-auto>R</sym-auto>. If you spend this mana on a spell that targets, that spell can’t be countered.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.</margin:130:0:0>
 	level_4_text: 
@@ -11057,7 +11059,7 @@ card:
 	copyright_2: ™ & © 2021 Wizards of the Coast
 	copyright_3: ™ & © 2021 Wizards of the Coast
 	special_text:
-		Whenever you cast a spell that targets, put a loyalty counter on <atom-cardname><nospellcheck>Valeri Kripac</nospellcheck></atom-cardname> and create a 1/1 white Soldier creature token.
+		Whenever you cast a spell that targets, create a 1/1 white Soldier creature token.
 		[+1]: <margin:130:0:0>Add <sym-auto>R</sym-auto>. If you spend this mana on a spell that targets, that spell can’t be countered.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.</margin:130:0:0>
 

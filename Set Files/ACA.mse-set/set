@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Arcanum Academia
 	description:
@@ -191,7 +191,7 @@ card:
 	rule_text:
 		Choose one —
 		<li><bullet>• </bullet><atom-cardname><nospellcheck>Radiant Outburst</nospellcheck></atom-cardname> deals 3 damage to target creature.
-		</li><li><bullet>• </bullet><kw-0><nospellcheck><key>Harmonize</key></nospellcheck></kw-0> twice. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto></li>
+		</li><li><bullet>• </bullet><kw-0><nospellcheck><key>Harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto></li>
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
@@ -285,7 +285,9 @@ card:
 
 card:
 	has_styling: false
-	notes: !study
+	notes:
+		!study
+		 403: Banned in MSEM.
 	time_created: 2019-09-29 21:11:20
 	time_modified: 2022-05-26 21:39:16
 	name: Glorious Sanctum
@@ -312,7 +314,9 @@ card:
 
 card:
 	has_styling: false
-	notes: !study
+	notes:
+		!study
+		 403: Banned in MSEM.
 	time_created: 2019-09-29 21:11:43
 	time_modified: 2022-05-26 21:39:11
 	name: Calming Sanctum
@@ -742,9 +746,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !pvfatigue
+	notes:
+		!pvfatigue
+		
 	time_created: 2019-09-29 21:28:23
-	time_modified: 2019-10-14 12:43:37
+	time_modified: 2026-04-22 00:46:24
 	name: Scintillating Tome
 	casting_cost: 2
 	image: image30
@@ -752,7 +758,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rule_text:
 		When <atom-cardname><nospellcheck>Scintillating Tome</nospellcheck></atom-cardname> enters, choose a nonbasic card name.
 		<sym-auto>T</sym-auto>: <kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>, then you may reveal the top card of your library. If a card with the chosen name is revealed this way, put it into your hand.
@@ -1387,7 +1399,7 @@ card:
 	rule_text:
 		Choose one —
 		<li><bullet>• </bullet>Untap each creature you control.
-		</li><li><bullet>• </bullet><kw-0><nospellcheck><key>Harmonize</key></nospellcheck></kw-0> twice. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto></li>
+		</li><li><bullet>• </bullet><kw-0><nospellcheck><key>Harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto></li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ghost HB on ArtStation
 	card_code_text: 
@@ -1562,7 +1574,7 @@ card:
 	rule_text:
 		Choose one —
 		<li><bullet>• </bullet>Prevent all damage that would be dealt by creatures this turn.
-		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Harmonize</key></nospellcheck> twice.<atom-reminder-action> <i-auto>(Trigger up to one harmony of a permanent you control.)</i-auto></atom-reminder-action></kw-A></li>
+		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Harmonize <param-cost>twice</param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by <sym>X</sym>, where X is its power. Then exile this spell.)</i-auto></atom-reminder-expert></kw-A></li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Beto Lima
 	card_code_text: 
@@ -1653,7 +1665,7 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Sending Stones</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0> twice. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto>
+		When <atom-cardname><nospellcheck>Sending Stones</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto>
 		If you would <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, you may trigger a harmony of a permanent card in your graveyard instead.
 	flavor_text: <i-flavor>“She changed schools last semester, but we try to stay in touch.”</i-flavor>
 	illustrator: Atey Ghailan
@@ -1980,7 +1992,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2019-09-29 21:50:39
-	time_modified: 2023-01-02 14:22:23
+	time_modified: 2026-04-22 00:46:17
 	name: Chronotome
 	casting_cost: 1U
 	image: image123
@@ -1988,7 +2000,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: uncommon
 	rule_text: At the beginning of your upkeep, target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. If your main library has five or fewer cards in it, that player mills their library instead.
 	flavor_text:
@@ -2058,7 +2076,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		At the beginning of each combat, <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0> twice. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto>
+		At the beginning of each combat, <kw-0><nospellcheck><key>harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto>
 		Harmony — Target creature gets +1/+1 and your choice of <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
@@ -2102,7 +2120,9 @@ card:
 
 card:
 	has_styling: false
-	notes: !study
+	notes:
+		!study
+		 403: Banned in MSEM.
 	time_created: 2019-09-29 21:51:31
 	time_modified: 2022-05-26 21:39:13
 	name: Endless Sanctum
@@ -2161,7 +2181,9 @@ card:
 
 card:
 	has_styling: false
-	notes: !study
+	notes:
+		!study
+		 403: Banned in MSEM.
 	time_created: 2019-09-29 21:51:31
 	time_modified: 2022-05-26 21:39:05
 	name: Astrology Sanctum
@@ -2193,7 +2215,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !study !pvarchivebang
+	notes:
+		!study
+		 403: Banned in MSEM.
 	time_created: 2019-09-29 21:51:31
 	time_modified: 2022-05-26 21:39:17
 	name: Revelation Sanctum
@@ -3213,7 +3237,7 @@ card:
 	rule_text:
 		Choose one —
 		<li><bullet>• </bullet>Creatures your opponents control get -1/-1 until end of turn.
-		</li><li><bullet>• </bullet><kw-0><nospellcheck><key>Harmonize</key></nospellcheck></kw-0> twice. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto></li>
+		</li><li><bullet>• </bullet><kw-0><nospellcheck><key>Harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto></li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Stephen Stark
 	card_code_text: 
@@ -3593,7 +3617,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		Whenever you cast a spell, <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0> twice. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto>
+		Whenever you cast a spell, <kw-0><nospellcheck><key>harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto>
 		Harmony — <atom-cardname><nospellcheck>Yita, Almgrove Prodigy</nospellcheck></atom-cardname> gains your choice of <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>, or <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 5
@@ -3647,7 +3671,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		When <atom-cardname><nospellcheck>Chaotic Pupil</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0> twice. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto>
+		When <atom-cardname><nospellcheck>Chaotic Pupil</nospellcheck></atom-cardname> enters, <kw-0><nospellcheck><key>harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto>
 		Harmony — Draw a card, then discard a card.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
@@ -3703,7 +3727,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
 		Choose one —
-		<li><bullet>• </bullet>Target permanent gains <kw-0><nospellcheck><key>protection from <param-name>instants and sorceries until end of turn.</param-name></key></nospellcheck></kw-0>
+		<li><bullet>• </bullet>Target permanent gains <kw-0><nospellcheck><key>protection from <param-name>instants and sorceries until end of turn</param-name>.</key></nospellcheck></kw-0>
 		</li><li><bullet>• </bullet>You gain 3 life.
 		</li><li><bullet>• </bullet>Draw a card.</li>
 	flavor_text: <i-flavor></i-flavor>

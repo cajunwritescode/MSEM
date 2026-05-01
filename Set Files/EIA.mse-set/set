@@ -471,7 +471,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Dualglaive Acolyte</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Calamighty</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+1 and can’t be blocked by creatures with power 2 or less.</param-name></key></nospellcheck></kw-a>”
+	rule_text: When <atom-cardname><nospellcheck>Dualglaive Acolyte</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Calamighty</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+1 and can’t be blocked by creatures with power 2 or less</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -866,7 +866,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Speaker of Open Waters</nospellcheck></atom-cardname> enters, create a green and white Aura enchantment token named Moray’s Resolve attached to target creature you control. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creatures you control get +2/+2 and have trample and lifelink.</param-name></key></nospellcheck></kw-a>”
+	rule_text: When <atom-cardname><nospellcheck>Speaker of Open Waters</nospellcheck></atom-cardname> enters, create a green and white Aura enchantment token named Moray’s Resolve attached to target creature you control. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creatures you control get +2/+2 and have trample and lifelink</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -1059,7 +1059,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Coralight Mystic</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Whale’s Spirit attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has lifelink.</param-name></key></nospellcheck></kw-a>”
+	rule_text: When <atom-cardname><nospellcheck>Coralight Mystic</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Whale’s Spirit attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has lifelink</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor>In keeping with time-honored tradition, <error-spelling:en_US>Coralight</error-spelling:en_US> enchanters spend years attuning themselves with the ornate wisdom of <error-spelling:en_US>Elmare’s</error-spelling:en_US> mystic denizens.</i-flavor>
 	power: 1
 	toughness: 1
@@ -1144,7 +1144,7 @@ card:
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Coralight Sentinel</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Crab’s Resolve attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +0/+2.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Coralight Sentinel</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Crab’s Resolve attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +0/+2</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -3837,7 +3837,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Glowskate Channeler</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Manta’s Wings attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+2.</param-name></key></nospellcheck></kw-a>”
+	rule_text: When <atom-cardname><nospellcheck>Glowskate Channeler</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Manta’s Wings attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+2</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
@@ -4561,7 +4561,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Pensive Muse</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Seal’s Love attached to target creature you control. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creatures you control get +1/+1.</param-name></key></nospellcheck></kw-a>”
+	rule_text: When <atom-cardname><nospellcheck>Pensive Muse</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Seal’s Love attached to target creature you control. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creatures you control get +1/+1</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -4827,7 +4827,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Coralight Lifebloom</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kelpcrown</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attached to target creature you control. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has hexproof.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Coralight Lifebloom</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kelpcrown</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> attached to target creature you control. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has hexproof</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -4972,7 +4972,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Lilyreed Triton</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Triton’s Gift attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+0 and can’t be blocked by creatures with power 3 or greater.</param-name></key></nospellcheck></kw-a>”
+	rule_text: When <atom-cardname><nospellcheck>Lilyreed Triton</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named Triton’s Gift attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+0 and can’t be blocked by creatures with power 3 or greater</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -5352,7 +5352,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		<atom-legname><nospellcheck>Mettalia</nospellcheck></atom-legname> is all colors.
-		<atom-legname><nospellcheck>Mettalia</nospellcheck></atom-legname> has <kw-0><nospellcheck><key>protection from <param-name>each color among cards she’s salvaged in exile.</param-name></key></nospellcheck></kw-0>
+		<atom-legname><nospellcheck>Mettalia</nospellcheck></atom-legname> has <kw-0><nospellcheck><key>protection from <param-name>each color among cards she’s salvaged in exile</param-name>.</key></nospellcheck></kw-0>
 		When <atom-legname><nospellcheck>Mettalia</nospellcheck></atom-legname> enters, for each color, you may <kw-1><nospellcheck><key>salvage <param-a>a</param-a> <param-prefix>nonlegendary card of that color</param-prefix></key></nospellcheck>.<atom-reminder-action> <i-auto>(Exile one from your graveyard until this creature leaves the battlefield. Whenever this creature deals combat damage to a player, put a card it salvaged into your hand.)</i-auto></atom-reminder-action></kw-1>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
@@ -5526,7 +5526,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Bubbledome Chorister</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Sanctum’s Gift attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has ‘<sym>T</sym>:</param-name></key></nospellcheck></kw-a> Add <sym>G</sym> for each enchanted creature you control.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>” 
+	rule_text: When <atom-cardname><nospellcheck>Bubbledome Chorister</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Sanctum’s Gift attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has ‘<sym>T</sym></param-name>:</key></nospellcheck></kw-a> Add <sym>G</sym> for each enchanted creature you control.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>” 
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
@@ -5813,7 +5813,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
-	rule_text: When <atom-cardname><nospellcheck>Coralight Champion</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hila’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Favor attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has double strike as long as there’s another Aura attached to it.</param-name></key></nospellcheck></kw-a> Otherwise, it has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.”
+	rule_text: When <atom-cardname><nospellcheck>Coralight Champion</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hila’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Favor attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has double strike as long as there’s another Aura attached to it</param-name>.</key></nospellcheck></kw-a> Otherwise, it has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.”
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -6106,7 +6106,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Guppyfin Duelist</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Piranha’s <kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a> attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+2.</param-name></key></nospellcheck></kw-a>” Untap that creature.
+		When <atom-cardname><nospellcheck>Guppyfin Duelist</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Piranha’s <kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a> attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+2</param-name>.</key></nospellcheck></kw-a>” Untap that creature.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -6616,15 +6616,16 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		shrink_typeline_text: 1.3
 		frames: nyx
 		other_options: auto nyx crowns, vorthos box
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: no
 		overlay: 
-	notes: 
+	notes:  reworked: Previously had Slipstream and "You may cast the first spell that’s an enchantment, instant, or sorcery with mana value 1 you cast each turn without paying its mana cost."
 	time_created: 2020-12-06 07:27:26
-	time_modified: 2024-09-30 15:04:19
+	time_modified: 2026-04-22 00:15:44
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/Her
@@ -6638,8 +6639,8 @@ card:
 	sub_type: <word-list-race-en>Fish</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		<kw-A><nospellcheck><key>Slipstream</key></nospellcheck><atom-reminder-custom> <i-auto>(This creature can’t be blocked as long as only creatures with slipstream are attacking.)</i-auto></atom-reminder-custom></kw-A>
-		You may cast the first spell that’s an enchantment, instant, or sorcery with mana value 1 you cast each turn without paying its mana cost.
+		Whenever you cast an enchantment, instant, or sorcery spell, target creature gains <kw-0><nospellcheck><key>slipstream</key></nospellcheck></kw-0> until end of turn. <i-auto>(It can’t be blocked as long as only creatures with <kw-0><nospellcheck><key>slipstream</key></nospellcheck></kw-0> are attacking.)</i-auto>
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mina</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals combat damage to a player, put a wish counter on her. Then if she has three or more, exile her, then return an enchantment card, an instant card, and a sorcery card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -7153,7 +7154,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Bank Skimmer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Turtle’s Valor attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +X/+X, where X is its mana value.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Bank Skimmer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Turtle’s Valor attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +X/+X, where X is its mana value</param-name>.</key></nospellcheck></kw-a>”
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -8290,9 +8291,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes:  adjusted: Replaced "Spells your opponents cast that target ~ cost {2} more" with uncounterable and conditional hexproof.
 	time_created: 2021-01-15 20:26:31
-	time_modified: 2023-10-01 15:55:39
+	time_modified: 2026-04-22 00:11:10
 	name: Danithra Muckbruiser
 	casting_cost: 1G
 	image: image203
@@ -8303,7 +8304,8 @@ card:
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Spells your opponents cast that target <atom-cardname><nospellcheck>Danithra Muckbruiser</nospellcheck></atom-cardname> cost <sym-auto>2</sym-auto> more to cast.
+		This spell can’t be countered.
+		<atom-cardname><nospellcheck>Danithra Muckbruiser</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as it’s your turn.
 		<atom-cardname><nospellcheck>Danithra Muckbruiser</nospellcheck></atom-cardname> gets +X/+X, where X is the number of cards in your graveyard minus seven. <i-auto>(If there are fewer than seven, it gets +0/+0.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

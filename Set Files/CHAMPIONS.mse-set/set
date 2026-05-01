@@ -3959,7 +3959,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
-	rule_text: When <atom-cardname><nospellcheck>Coralight Champion</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hila’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Favor attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has double strike as long as there’s another Aura attached to it.</param-name></key></nospellcheck></kw-a> Otherwise, it has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.”
+	rule_text: When <atom-cardname><nospellcheck>Coralight Champion</nospellcheck></atom-cardname> enters, create a white Aura enchantment token named <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Hila’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Favor attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature has double strike as long as there’s another Aura attached to it</param-name>.</key></nospellcheck></kw-a> Otherwise, it has <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.”
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -4453,9 +4453,10 @@ card:
 	notes:
 		FINAL MAC !num 106
 		!design HerziQuerzi
+		
 		!inpend Escalate [{]R[}][{]R[}]/add/ (Pay this cost for each mode chosen beyond the first.)
 	time_created: 2018-03-11 23:05:51
-	time_modified: 2023-02-01 03:04:48
+	time_modified: 2026-04-30 12:58:00
 	name: Culminating Chaos
 	casting_cost: 1RR
 	image: image92
@@ -4469,7 +4470,7 @@ card:
 		<kw-0><nospellcheck><key>Escalate <param-cost><sym-auto>RR</sym-auto></param-cost></key></nospellcheck></kw-0>
 		<margin:0:0:5>Choose one or more. You may choose the same mode more than once.</margin:0:0:5>
 		<li><bullet>• </bullet><atom-cardname><nospellcheck>Culminating Chaos</nospellcheck></atom-cardname> deals 2 damage to each creature and each planeswalker.
-		</li><li><bullet>• </bullet>Exile the top two cards of your library and add <sym>RR</sym>. Until end of turn, you may play those cards.</li>
+		</li><li><bullet>• </bullet>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: technochroma
 	custom_card_number: PAX-NJB Season Champion — Purplemurasaki
@@ -4615,10 +4616,12 @@ card:
 		!num 108
 		!design Cajun
 		Akinomiya Asuka / 明ノ宮 飛鳥
+		
+		!inpend [{]G[}]/add/ (During your turn, you may cast this spell for {G} instead of playing a land.)
 	time_created: 2017-10-12 20:10:27
-	time_modified: 2024-04-28 00:11:05
+	time_modified: 2026-04-30 12:35:51
 	name: Primal Resurgence
-	casting_cost: G
+	casting_cost: 1G
 	image: image140
 	image_2: 
 	mainframe_image: 
@@ -4627,8 +4630,9 @@ card:
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rarity: mythic rare
 	rule_text:
+		Primal <sym>G</sym>
 		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
-		Enchanted land has “<sym-auto>T</sym-auto>: Add <sym-auto>GG</sym-auto>.”
+		Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Akinomiya Asuka
 	custom_card_number: Grand Prix Peor es Nada — RickyRister
@@ -4956,8 +4960,9 @@ card:
 		!num 118
 		!design HerziQuerzi
 		CAC FINAL
+		
 	time_created: 2017-10-12 00:59:14
-	time_modified: 2023-09-26 21:04:08
+	time_modified: 2026-04-30 12:50:43
 	name: Exhilarating Prescience
 	casting_cost: 1RR
 	image: image149
@@ -4968,8 +4973,8 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: mythic rare
 	rule_text:
-		Whenever you cast a spell, put a lore counter on <atom-cardname><nospellcheck>Exhilarating Prescience</nospellcheck></atom-cardname>.
-		At the beginning of your upkeep, exile the top X cards of your library, where X is the number of lore counters on <atom-cardname><nospellcheck>Exhilarating Prescience</nospellcheck></atom-cardname>. You may play those cards until your next turn.
+		When Exhilarating Prescience enters and whenever you cast a spell, put a lore counter on Exhilarating Prescience.
+		At the beginning of your upkeep, exile the top X cards of your library, where X is the number of lore counters on Exhilarating Prescience. You may play one of those cards until your next turn.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Inkspirate
 	custom_card_number: Grand Prix Valencia — Nix
@@ -6057,7 +6062,12 @@ card:
 	copyright_3: 
 
 card:
-	has_styling: false
+	has_styling: true
+	styling_data:
+		chop_top: 5,8,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	notes:
 		!design Mako
 		!num 145
@@ -6065,7 +6075,7 @@ card:
 		FINAL TTR
 		!inpend [{]U[}][{]U[}][{]U[}]/add/ (You may cast this for its colossal cost to have it enter with four +1/+1 counters; or pay {5}{U}{U}{U} as a sorcery: Put four +1/+1 counters on it if it has none.)
 	time_created: 2021-09-04 16:22:20
-	time_modified: 2025-04-30 16:58:04
+	time_modified: 2026-04-22 22:13:04
 	card_color: blue
 	name: Megalokraken
 	casting_cost: 3UU
@@ -6081,7 +6091,7 @@ card:
 	rarity: mythic rare
 	rule_text:
 		Colossal 4—<sym>5UUU</sym>
-		Whenever <atom-cardname><nospellcheck>Megalokraken</nospellcheck></atom-cardname> enters or attacks, reveal the top X cards of your library, where X is <atom-cardname><nospellcheck>Megalokraken</nospellcheck></atom-cardname>’s power. You may cast a noncreature spell with mana value X or less from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.
+		Whenever <atom-cardname><nospellcheck>Megalokraken</nospellcheck></atom-cardname> enters after being cast or attacks, reveal the top X cards of your library, where X is <atom-cardname><nospellcheck>Megalokraken</nospellcheck></atom-cardname>’s power. You may cast a noncreature spell with mana value X or less from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5
@@ -6947,6 +6957,69 @@ card:
 	copyright_2: © Wizards of the Coast and Matt
 	copyright_3: © Wizards of the Coast and Matt
 	secondary_copyright: 
+
+card:
+	has_styling: false
+	notes:
+		
+		!num 166
+		!design Wrenn
+	time_created: 2020-05-20 15:19:57
+	time_modified: 2026-04-30 12:44:59
+	name: Verdant Sanctuary
+	casting_cost: 2G
+	image: image23.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: mythic rare
+	rule_text: You may play basic land cards you own from outside the game.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: すてる子
+	custom_card_number: Grand Prix Zagreb — RickyRister
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Design — Wrenn
+	copyright_2: 
+	copyright_3: 
+
+card:
+	has_styling: false
+	notes:
+		!design gynoidpoet
+		!num 167
+		
+		!append  (You may cast this card from your graveyard by paying its memory cost and discarding a card. Then exile it.)
+	time_created: 2021-06-07 00:11:12
+	time_modified: 2026-04-30 12:44:46
+	name: Lose Your Mind
+	casting_cost: UR
+	image: image22.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Draw two cards, then discard a card unless you have seven or more cards in your graveyard.
+		Memory <sym>3UR</sym>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: 海源
+	partition_select: after normal, main set C
+	custom_card_number: Grand Prix Algiers — RickyRister
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Design — gynoidpoet
+	copyright_2: 
+	copyright_3: 
 
 keyword:
 	keyword: Coalesce

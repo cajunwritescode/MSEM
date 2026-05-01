@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Novea [Remastered]
 	description:
@@ -1174,7 +1174,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: rare
-	rule_text: Create X 1/1 white Nymph creature tokens. Until end of turn, creatures you control gain <kw-0><nospellcheck><key>protection from <param-name>each color among permanents you controlled as you cast <atom-cardname><nospellcheck>United Force</nospellcheck></atom-cardname>.</param-name></key></nospellcheck></kw-0>
+	rule_text: Create X 1/1 white Nymph creature tokens. Until end of turn, creatures you control gain <kw-0><nospellcheck><key>protection from <param-name>each color among permanents you controlled as you cast <atom-cardname><nospellcheck>United Force</nospellcheck></atom-cardname></param-name>.</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ryan Alexander Lee
 	card_code_text: 
@@ -1294,7 +1294,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1334,7 +1334,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1405,7 +1405,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4949,7 +4949,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4985,7 +4985,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -5563,7 +5563,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -5721,7 +5721,7 @@ card:
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Enchanted creature has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>protection from <param-name>its colors.</param-name></key></nospellcheck></kw-0> This effect doesn’t remove <atom-cardname><nospellcheck>Shimmerhold</nospellcheck></atom-cardname>. <i-auto>(It can’t be targeted, dealt damage, enchanted, or equipped by anything with its colors.)</i-auto>
+		Enchanted creature has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-0><nospellcheck><key>protection from <param-name>its colors</param-name>.</key></nospellcheck></kw-0> This effect doesn’t remove <atom-cardname><nospellcheck>Shimmerhold</nospellcheck></atom-cardname>. <i-auto>(It can’t be targeted, dealt damage, enchanted, or equipped by anything with its colors.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: keiiii
 	card_code_text: 
@@ -6418,7 +6418,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 10
@@ -6570,7 +6570,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6999,7 +6999,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -7150,7 +7150,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -7485,7 +7485,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -7520,7 +7520,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -7970,11 +7970,13 @@ card:
 
 card:
 	has_styling: false
-	notes: !remaster: new
+	notes:
+		!remaster: new
+		 nerfed: Was {G} without primal and gave enchanted land {T}: Add {G}{G}.
 	time_created: 2017-10-12 20:10:27
-	time_modified: 2024-04-28 01:19:03
+	time_modified: 2026-04-30 12:32:12
 	name: Primal Resurgence
-	casting_cost: G
+	casting_cost: 1G
 	image: image79
 	image_2: 
 	mainframe_image: 
@@ -7982,8 +7984,9 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
+		<kw-A><nospellcheck><key>Primal <param-cost><sym-auto>G</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(During your turn, you may cast this spell for <param-cost><sym-auto>G</sym-auto></param-cost> instead of playing a land.)</i-auto></atom-reminder-expert></kw-A>
 		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
-		Enchanted land has “<sym-auto>T</sym-auto>: Add <sym-auto>GG</sym-auto>.”
+		Whenever enchanted land is tapped for mana, its controller adds an additional one mana of any color.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Nicole Cardiff
 	card_code_text: 
@@ -8374,7 +8377,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15

@@ -1,0 +1,39 @@
+﻿mse_version: 2.5.8
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 8
+		chop_bottom: 8
+		frames: 
+		other_options: avoid covering devoid, auto vehicles, auto snow, auto nyx crowns, auto ub
+		apply_custom_fonts: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		inverted_common_symbol: yes
+		overlay: 
+	notes: Slot 5	‎ 	White	‎ 	Rare or Mythic	‎ 	Noncreature (MV 1-3)
+	time_created: 2025-12-02 18:54:57
+	time_modified: 2026-01-31 18:17:35
+	name: Serenenity of the Mundane
+	casting_cost: 1W
+	image: image54
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Whenever a creature you control with mana value 3 or less enters for the first time each turn, conjure a card named Data-Point into your hand. <i-auto>(It’s a sorcery that costs <sym>2</sym> with “Draw a card.”)</i-auto>
+		Creatures you control have <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: huleeb
+	card_code_text: n3onblue
+	card_code_text_2: 
+	card_code_text_3: 

@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Animus Vox
 	set_code: AVX
@@ -439,7 +439,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -832,7 +832,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -867,7 +867,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2485,7 +2485,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		When <atom-cardname><nospellcheck>Doomed Explorer</nospellcheck></atom-cardname> dies, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		When <atom-cardname><nospellcheck>Doomed Explorer</nospellcheck></atom-cardname> dies, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor>“I’ll be fine. Only the good die young.”</i-flavor>
 	power: 1
 	toughness: 1
@@ -2927,7 +2927,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Beast</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: Whenever <atom-cardname><nospellcheck>Ancient Durumderm</nospellcheck></atom-cardname> attacks, you may return another creature you control to its owner’s hand. If you do, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+	rule_text: Whenever <atom-cardname><nospellcheck>Ancient Durumderm</nospellcheck></atom-cardname> attacks, you may return another creature you control to its owner’s hand. If you do, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	flavor_text:
 		<i-flavor>“Life is old here, older than the trees.”<soft-line>
 		—Mia Reyes, <error-spelling:en_US>Xenobiologist</soft-line></i-flavor></error-spelling:en_US>
@@ -3107,7 +3107,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: mythic rare
 	rule_text:
-		Equipped creature gets +2/+2 and <kw-0><nospellcheck><key>protection from <param-name>black and from red.</param-name></key></nospellcheck></kw-0>
+		Equipped creature gets +2/+2 and <kw-0><nospellcheck><key>protection from <param-name>black and from red</param-name>.</key></nospellcheck></kw-0>
 		Whenever equipped creature deals combat damage to a player, that player loses 3 life unless they discard a card or sacrifice a nonland permanent. You discard a card, then you draw two cards.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
@@ -3729,10 +3729,13 @@ card:
 
 card:
 	has_styling: false
-	notes: Freeze Your Brain — Heathers
+	notes:
+		Freeze Your Brain — Heathers
+		
+		!renameof Abberant Frostbringer
 	time_created: 2023-01-08 23:58:00
-	time_modified: 2023-08-21 18:17:11
-	name: Abberant Frostbringer
+	time_modified: 2026-04-22 14:55:55
+	name: Aberrant Frostbringer
 	casting_cost: 5U
 	image: image256
 	image_2: 
@@ -3740,7 +3743,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Horror</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: When <atom-cardname><nospellcheck>Abberant Frostbringer</nospellcheck></atom-cardname> enters, tap up to one target creature. If you do, put two <kw-1><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck> on that creature.<atom-reminder-core> <i-auto>(If a permanent with a stun counter would become untapped, remove one from it instead.)</i-auto></atom-reminder-core></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Aberrant Frostbringer</nospellcheck></atom-cardname> enters, tap up to one target creature. If you do, put two <kw-1><nospellcheck><key>stun counte<param-*s>rs</param-*s></key></nospellcheck> on that creature.<atom-reminder-core> <i-auto>(If a permanent with a stun counter would become untapped, remove one from it instead.)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor>Happiness comes when everything numbs, and nothing remains.</i-flavor>
 	power: 5
 	toughness: 4
@@ -8034,7 +8037,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8287,7 +8290,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8417,7 +8420,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8513,7 +8516,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8646,7 +8649,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -8876,7 +8879,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9062,7 +9065,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9180,7 +9183,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9354,7 +9357,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9634,7 +9637,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5

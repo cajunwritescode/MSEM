@@ -1174,7 +1174,7 @@ card:
 	rarity: rare
 	rule_text:
 		Counter target noncreature spell.
-		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>“Poseidon.” said <error-spelling:en_US>Chiron</error-spelling:en_US>. “<error-spelling:en_US>Earthshaker</error-spelling:en_US>, <error-spelling:en_US>Stormbringer</error-spelling:en_US>, Father of Horses. Hail, Perseus Jackson, Son of the Sea God.”</i-flavor>
 	illustrator: Klymene Arts
 	custom_card_number: 852
@@ -2041,9 +2041,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL106)
+	notes:
+		!hidetag (SL106)
+		
 	time_created: 2022-10-22 22:50:36
-	time_modified: 2024-08-30 21:56:14
+	time_modified: 2026-04-22 00:53:18
 	name: Warded Tome
 	casting_cost: 2
 	image: image80
@@ -2051,7 +2053,13 @@ card:
 	mainframe_image: 
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact></word-list-artifact>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact>Book</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		<atom-cardname><nospellcheck>Warded Tome</nospellcheck></atom-cardname> doesn’t untap during your untap step.
@@ -2463,7 +2471,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Scry <param-number>2</param-number></key></nospellcheck></kw-a>, then draw a card.
-		If you control a legendary permanent, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		If you control a legendary permanent, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Pasoputi
 	custom_card_number: 886
@@ -4017,9 +4025,10 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL112)
+		
 		!inpend [{]5[}][{]U[}][{]U[}][{]U[}]/add/ (You may cast this for its colossal cost to have it enter with four +1/+1 counters; or pay {5}{U}{U}{U} as a sorcery: Put four +1/+1 counters on it if it has none.)
 	time_created: 2023-09-29 21:33:39
-	time_modified: 2024-08-24 07:26:41
+	time_modified: 2026-04-22 22:15:18
 	name: Megalokraken
 	casting_cost: 3UU
 	image: image93
@@ -4031,7 +4040,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-0><nospellcheck><key>Colossal <param-number>4</param-number>—<param-mana><sym>5UUU</sym></param-mana></key></nospellcheck></kw-0>
-		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Megalokraken</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters or attacks, reveal the top X cards of your library, where X is <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Megalokraken’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> power. You may cast a noncreature spell with mana value X or less from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Megalokraken</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters after being cast or attacks, reveal the top X cards of your library, where X is <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Megalokraken’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> power. You may cast a noncreature spell with mana value X or less from among them without paying its mana cost. Put the rest on the bottom of your library in a random order.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 5
@@ -5600,7 +5609,7 @@ card:
 	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
-		chop_top: 5
+		chop_top: 
 		chop_bottom: 5
 		shrink_typeline_text: 1
 		frames: borderless art
@@ -5614,9 +5623,10 @@ card:
 	notes:
 		!subtitle!hidetag (SL117)
 		!exportname Mina, Jeweled Minnow
-		!inpend Slipstream/add/ (This creature can’t be blocked as long as only creatures with slipstream are attacking.)
+		
+		!inpend turn. /add/ (It can’t be blocked as long as only creatures with slipstream are attacking.)
 	time_created: 2023-12-22 01:23:10
-	time_modified: 2025-10-28 00:26:52
+	time_modified: 2026-04-22 00:14:47
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/Her
@@ -5631,8 +5641,8 @@ card:
 	sub_type: <word-list-race-en>Fish</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: mythic rare
 	rule_text:
-		Slipstream
-		You may cast the first spell that’s an enchantment, instant, or sorcery with mana value 1 you cast each turn without paying its mana cost.
+		Whenever you cast an enchantment, instant, or sorcery spell, target creature gains slipstream until end of turn.
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mina</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> deals combat damage to a player, put a wish counter on her. Then if she has three or more, exile her, then return an enchantment card, an instant card, and a sorcery card from your graveyard to your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -6114,9 +6124,11 @@ card:
 		other_options: un-indent nonloyalty abilities, mythic edition fullart, godzilla style alias
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !subtitle!hidetag (SL117)
+	notes:
+		!subtitle!hidetag (SL117)
+		
 	time_created: 2023-12-22 00:22:46
-	time_modified: 2025-10-28 00:27:05
+	time_modified: 2026-04-22 00:31:47
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			vorthos_box: She/Her
@@ -6137,7 +6149,7 @@ card:
 	loyalty_cost_2: +1
 	loyalty_cost_3: -2
 	loyalty: 3
-	level_1_text: Whenever you cast a spell that targets, put a loyalty counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Valeri</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kripac</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and create a 1/1 white Soldier creature token.
+	level_1_text: Whenever you cast a spell that targets, create a 1/1 white Soldier creature token.
 	level_2_text: <margin:130:0:0>Add <sym-auto>R</sym-auto>. If you spend this mana on a spell that targets, that spell can’t be countered.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.</margin:130:0:0>
 	level_4_text: 
@@ -6150,7 +6162,7 @@ card:
 	copyright_2: 
 	copyright_3: 
 	special_text:
-		Whenever you cast a spell that targets, put a loyalty counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Valeri</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kripac</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and create a 1/1 white Soldier creature token.
+		Whenever you cast a spell that targets, create a 1/1 white Soldier creature token.
 		[+1]: <margin:130:0:0>Add <sym-auto>R</sym-auto>. If you spend this mana on a spell that targets, that spell can’t be countered.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.</margin:130:0:0>
 
@@ -6701,10 +6713,10 @@ card:
 	loyalty_cost_3: 0
 	loyalty_cost_4: -8
 	loyalty: 4
-	level_1_text: As long as Ajani Enlightened has an odd or even number of loyalty counters on him, he has <kw-0><nospellcheck><key>protection from <param-name>mana values of that quality.</param-name></key></nospellcheck></kw-0>
+	level_1_text: As long as Ajani Enlightened has an odd or even number of loyalty counters on him, he has <kw-0><nospellcheck><key>protection from <param-name>mana values of that quality</param-name>.</key></nospellcheck></kw-0>
 	level_2_text: <margin:130:0:0>Any number of players may draw a card. You may put a loyalty counter on Ajani Enlightened for each opponent that does.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>You gain 2 life. Untap up to two target lands.</margin:130:0:0>
-	level_4_text: <margin:130:0:0>Create a 5/5 white Avatar creature token with <kw-0><nospellcheck><key>protection from <param-name>odd mana values and a 5/5 white Avatar creature token with protection from even mana values.</param-name></key></nospellcheck></kw-0></margin:130:0:0>
+	level_4_text: <margin:130:0:0>Create a 5/5 white Avatar creature token with <kw-0><nospellcheck><key>protection from <param-name>odd mana values and a 5/5 white Avatar creature token with protection from even mana values</param-name>.</key></nospellcheck></kw-0></margin:130:0:0>
 	level_5_text: 
 	illustrator: Bruno Pierosan
 	custom_card_number: 971
@@ -6715,10 +6727,10 @@ card:
 	copyright_2: Secret Lair: NEW GENERATION
 	copyright_3: Secret Lair: NEW GENERATION
 	special_text:
-		As long as Ajani Enlightened has an odd or even number of loyalty counters on him, he has <kw-0><nospellcheck><key>protection from <param-name>mana values of that quality.</param-name></key></nospellcheck></kw-0>
+		As long as Ajani Enlightened has an odd or even number of loyalty counters on him, he has <kw-0><nospellcheck><key>protection from <param-name>mana values of that quality</param-name>.</key></nospellcheck></kw-0>
 		[+1]: <margin:130:0:0>Any number of players may draw a card. You may put a loyalty counter on Ajani Enlightened for each opponent that does.</margin:130:0:0>
 		[0]: <margin:130:0:0>You gain 2 life. Untap up to two target lands.</margin:130:0:0>
-		[-8]: <margin:130:0:0>Create a 5/5 white Avatar creature token with <kw-0><nospellcheck><key>protection from <param-name>odd mana values and a 5/5 white Avatar creature token with protection from even mana values.</param-name></key></nospellcheck></kw-0></margin:130:0:0>
+		[-8]: <margin:130:0:0>Create a 5/5 white Avatar creature token with <kw-0><nospellcheck><key>protection from <param-name>odd mana values and a 5/5 white Avatar creature token with protection from even mana values</param-name>.</key></nospellcheck></kw-0></margin:130:0:0>
 
 card:
 	stylesheet: m15-altered
@@ -7057,9 +7069,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		center_text: always
 		overlay: 
-	notes:
-		!hidetag (SL122)
-
+	notes: !hidetag (SL122)
 	time_created: 2024-01-25 13:11:22
 	time_modified: 2024-01-31 17:35:03
 	name: Fatigue
@@ -7113,9 +7123,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL122)
-
+	notes: !hidetag (SL122)
 	time_created: 2024-01-25 12:23:03
 	time_modified: 2024-01-31 17:34:58
 	name: Unified Theory
@@ -7142,9 +7150,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL122)
-
+	notes: !hidetag (SL122)
 	time_created: 2024-01-25 13:05:46
 	time_modified: 2024-01-31 17:35:19
 	name: Eve’s Scheme
@@ -7169,9 +7175,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL122)
-
+	notes: !hidetag (SL122)
 	time_created: 2024-01-25 13:28:33
 	time_modified: 2024-01-31 17:36:17
 	name: Expose
@@ -7198,9 +7202,9 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-
+		
 	time_created: 2024-01-25 12:38:50
-	time_modified: 2026-02-01 15:30:21
+	time_modified: 2026-04-30 12:57:41
 	name: Culminating Chaos
 	casting_cost: 1RR
 	image: image201
@@ -7214,7 +7218,7 @@ card:
 		<kw-A><nospellcheck><key>Escalate <param-cost><sym-auto>RR</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(Pay this cost for each mode chosen beyond the first.)</i-auto></atom-reminder-expert></kw-A>
 		<margin:0:0:5>Choose one or more. You may choose the same mode more than once.</margin:0:0:5>
 		<li><bullet>• </bullet>Culminating Chaos deals 2 damage to each creature and each planeswalker.
-		</li><li><bullet>• </bullet>Exile the top two cards of your library and add <sym-auto>RR</sym-auto>. Until end of turn, you may play those cards.</li>
+		</li><li><bullet>• </bullet>Exile the top two cards of your library. Until the end of your next turn, you may play those cards.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Catwheezie
 	custom_card_number: 1013
@@ -7228,9 +7232,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL122)
-
+	notes: !hidetag (SL122)
 	time_created: 2024-01-25 13:05:15
 	time_modified: 2024-09-30 22:41:34
 	name: Daydream
@@ -7263,9 +7265,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL122)
-
+	notes: !hidetag (SL122)
 	time_created: 2024-01-25 13:26:50
 	time_modified: 2024-01-31 17:35:33
 	name: Flamecaller’s Command
@@ -7295,9 +7295,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL122)
-
+	notes: !hidetag (SL122)
 	time_created: 2024-01-25 12:54:16
 	time_modified: 2024-01-31 17:35:38
 	name: Break Free
@@ -7322,9 +7320,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL122)
-
+	notes: !hidetag (SL122)
 	time_created: 2024-01-25 13:02:36
 	time_modified: 2024-01-31 17:35:41
 	name: Digital Immortality
@@ -7352,9 +7348,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL122)
-
+	notes: !hidetag (SL122)
 	time_created: 2024-01-25 13:36:30
 	time_modified: 2024-01-31 17:36:30
 	name: Gathering the Gang
@@ -7381,9 +7375,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL122)
-
+	notes: !hidetag (SL122)
 	time_created: 2024-01-25 12:47:09
 	time_modified: 2024-01-31 17:35:47
 	name: No Rest
@@ -7416,9 +7408,7 @@ card:
 		frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag (SL122)
-
+	notes: !hidetag (SL122)
 	time_created: 2024-01-31 21:06:53
 	time_modified: 2024-01-31 18:15:56
 	name: Treasure
@@ -7483,7 +7473,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When Curator of Cures enters, adjudicate. <i-auto>(Create a white Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>creature and “Sacrifice this token:</param-name></key></nospellcheck></kw-a> Untap enchanted creature” attached to target creature.)</i-auto>
+		When Curator of Cures enters, adjudicate. <i-auto>(Create a white Aura enchantment token with <kw-a><nospellcheck><key>enchant <param-name>creature and “Sacrifice this token</param-name>:</key></nospellcheck></kw-a> Untap enchanted creature” attached to target creature.)</i-auto>
 		Whenever an Aura you control enters, you gain 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -8221,9 +8211,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL125)
+	notes:
+		!hidetag (SL125)
+		
 	time_created: 2024-04-15 12:19:08
-	time_modified: 2024-04-27 23:40:45
+	time_modified: 2026-04-22 00:12:53
 	name: Danithra Muckbruiser
 	casting_cost: 1G
 	image: image234
@@ -8234,7 +8226,8 @@ card:
 	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		Spells your opponents cast that target <atom-cardname><nospellcheck>Danithra Muckbruiser</nospellcheck></atom-cardname> cost <sym-auto>2</sym-auto> more to cast.
+		This spell can’t be countered.
+		<atom-cardname><nospellcheck>Danithra Muckbruiser</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> as long as it’s your turn.
 		<atom-cardname><nospellcheck>Danithra Muckbruiser</nospellcheck></atom-cardname> gets +X/+X, where X is the number of cards in your graveyard minus seven. <i-auto>(If there are fewer than seven, it gets +0/+0.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -8638,7 +8631,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Blossom attached to target land. It has <kw-a><nospellcheck><key>enchant <param-name>land and “Enchanted land has ‘<sym>T</sym>:</param-name></key></nospellcheck></kw-a> Add <sym-auto>GG</sym-auto>.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”
+		When <atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Blossom attached to target land. It has <kw-a><nospellcheck><key>enchant <param-name>land and “Enchanted land has ‘<sym>T</sym></param-name>:</key></nospellcheck></kw-a> Add <sym-auto>GG</sym-auto>.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”
 		<atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> gets +1/+1 for each noncreature, nonland permanent you control.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -9609,9 +9602,11 @@ card:
 		default_image_size: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL129)
+	notes:
+		!hidetag (SL129)
+		
 	time_created: 2021-09-04 16:22:20
-	time_modified: 2024-05-22 17:41:11
+	time_modified: 2026-04-22 00:31:26
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			pride_pin: bi
@@ -9632,7 +9627,7 @@ card:
 	loyalty_cost_4: 
 	loyalty_cost_5: 
 	loyalty: 3
-	level_1_text: Whenever you cast a spell that targets, put a loyalty counter on <atom-cardname><nospellcheck>Valeri Kripac</nospellcheck></atom-cardname> and create a 1/1 white Soldier creature token.
+	level_1_text: Whenever you cast a spell that targets, create a 1/1 white Soldier creature token.
 	level_2_text: <margin:130:0:0>Add <sym-auto>R</sym-auto>. If you spend this mana on a spell that targets, that spell can’t be countered.</margin:130:0:0>
 	level_3_text: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.</margin:130:0:0>
 	level_4_text: 
@@ -9646,7 +9641,7 @@ card:
 	copyright_2: ™ & © 2021 Wizards of the Coast
 	copyright_3: ™ & © 2021 Wizards of the Coast
 	special_text:
-		Whenever you cast a spell that targets, put a loyalty counter on <atom-cardname><nospellcheck>Valeri Kripac</nospellcheck></atom-cardname> and create a 1/1 white Soldier creature token.
+		Whenever you cast a spell that targets, create a 1/1 white Soldier creature token.
 		[+1]: <margin:130:0:0>Add <sym-auto>R</sym-auto>. If you spend this mana on a spell that targets, that spell can’t be countered.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.</margin:130:0:0>
 
@@ -9835,8 +9830,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I, II — You may exile target nonland permanent. If you do, you lose 3 life.
-		III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		You may exile target nonland permanent. If you do, you lose 3 life.
+		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
@@ -10413,9 +10408,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL132)
-
+	notes: !hidetag (SL132)
 	time_created: 2024-06-05 10:01:42
 	time_modified: 2026-02-01 15:38:35
 	name: Pitchpyre Curse
@@ -14472,9 +14465,7 @@ card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes:
-		!hidetag (SL142)
-		
+	notes: !hidetag (SL142)
 	time_created: 2023-11-25 21:12:34
 	time_modified: 2026-03-04 17:39:59
 	name: Shadowbinder Touka
@@ -14857,9 +14848,11 @@ card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes: !hidetag (SL143)
+	notes:
+		!hidetag (SL143)
+		
 	time_created: 2019-06-17 00:00:00
-	time_modified: 2024-08-30 00:50:03
+	time_modified: 2026-04-22 00:22:51
 	name: Channeler of the Veil
 	casting_cost: 1B
 	image: image434
@@ -14871,7 +14864,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>Channeler of the Veil</nospellcheck></atom-cardname> enters, create a 1/1 colorless Construct artifact creature token.
-		Sacrifice another creature: Each opponent loses 1 life.
+		Sacrifice another creature: Each opponent loses 1 life. Activate only once each turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -14925,10 +14918,11 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL143)
+		
 		!addtoken UncounterableFunction;1;ReductionFunction;1;AmplifyFunction;1
 		!inpend effect./add/ (It's an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)
 	time_created: 2022-06-17 19:07:23
-	time_modified: 2024-08-30 00:50:17
+	time_modified: 2026-04-21 23:33:42
 	name: Neon Claw Knight
 	casting_cost: 1R
 	image: image436
@@ -14943,7 +14937,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Neon Claw Knight</nospellcheck></atom-cardname> enters or attacks, choose one. Create a Function token with that effect.
+		Whenever <atom-cardname><nospellcheck>Neon Claw Knight</nospellcheck></atom-cardname> attacks, choose one. Create a Function token with that effect.
 		<li><bullet>• </bullet>This spell can’t be countered.
 		</li><li><bullet>• </bullet>This spell costs <sym-auto>R</sym-auto> less to cast.
 		</li><li><bullet>• </bullet>If this spell would deal damage to a permanent or player, it deals that much damage plus 1 instead.</li>
@@ -16718,8 +16712,8 @@ card:
 	secondary_copyright: 
 	special_text:
 		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-		I, II — You may exile target nonland permanent. If you do, you lose 3 life.
-		III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		You may exile target nonland permanent. If you do, you lose 3 life.
+		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:

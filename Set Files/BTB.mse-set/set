@@ -3854,9 +3854,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: UW 05 — 3 mana value
+	notes:
+		UW 05 — 3 mana value
+
 	time_created: 2021-11-30 18:22:07
-	time_modified: 2024-03-26 18:33:46
+	time_modified: 2026-04-22 14:45:15
 	name: Bastion Warden
 	casting_cost: 1WW
 	image: image61
@@ -3866,7 +3868,7 @@ card:
 	super_type: <word-list-type-en>Enchantment Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Bastion Warden</nospellcheck></atom-cardname> enters, exile target creature an opponent control until target enchantment you control leaves the battlefield.
+	rule_text: When <atom-cardname><nospellcheck>Bastion Warden</nospellcheck></atom-cardname> enters, exile target creature an opponent controls until target enchantment you control leaves the battlefield.
 	flavor_text: <i-flavor>“Bastion is many things. A fortress, a library, a new hope. For you, it will be but a cell.”</i-flavor>
 	watermark: none
 	power: 2
@@ -3882,9 +3884,11 @@ card:
 
 card:
 	has_styling: false
-	notes: UW 08 — Any mana value
+	notes:
+		UW 08 — Any mana value
+
 	time_created: 2021-11-30 18:22:07
-	time_modified: 2024-02-05 20:34:06
+	time_modified: 2026-04-22 14:45:53
 	card_color: white
 	name: Bastion Patrol
 	casting_cost: 2W
@@ -3898,7 +3902,7 @@ card:
 	rule_text:
 		Create two 1/1 white Avatar enchantment creature tokens with <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a>.
 		Conjure a card named <kw-A><nospellcheck><key>Data-Poin<param-*s>t</param-*s></key></nospellcheck> into your hand.<atom-reminder-expert> <i-auto>(It’s a sorcery that costs <sym>2</sym> with “Draw a card.”)</i-auto></atom-reminder-expert></kw-A>
-	flavor_text: <i-flavor>The virtual village of Bastion initially sought to be a safe have for the Neo-Soul community.</i-flavor>
+	flavor_text: <i-flavor>The virtual village of Bastion initially sought to be a safe haven for the Neo-Soul community.</i-flavor>
 	illustrator: Samuel Speziali
 	custom_card_number: 
 	card_code_text: 
@@ -8602,9 +8606,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !addtoken UncounterableFunction;1;ReductionFunction;1;AmplifyFunction;1
+	notes:
+		 nerfed: No longer triggers on enter.
+		!addtoken UncounterableFunction;1;ReductionFunction;1;AmplifyFunction;1
 	time_created: 2022-06-17 19:07:23
-	time_modified: 2024-04-21 23:05:12
+	time_modified: 2026-04-21 23:30:51
 	name: Neon Claw Knight
 	casting_cost: 1R
 	image: image89
@@ -8619,7 +8625,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Neon Claw Knight</nospellcheck></atom-cardname> enters or attacks, choose one. Create a <kw-1><nospellcheck><key>Function toke<param-*s>n</param-*s></key></nospellcheck> with that effect.<atom-reminder-expert> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-expert></kw-1>
+		Whenever <atom-cardname><nospellcheck>Neon Claw Knight</nospellcheck></atom-cardname> attacks, choose one. Create a <kw-1><nospellcheck><key>Function toke<param-*s>n</param-*s></key></nospellcheck> with that effect.<atom-reminder-expert> <i-auto>(It’s an enchantment. As you cast an instant or sorcery spell, sacrifice any number of Functions to add their effects to that spell.)</i-auto></atom-reminder-expert></kw-1>
 		<li><bullet>• </bullet>This spell can’t be countered.
 		</li><li><bullet>• </bullet>This spell costs <sym-auto>R</sym-auto> less to cast.
 		</li><li><bullet>• </bullet>If this spell would deal damage to a permanent or player, it deals that much damage plus 1 instead.</li>
@@ -9074,9 +9080,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes:  nerfed: Now a painland.
 	time_created: 2023-01-23 18:31:32
-	time_modified: 2024-04-22 00:30:54
+	time_modified: 2026-04-30 22:01:48
 	card_color: land, multicolor
 	name: Bastion, Node of the Free
 	image: image186
@@ -9088,7 +9094,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>T</sym-auto>: Add one mana of any color. Spend this mana only to cast enchantment spells or to activate an ability of an enchantment.
+		<sym-auto>T</sym-auto>, Pay 1 life: Add one mana of any color. Spend this mana only to cast enchantment spells or to activate an ability of an enchantment.
 		When <atom-cardname><nospellcheck>Bastion, Node of the Free</nospellcheck></atom-cardname> is destroyed, return it to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Scott Uminga
