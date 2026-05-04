@@ -1408,7 +1408,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !mei!heist!sartha
+	notes:
+		!mei!heist!sartha
+		
 	time_created: 2018-03-19 22:33:27
 	time_modified: 2026-04-22 00:27:10
 	name: Tome of Loss
@@ -2581,7 +2583,6 @@ card:
 	notes:
 		!vivian!guest 
 		!design fluffyDeathbringer
-
 	time_created: 2018-03-22 06:19:21
 	time_modified: 2025-10-23 21:55:51
 	name: Wheat from Chaff
@@ -8457,7 +8458,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !guest 
+	notes:
+		!guest 
+		
 	time_created: 2018-08-12 12:09:30
 	time_modified: 2026-04-22 00:27:14
 	name: Ayshea Tome
@@ -8602,7 +8605,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !guest 
+	notes:
+		!guest 
+		
 	time_created: 2018-08-12 12:09:30
 	time_modified: 2026-04-22 00:27:29
 	name: The Dominomicon
@@ -10432,7 +10437,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !promo !mei!heist!saartha!curtains 
+	notes:
+		!promo !mei!heist!saartha!curtains 
+		
 	time_created: 2018-03-19 22:33:27
 	time_modified: 2026-04-22 00:27:03
 	name: Tome of Loss
@@ -10516,9 +10523,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!promo
-
+	notes: !promo
 	time_created: 2018-07-12 01:07:37
 	time_modified: 2021-12-01 00:43:33
 	name: Blood Artist
