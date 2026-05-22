@@ -1,0 +1,72 @@
+﻿mse_version: 0.3.5
+part:
+	type: symmetry
+	name: Rotation (5)
+	kind: rotation
+	copies: 5
+	center: (0.5000000000,0.5000000000)
+	handle: (0.2000000000,0.0000000000)
+	part:
+		type: shape
+		name: Triangle
+		combine: overlap
+		point:
+			position: (0.4990214920,0.1004613481)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3746269026,0.3382242652)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3992263182,0.3945233905)
+			lock: free
+			line_after: line
+		point:
+			position: (0.4375276573,0.4272089595)
+			lock: free
+			line_after: line
+		point:
+			position: (0.4984343129,0.3282372185)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5575916299,0.4250324013)
+			lock: free
+			line_after: line
+		point:
+			position: (0.6335428974,0.4173460038)
+			lock: free
+			line_after: line
+		point:
+			position: (0.6343957019,0.3496369022)
+			lock: free
+			line_after: line
+	part:
+		type: shape
+		name: Rectangle
+		combine: border
+		point:
+			position: (0.2810931383,0.0686086203)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5265626937,0.2495178262)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5637260704,0.5103682546)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5000983748,0.5505924230)
+			lock: free
+			line_after: line
+		point:
+			position: (0.3776767044,0.5259540670)
+			lock: free
+			line_after: line
+		point:
+			position: (0.2556839745,0.4206833567)
+			lock: free
+			line_after: line

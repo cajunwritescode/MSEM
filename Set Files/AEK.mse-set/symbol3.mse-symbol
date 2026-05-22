@@ -1,0 +1,172 @@
+﻿mse_version: 0.3.5
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.6198860316,0.1296534504)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,0.0306523066)
+		handle_after: (-0.0000000000,-0.0306523066)
+	point:
+		position: (0.5662989480,0.0741525424)
+		lock: size
+		line_after: curve
+		handle_before: (0.0295953305,0.0000000000)
+		handle_after: (-0.0295953305,-0.0000000000)
+	point:
+		position: (0.5127118644,0.1296534504)
+		lock: size
+		line_after: curve
+		handle_before: (0.0000000000,-0.0306523066)
+		handle_after: (-0.0000000000,0.0306523066)
+	point:
+		position: (0.5662989480,0.1851543584)
+		lock: size
+		line_after: curve
+		handle_before: (-0.0295953305,0.0000000000)
+		handle_after: (0.0295953305,-0.0000000000)
+part:
+	type: shape
+	name: Rectangle
+	combine: overlap
+	point:
+		position: (0.5606964217,0.2799515812)
+		lock: free
+		line_after: curve
+		handle_before: (-0.0835665253,-0.0022580897)
+		handle_after: (0.0319105193,0.0161754119)
+	point:
+		position: (0.6886087062,0.2034965311)
+		lock: free
+		line_after: line
+		handle_before: (-0.0344339688,0.0427739643)
+	point:
+		position: (0.5607360596,0.4384492414)
+		lock: free
+		line_after: line
+	point:
+		position: (0.2350550558,0.1832588678)
+		lock: free
+		line_after: curve
+		handle_after: (-0.0269234808,-0.0204143012)
+	point:
+		position: (0.1213279216,0.1505495185)
+		lock: free
+		line_after: curve
+		handle_before: (0.0410313291,-0.0010158885)
+		handle_after: (0.1419689322,-0.0817227982)
+part:
+	type: symmetry
+	name: Reflection (2)
+	kind: reflection
+	copies: 2
+	center: (0.5642486047,0.4932591918)
+	handle: (0.1948265452,-0.0451953239)
+	part:
+		type: shape
+		name: 
+		combine: merge
+		point:
+			position: (0.5824078759,0.5744730136)
+			lock: free
+			line_after: line
+		point:
+			position: (0.8207269282,0.0893760780)
+			lock: free
+			line_after: line
+		point:
+			position: (0.8870212364,0.0727579059)
+			lock: free
+			line_after: line
+		point:
+			position: (0.8291359539,0.1192847277)
+			lock: free
+			line_after: line
+		point:
+			position: (0.6091493634,0.5963045077)
+			lock: free
+			line_after: line
+		point:
+			position: (0.6619945321,0.7983014925)
+			lock: free
+			line_after: line
+		point:
+			position: (0.6956477693,0.8066793064)
+			lock: free
+			line_after: line
+		point:
+			position: (0.8340752933,0.8060786397)
+			lock: free
+			line_after: curve
+			handle_after: (0.0108227111,-0.0002746063)
+		point:
+			position: (0.8661793529,0.8074591810)
+			lock: free
+			line_after: line
+			handle_before: (-0.0107515647,0.0010872494)
+		point:
+			position: (0.8825234967,0.8299240097)
+			lock: free
+			line_after: line
+		point:
+			position: (0.4314465761,0.9336638892)
+			lock: free
+			line_after: line
+		point:
+			position: (0.4301876558,0.9121728043)
+			lock: free
+			line_after: line
+		point:
+			position: (0.5730998030,0.8325953848)
+			lock: free
+			line_after: curve
+			handle_after: (0.0332438976,-0.0171470030)
+		point:
+			position: (0.6098538713,0.8096904676)
+			lock: free
+			line_after: line
+			handle_before: (-0.0144967604,0.0031222153)
+		point:
+			position: (0.5677300451,0.6064754316)
+			lock: free
+			line_after: line
+		point:
+			position: (0.1635592398,0.2784350882)
+			lock: free
+			line_after: curve
+			handle_after: (-0.0219435840,-0.0155470489)
+		point:
+			position: (0.0782038294,0.2627043950)
+			lock: free
+			line_after: line
+			handle_before: (0.0225392019,0.0053459021)
+		point:
+			position: (0.8527242507,0.0809034345)
+			lock: free
+			line_after: line
+		point:
+			position: (0.8056119874,0.1062634938)
+			lock: free
+			line_after: line
+		point:
+			position: (0.1755175155,0.2543483738)
+			lock: free
+			line_after: line
+part:
+	type: shape
+	name: Rectangle
+	combine: border
+	point:
+		position: (0.1451983959,0.2550759907)
+		lock: free
+		line_after: line
+	point:
+		position: (0.5856607940,0.5923913043)
+		lock: free
+		line_after: line
+	point:
+		position: (0.8276891533,0.0912877835)
+		lock: free
+		line_after: line
