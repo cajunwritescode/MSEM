@@ -625,7 +625,7 @@ card:
 
 card:
 	has_styling: false
-	notes: !design Emily
+	notes: !design Queen Emily
 	time_created: 2021-09-21 09:59:20
 	time_modified: 2022-04-29 22:52:27
 	name: Master of Dark Arts
@@ -5101,9 +5101,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!design HerziQuerzi
-
+	notes: !design HerziQuerzi
 	time_created: 2021-09-21 10:00:03
 	time_modified: 2026-04-22 00:57:09
 	name: Warded Tome
@@ -5470,7 +5468,7 @@ card:
 	has_styling: false
 	notes:
 		!OldArt
-		
+
 	time_created: 2021-09-21 10:00:03
 	time_modified: 2026-04-30 22:03:49
 	name: Rippling Curtain
@@ -13150,8 +13148,8 @@ card:
 	special_text:
 		<i-auto>(As you complete a condition, decode it. After all are decoded, you solve the mystery and transform this.)</i-auto>
 		When <atom-cardname><nospellcheck>Mystery of the Crashed Craft</nospellcheck></atom-cardname> enters, create two 1/1 red Alien creature tokens with “This creature can’t block.”
-		You cast an instant spell.
-		You cast a sorcery spell.
+		{mg} — You cast an instant spell.
+		{mg} — You cast a sorcery spell.
 	special_text_2: 
 
 card:

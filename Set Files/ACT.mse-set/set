@@ -2209,8 +2209,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Put a +1/+1 counter on target creature you control.
-		Double the number of counters on target creature you control.
+		I, II — Put a +1/+1 counter on target creature you control.
+		III — Double the number of counters on target creature you control.
 		​
 
 card:
@@ -2370,9 +2370,9 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Exile target nonland permanent you don’t control until <atom-cardname><nospellcheck>Waltz on a Nimbus</nospellcheck></atom-cardname> leaves the battlefield.
-		Create a 1/1 white Soldier creature token with “This creature gets +1/+1 for each enchantment you control.”
-		Search your library for a non-Saga enchantment card and reveal it. You may cast that card. Then shuffle.
+		I — Exile target nonland permanent you don’t control until <atom-cardname><nospellcheck>Waltz on a Nimbus</nospellcheck></atom-cardname> leaves the battlefield.
+		II — Create a 1/1 white Soldier creature token with “This creature gets +1/+1 for each enchantment you control.”
+		III — Search your library for a non-Saga enchantment card and reveal it. You may cast that card. Then shuffle.
 
 card:
 	has_styling: true
@@ -2443,8 +2443,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		You may create a token that’s a copy of target Aura you control. Attach it to target permanent you control.
-		Put a +1/+1 counter on each enchanted creature you control. Those creatures gain <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
+		I, II — You may create a token that’s a copy of target Aura you control. Attach it to target permanent you control.
+		III — Put a +1/+1 counter on each enchanted creature you control. Those creatures gain <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.
 		​
 
 card:
@@ -2531,9 +2531,9 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Put a <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a> counter on target creature you control. That creature deals 2 damage to each opponent.
+		I — Put a <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a> counter on target creature you control. That creature deals 2 damage to each opponent.
 		<kw-a><nospellcheck><key>Scry <param-number>3</param-number></key></nospellcheck></kw-a>.
-		Until end of turn, if you casting an instant or sorcery spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+		II, III — Until end of turn, if you casting an instant or sorcery spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
 
 card:
 	stylesheet: m15-saga
@@ -2570,8 +2570,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		<kw-A><nospellcheck><key>Create a <kw-a>Treasure token.</key></nospellcheck><atom-reminder-custom> <i-auto>(It’s an artifact with “<sym>T</sym>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-custom></kw-A>
-		For each color, return up to one target creature card of that color from your graveyard to your hand.
+		I, II — <kw-A><nospellcheck><key>Create a <kw-a>Treasure token.</key></nospellcheck><atom-reminder-custom> <i-auto>(It’s an artifact with “<sym>T</sym>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-custom></kw-A>
+		III — For each color, return up to one target creature card of that color from your graveyard to your hand.
 		​
 
 card:
@@ -2650,8 +2650,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Distribute a <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> counter, a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter and a +1/+1 counter among one, two, or three creatures you control.
-		Choose another permanent you control. For each counter on it, you may move that counter onto a permanent you control.
+		I, II — Distribute a <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> counter, a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter and a +1/+1 counter among one, two, or three creatures you control.
+		III — Choose another permanent you control. For each counter on it, you may move that counter onto a permanent you control.
 		​
 
 card:
@@ -3041,8 +3041,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Create two 1/1 colorless Construct Actor creature tokens.
-		Creatures you control gain <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn. Whenever one or more of them deals combat damage to a player this turn, draw a card.
+		I — Create two 1/1 colorless Construct Actor creature tokens.
+		II, III — Creatures you control gain <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn. Whenever one or more of them deals combat damage to a player this turn, draw a card.
 		​
 
 card:
@@ -3083,8 +3083,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		You may exile target nonland permanent. If you do, you lose 3 life.
-		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		I, II — You may exile target nonland permanent. If you do, you lose 3 life.
+		III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
@@ -3120,7 +3120,7 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Return up to X target creature cards with mana value 3 or less from your graveyard to the battlefield, where X is the number of lore counters on <atom-cardname><nospellcheck>A Bond that Spans Planes</nospellcheck></atom-cardname>.
+		I, II, III — Return up to X target creature cards with mana value 3 or less from your graveyard to the battlefield, where X is the number of lore counters on <atom-cardname><nospellcheck>A Bond that Spans Planes</nospellcheck></atom-cardname>.
 		​
 		​
 
@@ -3162,10 +3162,10 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		I — <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 		Return target land card from your graveyard to the battlefield.
-		Return target creature or non-Saga enchantment card from your graveyard to the battlefield.
-		You may cast target instant or sorcery card from your graveyard without paying it mana cost.
+		II — Return target creature or non-Saga enchantment card from your graveyard to the battlefield.
+		III — You may cast target instant or sorcery card from your graveyard without paying it mana cost.
 
 card:
 	stylesheet: m15-saga
@@ -3205,9 +3205,9 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Exile each player’s graveyard. Create a token that’s a copy of a creature card exiled this way.
-		Create a token that’s a copy of an artifact or enchantment card exiled with <atom-cardname><nospellcheck>Around the Plane in Three Days</nospellcheck></atom-cardname>.
-		Create a token that’s a copy of a land or planeswalker card exiled with <atom-cardname><nospellcheck>Around the Plane in Three Days</nospellcheck></atom-cardname>.
+		I — Exile each player’s graveyard. Create a token that’s a copy of a creature card exiled this way.
+		II — Create a token that’s a copy of an artifact or enchantment card exiled with <atom-cardname><nospellcheck>Around the Plane in Three Days</nospellcheck></atom-cardname>.
+		III — Create a token that’s a copy of a land or planeswalker card exiled with <atom-cardname><nospellcheck>Around the Plane in Three Days</nospellcheck></atom-cardname>.
 
 card:
 	stylesheet: m15-saga
@@ -3244,8 +3244,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		<atom-cardname><nospellcheck>Over the Moon</nospellcheck></atom-cardname> deals 4 damage to up to one target creature or planeswalker.
-		Until end of turn, spells you cast with mana value 4 or greater cost <sym-auto>1</sym-auto> less to cast and can’t be countered.
+		I — <atom-cardname><nospellcheck>Over the Moon</nospellcheck></atom-cardname> deals 4 damage to up to one target creature or planeswalker.
+		II, III — Until end of turn, spells you cast with mana value 4 or greater cost <sym-auto>1</sym-auto> less to cast and can’t be countered.
 		​
 
 card:
@@ -3286,8 +3286,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Exile up to one target creature you control. At the beginning of your next end step, return it to the battlefield.
-		Until end of turn, if a creature entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+		I, II — Exile up to one target creature you control. At the beginning of your next end step, return it to the battlefield.
+		III — Until end of turn, if a creature entering the battlefield causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
 		​
 
 card:
@@ -3468,9 +3468,9 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Whenever you cast a spell from anywhere other than your hand, remove a lore counter from <atom-cardname><nospellcheck>The Unhinging Project</nospellcheck></atom-cardname>.
-		<atom-cardname><nospellcheck>The Unhinging Project</nospellcheck></atom-cardname> deals 2 damage to any target. You gain 2 life.
-		Discard your hand. <kw-0><nospellcheck><key>Surveil <param-number>3</param-number></key></nospellcheck></kw-0>.
+		I — Whenever you cast a spell from anywhere other than your hand, remove a lore counter from <atom-cardname><nospellcheck>The Unhinging Project</nospellcheck></atom-cardname>.
+		II — <atom-cardname><nospellcheck>The Unhinging Project</nospellcheck></atom-cardname> deals 2 damage to any target. You gain 2 life.
+		III — Discard your hand. <kw-0><nospellcheck><key>Surveil <param-number>3</param-number></key></nospellcheck></kw-0>.
 
 card:
 	has_styling: true
@@ -5926,7 +5926,7 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		<kw-1><nospellcheck><key>Audition for white</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Cleric Role giving 2/2 and lifelink. Roles replace older ones.)</i-auto></atom-reminder-custom></kw-1>
+		I, II, III — <kw-1><nospellcheck><key>Audition for white</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Cleric Role giving 2/2 and lifelink. Roles replace older ones.)</i-auto></atom-reminder-custom></kw-1>
 		Distribute two +1/+1 counters among creatures you control.
 		​
 
@@ -5965,7 +5965,7 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		<kw-A><nospellcheck><key>Audition for blue</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 1/1 Construct Actor creature token, a Wizard Role giving 2/2 and prowess, or a Warlock Role giving 2/1 and flying. Roles replace older ones.)</i-auto></atom-reminder-custom></kw-A>
+		I, II, III — <kw-A><nospellcheck><key>Audition for blue</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 1/1 Construct Actor creature token, a Wizard Role giving 2/2 and prowess, or a Warlock Role giving 2/1 and flying. Roles replace older ones.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever a creature you control deals combat damage to a player this turn, draw a card.
 		​
 
@@ -6004,7 +6004,7 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		<kw-A><nospellcheck><key>Audition for black</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 1/1 Construct Actor creature token, a Cleric Role giving 2/2 and lifelink, or a Warlock Role giving 2/1 and flying. Roles replace older ones.)</i-auto></atom-reminder-custom></kw-A>
+		I, II, III — <kw-A><nospellcheck><key>Audition for black</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 1/1 Construct Actor creature token, a Cleric Role giving 2/2 and lifelink, or a Warlock Role giving 2/1 and flying. Roles replace older ones.)</i-auto></atom-reminder-custom></kw-A>
 		Until end of turn, if a creature you don’t control would die, instead exile it and that creature’s controller loses 2 life.
 		​
 
@@ -6043,7 +6043,7 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		<kw-A><nospellcheck><key>Audition for red</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 1/1 Construct Actor creature token, a Warrior Role giving 3/2 and trample, or a Wizard Role giving 2/2 and prowess. Roles replace older ones.)</i-auto></atom-reminder-custom></kw-A>
+		I, II, III — <kw-A><nospellcheck><key>Audition for red</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 1/1 Construct Actor creature token, a Warrior Role giving 3/2 and trample, or a Wizard Role giving 2/2 and prowess. Roles replace older ones.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever a creature you control deals damage to an opponent this turn, exile the top card of your library. You may play it this turn.
 		​
 
@@ -6084,7 +6084,7 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		<kw-A><nospellcheck><key>Audition for green</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Warrior Role giving 3/2 and trample. Roles replace older ones.)</i-auto></atom-reminder-custom></kw-A>
+		I, II, III — <kw-A><nospellcheck><key>Audition for green</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a 1/1 Construct Actor creature token, a Scout Role giving 2/3 and vigilance, or a Warrior Role giving 3/2 and trample. Roles replace older ones.)</i-auto></atom-reminder-custom></kw-A>
 		Creatures you control get +1/+0 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 		​
 
@@ -6099,9 +6099,9 @@ card:
 		separated_text_size: 11
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update nerfed: II originally prevented all damage dealt to your and your planeswalkers.
 	time_created: 2023-02-14 00:27:42
-	time_modified: 2023-10-31 03:17:48
+	time_modified: 2026-05-31 00:36:22
 	name: The Death of King Mervin
 	casting_cost: 2W
 	image: image104
@@ -6114,7 +6114,7 @@ card:
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: Destroy target creature you don’t control with the greatest power.
-	level_2_text: Until your next turn, prevent all damage that would be dealt to you and planeswalkers you control.
+	level_2_text: Until your next turn, creatures can’t attack you or planeswalkers you control unless their controller pays 2 for each of those creatures.
 	level_3_text: Exile target card from a graveyard. You gain 2 life.
 	illustrator: Xia Yu
 	card_code_text: 
@@ -6125,9 +6125,9 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Destroy target creature you don’t control with the greatest power.
-		Until your next turn, prevent all damage that would be dealt to you and planeswalkers you control.
-		Exile target card from a graveyard. You gain 2 life.
+		I — Destroy target creature you don’t control with the greatest power.
+		II — Until your next turn, creatures can’t attack you or planeswalkers you control unless their controller pays 2 for each of those creatures.
+		III — Exile target card from a graveyard. You gain 2 life.
 
 card:
 	stylesheet: m15-saga
@@ -6207,9 +6207,9 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		You may sacrifice a permanent. When you do, <atom-cardname><nospellcheck>As the Lanterns Float On</nospellcheck></atom-cardname> deals 3 damage to any target.
-		You may sacrifice a permanent. When you do, exile the top two cards of your library. You may play them this turn.
-		Create a token that’s a copy of target permanent card in your graveyard with mana value 4 or less. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Sacrifice it at the beginning of the next end step.
+		I — You may sacrifice a permanent. When you do, <atom-cardname><nospellcheck>As the Lanterns Float On</nospellcheck></atom-cardname> deals 3 damage to any target.
+		II — You may sacrifice a permanent. When you do, exile the top two cards of your library. You may play them this turn.
+		III — Create a token that’s a copy of target permanent card in your graveyard with mana value 4 or less. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>. Sacrifice it at the beginning of the next end step.
 
 card:
 	stylesheet: m15-saga
@@ -6248,9 +6248,9 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Create a 1/1 colorless Construct Actor creature token.
-		Create a <kw-a><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck></kw-a> and a Weapon token. <i-auto>(A Weapon token is an Equipment with <kw-a><nospellcheck><key>equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a> and “Equipped creature gets +1/+1.”)</i-auto>
-		You may exile The Disappearance of Faye if you control five or more tokens. If you do, return a card from your graveyard to your hand. If you didn’t exile it, draw a card.
+		I — Create a 1/1 colorless Construct Actor creature token.
+		II — Create a <kw-a><nospellcheck><key>Food toke<param-*s>n</param-*s></key></nospellcheck></kw-a> and a Weapon token. <i-auto>(A Weapon token is an Equipment with <kw-a><nospellcheck><key>equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a> and “Equipped creature gets +1/+1.”)</i-auto>
+		III — You may exile The Disappearance of Faye if you control five or more tokens. If you do, return a card from your graveyard to your hand. If you didn’t exile it, draw a card.
 
 card:
 	stylesheet: m15-saga
@@ -6289,9 +6289,9 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		Each opponent discards a card and loses 2 life.
-		Exile target card from a graveyard. If a creature card was exiled this way, you gain 2 life.
-		At the beginning of the next end step, you gain 3 life if an opponent lost life this turn and each opponent loses 3 life if you’ve gained life this turn.
+		I — Each opponent discards a card and loses 2 life.
+		II — Exile target card from a graveyard. If a creature card was exiled this way, you gain 2 life.
+		III — At the beginning of the next end step, you gain 3 life if an opponent lost life this turn and each opponent loses 3 life if you’ve gained life this turn.
 
 card:
 	has_styling: false
@@ -8670,7 +8670,7 @@ card:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
 		Draw three cards.
-		You may cast a spell with mana value less than or equal to the number of lore counters on <atom-cardname><nospellcheck>The Infinite Calls to Marva</nospellcheck></atom-cardname> from your hand without paying its mana cost.
+		I, II, III — You may cast a spell with mana value less than or equal to the number of lore counters on <atom-cardname><nospellcheck>The Infinite Calls to Marva</nospellcheck></atom-cardname> from your hand without paying its mana cost.
 
 card:
 	stylesheet: m15-saga
@@ -8715,8 +8715,8 @@ card:
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		Whenever you cast an enchantment spell, draw a card.
-		Tap up to one target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. You gain 2 life.
-		Target creature you control gets +1/+1 until end of turn for each enchantment you control.
+		I, II — Tap up to one target nonland permanent and put a <kw-a><nospellcheck><key>stun counte<param-*s>r</param-*s></key></nospellcheck></kw-a> on it. You gain 2 life.
+		III — Target creature you control gets +1/+1 until end of turn for each enchantment you control.
 
 card:
 	has_styling: true

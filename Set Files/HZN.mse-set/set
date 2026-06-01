@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: New Horizons
 	set_code: HZN
@@ -71,7 +71,7 @@ styling:
 		overlay: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15,15,
@@ -170,7 +170,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		!design Chumbeque
@@ -299,7 +299,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Project Head</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Project Head</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>2U</sym-auto>, Exile <atom-cardname><nospellcheck>Project Head</nospellcheck></atom-cardname>: Shuffle your hand and graveyard into your library, then draw seven cards. Activate only if you control seven or more artifacts.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -512,7 +512,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -612,7 +612,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !design CanterburyEgg
 	time_created: 2019-10-03 23:32:07
@@ -772,7 +772,7 @@ card:
 		Your opponents play with their hands revealed.
 		At the beginning of your end step, choose a card name.
 		You and spells you control can’t be targeted by sources your opponents control with a name chosen by <atom-cardname><nospellcheck>Eye of Dismay</nospellcheck></atom-cardname>.
-		<atom-cardname><nospellcheck>Eye of Dismay</nospellcheck></atom-cardname> has <kw-0><nospellcheck><key>protection from <param-name>names chosen by it.</param-name></key></nospellcheck></kw-0>
+		<atom-cardname><nospellcheck>Eye of Dismay</nospellcheck></atom-cardname> has <kw-0><nospellcheck><key>protection from <param-name>names chosen by it</param-name>.</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 1
@@ -820,7 +820,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 9,9,
@@ -866,7 +866,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !design CanterburyEgg
 	time_created: 2017-06-15 12:27:30
@@ -943,7 +943,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8,8,
@@ -982,7 +982,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		!design elmikkino
@@ -1062,7 +1062,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>From Peace and Purpose</nospellcheck></atom-cardname> enters, exile all creatures until <atom-cardname><nospellcheck>From Peace and Purpose</nospellcheck></atom-cardname> leaves the battlefield.
-		At the beginning of your upkeep, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
+		At the beginning of your upkeep, <kw-1><nospellcheck><key>investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-1>
 	rule_text_2: 
 	flavor_text: <i-flavor></i-flavor>
 	flavor_text_2: <i-flavor></i-flavor>
@@ -1140,7 +1140,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		!design Reuben
@@ -1393,7 +1393,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -1431,7 +1431,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -1493,7 +1493,8 @@ card:
 card:
 	has_styling: false
 	notes:
-		!design Emily
+		!design Queen Emily
+		!update
 		!tag
 	time_created: 2020-09-03 18:41:30
 	time_modified: 2021-03-30 23:15:03
@@ -1567,7 +1568,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes:
 		!design FifthDragon
@@ -1669,8 +1670,8 @@ card:
 	special_text:
 		<i-auto>(As you complete a condition, decode it. After all are decoded, you solve the mystery and transform this.)</i-auto>
 		When <atom-cardname><nospellcheck>Mystery of the Crashed Craft</nospellcheck></atom-cardname> enters, create two 1/1 red Alien creature tokens with “This creature can’t block.”
-		You cast an instant spell.
-		You cast a sorcery spell.
+		{mg} — You cast an instant spell.
+		{mg} — You cast a sorcery spell.
 	special_text_2: 
 
 card:
@@ -1724,7 +1725,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !design WindyDelcarlo
 	time_created: 2013-11-19 18:44:02
@@ -2061,8 +2062,8 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
-		!design Emily
-		 reworked: Was {B}{R}{G} with +2: You may sacrifice a permanent or discard a card. If you do, draw a card.;-X: Return target creature card with mana value X or less from your graveyard to the battlefield.;-8: You get an emblem with “Whenever a permanent you control dies, return a permanent card with lesser mana value from your graveyard to the battlefield.”
+		!design Queen Emily
+		!update
 	time_created: 2018-03-07 04:24:45
 	time_modified: 2025-10-31 16:24:36
 	extra_data:
@@ -2103,7 +2104,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !design gynoidpoet
 	time_created: 2021-02-16 19:44:30
@@ -2132,7 +2133,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !design Parasign
 	time_created: 2016-08-24 17:57:33
@@ -2254,7 +2255,7 @@ card:
 	rarity: rare
 	rule_text:
 		As <atom-cardname><nospellcheck>Hexplate Companion</nospellcheck></atom-cardname> enters, choose a card name.
-		You and <atom-cardname><nospellcheck>Hexplate Companion</nospellcheck></atom-cardname> each have <kw-0><nospellcheck><key>protection from <param-name>the chosen card name.</param-name></key></nospellcheck></kw-0>
+		You and <atom-cardname><nospellcheck>Hexplate Companion</nospellcheck></atom-cardname> each have <kw-0><nospellcheck><key>protection from <param-name>the chosen card name</param-name>.</key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 1
@@ -2268,7 +2269,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -2575,7 +2576,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !design Chumbeque
 	time_created: 2020-05-18 00:27:38
@@ -2667,7 +2668,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -2714,7 +2715,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: false
 	notes: !design Reuben
 	time_created: 2016-10-24 00:04:12
@@ -2813,7 +2814,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 15,15,
@@ -2884,7 +2885,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5,15,
@@ -2992,7 +2993,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_bottom: 

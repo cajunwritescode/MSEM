@@ -289,9 +289,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update
 	time_created: 2021-02-16 01:38:07
-	time_modified: 2023-03-30 17:59:03
+	time_modified: 2026-05-31 01:19:32
 	extra_data:
 		magic-m15-altered:
 			tarot_watermark: 🌄
@@ -308,7 +308,7 @@ card:
 	rule_text:
 		You may cast this spell by paying <sym>1WUBRG</sym> rather than paying its mana cost.
 		<kw-a><nospellcheck><key>Defender</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>
-		Lands you control are 2/2 Spirit creatures with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
+		Lands you control are 2/2 Spirit creatures with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> in addition to their other types.
 	flavor_text: <i-flavor>Her love brings bountiful harvest to all who honor her across the former <error-spelling:en_US>Caica</error-spelling:en_US> Empire.</i-flavor>
 	watermark: custom watermark two
 	power: 10

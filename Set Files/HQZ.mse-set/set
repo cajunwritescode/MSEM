@@ -4363,9 +4363,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!check zangy
-
+	notes: !check zangy
 	time_created: 2024-12-05 22:03:10
 	time_modified: 2026-03-04 17:14:14
 	card_color_2: green
@@ -4450,9 +4448,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !check pip
+	notes:
+		!check pip
+		!update
 	time_created: 2024-12-05 22:03:10
-	time_modified: 2025-05-07 22:07:45
+	time_modified: 2026-05-31 01:04:51
 	name: Outerworld Witness
 	casting_cost: 3GG
 	image: image134.png
@@ -4470,7 +4470,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Multitude <sym>5GG</sym> <i-auto>(You may cast this for <sym>5GG</sym>. When you do, copy it.)</i-auto>
-		When <atom-cardname><nospellcheck>Outerworld Witness</nospellcheck></atom-cardname> enters the battlefield, return target card from your graveyard to your hand.
+		When <atom-cardname><nospellcheck>Outerworld Witness</nospellcheck></atom-cardname> enters, return target card from your graveyard to your hand.
 	flavor_text: <i-flavor>“The Ink Sea is more vast than the Emperor’s Hundred Suns could ever conceive.”</i-flavor>
 	power: 4
 	toughness: 4

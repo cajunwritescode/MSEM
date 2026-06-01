@@ -646,6 +646,13 @@
  <reverse-related>Twisting Memories_MSY</reverse-related>
  <reverse-related>Twisting Memories (Signed)</reverse-related>
  <reverse-related>Whims of Fate_MSY</reverse-related>
+ <reverse-related>Akane, Linearity Breaker</reverse-related>
+ <reverse-related>Neon Lights</reverse-related>
+ <reverse-related>Dreams Beyond the End</reverse-related>
+ <reverse-related>Fanatical Vanguard</reverse-related>
+ <reverse-related>Ghastly Mind</reverse-related>
+ <reverse-related>Insectoid Spawner</reverse-related>
+ <reverse-related>Sharer of Will</reverse-related>
  <reverse-related>Autumnal Watch_MPS_MSE</reverse-related>
  <reverse-related>Culminating Chaos_MPS_MSE</reverse-related>
  <reverse-related>Exhilarating Prescience_MPS_MSE</reverse-related>
@@ -678,6 +685,7 @@
  <reverse-related>Culminating Chaos (SL122)</reverse-related>
  <reverse-related>Defraud (SL105)</reverse-related>
  <reverse-related>Devka, Mad Memory (SL169)</reverse-related>
+ <reverse-related>Fahrib, the Ever-Scheming (SL180)</reverse-related>
  <reverse-related>Find Greater Purpose (SL35)</reverse-related>
  <reverse-related>Find Greater Purpose (SL52)</reverse-related>
  <reverse-related>Find Greater Purpose (SL52b)</reverse-related>
@@ -697,6 +705,7 @@
  <reverse-related>Little Pig (SL114)</reverse-related>
  <reverse-related>Marilye, Heirloom Pilferer (SL92)</reverse-related>
  <reverse-related>Masahita, Bloodtongue (SL81)</reverse-related>
+ <reverse-related>Mei, the Inflitrator (SL180)</reverse-related>
  <reverse-related>Mourn No More (SL99)</reverse-related>
  <reverse-related>Mystic Parliament (SL60)</reverse-related>
  <reverse-related>No Rest (SL19)</reverse-related>
@@ -748,6 +757,7 @@
  <reverse-related>On an Adventure MSEMAR_tokens</reverse-related>
  <reverse-related>Repurpose Function BTB</reverse-related>
  <reverse-related>Saga Token ACT_tokens</reverse-related>
+ <reverse-related>colorless Toy 22AEK</reverse-related>
  <reverse-related>Unleash Function HQZ</reverse-related>
  <set num="MSEMAR7" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSEMAR7.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -820,7 +830,6 @@ Equip {4}</text>
  <reverse-related>Rallios Reincarnated</reverse-related>
  <reverse-related>Undying Welcome</reverse-related>
  <reverse-related count="x">Unhallowed Legion</reverse-related>
- <reverse-related count="2">Labor of Life</reverse-related>
  <set num="AFM6" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AFM6.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -1376,6 +1385,8 @@ Equip {4}</text>
  <reverse-related>Starfall Singer_MSY</reverse-related>
  <reverse-related>Voidtouched Nightblade_MSY</reverse-related>
  <reverse-related>Voidtouched Nightblade (Signed)</reverse-related>
+ <reverse-related>Abscond Mortal Limits</reverse-related>
+ <reverse-related>Essence Cloak</reverse-related>
  <reverse-related>Glimmer_MPS_MSE</reverse-related>
  <reverse-related>Glimmer_CHAMPIONS</reverse-related>
  <reverse-related>Aethermancer's Familiar (SL62)</reverse-related>
@@ -2704,6 +2715,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
  <tablerow>2</tablerow>
  <reverse-related count="2">Lha Sha'rador</reverse-related>
  <reverse-related count="3">Sha's Summons</reverse-related>
+ <reverse-related count="2">Lha Sha'rador (SL180)</reverse-related>
  <set num="ORP1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ORP1.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -2714,6 +2726,7 @@ A manifested creature card can be turned face up any time for its mana cost. A f
  <token>1</token>
  <tablerow>1</tablerow>
  <reverse-related>Lha Sha'rador</reverse-related>
+ <reverse-related>Lha Sha'rador (SL180)</reverse-related>
  <set num="ORP17" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ORP17.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -4909,6 +4922,7 @@ Enchanted creature can't attack or block, and its activated abilities can't be a
  <reverse-related>Long Journey_EOW</reverse-related>
  <reverse-related>The River Treader_MSY</reverse-related>
  <reverse-related>The River Treader (Signed)</reverse-related>
+ <reverse-related>Wayward Journey</reverse-related>
  <reverse-related>Crossing the Fog (SL29)</reverse-related>
  <reverse-related>Crossing the Fog (SL82)</reverse-related>
  <set num="MSEMAR14" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSEMAR14.jpg?v=0" rarity="token">tokens</set>
@@ -6672,6 +6686,66 @@ Enchanted creature gets +1/+0 and has flying and lifelink.</text>
  <set num="MSEMAR12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSEMAR12.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Thrice-Folded Lotus DOA</name>
+ <text>{T}: Add three mana of any one color.
+{3}, {T}: Thrice-Folded Lotus deals 3 damage to any target.</text>
+ <colors></colors>
+ <type>Token Artifact — Masterpiece</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Avid Researcher</reverse-related>
+ <reverse-related>Bottled Lightning</reverse-related>
+ <reverse-related>Exuberant Inventor</reverse-related>
+ <reverse-related>Iterative Designer</reverse-related>
+ <reverse-related>Petal-Weaver Alexa</reverse-related>
+ <reverse-related>Vitin Blastgear</reverse-related>
+ <reverse-related>Vitin Forgemaster</reverse-related>
+ <reverse-related>Volta, Construct Consultant</reverse-related>
+ <reverse-related>Studies in Scientific Theory</reverse-related>
+ <reverse-related>Avid Researcher_MSY</reverse-related>
+ <reverse-related>Avid Researcher (SL112)</reverse-related>
+ <set num="DOA7" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/DOA7.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Cultivating Spheres DOA</name>
+ <text>At the beginning of your draw step, draw an additional card.
+You may play an additional land on each of your turns.</text>
+ <colors></colors>
+ <type>Token Artifact — Masterpiece</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Avid Researcher</reverse-related>
+ <reverse-related>Bottled Lightning</reverse-related>
+ <reverse-related>Exuberant Inventor</reverse-related>
+ <reverse-related>Iterative Designer</reverse-related>
+ <reverse-related>Vitin Blastgear</reverse-related>
+ <reverse-related>Vitin Forgemaster</reverse-related>
+ <reverse-related>Volta, Construct Consultant</reverse-related>
+ <reverse-related>Studies in Scientific Theory</reverse-related>
+ <reverse-related>Avid Researcher_MSY</reverse-related>
+ <reverse-related>Avid Researcher (SL112)</reverse-related>
+ <set num="DOA2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/DOA2.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Mirror of Possibilities DOA</name>
+ <text>Whenever you cast a spell, you may pay {3}. If you do, copy it. You may choose new targets for the copy.</text>
+ <colors></colors>
+ <type>Token Artifact — Masterpiece</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Avid Researcher</reverse-related>
+ <reverse-related>Bottled Lightning</reverse-related>
+ <reverse-related>Exuberant Inventor</reverse-related>
+ <reverse-related>Iterative Designer</reverse-related>
+ <reverse-related>Vitin Blastgear</reverse-related>
+ <reverse-related>Vitin Forgemaster</reverse-related>
+ <reverse-related>Volta, Construct Consultant</reverse-related>
+ <reverse-related>Studies in Scientific Theory</reverse-related>
+ <reverse-related>Avid Researcher_MSY</reverse-related>
+ <reverse-related>Avid Researcher (SL112)</reverse-related>
+ <set num="DOA5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/DOA5.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>colorless Powercell DOA</name>
  <text>{T}: Add {C}.</text>
  <colors></colors>
@@ -6711,17 +6785,6 @@ Enchanted creature gets +1/+0 and has flying and lifelink.</text>
  <reverse-related>Marin Polgek, Academy Heiress</reverse-related>
  <reverse-related>Marin Polgek, Academy Heiress_MS3</reverse-related>
  <set num="MS31" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS31.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Thrice-Folded Lotus DOA</name>
- <text>{T}: Add three mana of any one color.
-{3}, {T}: Thrice-Folded Lotus deals 3 damage to any target.</text>
- <colors></colors>
- <type>Token Artifact — Masterpiece</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <reverse-related>Petal-Weaver Alexa</reverse-related>
- <set num="DOA7" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/DOA7.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Siraj Emblem DOA</name>
@@ -8560,6 +8623,38 @@ Whenever enchanted creature attacks, tap target creature defending player contro
  <set num="MS39" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS39.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Thrice-Folded Lotus MS3</name>
+ <text>{T}: Add three mana of any one color.
+{3}, {T}: Thrice-Folded Lotus deals 3 damage to any target.</text>
+ <colors></colors>
+ <type>Token Artifact — Masterpiece</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Turin's Study</reverse-related>
+ <set num="MS346" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS346.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Cultivating Spheres MS3</name>
+ <text>At the beginning of your draw step, draw an additional card.
+You may play an additional land on each of your turns.</text>
+ <colors></colors>
+ <type>Token Artifact — Masterpiece</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Turin's Study</reverse-related>
+ <set num="MS335" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS335.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Mirror of Possibilities MS3</name>
+ <text>Whenever you cast a spell, you may pay {3}. If you do, copy it. You may choose new targets for the copy.</text>
+ <colors></colors>
+ <type>Token Artifact — Masterpiece</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Turin's Study</reverse-related>
+ <set num="MS341" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS341.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>Substantiate MS2</name>
  <text>You can cover a face down substantiated creature with this reminder card.
 A substantiated noncreature card can be turned face up and cast any time.</text>
@@ -10371,6 +10466,44 @@ Sacrifice this token: Untap enchanted creature.</text>
  <reverse-related count="2">Architect of the Derezzed_MSC</reverse-related>
  <reverse-related count="3">Unending Armies_MSC</reverse-related>
  <set num="MSC98" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC98.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Thrice-Folded Lotus MSC</name>
+ <text>{T}: Add three mana of any one color.
+{3}, {T}: Thrice-Folded Lotus deals 3 damage to any target.</text>
+ <colors></colors>
+ <type>Token Artifact — Masterpiece</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Avid Researcher_MSC</reverse-related>
+ <reverse-related>Bottled Lightning_MSC</reverse-related>
+ <reverse-related>Volta, Construct Consultant_MSC</reverse-related>
+ <set num="MSC99" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC99.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Cultivating Spheres MSC</name>
+ <text>At the beginning of your draw step, draw an additional card.
+You may play an additional land on each of your turns.</text>
+ <colors></colors>
+ <type>Token Artifact — Masterpiece</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Avid Researcher_MSC</reverse-related>
+ <reverse-related>Bottled Lightning_MSC</reverse-related>
+ <reverse-related>Volta, Construct Consultant_MSC</reverse-related>
+ <set num="MSC90" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC90.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Mirror of Possibilities MSC</name>
+ <text>Whenever you cast a spell, you may pay {3}. If you do, copy it. You may choose new targets for the copy.</text>
+ <colors></colors>
+ <type>Token Artifact — Masterpiece</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Avid Researcher_MSC</reverse-related>
+ <reverse-related>Bottled Lightning_MSC</reverse-related>
+ <reverse-related>Volta, Construct Consultant_MSC</reverse-related>
+ <set num="MSC93" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC93.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Turtle's Valor MSC</name>
@@ -14096,6 +14229,7 @@ Equip {2}</text>
  <tablerow>2</tablerow>
  <reverse-related>Altar of Twisted Piety</reverse-related>
  <reverse-related>Lizhao, Last Breath of the Yenzu</reverse-related>
+ <reverse-related>Hieronymus Scratch (SL180)</reverse-related>
  <reverse-related>black Cultist 01NJB_tokens</reverse-related>
  <set num="NJB8" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/NJB8.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -15865,17 +15999,17 @@ Enchanted creature has base power and toughness 5/5, is all creature types, and 
  <set num="ACT3" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ACT3.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
- <name>black Horror ACT</name>
+ <name>black Horror 44AEK</name>
  <text></text>
  <colors>B</colors>
  <type>Token Creature — Horror</type>
- <pt>X/X</pt>
+ <pt>4/4</pt>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Ruthless Director</reverse-related>
- <reverse-related>Sower of Seeds</reverse-related>
- <reverse-related>The Malevolence Chronicles</reverse-related>
- <set num="ACT5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ACT5.jpg?v=0" rarity="token">tokens</set>
+ <reverse-related>A Practical Guide to Evil</reverse-related>
+ <reverse-related>Here Without You</reverse-related>
+ <set num="AEK8" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK8.jpg?v=20260421" rarity="token">tokens</set>
 </card>
 <card>
  <name>Salome Emblem ACT</name>
@@ -15887,6 +16021,18 @@ Enchanted creature has base power and toughness 5/5, is all creature types, and 
  <reverse-related>Salome</reverse-related>
  <reverse-related>Salome (SL169)</reverse-related>
  <set num="ACT21" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ACT21.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Horror ACT</name>
+ <text></text>
+ <colors>B</colors>
+ <type>Token Creature — Horror</type>
+ <pt>X/X</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Sower of Seeds</reverse-related>
+ <reverse-related>The Malevolence Chronicles</reverse-related>
+ <set num="ACT5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ACT5.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Weapon ACT</name>
@@ -18531,6 +18677,40 @@ Enchanted creature has base power and toughness 2/2, has prowess, and is a Wizar
  <set num="MC2532" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2532.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Thrice-Folded Lotus MC25</name>
+ <text>{T}: Add three mana of any one color.
+{3}, {T}: Thrice-Folded Lotus deals 3 damage to any target.</text>
+ <colors></colors>
+ <type>Token Artifact — Masterpiece</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Iterative Designer_MC25</reverse-related>
+ <reverse-related>Petal-Weaver Alexa_MC25</reverse-related>
+ <set num="MC2568" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2568.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Cultivating Spheres MC25</name>
+ <text>At the beginning of your draw step, draw an additional card.
+You may play an additional land on each of your turns.</text>
+ <colors></colors>
+ <type>Token Artifact — Masterpiece</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Iterative Designer_MC25</reverse-related>
+ <set num="MC2560" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2560.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Mirror of Possibilities MC25</name>
+ <text>Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy it. You may choose new targets for the copy.
+Whenever a nontoken creature you control enters, you may pay {3}. If you do, create a token that's a copy of it.</text>
+ <colors></colors>
+ <type>Token Artifact — Masterpiece</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Iterative Designer_MC25</reverse-related>
+ <set num="MC2564" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2564.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>colorless Eldrazi 32MC25</name>
  <text></text>
  <colors></colors>
@@ -18677,17 +18857,6 @@ Whenever this creature attacks, scry 1.</text>
  <reverse-related>Performer of Growth_MC25</reverse-related>
  <reverse-related>Rei, the Supplanter_MC25</reverse-related>
  <set num="MC2571" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2571.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Thrice-Folded Lotus MC25</name>
- <text>{T}: Add three mana of any one color.
-{3}, {T}: Thrice-Folded Lotus deals 3 damage to any target.</text>
- <colors></colors>
- <type>Token Artifact — Masterpiece</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <reverse-related>Petal-Weaver Alexa_MC25</reverse-related>
- <set num="MC2568" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2568.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Blossom MC25</name>
@@ -20030,6 +20199,17 @@ Equip {2}</text>
  <set num="G5L16" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L16.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>black Zombie 22G5L</name>
+ <text></text>
+ <colors>B</colors>
+ <type>Token Creature — Zombie</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="2">Labor of Life</reverse-related>
+ <set num="G5L6" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L6.jpg?v=20260431" rarity="token">tokens</set>
+</card>
+<card>
  <name>black Assassin 11G5L</name>
  <text>Deathtouch</text>
  <colors>B</colors>
@@ -20237,6 +20417,366 @@ Equip {2}</text>
  <reverse-related>Sundew Tender (Signed)</reverse-related>
  <reverse-related>Master Chef_CHAMPIONS</reverse-related>
  <set num="GNJ24" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/GNJ24.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Human 11AEK</name>
+ <text></text>
+ <colors>W</colors>
+ <type>Token Creature — Human</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Aekyan Nights</reverse-related>
+ <reverse-related>Balcony Sommelier</reverse-related>
+ <reverse-related>Campfire Storyteller</reverse-related>
+ <reverse-related>Citron Bartender</reverse-related>
+ <reverse-related>Ellis, Silent Muralist</reverse-related>
+ <reverse-related count="2">Hobby Shop</reverse-related>
+ <reverse-related>Luminescent Idol</reverse-related>
+ <reverse-related>Reflected Frame</reverse-related>
+ <reverse-related>Showrunner</reverse-related>
+ <reverse-related>Social Executioner</reverse-related>
+ <reverse-related>Superstar</reverse-related>
+ <reverse-related>Superstar (Neon)</reverse-related>
+ <reverse-related>To Save a Broken Heart</reverse-related>
+ <reverse-related>Twilight Celebrant</reverse-related>
+ <reverse-related>Twirl</reverse-related>
+ <reverse-related>Wallflower's Retreat</reverse-related>
+ <reverse-related count="x">Yume, Miseko Producer</reverse-related>
+ <set num="AEK4" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK4.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Cat 11AEK</name>
+ <text>Lifelink</text>
+ <colors>B</colors>
+ <type>Token Creature — Cat</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Amina, Slightly Clumsy</reverse-related>
+ <reverse-related count="2">Cursed Catlover</reverse-related>
+ <reverse-related>Unlucky Crossing</reverse-related>
+ <set num="AEK7" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK7.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>blue Elemental 11AEK</name>
+ <text>Flying</text>
+ <colors>U</colors>
+ <type>Token Creature — Elemental</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="2">Among the Glowmoths</reverse-related>
+ <reverse-related>Heartfelt Composition</reverse-related>
+ <reverse-related>Inspiring Idol</reverse-related>
+ <reverse-related>Miss Navia Cosgrove</reverse-related>
+ <reverse-related count="x">The Chroma Network</reverse-related>
+ <reverse-related>Shiroyuki's Emblem AEK</reverse-related>
+ <set num="AEK5" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK5.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Avatar 33AEK</name>
+ <text></text>
+ <colors>W</colors>
+ <type>Token Enchantment Creature — Avatar</type>
+ <pt>3/3</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Azalea, New Apocrypha</reverse-related>
+ <reverse-related>Sunshine Icon</reverse-related>
+ <set num="AEK3" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK3.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Celosia's Emblem AEK</name>
+ <text>Creatures you control have prowess, prowess, prowess, and haste. (Whenever you cast a noncreature spell, those creature gets +3/+3 until end of turn.)</text>
+ <colors>R</colors>
+ <type>Emblem — Celosia</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Celosia on Burning Wings_AEK</reverse-related>
+ <set num="AEK9" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK9.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Treasure AEK</name>
+ <text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+ <colors></colors>
+ <type>Token Artifact — Treasure</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related count="x">Enigmatic Highroller</reverse-related>
+ <reverse-related>Midnight Caller</reverse-related>
+ <reverse-related>Resplendent Idol</reverse-related>
+ <set num="AEK18" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK18.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Human Reveler 21AEK</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Human Reveler</type>
+ <pt>2/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Exalted Gossipers</reverse-related>
+ <reverse-related>Eyes That Bite</reverse-related>
+ <reverse-related>Let Him Cook</reverse-related>
+ <reverse-related>Naoko, Onigaiko Transfer</reverse-related>
+ <set num="AEK10" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK10.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Zeal AEK</name>
+ <text>Attacking creatures you control get +1/+0.</text>
+ <colors>R</colors>
+ <type>Token Enchantment</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Ezren, Speedrunner</reverse-related>
+ <set num="AEK11" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK11.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Copy AEK</name>
+ <text>This token can be used to represent a copy of something else.</text>
+ <colors></colors>
+ <type>Token</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>From the Mirror</reverse-related>
+ <reverse-related>Sunflower Painter</reverse-related>
+ <reverse-related>Waiting for You</reverse-related>
+ <set num="AEK2" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK2.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Toy 22AEK</name>
+ <text>{T}: Add one mana of any color.</text>
+ <colors></colors>
+ <type>Token Artifact Creature — Toy</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Hyacin, the Wondermaker</reverse-related>
+ <set num="AEK16" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK16.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Toy 22AEK 2</name>
+ <text>{1}, {T}: Untap another target permanent.</text>
+ <colors></colors>
+ <type>Token Artifact Creature — Toy</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Hyacin, the Wondermaker</reverse-related>
+ <set num="AEK17" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK17.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Toy 22AEK 3</name>
+ <text>{2}, {T}: Exile the top card of your library. You may play it this turn.</text>
+ <colors></colors>
+ <type>Token Artifact Creature — Toy</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Hyacin, the Wondermaker</reverse-related>
+ <set num="AEK15" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK15.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Clue AEK</name>
+ <text>{2}, Sacrifice this artifact: Draw a card.</text>
+ <colors></colors>
+ <type>Token Artifact — Clue</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Inspiring Idol</reverse-related>
+ <set num="AEK12" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK12.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Shiroyuki's Emblem AEK</name>
+ <text>Whenever you cast a noncreature spell, create a 1/1 blue Elemental creature token with flying.</text>
+ <colors>U</colors>
+ <type>Emblem — Shiroyuki</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Shiroyuki, the Everygirl</reverse-related>
+ <set num="AEK6" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK6.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Soldier 22AEK</name>
+ <text>(This creature has one of Spark Hunter Kajiwara's loyalty abilities, except it costs +1 to activate.)</text>
+ <colors></colors>
+ <type>Token Artifact Creature — Soldier</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Spark Hunter Kajiwara Ai_AEK</reverse-related>
+ <set num="AEK14" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK14.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Angel 11LIP</name>
+ <text>Flying</text>
+ <colors>W</colors>
+ <type>Token Creature — Angel</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Angelic Dignity</reverse-related>
+ <reverse-related count="2">Descent from Divinity</reverse-related>
+ <reverse-related>Exemplar of Angelic Ideal</reverse-related>
+ <reverse-related>Mourning Stone</reverse-related>
+ <reverse-related>Other Unto Other</reverse-related>
+ <reverse-related count="2">Pure Form</reverse-related>
+ <reverse-related>Slayer's Mantle</reverse-related>
+ <reverse-related>Vengeful Purifier</reverse-related>
+ <set num="LIP1" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP1.jpg?v=20260431" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Beast 33LIP</name>
+ <text></text>
+ <colors>G</colors>
+ <type>Token Creature — Beast</type>
+ <pt>3/3</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Birth Unto Birth</reverse-related>
+ <reverse-related>Harmonious Beasts</reverse-related>
+ <reverse-related>Mortal Insight</reverse-related>
+ <reverse-related>Nature's Call</reverse-related>
+ <set num="LIP9" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP9.jpg?v=20260431" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Soldier 11LIP</name>
+ <text></text>
+ <colors>W</colors>
+ <type>Token Creature — Soldier</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="2">Blessed Vanguard</reverse-related>
+ <reverse-related>Charging Lance</reverse-related>
+ <reverse-related>Disposable Recruits</reverse-related>
+ <reverse-related count="2">Frenzied Deployment</reverse-related>
+ <reverse-related>Frenzied Deployment</reverse-related>
+ <reverse-related>Frightening Instructor</reverse-related>
+ <reverse-related>Hero of the Ordinary</reverse-related>
+ <reverse-related>Weighted Armor</reverse-related>
+ <set num="LIP2" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP2.jpg?v=20260431" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Scout 11LIP</name>
+ <text></text>
+ <colors>G</colors>
+ <type>Token Creature — Scout</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Deepland Scavenger</reverse-related>
+ <reverse-related>Determined Veteran</reverse-related>
+ <reverse-related>Fearlessness, Ever-Moving</reverse-related>
+ <reverse-related>Fishing Rod</reverse-related>
+ <reverse-related>Fortunate Discovery</reverse-related>
+ <reverse-related>Full Kit</reverse-related>
+ <reverse-related>Mountainside Predator</reverse-related>
+ <reverse-related>Mourning Stone</reverse-related>
+ <reverse-related count="2">Perilous Traversal</reverse-related>
+ <reverse-related>Reckon With Power</reverse-related>
+ <reverse-related count="2">Scouting Corridor</reverse-related>
+ <reverse-related>Treacherous Barrenland</reverse-related>
+ <reverse-related count="2">Unfortunate Encounter</reverse-related>
+ <reverse-related count="3">Unfortunate Encounter</reverse-related>
+ <reverse-related>Ventured Land</reverse-related>
+ <reverse-related>Well-Traveled Guide</reverse-related>
+ <set num="LIP10" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP10.jpg?v=20260431" rarity="token">tokens</set>
+</card>
+<card>
+ <name>blue Horror 55LIP</name>
+ <text></text>
+ <colors>U</colors>
+ <type>Token Creature — Horror</type>
+ <pt>5/5</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Descent from Divinity</reverse-related>
+ <reverse-related>Passive Witness</reverse-related>
+ <reverse-related>Wavering Sanctifier</reverse-related>
+ <set num="LIP6" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP6.jpg?v=20260431" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Treasure LIP</name>
+ <text>{T}, Sacrifice this token: Add one mana of any color.</text>
+ <colors></colors>
+ <type>Token Artifact — Treasure</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Dragonspotting</reverse-related>
+ <reverse-related>Fortunate Discovery</reverse-related>
+ <reverse-related>Lackadaisical Whelp</reverse-related>
+ <reverse-related>Other Unto Other</reverse-related>
+ <set num="LIP12" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP12.jpg?v=20260431" rarity="token">tokens</set>
+</card>
+<card>
+ <name>blue Horror 22LIP</name>
+ <text></text>
+ <colors>U</colors>
+ <type>Token Creature — Horror</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Illuminating Lantern</reverse-related>
+ <set num="LIP4" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP4.jpg?v=20260431" rarity="token">tokens</set>
+</card>
+<card>
+ <name>blue Horror LIP</name>
+ <text></text>
+ <colors>U</colors>
+ <type>Token Creature — Horror</type>
+ <pt>★/★</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Infirm Self</reverse-related>
+ <reverse-related>Muted Mutterer</reverse-related>
+ <set num="LIP3" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP3.jpg?v=20260431" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Cyclops 22LIP</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Cyclops</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="2">Merry Meetings</reverse-related>
+ <reverse-related count="3">Merry Meetings</reverse-related>
+ <set num="LIP8" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP8.jpg?v=20260431" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Witness, Ever-Wandering LIP</name>
+ <text></text>
+ <colors>G</colors>
+ <type>Token Legendary Creature — Avatar</type>
+ <pt>6/6</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Passivity, Ever-Waiting</reverse-related>
+ <set num="LIP11" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP11.jpg?v=20260431" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Knowledge, Ever-Grasping LIP</name>
+ <text>Prevent all combat damage that would be dealt by this creature while you have fewer than eight cards in hand.</text>
+ <colors>U</colors>
+ <type>Token Legendary Creature — Octopus Avatar</type>
+ <pt>8/8</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Uncertainty, Ever-Doubting</reverse-related>
+ <set num="LIP7" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP7.jpg?v=20260431" rarity="token">tokens</set>
+</card>
+<card>
+ <name>blue Horror 33LIP</name>
+ <text></text>
+ <colors>U</colors>
+ <type>Token Creature — Horror</type>
+ <pt>3/3</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Unnatural Acceptance</reverse-related>
+ <set num="LIP5" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP5.jpg?v=20260431" rarity="token">tokens</set>
 </card>
 <card>
  <name>colorless Construct 11MPS_MSE</name>
@@ -20809,6 +21349,8 @@ Whenever this creature attacks, scry 1.</text>
  <reverse-related count="2">Ameret, Pride of Cyrukan (SL92)</reverse-related>
  <reverse-related count="3">The Lost and Seeking (SL168)</reverse-related>
  <reverse-related count="3">Ameret, Shining and Proud (SL168)</reverse-related>
+ <reverse-related count="3">The Lost and Seeking (SL180)</reverse-related>
+ <reverse-related count="3">Ameret, Shining and Proud (SL180)</reverse-related>
  <set num="LAIR43" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR43.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -20913,6 +21455,17 @@ Whenever this creature attacks, scry 1.</text>
  <reverse-related count="2">Bant Command (SL57)</reverse-related>
  <reverse-related>Pact of the Moon (SL167)</reverse-related>
  <set num="LAIR37" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR37.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Far-Off Lands LAIR</name>
+ <text>{T}: Add one mana of any color.</text>
+ <colors></colors>
+ <type>Token Land</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Boundless Strider (SL179)</reverse-related>
+ <reverse-related count="2">Little Pig (SL114)</reverse-related>
+ <set num="LAIR73" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR73.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>blue Otter 11LAIR</name>
@@ -21320,16 +21873,6 @@ Enchanted creature gets +1/+0 and can't be blocked by creatures with power 3 or 
  <set num="LAIR66" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR66.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
- <name>Far-Off Lands LAIR</name>
- <text>{T}: Add one mana of any color.</text>
- <colors></colors>
- <type>Token Land</type>
- <token>1</token>
- <tablerow>0</tablerow>
- <reverse-related count="2">Little Pig (SL114)</reverse-related>
- <set num="LAIR73" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR73.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
  <name>green Crocodile 32LAIR</name>
  <text>Trample</text>
  <colors>G</colors>
@@ -21587,7 +22130,7 @@ Enchanted creature gets +1/+0 and can't be blocked by creatures with power 3 or 
 </card>
 <card>
  <name>Mountain Forest LAIR</name>
- <text></text>
+ <text>({T}: Add {R} or {G}.)</text>
  <colors></colors>
  <type>Token Land — Mountain Forest</type>
  <token>1</token>
@@ -21596,7 +22139,7 @@ Enchanted creature gets +1/+0 and can't be blocked by creatures with power 3 or 
  <reverse-related>Shiftscape Grove (SL173)</reverse-related>
  <reverse-related>Tend to the Grove (SL29)</reverse-related>
  <reverse-related>Tend to the Grove (SL142)</reverse-related>
- <set num="LAIR101" muid="20260101" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR101.jpg?v=20260101" rarity="token">tokens</set>
+ <set num="LAIR33" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR33.jpg?v=20260431" rarity="token">tokens</set>
 </card>
 <card>
  <name>Swamp Forest LAIR</name>
@@ -21769,6 +22312,15 @@ Enchanted creature has first strike.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <set num="PAX2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/PAX2.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Awe AEK</name>
+ <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+ <colors></colors>
+ <type>Token Enchantment — Awe</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK1" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK1.jpg?v=20260421" rarity="token">tokens</set>
 </card>
 <card>
  <name>Battle MC25</name>
@@ -21967,6 +22519,16 @@ Enchanted land has “{T}: Add {G}{G}.”</text>
  <set num="MSEMAR10" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSEMAR10.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Concentrate AEK</name>
+ <text>(This is conjured and isn't otherwise legal.)
+Draw three cards.</text>
+ <colors>U</colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK273" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK273.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
  <name>colorless Construct 11MPS_MSE 2</name>
  <text></text>
  <colors></colors>
@@ -22034,46 +22596,6 @@ Enchanted land has “{T}: Add {G}{G}.”</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <set num="MSC2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC2.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Cultivating Spheres DOA</name>
- <text>At the beginning of your draw step, draw an additional card.
-You may play an additional land on each of your turns.</text>
- <colors></colors>
- <type>Token Artifact — Masterpiece</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <set num="DOA2" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/DOA2.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Cultivating Spheres MS3</name>
- <text>At the beginning of your draw step, draw an additional card.
-You may play an additional land on each of your turns.</text>
- <colors></colors>
- <type>Token Artifact — Masterpiece</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <set num="MS335" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS335.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Cultivating Spheres MSC</name>
- <text>At the beginning of your draw step, draw an additional card.
-You may play an additional land on each of your turns.</text>
- <colors></colors>
- <type>Token Artifact — Masterpiece</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <set num="MSC90" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC90.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Cultivating Spheres MC25</name>
- <text>At the beginning of your draw step, draw an additional card.
-You may play an additional land on each of your turns.</text>
- <colors></colors>
- <type>Token Artifact — Masterpiece</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <set num="MC2560" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2560.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Data-Point (SL143)</name>
@@ -22165,6 +22687,16 @@ You may play an additional land on each of your turns.</text>
  <set num="OTH28" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/OTH28.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Demonic Tutor AEK</name>
+ <text>(This is conjured by Talent Recruiter and isn't otherwise legal.)
+Search your library for a card, put that card into your hand, then shuffle.</text>
+ <colors>B</colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK278" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK278.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
  <name>Desert (SL134)</name>
  <text>{T}: Add {C}.</text>
  <colors></colors>
@@ -22182,6 +22714,26 @@ You may play an additional land on each of your turns.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <set num="INM9" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/INM9.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Disenchant AEK</name>
+ <text>(This is conjured by Luminescent Vision and isn't otherwise legal.)
+Destroy target artifact or enchantment.</text>
+ <colors>W</colors>
+ <type>Instant</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK270" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK270.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Doublecast AEK</name>
+ <text>(This is conjured by Viktoria, the Heartline and isn't otherwise legal.)
+When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.</text>
+ <colors>R</colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK282" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK282.jpg?v=20260421" rarity="token">tokens</set>
 </card>
 <card>
  <name>red Dragon 44LAIR</name>
@@ -22202,6 +22754,17 @@ You may play an additional land on each of your turns.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <set num="MSC49" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC49.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Drain AEK</name>
+ <text>(This is conjured and isn't otherwise legal.)
+Each opponent loses 1 life.
+You gain 1 life.</text>
+ <colors>B</colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK279" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK279.jpg?v=20260421" rarity="token">tokens</set>
 </card>
 <card>
  <name>Dream Halls KXP</name>
@@ -22459,6 +23022,16 @@ Prowess</text>
  <set num="MPS_MSE26" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MPS_MSE26.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Empower AEK</name>
+ <text>(This is conjured and isn't otherwise legal.)
+Put a +1/+1 counter on target creature.</text>
+ <colors></colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK267" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK267.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
  <name>Empower Function HQZ</name>
  <text>Put a +1/+1 counter on a creature you control.</text>
  <colors></colors>
@@ -22678,6 +23251,16 @@ If this spell would create one or more tokens, it creates twice that many of tho
  <set num="TOJ12" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/TOJ12.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>colorless Knife Equipment AEK</name>
+ <text>Equipped creature gets +1/+1.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+ <colors></colors>
+ <type>Token Artifact — Knife Equipment</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK13" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK13.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
  <name>colorless Knight 22SWR</name>
  <text>(This token is red, white, and black.)
 Haste</text>
@@ -22730,43 +23313,6 @@ Whenever a nontoken creature you control enters, if it shares a name with one or
  <related persistent="persistent">Meadow Songstress</related>
  <related persistent="persistent">Meadow Songstress</related>
  <set num="1018" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/1018.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Mirror of Possibilities DOA</name>
- <text>Whenever you cast a spell, you may pay {3}. If you do, copy it. You may choose new targets for the copy.</text>
- <colors></colors>
- <type>Token Artifact — Masterpiece</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <set num="DOA5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/DOA5.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Mirror of Possibilities MS3</name>
- <text>Whenever you cast a spell, you may pay {3}. If you do, copy it. You may choose new targets for the copy.</text>
- <colors></colors>
- <type>Token Artifact — Masterpiece</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <set num="MS341" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS341.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Mirror of Possibilities MSC</name>
- <text>Whenever you cast a spell, you may pay {3}. If you do, copy it. You may choose new targets for the copy.</text>
- <colors></colors>
- <type>Token Artifact — Masterpiece</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <set num="MSC93" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC93.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Mirror of Possibilities MC25</name>
- <text>Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy it. You may choose new targets for the copy.
-Whenever a nontoken creature you control enters, you may pay {3}. If you do, create a token that's a copy of it.</text>
- <colors></colors>
- <type>Token Artifact — Masterpiece</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <set num="MC2564" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2564.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>revived Moeru Thunderers TOJ</name>
@@ -22864,6 +23410,16 @@ Equip {1}</text>
  <set num="MSC95" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC95.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Night's Whisper AEK</name>
+ <text>(This is conjured and isn't otherwise legal.)
+You draw two cards and lose 2 life.</text>
+ <colors>B</colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK280" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK280.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
  <name>Oath of Secrets TPW</name>
  <text>Enchant creature
 Whenever you attack with enchanted creature and at least two other creatures, draw a card, sacrifice this Aura, and fulfill this Oath.</text>
@@ -22927,6 +23483,16 @@ Whenever enchanted creature deals combat damage to a player, create a 2/1 white 
  <token>1</token>
  <tablerow>1</tablerow>
  <set num="ONO22" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ONO22.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Overrun AEK</name>
+ <text>(This is conjured by Idyllic Vision and isn't otherwise legal.)
+Creatures you control get +3/+3 and gain trample until end of turn.</text>
+ <colors>G</colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK286" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK286.jpg?v=20260421" rarity="token">tokens</set>
 </card>
 <card>
  <name>colorless Phyrexian 11SOR 2</name>
@@ -23112,6 +23678,26 @@ Whenever enchanted creature deals combat damage to a player, create a 2/1 white 
  <set num="MSEMAR5" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSEMAR5.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Redemption AEK</name>
+ <text>(This is conjured by Villainous Vision and isn't otherwise legal.)
+Return target creature card from your graveyard to the battlefield.</text>
+ <colors>B</colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK281" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK281.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Repose AEK</name>
+ <text>(This is conjured and isn't otherwise legal.)
+Draw a card.</text>
+ <colors></colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK268" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK268.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
  <name>Repurpose Function BTB</name>
  <text>(Sacrifice this as you cast an instant or sorcery to add the following effect to that spell.)
 If you cast this spell from your hand, exile it. You may cast it from exile until the end of your next turn.</text>
@@ -23132,6 +23718,16 @@ If you cast this spell from your hand, exile it. You may cast it from exile unti
  <set num="SUR11" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SUR11.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Rising Flames AEK</name>
+ <text>(This is conjured and isn't otherwise legal.)
+Rising Flames deals X damage to each opponent, where X is 2 plus the number of cards named Rising Flames in your graveyard.</text>
+ <colors>R</colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK283" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK283.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
  <name>green Saproling 11ETF</name>
  <text></text>
  <colors>G</colors>
@@ -23149,7 +23745,7 @@ If you cast this spell from your hand, exile it. You may cast it from exile unti
  <pt>2/2</pt>
  <token>1</token>
  <tablerow>2</tablerow>
- <set num="LAIR34" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR34.jpg?v=0" rarity="token">tokens</set>
+ <set num="LAIR34" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR34.jpg?v=20260431" rarity="token">tokens</set>
 </card>
 <card>
  <name>Scorch MSC</name>
@@ -23250,6 +23846,16 @@ Enchanted creature has base power and toughness 2/3, has vigilance, and is a Sco
  <set num="LAIR95" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR95.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Secret Rendezvous AEK</name>
+ <text>(This is conjured by Naoko, Onigaiko Transfer and isn't otherwise legal.)
+You and target opponent each draw three cards.</text>
+ <colors>W</colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK271" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK271.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
  <name>Senaturian Legion Reminder OTH</name>
  <text>Senaturian Legion gets +1/+1 for each other creature on the battlefield named Senaturian Legion.
 A deck can have any number of cards named Senaturian Legion.</text>
@@ -23279,6 +23885,16 @@ A deck can have any number of cards named Senaturian Legion.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <set num="LAIR78" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR78.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Silver Kitsune AEK</name>
+ <text>(This is conjured by Luminescent Vision and isn't otherwise legal.)</text>
+ <colors>W</colors>
+ <type>Creature — Fox</type>
+ <pt>2/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="AEK272" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK272.jpg?v=20260421" rarity="token">tokens</set>
 </card>
 <card>
  <name>black Skeleton Army 00TPW</name>
@@ -23330,6 +23946,17 @@ A deck can have any number of cards named Senaturian Legion.</text>
  <set num="MSEMAR13" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSEMAR13.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Storm Crow AEK</name>
+ <text>(This is conjured by Birdbrained and isn't otherwise legal.)
+Flying</text>
+ <colors>U</colors>
+ <type>Creature — Bird</type>
+ <pt>1/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="AEK274" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK274.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
  <name>Swamp MSJ</name>
  <text>({T}: Add {B}.)</text>
  <colors></colors>
@@ -23367,24 +23994,14 @@ A deck can have any number of cards named Senaturian Legion.</text>
  <set num="MPS_MSE10" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MPS_MSE10.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
- <name>Thrice-Folded Lotus MS3</name>
- <text>{T}: Add three mana of any one color.
-{3}, {T}: Thrice-Folded Lotus deals 3 damage to any target.</text>
- <colors></colors>
- <type>Token Artifact — Masterpiece</type>
+ <name>Thoughts AEK</name>
+ <text>(This is conjured and isn't otherwise legal.)
+Draw a card.</text>
+ <colors>U</colors>
+ <type>Instant</type>
  <token>1</token>
  <tablerow>1</tablerow>
- <set num="MS346" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MS346.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>Thrice-Folded Lotus MSC</name>
- <text>{T}: Add three mana of any one color.
-{3}, {T}: Thrice-Folded Lotus deals 3 damage to any target.</text>
- <colors></colors>
- <type>Token Artifact — Masterpiece</type>
- <token>1</token>
- <tablerow>1</tablerow>
- <set num="MSC99" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSC99.jpg?v=0" rarity="token">tokens</set>
+ <set num="AEK275" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK275.jpg?v=20260421" rarity="token">tokens</set>
 </card>
 <card>
  <name>Time Walk BTB</name>
@@ -23405,6 +24022,16 @@ Take an extra turn after this one.</text>
  <token>1</token>
  <tablerow>1</tablerow>
  <set num="MC2583" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2583.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Time Walk AEK</name>
+ <text>(This is conjured by Wandering Halovian and isn't otherwise legal.)
+Take an extra turn after this one.</text>
+ <colors>U</colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK276" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK276.jpg?v=20260421" rarity="token">tokens</set>
 </card>
 <card>
  <name>Timetwister BTB</name>
@@ -23535,6 +24162,16 @@ Vasille Rioters gets +1/+1 for each riot counter you have.</text>
  <set num="HZN13" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/HZN13.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Virtual Avatar AEK</name>
+ <text>(This is conjured and isn't otherwise legal.)</text>
+ <colors></colors>
+ <type>Enchantment Creature — Avatar</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="AEK269" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK269.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
  <name>Voidtouched Nightblade OTH</name>
  <text>Voidtouched Nightblade can't block.</text>
  <colors>B</colors>
@@ -23543,6 +24180,28 @@ Vasille Rioters gets +1/+1 for each riot counter you have.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <set num="OTH34" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/OTH34.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Volcanic Dragon AEK</name>
+ <text>(This is conjured by Resplendent Vision and isn't otherwise legal.)
+Flying, haste</text>
+ <colors>R</colors>
+ <type>Creature — Dragon</type>
+ <pt>4/4</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="AEK284" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK284.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Voyager AEK</name>
+ <text>(This is conjured by Inspiring Vision and isn't otherwise legal.)
+Prowess</text>
+ <colors>U</colors>
+ <type>Creature — Scout</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="AEK277" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK277.jpg?v=20260421" rarity="token">tokens</set>
 </card>
 <card>
  <name>Wandering Souls Reminder 101</name>
@@ -23625,6 +24284,16 @@ Enchanted creature has base power and toughness 3/2, has trample, and is a Warri
  <set num="LAIR96" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR96.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>Wheel of Fortune AEK</name>
+ <text>(This is conjured by Enigmatic Highroller and isn't otherwise legal.)
+Each player discards their hand, then draws seven cards.</text>
+ <colors>R</colors>
+ <type>Sorcery</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="AEK285" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK285.jpg?v=20260421" rarity="token">tokens</set>
+</card>
+<card>
  <name>White Mana MSEMAR</name>
  <text>(Use this to track {W} in your pool.)</text>
  <colors>W</colors>
@@ -23642,15 +24311,6 @@ Enchanted creature has base power and toughness 3/2, has trample, and is a Warri
  <token>1</token>
  <tablerow>2</tablerow>
  <set num="GNJ18" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/GNJ18.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>black Zombie G5L</name>
- <text></text>
- <colors>B</colors>
- <type>Token Creature — Zombie</type>
- <token>1</token>
- <tablerow>2</tablerow>
- <set num="G5L6" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/G5L6.jpg?v=0" rarity="token">tokens</set>
 </card>
 </cards>
 </cockatrice_carddatabase>

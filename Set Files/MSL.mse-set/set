@@ -1217,7 +1217,7 @@ card:
 	notes:
 		!GU Ramp
 		!FT:Nix
-		
+
 	time_created: 2023-10-30 09:39:52
 	time_modified: 2026-04-30 12:34:31
 	name: Primal Resurgence
@@ -6630,7 +6630,7 @@ card:
 	has_styling: false
 	notes:
 		!Generic
-		
+
 	time_created: 2023-11-25 16:12:31
 	time_modified: 2026-04-21 23:51:53
 	name: Field Tender
@@ -7128,7 +7128,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !design Emily
+	notes: !design Queen Emily
 	time_created: 2023-08-05 10:15:21
 	time_modified: 2024-06-27 18:26:15
 	name: Observer of Aeons
@@ -10819,8 +10819,8 @@ card:
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		Create two 1/1 white Human creature tokens.
-		Put a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on target creature you control. It becomes a legendary God in addition to its other types.
-		Exile target creature an opponent controls that’s a God or that has power 4 or greater.
+		I — Put a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on target creature you control. It becomes a legendary God in addition to its other types.
+		II — Exile target creature an opponent controls that’s a God or that has power 4 or greater.
 
 card:
 	stylesheet: m15-mainframe-tokens
@@ -11176,9 +11176,10 @@ card:
 		overlay: 
 	notes:
 		Survivor Round 10
+		!update
 		!replacetoken LittleNitz;1;
 	time_created: 2023-12-11 10:45:14
-	time_modified: 2023-12-31 14:28:06
+	time_modified: 2026-05-31 00:58:39
 	name: Nitz, Globetrotting Knight
 	casting_cost: 1GW
 	image: image430
@@ -11196,7 +11197,7 @@ card:
 	power: 2
 	toughness: 3
 	illustrator: Diane ÖZDAMAR
-	card_code_text: QueenEmily
+	card_code_text: Queen Emily
 	card_code_text_2: QueenEmily
 	card_code_text_3: QueenEmily
 	copyright: 
@@ -11249,9 +11250,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Survivor Round 9
+	notes:
+		Survivor Round 9
+		!update
 	time_created: 2023-12-11 10:45:14
-	time_modified: 2024-01-01 21:46:39
+	time_modified: 2026-05-31 00:58:33
 	name: Ivier, Soul of the Woods
 	casting_cost: 2BRG
 	image: image431
@@ -11266,7 +11269,7 @@ card:
 	power: 5
 	toughness: 4
 	illustrator: Anato Finnstark
-	card_code_text: QueenEmily
+	card_code_text: Queen Emily
 	card_code_text_2: QueenEmily
 	card_code_text_3: QueenEmily
 	copyright: 
@@ -11284,9 +11287,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Survivor Round 7
+	notes:
+		Survivor Round 7
+		!update
 	time_created: 2023-12-11 10:45:14
-	time_modified: 2023-12-30 23:46:40
+	time_modified: 2026-05-31 00:58:50
 	name: Pyre Charm
 	casting_cost: RG
 	image: image429
@@ -11303,7 +11308,7 @@ card:
 		</li><li><bullet>• </bullet>Destroy target artifact.</li>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Leonardo Ambrosini
-	card_code_text: QueenEmily
+	card_code_text: Queen Emily
 	card_code_text_2: QueenEmily
 	card_code_text_3: QueenEmily
 	copyright: 
@@ -12347,7 +12352,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		!design Emily
+		!design Queen Emily
 		!bonus
 	time_created: 2023-12-13 19:11:55
 	time_modified: 2023-12-13 19:18:14
@@ -14695,7 +14700,7 @@ card:
 		<i-auto>(As this <kw-0><nospellcheck><key>Discovery</key></nospellcheck></kw-0> enters and after your draw step, add a progress counter. Stop after you’ve discovered.)</i-auto>
 		<kw-A><nospellcheck><key>Archive <param-number>6</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(As this enters, shuffle the top <param-number>six</param-number> cards of your main library into a new face up library. Sacrifice this after the archived library is empty.)</i-auto></atom-reminder-custom></kw-A>
 		Draw a card from each of your libraries.
-		Discovery — When you draw the last card from the archived library, create a 4/4 blue Sphinx Wizard creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		I, II, Discovery — When you draw the last card from the archived library, create a 4/4 blue Sphinx Wizard creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 
 card:
 	stylesheet: m15-saga
@@ -14743,8 +14748,8 @@ card:
 	special_text:
 		<i-auto>(As this <kw-0><nospellcheck><key>Discovery</key></nospellcheck></kw-0> enters and after your draw step, add a progress counter. Stop after you’ve discovered.)</i-auto>
 		Target creature or planeswalker you control <kw-0><nospellcheck><key>explores</key></nospellcheck></kw-0>.
-		You may play an additional land this turn.
-		Discovery — At the beginning of your upkeep, if you control seven or more differently named permanents, create a 1/1 Scout creature token that’s all colors.
+		I — You may play an additional land this turn.
+		II, Discovery — At the beginning of your upkeep, if you control seven or more differently named permanents, create a 1/1 Scout creature token that’s all colors.
 
 card:
 	has_styling: true

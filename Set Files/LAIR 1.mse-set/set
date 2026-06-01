@@ -2109,7 +2109,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL09)
-		
+
 	time_created: 2021-04-19 14:24:51
 	time_modified: 2026-04-22 00:05:45
 	name: Sights Beyond
@@ -4499,7 +4499,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL18b)
-		
+
 	time_created: 2021-04-26 12:30:49
 	time_modified: 2026-04-22 00:06:00
 	name: Sights Beyond
@@ -4972,7 +4972,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL18)
-		
+
 	time_created: 2021-03-08 13:25:20
 	time_modified: 2026-04-22 00:08:18
 	name: Sights Beyond
@@ -6759,6 +6759,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL24)
+		!update
 		Nothing holds me but the dead
 		yet I twist and turn in every head.
 		Upon my throne I offer wealth,
@@ -6787,7 +6788,7 @@ card:
 		Your answer, it is amiss
 		Perhaps this lair will be an abyss.
 	time_created: 2021-07-06 22:37:27
-	time_modified: 2024-08-30 08:26:32
+	time_modified: 2026-05-31 00:51:56
 	name: Unraveling
 	casting_cost: 1UU
 	image: image244
@@ -6809,9 +6810,10 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: Secrets of Revio — Emily
+	copyright: Secrets of Revio — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	stylesheet: m15-altered
@@ -6824,9 +6826,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL24)
+	notes:
+		!hidetag (SL24)
+		!update
 	time_created: 2021-06-30 12:24:42
-	time_modified: 2024-10-30 18:31:53
+	time_modified: 2026-05-31 00:49:30
 	name: Mastery of the Veil
 	casting_cost: 5BB
 	image: image245
@@ -6848,15 +6852,18 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Secrets of Revio — Emily
+	copyright: Secrets of Revio — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL24)
+	notes:
+		!hidetag (SL24)
+		!update
 	time_created: 2021-06-29 22:55:37
-	time_modified: 2021-08-25 17:28:04
+	time_modified: 2026-05-31 00:49:39
 	name: Memento Mori
 	casting_cost: BB
 	image: image246
@@ -6876,15 +6883,19 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Secrets of Revio — Emily
+	copyright: Secrets of Revio — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL24)
+	notes:
+		!hidetag (SL24)
+		!update
+
 	time_created: 2021-06-29 22:43:08
-	time_modified: 2025-10-28 01:37:14
+	time_modified: 2026-05-31 00:49:08
 	name: Flaming Point Technique
 	casting_cost: R
 	image: image247
@@ -6906,15 +6917,18 @@ card:
 	card_code_text: CanterburyEgg
 	card_code_text_2: Canterbury Egg
 	card_code_text_3: Canterbury Egg
-	copyright: Secrets of Revio — Emily
+	copyright: Secrets of Revio — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL24)
+	notes:
+		!hidetag (SL24)
+		!update
 	time_created: 2021-07-06 22:53:07
-	time_modified: 2021-07-23 22:16:18
+	time_modified: 2026-05-31 00:49:50
 	name: Meteor Fall
 	casting_cost: 3RR
 	image: image248
@@ -6934,9 +6948,10 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Secrets of Revio — Emily
+	copyright: Secrets of Revio — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	stylesheet: m15-altered
@@ -6949,9 +6964,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL24)
+	notes:
+		!hidetag (SL24)
+		!update
 	time_created: 2021-06-30 11:37:49
-	time_modified: 2021-07-23 22:16:22
+	time_modified: 2026-05-31 00:47:45
 	name: Crystal Wave
 	casting_cost: UBR
 	image: image249
@@ -6968,20 +6985,24 @@ card:
 		</li><li><bullet>• </bullet>Destroy target creature.
 		</li><li><bullet>• </bullet>Discard your hand, then draw two cards.</li>
 	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
 	illustrator: Hex Sharpe
 	custom_card_number: 175
 	card_code_text: HerziQuerzi
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
-	copyright: Secrets of Revio — Emily
+	copyright: Secrets of Revio — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL24)
+	notes:
+		!hidetag (SL24)
+		!update
 	time_created: 2021-06-30 12:10:37
-	time_modified: 2021-07-23 22:16:25
+	time_modified: 2026-05-31 00:48:04
 	name: Days of Decay
 	casting_cost: 2BG
 	image: image250
@@ -7003,9 +7024,10 @@ card:
 	card_code_text: HerziQuerzi
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
-	copyright: Secrets of Revio — Emily
+	copyright: Secrets of Revio — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
@@ -8286,11 +8308,12 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL29)
+		!update
 		!flavorsaga
 		I stand at the border of dream and reality, seeing that which was not, but could be. I should leave this place behind, but, perhaps, I will linger another moment more...
 		!prepend (As this Discovery enters and after your draw step, add a progress counter. Stop after you’ve discovered.)
 	time_created: 2021-08-09 10:44:23
-	time_modified: 2021-08-28 15:14:18
+	time_modified: 2026-05-31 00:51:12
 	name: Theocracy
 	casting_cost: 1WW
 	image: image275
@@ -8312,13 +8335,14 @@ card:
 	card_code_text: Matt
 	card_code_text_2: Matt
 	card_code_text_3: Matt
-	copyright: Artist Series: Rob Gonsalves — Emily
+	copyright: Artist Series: Rob Gonsalves — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 	special_text:
 		(As this Discovery enters and after your draw step, add a progress counter. Stop after you've discovered.)
-		Look at the top five cards of your library. Put up to one creature card with mana value 2 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
-		At the beginning of combat on your turn, tap target creature an opponent controls.
+		I, II — Look at the top five cards of your library. Put up to one creature card with mana value 2 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+		Discovery — At the beginning of combat on your turn, tap target creature an opponent controls.
 		​
 
 card:
@@ -8335,9 +8359,10 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL29)
+		!update
 		!append  (Exile the top three cards of your library face up. Whenever a creature you control deals combat damage to an opponent, put a journeyed card you own into your hand.)
 	time_created: 2021-08-09 10:13:43
-	time_modified: 2021-08-31 04:22:06
+	time_modified: 2026-05-31 00:47:34
 	name: Crossing the Fog
 	casting_cost: U
 	image: image276
@@ -8354,15 +8379,18 @@ card:
 	card_code_text: Zeu
 	card_code_text_2: Zeu
 	card_code_text_3: Zeu
-	copyright: Artist Series: Rob Gonsalves — Emily
+	copyright: Artist Series: Rob Gonsalves — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL29)
+	notes:
+		!hidetag (SL29)
+		!update
 	time_created: 2021-08-09 10:18:25
-	time_modified: 2023-07-31 17:54:26
+	time_modified: 2026-05-31 00:47:10
 	card_color: blue
 	name: Cosmic Sinkhole
 	casting_cost: XXU
@@ -8380,17 +8408,19 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Artist Series: Rob Gonsalves — Emily
+	copyright: Artist Series: Rob Gonsalves — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
 	notes:
 		!hidetag (SL29)
+		!update
 		!append  (Create a colorless Clue artifact token with “{2}, Sacrifice this artifact: Draw a card.”)
 	time_created: 2021-08-09 11:46:26
-	time_modified: 2024-08-24 06:51:20
+	time_modified: 2026-05-31 00:47:22
 	name: Crack Open the Cache
 	casting_cost: 1R
 	image: image278
@@ -8411,15 +8441,18 @@ card:
 	card_code_text: water the weeds
 	card_code_text_2: water the weeds
 	card_code_text_3: water the weeds
-	copyright: Artist Series: Rob Gonsalves — Emily
+	copyright: Artist Series: Rob Gonsalves — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL29)
+	notes:
+		!hidetag (SL29)
+		!update
 	time_created: 2021-08-09 10:30:27
-	time_modified: 2022-11-01 00:24:02
+	time_modified: 2026-05-31 00:46:07
 	name: Atlas of Worlds
 	casting_cost: 3G
 	image: image279
@@ -8438,15 +8471,18 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: Artist Series: Rob Gonsalves — Emily
+	copyright: Artist Series: Rob Gonsalves — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL29)
+	notes:
+		!hidetag (SL29)
+		!update
 	time_created: 2021-08-09 10:35:52
-	time_modified: 2024-08-30 21:50:49
+	time_modified: 2026-05-31 00:48:37
 	name: Farseek
 	casting_cost: 1G
 	image: image280
@@ -8463,15 +8499,18 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	copyright: Artist Series: Rob Gonsalves — Emily
+	copyright: Artist Series: Rob Gonsalves — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL29)
+	notes:
+		!hidetag (SL29)
+		!update
 	time_created: 2021-08-09 10:33:20
-	time_modified: 2025-12-01 17:27:07
+	time_modified: 2026-05-31 00:50:19
 	name: Oracle’s Vision
 	casting_cost: U/B
 	image: image281
@@ -8490,17 +8529,19 @@ card:
 	card_code_text: water the weeds
 	card_code_text_2: water the weeds
 	card_code_text_3: water the weeds
-	copyright: Artist Series: Rob Gonsalves — Emily
+	copyright: Artist Series: Rob Gonsalves — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
 	notes:
 		!hidetag (SL29)
+		!update
 		!script "s>l>/Spawn Mountain Forest/l>f>/spawn Mountain Forest LAIR/f>/s>","r"
 	time_created: 2021-08-09 10:37:45
-	time_modified: 2021-11-30 22:14:59
+	time_modified: 2026-05-31 00:51:01
 	name: Tend to the Grove
 	casting_cost: 1RG
 	image: image282
@@ -8519,9 +8560,10 @@ card:
 	card_code_text: Wrenn
 	card_code_text_2: Wrenn
 	card_code_text_3: Wrenn
-	copyright: Artist Series: Rob Gonsalves — Emily
+	copyright: Artist Series: Rob Gonsalves — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	stylesheet: m15-altered
@@ -9116,8 +9158,8 @@ card:
 	special_text:
 		<i-auto>(As you complete a condition, decode it. After all are decoded, you solve the mystery and transform this.)</i-auto>
 		When <atom-cardname><nospellcheck>Mystery of the Crashed Craft</nospellcheck></atom-cardname> enters, create two 1/1 red Alien creature tokens with “This creature can’t block.”
-		You cast an instant spell.
-		You cast a sorcery spell.
+		{mg} — You cast an instant spell.
+		{mg} — You cast a sorcery spell.
 
 card:
 	stylesheet: m15-altered
@@ -9328,9 +9370,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		center_text: always
 		overlay: 
-	notes: 
+	notes: !update
 	time_created: 2021-08-25 19:36:02
-	time_modified: 2021-08-28 18:39:09
+	time_modified: 2026-05-31 00:50:01
 	card_color: red, green, land, horizontal
 	name: Mountain Forest
 	image: image306
@@ -9346,9 +9388,10 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	copyright: Artist Series: Rob Gonsalves — Emily
+	copyright: Artist Series: Rob Gonsalves — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	stylesheet: m15-altered
@@ -9795,9 +9838,10 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL33)
+		!update
 		The orange sky above promises many things, thoughts of warmth and passion and fun, but also the lingering warning of doom.
 	time_created: 2021-09-22 16:57:34
-	time_modified: 2025-10-28 19:55:35
+	time_modified: 2026-05-31 00:49:19
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: Ar
@@ -9821,15 +9865,18 @@ card:
 	card_code_text: DrChillbrain
 	card_code_text_2: Chillbrain
 	card_code_text_3: Chillbrain
-	copyright: Artist Series: Artem Chebokha — Emily
+	copyright: Artist Series: Artem Chebokha — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL33)
+	notes:
+		!hidetag (SL33)
+		!update
 	time_created: 2021-09-22 17:26:20
-	time_modified: 2023-10-01 15:20:12
+	time_modified: 2026-05-31 00:50:08
 	name: Nimbus Glider
 	casting_cost: W
 	image: image319
@@ -9850,7 +9897,7 @@ card:
 	card_code_text: Alexander
 	card_code_text_2: Alexander
 	card_code_text_3: Alexander
-	copyright: <b>Artist Series: Artem Chebokha — Emily</b>
+	copyright: <b>Artist Series: Artem Chebokha — Queen Emily</b>
 	copyright_2: 
 	copyright_3: 
 
@@ -9864,9 +9911,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL33)
+	notes:
+		!hidetag (SL33)
+		!update
 	time_created: 2021-09-22 17:13:39
-	time_modified: 2021-09-26 15:45:52
+	time_modified: 2026-05-31 00:52:06
 	name: Waxing Angel
 	casting_cost: W
 	image: image320
@@ -9889,7 +9938,7 @@ card:
 	card_code_text: elmikkino
 	card_code_text_2: elmikkino
 	card_code_text_3: elmikkino
-	copyright: Artist Series: Artem Chebokha — Emily
+	copyright: Artist Series: Artem Chebokha — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -9904,9 +9953,11 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		center_text: always
 		overlay: 
-	notes: !hidetag (SL33)
+	notes:
+		!hidetag (SL33)
+		!update
 	time_created: 2021-09-22 17:07:18
-	time_modified: 2021-09-26 15:45:56
+	time_modified: 2026-05-31 00:50:44
 	name: Seeker of Mysteries
 	casting_cost: U
 	image: image321
@@ -9925,7 +9976,7 @@ card:
 	card_code_text: Timespiraled
 	card_code_text_2: Timespiraled
 	card_code_text_3: Timespiraled
-	copyright: Artist Series: Artem Chebokha — Emily
+	copyright: Artist Series: Artem Chebokha — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -9935,9 +9986,10 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL33)
+		!update
 		!inpend [{]Vp?[}]/replace/★
 	time_created: 2018-03-07 04:24:45
-	time_modified: 2025-10-28 20:29:57
+	time_modified: 2026-05-31 00:46:30
 	name: Bloodstained Calamity
 	casting_cost: XRR
 	image: image322
@@ -9957,18 +10009,21 @@ card:
 	toughness: 
 	illustrator: Artem Chebokha
 	custom_card_number: 251
-	card_code_text: Emily
+	card_code_text: Queen Emily
 	card_code_text_2: Queen Emily
 	card_code_text_3: Queen Emily
-	copyright: Artist Series: Artem Chebokha — Emily
+	copyright: Artist Series: Artem Chebokha — Queen Emily
 	copyright_2: 
 	copyright_3: 
+	secondary_copyright: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL33)
+	notes:
+		!hidetag (SL33)
+		!update
 	time_created: 2021-09-22 17:40:38
-	time_modified: 2021-09-26 15:46:04
+	time_modified: 2026-05-31 00:46:55
 	name: Conflux Ravager
 	casting_cost: WUBRG
 	image: image323
@@ -9989,15 +10044,17 @@ card:
 	card_code_text: Mako
 	card_code_text_2: Mako
 	card_code_text_3: Mako
-	copyright: Artist Series: Artem Chebokha — Emily
+	copyright: Artist Series: Artem Chebokha — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL33)
+	notes:
+		!hidetag (SL33)
+		!update
 	time_created: 2021-09-22 17:17:07
-	time_modified: 2021-09-26 15:46:09
+	time_modified: 2026-05-31 00:50:30
 	name: Scion of Fecundity
 	casting_cost: 1GW
 	image: image324
@@ -10018,7 +10075,7 @@ card:
 	card_code_text: FifthDragon
 	card_code_text_2: FifthDragon
 	card_code_text_3: FifthDragon
-	copyright: Artist Series: Artem Chebokha — Emily
+	copyright: Artist Series: Artem Chebokha — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -10034,8 +10091,9 @@ card:
 	notes:
 		!hidetag (SL33)
 		!revivetoken
+		!update
 	time_created: 2021-09-22 17:17:07
-	time_modified: 2022-06-11 15:18:37
+	time_modified: 2026-05-31 00:50:37
 	card_color: white, green, hybrid, horizontal
 	name: Scion of Fecundity
 	casting_cost: 
@@ -10055,7 +10113,7 @@ card:
 	card_code_text: FifthDragon
 	card_code_text_2: FifthDragon
 	card_code_text_3: FifthDragon
-	copyright: Artist Series: Artem Chebokha — Emily
+	copyright: Artist Series: Artem Chebokha — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -10069,10 +10127,11 @@ card:
 	notes:
 		!num 254
 		!hidetag (SL34)
-		!design Emily
+		!update
+		!design Queen Emily
 		All Hallows Eve is upon us, and soon, that was once dead will rise amongst the living once again
 	time_created: 2021-10-17 16:58:28
-	time_modified: 2024-01-01 23:30:50
+	time_modified: 2026-05-31 00:45:26
 	name: Admonish
 	casting_cost: 1W
 	image: image337
@@ -10093,7 +10152,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	copyright: Emily                                        Artist Series: Remedios Varo — Chumbeque
+	copyright: Queen Emily                                        Artist Series: Remedios Varo — Chumbeque
 	copyright_2: 
 	copyright_3: 
 
@@ -10984,11 +11043,12 @@ card:
 	notes:
 		!hidetag (SL37)
 		!num 279
+		!update
 		You're walking through the grass on a nice day, when all of a sudden, music begins to play. You look around as the music gains intensity. Your head spins and only one thought remains...
 		Wild Secret Lair appeared!
 		!inpend Experience/add/ (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)
 	time_created: 2021-10-23 17:15:09
-	time_modified: 2021-11-06 01:52:18
+	time_modified: 2026-05-31 00:46:45
 	card_color_2: green
 	name: Budding Companion
 	name_2: Flourishing Companion
@@ -11020,8 +11080,8 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: I Choose You — Emily
-	copyright_2: I Choose You — Emily
+	copyright: I Choose You — Queen Emily
+	copyright_2: I Choose You — Queen Emily
 	copyright_3: 
 
 card:
@@ -11039,10 +11099,11 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL37)
+		!update
 		!num 280
 		!inpend Experience/add/ (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)
 	time_created: 2021-10-23 17:37:08
-	time_modified: 2021-10-31 21:55:09
+	time_modified: 2026-05-31 00:48:51
 	card_color_2: red
 	name: Flame-Tailed Lizard
 	name_2: Flame-Tested Dragon
@@ -11074,8 +11135,8 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: I Choose You — Emily
-	copyright_2: I Choose You — Emily
+	copyright: I Choose You — Queen Emily
+	copyright_2: I Choose You — Queen Emily
 	copyright_3: 
 
 card:
@@ -11093,10 +11154,11 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL37)
+		!update
 		!num 281
 		!inpend Experience/add/ (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)
 	time_created: 2021-10-23 17:42:36
-	time_modified: 2021-10-31 21:55:15
+	time_modified: 2026-05-31 00:51:28
 	card_color_2: blue
 	name: Tidepool Turtle
 	name_2: Tsunami Titan
@@ -11128,8 +11190,8 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: I Choose You — Emily
-	copyright_2: I Choose You — Emily
+	copyright: I Choose You — Queen Emily
+	copyright_2: I Choose You — Queen Emily
 	copyright_3: 
 
 card:
@@ -11144,9 +11206,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL37)
+	notes:
+		!hidetag (SL37)
+		!update
 	time_created: 2021-10-23 22:32:46
-	time_modified: 2021-10-31 21:55:31
+	time_modified: 2026-05-31 00:50:24
 	name: Rapid Rodent
 	casting_cost: 2R
 	image: image357
@@ -11167,7 +11231,7 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: I Choose You — Emily
+	copyright: I Choose You — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -11186,10 +11250,11 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL37)
+		!update
 		!num 283
 		!inpend Experience/add/ (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)
 	time_created: 2021-10-23 17:53:18
-	time_modified: 2021-10-31 22:10:20
+	time_modified: 2026-05-31 00:52:17
 	extra_data:
 		magic-m15-mainframe-dfc:
 			back_type_hint: At the time of birth, it has just one tail. Its tail splits from the tip as it grows older.
@@ -11222,8 +11287,8 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: I Choose You — Emily
-	copyright_2: I Choose You — Emily
+	copyright: I Choose You — Queen Emily
+	copyright_2: I Choose You — Queen Emily
 	copyright_3: 
 
 card:
@@ -11238,9 +11303,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL37)
+	notes:
+		!hidetag (SL37)
+		!update
 	time_created: 2021-10-23 22:29:51
-	time_modified: 2021-11-05 23:39:10
+	time_modified: 2026-05-31 00:50:51
 	name: Silent Hypnotist
 	casting_cost: WU
 	image: image360
@@ -11262,7 +11329,7 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: I Choose You — Emily
+	copyright: I Choose You — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -11270,9 +11337,11 @@ card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-01-23
 	has_styling: false
-	notes: !hidetag (SL37)
+	notes:
+		!hidetag (SL37)
+		!update
 	time_created: 2021-10-23 17:49:30
-	time_modified: 2021-10-31 21:56:15
+	time_modified: 2026-05-31 00:51:19
 	name: Thundermane Fox
 	casting_cost: 1WW
 	image: image361
@@ -11293,7 +11362,7 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: I Choose You — Emily
+	copyright: I Choose You — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -11311,10 +11380,11 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL37)
+		!update
 		!num 286
 		!inpend Experience/add/ (Whenever this creature attacks, if it has fewer than three +1/+1 counters on it, put a +1/+1 counter on it.)
 	time_created: 2021-10-23 22:19:09
-	time_modified: 2021-10-31 21:56:54
+	time_modified: 2026-05-31 00:48:19
 	extra_data:
 		magic-m15-mainframe-dfc:
 			front_color_hint: Rarely seen in the wild. Huge and vicious, it is capable of destroying entire cities in a ra
@@ -11349,8 +11419,8 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: 
 	card_code_text_3: Cajun
-	copyright: I Choose You — Emily
-	copyright_2: I Choose You — Emily
+	copyright: I Choose You — Queen Emily
+	copyright_2: I Choose You — Queen Emily
 	copyright_3: 
 
 card:
@@ -11365,9 +11435,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL37)
+	notes:
+		!hidetag (SL37)
+		!update
 	time_created: 2021-10-23 17:58:00
-	time_modified: 2021-10-31 22:22:42
+	time_modified: 2026-05-31 00:51:36
 	name: Tyrant of Tributes
 	casting_cost: 6RG
 	image: image367
@@ -11388,15 +11460,17 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: I Choose You — Emily
+	copyright: I Choose You — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL37)
+	notes:
+		!hidetag (SL37)
+		!update
 	time_created: 2021-10-23 22:25:56
-	time_modified: 2021-10-31 21:53:02
+	time_modified: 2026-05-31 00:48:27
 	name: End of Monsters
 	casting_cost: 3UUU
 	image: image368
@@ -11417,7 +11491,7 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: I Choose You — Emily
+	copyright: I Choose You — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -11582,9 +11656,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL38)
+	notes:
+		!hidetag (SL38)
+		!update
 	time_created: 2021-11-17 17:46:39
-	time_modified: 2022-05-08 14:55:48
+	time_modified: 2026-05-31 00:51:51
 	name: Voidbringer
 	casting_cost: 2B
 	image: image372
@@ -11603,7 +11679,7 @@ card:
 	card_code_text: Emily
 	card_code_text_2: Emily
 	card_code_text_3: Emily
-	copyright: Secret Lair: Hades — Wrenn
+	copyright: Secret Lair: Hades — Queen Wrenn
 	copyright_2: 
 	copyright_3: 
 
@@ -15035,7 +15111,7 @@ card:
 	notes:
 		!hidetag (SL49)
 		!design Reuben
-		
+
 	time_created: 2022-01-27 09:52:06
 	time_modified: 2026-04-22 14:49:09
 	name: Starved Oasis
@@ -15330,9 +15406,11 @@ card:
 		text_box_mana_symbols: magic-mana-small-strixhaven.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-small-strixhaven.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL50)
+	notes:
+		!hidetag (SL50)
+		!update
 	time_created: 2021-10-01 22:37:58
-	time_modified: 2024-08-30 08:01:48
+	time_modified: 2026-05-31 00:52:36
 	name: Fiery Burst
 	casting_cost: 3R
 	image: image481
@@ -15350,7 +15428,7 @@ card:
 		—</i>The <error-spelling:en_US>Grimoire</error-spelling:en_US> of Marisa<i></soft-line></i-flavor>
 	illustrator: sunyup
 	custom_card_number: 392
-	card_code_text: Emily
+	card_code_text: Queen Emily
 	card_code_text_2: Emily
 	card_code_text_3: Emily
 	copyright: Gensokyo Greats — RickyRister & ThomasG

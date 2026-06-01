@@ -3086,8 +3086,9 @@ card:
 	notes:
 		!tag Alkabah
 		!tag GolnaRule
+		!update
 	time_created: 2025-11-03 12:05:38
-	time_modified: 2025-12-11 14:35:07
+	time_modified: 2026-05-31 01:02:43
 	name: Marjavar Tideseer
 	casting_cost: WWUU
 	image: image195.png
@@ -3106,7 +3107,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
 		Whenever you scry, put a +1/+1 counter on <atom-cardname><nospellcheck>Marjavar Tideseer</nospellcheck></atom-cardname> and up to one target creature.
-	flavor_text: <i-flavor>“The tides carry yesterday’s <error-spelling:en_US>wreackage</error-spelling:en_US> and tomorrow’s warnings. I must listen to both if we are to survive.”</i-flavor>
+	flavor_text: <i-flavor>“The tides carry yesterday’s wreckage and tomorrow’s warnings. I must listen to both if we are to survive.”</i-flavor>
 	power: 4
 	toughness: 4
 	illustrator: Beatrice Pelagatti
@@ -7194,7 +7195,7 @@ card:
 	notes:
 		!tag Alkabah
 		!tag GolnaRule
-		
+
 	time_created: 2025-11-03 12:45:17
 	time_modified: 2026-04-22 14:51:18
 	card_color: land
@@ -7257,7 +7258,6 @@ card:
 	notes:
 		!tag Alkabah
 		!tag GolnaRule
-
 	time_created: 2025-11-03 12:45:17
 	time_modified: 2026-03-04 17:36:37
 	card_color: land
@@ -10685,9 +10685,9 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2025-12-24 03:19:15
-	time_modified: 2026-01-30 21:03:22
+	time_modified: 2026-05-31 01:03:11
 	card_color: black
 	name: Zombie
 	image: image304.png
@@ -10702,6 +10702,8 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	sub_type_4: 
+	power: 2
+	toughness: 2
 	illustrator: VLX Revenko
 	card_code_text: 
 	card_code_text_2: 

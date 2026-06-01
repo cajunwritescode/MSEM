@@ -2641,9 +2641,9 @@ card:
 	has_styling: false
 	notes:
 		1/2
-		firework
+		firework !update
 	time_created: 2025-04-03 09:37:34
-	time_modified: 2026-03-10 13:38:49
+	time_modified: 2026-05-31 00:13:57
 	card_color: green
 	name: Firework Reveler
 	casting_cost: G
@@ -2662,7 +2662,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-A><nospellcheck><key>Stardom <param-cost><sym-auto>WUBRG</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(Pay <param-cost><sym-auto>WUBRG</sym-auto></param-cost> to cast this as a legendary </b>4/4, or while it’s attacking to make it become a legendary 4/4.)</i-auto></atom-reminder-custom></kw-A>
-		As long as <atom-cardname><nospellcheck>Firework Reveler</nospellcheck></atom-cardname> is legendary, creatures you control get +4/+4.
+		As long as <atom-cardname><nospellcheck>Firework Reveler</nospellcheck></atom-cardname> is legendary, creatures you control get +2/+2.
 		<sym-auto>5</sym-auto>: <kw-A><nospellcheck><key>Sightsee</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Conjure the basic land of your choice into your hand.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
@@ -2736,10 +2736,10 @@ card:
 card:
 	has_styling: false
 	notes:
-		4
+		4 !update
 		sensation
 	time_created: 2025-04-03 09:37:34
-	time_modified: 2026-05-20 15:46:23
+	time_modified: 2026-05-31 00:16:34
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/Her
@@ -2757,7 +2757,7 @@ card:
 	rarity: rare
 	rule_text:
 		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Serin</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters with three +1/+1 counters on her.
-		</b>Creature cards in your hand and attacking creatures you control have <kw-0><nospellcheck><key>stardom <param-cost><sym-auto>2GU</sym-auto></param-cost></key></nospellcheck></kw-0>. <i-auto>(You may pay <sym-auto>2GU</sym-auto> to cast it as a legendary </sym>4/4<sym>, or while it’s attacking to make it become a legendary 4/4.)</i-auto>
+		</b>Creature cards in your hand and attacking creatures you control have <kw-0><nospellcheck><key>stardom <param-cost><sym-auto>3GU</sym-auto></param-cost></key></nospellcheck></kw-0>. <i-auto>(You may pay <sym-auto>3GU</sym-auto> to cast it as a legendary </sym>4/4<sym>, or while it’s attacking to make it become a legendary 4/4.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 0
 	toughness: 0
@@ -4078,9 +4078,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 1
+	notes: 1!update
 	time_created: 2025-01-01 01:02:08
-	time_modified: 2026-03-10 13:02:28
+	time_modified: 2026-05-31 00:16:11
 	name: Puddle Stomper
 	casting_cost: W
 	image: image152
@@ -4093,7 +4093,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: uncommon
-	rule_text: When <atom-cardname><nospellcheck>Puddle Stomper</nospellcheck></atom-cardname> enters, you may exile target artifact or enchantment an opponent controls with mana value 3 or less until <atom-cardname><nospellcheck>Puddle Stomper</nospellcheck></atom-cardname> leaves the battlefield.
+	rule_text: When <atom-cardname><nospellcheck>Puddle Stomper</nospellcheck></atom-cardname> enters, you may exile target artifact or enchantment an opponent controls with mana value 2 or less until <atom-cardname><nospellcheck>Puddle Stomper</nospellcheck></atom-cardname> leaves the battlefield.
 	flavor_text: <i-flavor><error-spelling:en_US>Splish</error-spelling:en_US>! Splash! Wham! The red <error-spelling:en_US>kaiju</error-spelling:en_US> smashes everything in its sight!</i-flavor>
 	power: 1
 	toughness: 1
@@ -4104,11 +4104,13 @@ card:
 
 card:
 	has_styling: false
-	notes: Oobe-like removal
+	notes:
+		Oobe-like removal
+		!update
 	time_created: 2025-04-03 09:37:34
-	time_modified: 2026-04-07 08:49:59
+	time_modified: 2026-05-31 00:13:03
 	name: Acrylic Run
-	casting_cost: 1W
+	casting_cost: 2W
 	image: image150.png
 	image_2: 
 	mainframe_image: 
@@ -4279,15 +4281,15 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2025-03-08 05:36:40
-	time_modified: 2026-05-20 15:46:05
+	time_modified: 2026-05-31 00:15:54
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: She/Her
 		magic-m15-altered-plus: vorthos_box: She/Her
 	name: Kyv, Sanguine Avante
-	casting_cost: BGU
+	casting_cost: 2WBG
 	image: image131.png
 	image_2: 
 	mainframe_image: 
@@ -4302,9 +4304,8 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<kw-0><nospellcheck><key>Ward—<param-cost>Pay 4 life</param-cost>.</key></nospellcheck></kw-0>
-		</b>Whenever you play or discard one or more God cards, target player draws that many cards and gains that much life.
-		Sacrifice another creature: Conjure a card named Polyp Pools into your hand. <i-auto>(It’s a kindred land with <kw-0><nospellcheck><key>changeling</key></nospellcheck></kw-0> and “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”)</i-auto>
+		</b>When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Kyv</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters, conjure two cards named Polyp Pools into your hand. <i-auto>(It’s a kindred land with <kw-0><nospellcheck><key>changeling</key></nospellcheck></kw-0> and “<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.”)</i-auto>
+		When <atom-legname><nospellcheck>Kyv</nospellcheck></atom-legname> attacks you may sacrifice a God. If you do, search your graveyard and/or library for a card and put it into your hand. If you searched your library this way, shuffle. <i-auto>(Changelings are Gods.)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
 	toughness: 4
@@ -6928,10 +6929,10 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
-		5
+		5 !update
 		!design Nix
 	time_created: 2024-08-20 11:34:14
-	time_modified: 2026-01-28 12:59:15
+	time_modified: 2026-05-31 00:17:39
 	extra_data:
 		magic-m15-altered-plus: vorthos_box: She/Her
 	card_color_2: blue, black, red, multicolor, horizontal
@@ -6960,7 +6961,7 @@ card:
 		Once during each of your turns, you may cast a copy of a creature spell from your graveyard by exiling that card in addition to its other costs. <i-auto>(It enters as a token.)</i-auto>
 	flavor_text: <i-flavor>“What is this growing sadness...”</i-flavor>
 	flavor_text_2: <i-flavor>“I should’ve known those unnecessary emotions were holding me back.”</i-flavor>
-	power: 3
+	power: 2
 	power_2: 5
 	toughness: 2
 	toughness_2: 5
@@ -7664,11 +7665,11 @@ card:
 		center_text: never
 		inverted_common_symbol: no
 		overlay: 
-	notes: 
+	notes: !update
 	time_created: 2025-03-08 18:41:02
-	time_modified: 2026-05-20 01:26:53
+	time_modified: 2026-05-31 00:31:33
 	name: All the Time in the World
-	casting_cost: 2UUU
+	casting_cost: 2U
 	image: image148
 	image_2: 
 	mainframe_image: 
@@ -7683,8 +7684,7 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		<atom-cardname><nospellcheck>All the Time in the World</nospellcheck></atom-cardname> can’t be countered.
-		Take an extra turn after this one. Opponents can’t cast spells or activate <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> abilities during that turn.
+		Shuffle your hand and graveyard into your library. Conjure seven cards named Thoughts into your hand. <i-auto>(It’s a <sym>U</sym> instant with “Draw a card.”)</i-auto>
 		Exile <atom-cardname><nospellcheck>All the Time in the World</nospellcheck></atom-cardname>.
 	flavor_text:
 		<i-flavor>“...and it’s still not enough.”<soft-line>
@@ -8694,9 +8694,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2025-09-26 23:37:10
-	time_modified: 2025-09-28 01:19:00
+	time_modified: 2026-05-31 13:51:46
 	name: Victim of Boredom
 	casting_cost: W
 	image: image112.png
@@ -8712,7 +8712,7 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: Other permanents enter tapped.
+	rule_text: Other creatures enter tapped.
 	flavor_text: <i-flavor>“Come outside, they said. It’ll be<soft-line> fun, they said. <soft-line>But I have a cat on my lap. And I’m fine being unable to move.”</soft-line></soft-line></i-flavor>
 	power: 2
 	toughness: 1
@@ -8899,7 +8899,7 @@ card:
 		overlay: 
 	notes: 
 	time_created: 2025-10-06 11:31:32
-	time_modified: 2026-03-10 13:18:33
+	time_modified: 2026-05-31 00:14:36
 	name: Flowers Bloom Nowhere
 	casting_cost: 4G
 	image: image132.png
@@ -8916,8 +8916,8 @@ card:
 	sub_type_4: 
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Flowers Bloom Nowhere</nospellcheck></atom-cardname> enters, draw three cards. You gain 3 life.
-		<sym-auto>WUBRG</sym-auto>: Return <atom-cardname><nospellcheck>Flowers Bloom Nowhere</nospellcheck></atom-cardname> to its owner’s hand.
+		When <atom-cardname><nospellcheck>Flowers Bloom Nowhere</nospellcheck></atom-cardname> enters, create a 4/4 black Horror creature token.
+		At the beginning of your end step, you may sacrifice a land. If you do, draw a card.
 	flavor_text:
 		<i-flavor>“They used to call me a young genius. But before I realized it, I grew up.”<soft-line>
 		—<error-spelling:en_US>Shayu</soft-line></i-flavor></error-spelling:en_US>
@@ -10271,11 +10271,11 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2026-03-07 02:25:26
-	time_modified: 2026-05-20 12:37:02
+	time_modified: 2026-05-31 00:25:49
 	name: Shiroyuki’s Singularity
-	casting_cost: 2UR
+	casting_cost: UR
 	image: image156.png
 	image_2: 
 	mainframe_image: 
@@ -10289,7 +10289,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: rare
-	rule_text: <atom-cardname><nospellcheck>Shiroyuki’s Singularity</nospellcheck></atom-cardname> deals 5 damage to any target. Then you may discard a card. If you do, conjure a card named <atom-cardname><nospellcheck>Shiroyuki’s Singularity</nospellcheck></atom-cardname> on top of your library.
+	rule_text:
+		If casting this spell triggers an ability of a permanent you control, that ability triggers an additional time.
+		<atom-cardname><nospellcheck>Shiroyuki’s Singularity</nospellcheck></atom-cardname> deals 3 damage to any target.
 	flavor_text: <i-flavor>When playing with absolutes, zero and infinity are closer than zero and one.</i-flavor>
 	illustrator: mikake3x
 	card_code_text: 
@@ -10518,11 +10520,12 @@ card:
 	notes:
 		!group conjure
 		!hidetag (Neon)
+		!update
 		!!exportname ShiroyukisSingularity_loop
 	time_created: 2025-04-10 19:24:06
-	time_modified: 2026-05-20 13:23:45
+	time_modified: 2026-05-31 00:25:52
 	name: Shiroyuki’s Singularity
-	casting_cost: 2UR
+	casting_cost: UR
 	image: image157.png
 	image_2: 
 	mainframe_image: 
@@ -10536,7 +10539,9 @@ card:
 	sub_type_3: 
 	sub_type_4: 
 	rarity: special
-	rule_text: <atom-cardname><nospellcheck>Shiroyuki’s Singularity</nospellcheck></atom-cardname> deals 5 damage to any target. Then you may discard a card. If you do, conjure a card named <atom-cardname><nospellcheck>Shiroyuki’s Singularity</nospellcheck></atom-cardname> on top of your library.
+	rule_text:
+		If casting this spell triggers an ability of a permanent you control, that ability triggers an additional time.
+		<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Shiroyuki’s</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Singularity deals 3 damage to any target.
 	flavor_text: <i-flavor><error-spelling:en_US>Shiroyuki</error-spelling:en_US> has long since lost track of which reincarnation iteration she’s on.</i-flavor>
 	illustrator: mikake3x
 	partition_select: after normal, main set C

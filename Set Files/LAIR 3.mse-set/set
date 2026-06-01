@@ -366,9 +366,11 @@ card:
 	stylesheet: m15-future
 	stylesheet_version: 2024-06-06
 	has_styling: false
-	notes: !hidetag (SL101)
+	notes:
+		!hidetag (SL101)
+		!update
 	time_created: 2023-09-06 16:21:55
-	time_modified: 2023-10-01 17:37:48
+	time_modified: 2026-05-31 00:53:40
 	extra_data:
 		magic-m15-future:
 			future_node: land
@@ -392,7 +394,7 @@ card:
 	toughness: 
 	illustrator: Wayne Barlowe
 	custom_card_number: 830
-	card_code_text: Emily
+	card_code_text: Queen Emily
 	card_code_text_2: Emily
 	card_code_text_3: Emily
 	copyright: Secret Lair: Expedition — squidpizza
@@ -1302,9 +1304,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !hidetag (SL104)
+	notes:
+		!hidetag (SL104)
+		!update
 	time_created: 2023-09-26 09:45:54
-	time_modified: 2023-09-30 23:36:38
+	time_modified: 2026-05-31 00:53:51
 	extra_data:
 		magic-m15-altered:
 			vorthos_box: The Lightning Thief — Kayiu
@@ -1324,7 +1328,7 @@ card:
 	flavor_text: <i-flavor>I had to get to shore. I had to get Zeus’s thunderbolt back to Olympus. Most of all, I had to have a serious conversation with the god who’d tricked me.</i-flavor>
 	illustrator: Hazel Dang
 	custom_card_number: 856
-	card_code_text: Emily
+	card_code_text: Queen Emily
 	card_code_text_2: Emily
 	card_code_text_3: Emily
 	copyright: The Lightning Thief — Kayiu
@@ -2043,7 +2047,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL106)
-		
+
 	time_created: 2022-10-22 22:50:36
 	time_modified: 2026-04-22 00:53:18
 	name: Warded Tome
@@ -3103,9 +3107,10 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL110)
+		!update
 		!append  (Artifacts, enchantments, and modal spells are cryptic.)
 	time_created: 2023-10-02 17:30:20
-	time_modified: 2024-08-30 08:18:31
+	time_modified: 2026-05-31 00:54:39
 	name: Observer of Aeons
 	casting_cost: 7
 	image: image86
@@ -3124,7 +3129,7 @@ card:
 	toughness: 4
 	illustrator: The--person
 	custom_card_number: 904
-	card_code_text: Emily
+	card_code_text: Queen Emily
 	card_code_text_2: Emily
 	card_code_text_3: Emily
 	copyright: Secret Lair: Infinity Train — n3onblue
@@ -3958,9 +3963,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !hidetag (SL112)
+	notes:
+		!hidetag (SL112)
+		!update
 	time_created: 2023-09-29 21:29:49
-	time_modified: 2023-10-31 20:43:02
+	time_modified: 2026-05-31 00:53:33
 	name: Champion of the Provinces
 	casting_cost: 3W
 	image: image91
@@ -3982,15 +3989,17 @@ card:
 	card_code_text: Timespiraled
 	card_code_text_2: Timespiraled
 	card_code_text_3: Timespiraled
-	copyright: Parahumans — Emily
+	copyright: Parahumans — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL112)
+	notes:
+		!hidetag (SL112)
+		!update
 	time_created: 2023-09-29 21:22:15
-	time_modified: 2023-10-31 20:43:06
+	time_modified: 2026-05-31 00:53:20
 	name: Avid Researcher
 	casting_cost: 1U
 	image: image92
@@ -4011,7 +4020,7 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Parahumans — Emily
+	copyright: Parahumans — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -4025,10 +4034,11 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL112)
+		!update
 		
 		!inpend [{]5[}][{]U[}][{]U[}][{]U[}]/add/ (You may cast this for its colossal cost to have it enter with four +1/+1 counters; or pay {5}{U}{U}{U} as a sorcery: Put four +1/+1 counters on it if it has none.)
 	time_created: 2023-09-29 21:33:39
-	time_modified: 2026-04-22 22:15:18
+	time_modified: 2026-05-31 00:54:31
 	name: Megalokraken
 	casting_cost: 3UU
 	image: image93
@@ -4049,15 +4059,17 @@ card:
 	card_code_text: Mako
 	card_code_text_2: Mako
 	card_code_text_3: Mako
-	copyright: Parahumans — Emily
+	copyright: Parahumans — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL112)
+	notes:
+		!hidetag (SL112)
+		!update
 	time_created: 2023-09-29 21:12:43
-	time_modified: 2023-11-17 19:16:37
+	time_modified: 2026-05-31 00:54:05
 	name: Dedicated Weaponsmith
 	casting_cost: 1R
 	image: image94
@@ -4078,7 +4090,7 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Parahumans — Emily
+	copyright: Parahumans — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -4088,9 +4100,10 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL112)
+		!update
 		!append (To aetherize, create a token that's a copy of it, then exile that token.)
 	time_created: 2023-09-29 21:36:33
-	time_modified: 2023-10-31 20:43:18
+	time_modified: 2026-05-31 00:54:46
 	name: Scion of Calamities
 	casting_cost: 3RR
 	image: image95
@@ -4112,15 +4125,17 @@ card:
 	card_code_text: Timespiraled
 	card_code_text_2: Timespiraled
 	card_code_text_3: Timespiraled
-	copyright: Parahumans — Emily
+	copyright: Parahumans — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL112)
+	notes:
+		!hidetag (SL112)
+		!update
 	time_created: 2023-09-29 22:07:42
-	time_modified: 2023-10-31 20:43:21
+	time_modified: 2026-05-31 00:55:08
 	name: Wild Dogs of the Night
 	casting_cost: 2G
 	image: image96
@@ -4139,15 +4154,17 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Parahumans — Emily
+	copyright: Parahumans — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL112)
+	notes:
+		!hidetag (SL112)
+		!update
 	time_created: 2023-09-29 21:19:02
-	time_modified: 2024-07-05 06:53:42
+	time_modified: 2026-05-31 00:53:27
 	name: Bug Catcher
 	casting_cost: 1BG
 	image: image97
@@ -4168,15 +4185,17 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: Parahumans — Emily
+	copyright: Parahumans — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
 card:
 	has_styling: false
-	notes: !hidetag (SL112)
+	notes:
+		!hidetag (SL112)
+		!update
 	time_created: 2023-10-12 13:08:19
-	time_modified: 2023-10-31 20:43:27
+	time_modified: 2026-05-31 00:55:02
 	name: The Grand Simurgh
 	casting_cost: WUBRG
 	image: image98
@@ -4197,7 +4216,7 @@ card:
 	card_code_text: Zangy
 	card_code_text_2: Zangy
 	card_code_text_3: Zangy
-	copyright: Parahumans — Emily
+	copyright: Parahumans — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -6126,7 +6145,7 @@ card:
 		overlay: 
 	notes:
 		!subtitle!hidetag (SL117)
-		
+
 	time_created: 2023-12-22 00:22:46
 	time_modified: 2026-04-22 00:31:47
 	extra_data:
@@ -7150,9 +7169,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		!update
 	time_created: 2024-01-25 13:05:46
-	time_modified: 2024-01-31 17:35:19
+	time_modified: 2026-05-31 00:54:17
 	name: Eve’s Scheme
 	casting_cost: 2B
 	image: image199
@@ -7166,7 +7187,7 @@ card:
 	flavor_text: <i-flavor>Just a silly cat doing silly cat things.</i-flavor>
 	illustrator: Catwheezie
 	custom_card_number: 1011
-	card_code_text: Emily
+	card_code_text: Queen Emily
 	card_code_text_2: Emily
 	card_code_text_3: Emily
 	copyright: Artist Series: Catwheezie — Chumbeque
@@ -7202,7 +7223,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 12:38:50
 	time_modified: 2026-04-30 12:57:41
 	name: Culminating Chaos
@@ -7265,9 +7286,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !hidetag (SL122)
+	notes:
+		!hidetag (SL122)
+		!update
 	time_created: 2024-01-25 13:26:50
-	time_modified: 2024-01-31 17:35:33
+	time_modified: 2026-05-31 00:54:25
 	name: Flamecaller’s Command
 	casting_cost: 1RR
 	image: image203
@@ -7286,7 +7309,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Catwheezie
 	custom_card_number: 1015
-	card_code_text: Emily
+	card_code_text: Queen Emily
 	card_code_text_2: Emily
 	card_code_text_3: Emily
 	copyright: Artist Series: Catwheezie — Chumbeque
@@ -8213,7 +8236,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL125)
-		
+
 	time_created: 2024-04-15 12:19:08
 	time_modified: 2026-04-22 00:12:53
 	name: Danithra Muckbruiser
@@ -8879,9 +8902,11 @@ card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes: !hidetag (SL127)
+	notes:
+		!hidetag (SL127)
+		!update
 	time_created: 2021-04-17 15:26:06
-	time_modified: 2024-04-30 17:05:30
+	time_modified: 2026-05-31 00:53:58
 	card_color: black, artifact, horizontal
 	name: Dark Behemoth
 	casting_cost: 3B
@@ -8900,7 +8925,7 @@ card:
 	toughness: 1
 	illustrator: Svetlin Velinov
 	custom_card_number: 1066
-	card_code_text: Emily
+	card_code_text: Queen Emily
 	card_code_text_2: Emily
 	card_code_text_3: Emily
 	copyright: ACT League Leaders — Reqiuem
@@ -9215,9 +9240,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL129)
+	notes:
+		!hidetag (SL129)
+		!update
 	time_created: 2018-03-07 04:24:45
-	time_modified: 2024-05-22 17:40:52
+	time_modified: 2026-05-31 00:54:11
 	extra_data:
 		magic-m15-altered:
 			pride_pin: lesbian
@@ -9240,7 +9267,7 @@ card:
 	toughness: 2
 	illustrator: Jian Guo
 	custom_card_number: 1092
-	card_code_text: Emily
+	card_code_text: Queen Emily
 	card_code_text_2: Emily
 	card_code_text_3: Emily
 	copyright: Love Grows Beyond Trials — cajun
@@ -9604,7 +9631,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL129)
-		
+
 	time_created: 2021-09-04 16:22:20
 	time_modified: 2026-04-22 00:31:26
 	extra_data:
@@ -9830,8 +9857,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		You may exile target nonland permanent. If you do, you lose 3 life.
-		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		I — You may exile target nonland permanent. If you do, you lose 3 life.
+		II, III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
@@ -14850,7 +14877,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL143)
-		
+
 	time_created: 2019-06-17 00:00:00
 	time_modified: 2026-04-22 00:22:51
 	name: Channeler of the Veil
@@ -16712,8 +16739,8 @@ card:
 	secondary_copyright: 
 	special_text:
 		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-		You may exile target nonland permanent. If you do, you lose 3 life.
-		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		I — You may exile target nonland permanent. If you do, you lose 3 life.
+		II, III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
@@ -18025,9 +18052,11 @@ card:
 	styling_data:
 		remove_from_autocount: yes
 		promo: no
-	notes: !hidetag (SL150)
+	notes:
+		!hidetag (SL150)
+		!update
 	time_created: 2024-12-14 15:56:46
-	time_modified: 2025-01-01 16:21:38
+	time_modified: 2026-05-31 00:54:54
 	name: Stargazing
 	casting_cost: U
 	image: image529
@@ -18046,7 +18075,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Yuumei
 	custom_card_number: 1297
-	card_code_text: Emily
+	card_code_text: Queen Emily
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: 

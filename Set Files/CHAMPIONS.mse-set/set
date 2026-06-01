@@ -3755,11 +3755,11 @@ card:
 card:
 	has_styling: false
 	notes:
-		FINAL RVO 
+		FINAL RVO !update
 		!num 88
-		!design Emily
+		!design Queen Emily
 	time_created: 2021-04-16 10:07:33
-	time_modified: 2024-04-01 19:17:20
+	time_modified: 2026-05-31 00:56:24
 	name: Fiery Burst
 	casting_cost: 3R
 	image: image55
@@ -3778,7 +3778,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	copyright: Design — Emily
+	copyright: Design — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -4678,12 +4678,12 @@ card:
 card:
 	has_styling: false
 	notes:
-		FINAL RVO
-		!design Emily
+		FINAL RVO!update
+		!design Queen Emily
 		!num 110
 		!append  (Create a Clue token. It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)
 	time_created: 2018-03-07 04:24:45
-	time_modified: 2025-10-24 16:16:08
+	time_modified: 2026-05-31 00:56:14
 	name: Crest
 	casting_cost: 1U
 	image: image143
@@ -4712,7 +4712,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	copyright: Design — Emily
+	copyright: Design — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -4779,11 +4779,12 @@ card:
 card:
 	has_styling: false
 	notes:
-		!design Emily
+		!design Queen Emily
+		!update
 		RVO FINAL !num 113
 		!append  (Create a Clue token. It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)
 	time_created: 2021-02-08 20:34:22
-	time_modified: 2023-06-30 16:33:00
+	time_modified: 2026-05-31 00:56:08
 	name: Alratha, Pearl of the Sand Sea
 	image: image144
 	image_2: 
@@ -4802,7 +4803,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	copyright: Design — Emily
+	copyright: Design — Queen Emily
 	copyright_2: 
 	copyright_3: 
 
@@ -4960,7 +4961,6 @@ card:
 		!num 118
 		!design HerziQuerzi
 		CAC FINAL
-		
 	time_created: 2017-10-12 00:59:14
 	time_modified: 2026-04-30 12:50:43
 	name: Exhilarating Prescience
@@ -7018,6 +7018,47 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Design — gynoidpoet
+	copyright_2: 
+	copyright_3: 
+
+card:
+	has_styling: false
+	notes:
+		!num 168
+		!design HerziQuerzi
+		!update<soft-line>
+		ACA FINAL</soft-line>
+	time_created: 2019-09-29 22:08:24
+	time_modified: 2026-05-31 19:04:11
+	name: Distilled Inspiration
+	casting_cost: 2
+	image: image24.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		When <atom-cardname><nospellcheck>Distilled Inspiration</nospellcheck></atom-cardname> enters, draw a card, then choose a card name.
+		<sym-auto>1</sym-auto>, <sym-auto>T</sym-auto>: Add one mana of any color.
+		<sym-auto>T</sym-auto>: Add one mana of any color. Spend this mana only to cast a spell with the chosen name or activate an ability of a card with the chosen name.
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	illustrator: Steph Johnstone
+	custom_card_number: Grand Prix Budapest — Toasty
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Design — HerziQuerzi
 	copyright_2: 
 	copyright_3: 
 

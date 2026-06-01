@@ -12452,7 +12452,7 @@ card:
 		chop_top: 3
 		chop_bottom: 
 		shrink_name_text: 
-		frames: 
+		frames: season
 		other_options: auto nyx crowns, vorthos box
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12460,6 +12460,7 @@ card:
 	notes:
 		!Change  
 		!New
+		!update
 		“One for all and—well, the rest doesn’t matter.”
 		!Replaces Living Grimoire
 		 reworked: Reworked, gaining the AA and library peek. Previously had "At the beginning of each end step, if two or more spells were cast this turn, you may draw a card. If you do, put a card from your hand on the bottom of your library."

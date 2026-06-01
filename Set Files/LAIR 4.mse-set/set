@@ -4238,9 +4238,7 @@ card:
 		chop_bottom: 5
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag (SL159)
-		
+	notes: !hidetag (SL159)
 	time_created: 2017-05-20 08:35:23
 	time_modified: 2026-04-22 00:34:21
 	name: Shikai Revenant
@@ -4274,9 +4272,11 @@ card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes: !hidetag (SL152)
+	notes:
+		!hidetag (SL152)
+		!update
 	time_created: 2018-03-07 04:24:45
-	time_modified: 2025-04-30 12:27:18
+	time_modified: 2026-05-31 00:45:06
 	name: Phantasmal Owl
 	casting_cost: U
 	image: image119
@@ -4297,7 +4297,7 @@ card:
 	toughness: 1
 	illustrator: Andrej Z.T.
 	custom_card_number: 1318
-	card_code_text: Emily
+	card_code_text: Queen Emily
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: EOW/TMI League Leaders — placuszek
@@ -5727,8 +5727,9 @@ card:
 	notes:
 		!design Zangy
 		!hidetag (SL161)
+		!update nerfed: Trigger now checks if cast.
 	time_created: 2023-12-26 10:13:34
-	time_modified: 2025-05-31 17:14:32
+	time_modified: 2026-05-31 00:29:46
 	name: Danaj Rising
 	casting_cost: 1B
 	image: image161
@@ -5743,7 +5744,7 @@ card:
 	rarity: rare
 	rule_text:
 		<i-auto>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)</i-auto>
-		When <atom-cardname><nospellcheck>Danaj Rising</nospellcheck></atom-cardname> enters, target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 1 life.
+		When <atom-cardname><nospellcheck>Danaj Rising</nospellcheck></atom-cardname> enters, if it was cast, target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	loyalty: 3
 	illustrator: Zp Zhang
@@ -10856,9 +10857,11 @@ card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes: !hidetag (SL171)
+	notes:
+		!hidetag (SL171)
+		!update
 	time_created: 2020-09-03 18:41:30
-	time_modified: 2026-02-01 14:09:51
+	time_modified: 2026-05-31 00:42:54
 	name: Void Portal
 	casting_cost: 2B
 	image: image312
@@ -10875,7 +10878,7 @@ card:
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Olya Bossak
 	custom_card_number: 1529
-	card_code_text: Emily
+	card_code_text: Queen Emily
 	card_code_text_2: Night Terrors
 	card_code_text_3: Night Terrors
 	copyright: HQZ/BLR Top Xs — Skagra
@@ -11830,6 +11833,349 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Blades in the Dark — CyberChronometer
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 15
+		frames: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!hidetag (SL176)
+		!inpend graveyard./add/ (Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player exiles three cards from their graveyard.)
+	time_created: 2026-04-16 13:52:53
+	time_modified: 2026-04-30 13:18:15
+	name: Astralhorn Familiar
+	casting_cost: GG
+	image: image333
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Unicorn</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Ward—<param-cost>Exile three cards from your graveyard</param-cost>.</key></nospellcheck></kw-0>
+		<i>Menagerie</i> — <atom-cardname><nospellcheck>Astralhorn Familiar</nospellcheck></atom-cardname> gets +2/+2 as long as there are five or more creature types among creatures you control.
+	flavor_text: <i-flavor>“I am not divine… but I am powerful.”</i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: anninosart
+	custom_card_number: 1573
+	card_code_text: Dodger
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Deadlocked 2 — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	has_styling: false
+	notes:
+		
+		!hidetag (SL176)
+	time_created: 2026-04-16 13:52:53
+	time_modified: 2026-04-30 13:17:53
+	name: Corpsecaster Mage
+	casting_cost: 1B
+	image: image334
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		When this creature enters, if you cast it, target creature card in your graveyard gains arise until end of turn. Its arise cost is equal to its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: anninosart
+	custom_card_number: 1569
+	card_code_text: Matt
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Deadlocked 2 — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	has_styling: false
+	notes:
+		
+		!hidetag (SL176)
+	time_created: 2026-04-16 14:11:37
+	time_modified: 2026-04-30 13:17:58
+	name: Corvid Heretic
+	casting_cost: B
+	image: image335
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Whenever one or more cards leave your graveyard, each opponent loses 1 life and you gain that much life.
+	flavor_text:
+		<i-flavor>“I’m Rem!”<soft-line>
+		—Rem</soft-line></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: mahsira_wingtail
+	custom_card_number: 1570
+	card_code_text: Wrenn
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Deadlocked 2 — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		chapter_textboxes: four
+		snap_chapter_to_box: 2,3,4,
+		chapter_divider_coordinates: 230,275,320,
+		separated_text_size: 12
+		other_options: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!notes italic
+		!hidetag (SL176)
+		!replacetoken Archmother;1;HiddenKing;1
+	time_created: 2026-04-16 14:32:11
+	time_modified: 2026-04-30 13:17:47
+	name: <i>Divinity</i>
+	casting_cost: 2W
+	image: image336
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Saga</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	chapter_text: <i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+	rule_text: <i-auto>(Gain the next level as a sorcery to add its ability.)</i-auto>
+	flavor_text: <i-flavor>​</i-flavor>
+	level_1_text: You can’t lose the game and your opponents can’t win the game.
+	level_2_text: Your life total becomes 1.
+	level_3_text: Double your life total.
+	level_4_text: Create an X/X white Avatar creature token with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, where X is your life total.
+	illustrator: jumalon
+	custom_card_number: 1568
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Deadlocked 2 — Nix
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
+		You can’t lose the game and your opponents can’t win the game.
+		Your life total becomes 1.
+		I — Double your life total.
+		II — Create an X/X white Avatar creature token with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, where X is your life total.
+
+card:
+	has_styling: false
+	notes:
+		
+		!hidetag (SL176)
+	time_created: 2026-04-16 14:22:29
+	time_modified: 2026-04-30 13:18:04
+	name: Herald of the Humble
+	casting_cost: 1R
+	image: image337
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Whenever Herald of the Humble deals combat damage to a player, they exile the top card of their library. During their next turn, they may play that card if it has mana value 3 or less. <i-auto>(They still pay its costs.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: hieumay
+	custom_card_number: 1571
+	card_code_text: CanterburyEgg
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Deadlocked 2 — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: custom border
+		custom_border_source: 
+		popout_image_style: 
+		other_options: auto nyx crowns
+		card_watermark: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		
+		!hidetag (SL176)
+	time_created: 2026-04-16 14:42:10
+	time_modified: 2026-04-30 13:18:08
+	name: Skill Link
+	casting_cost: R
+	image: image338
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: Whenever an opponent is dealt damage by one or more sources you control for the second time each turn, draw a card.
+	flavor_text: <i-flavor>Minds in perfect harmony, though seemingly in disarray from the outside.</i-flavor>
+	illustrator: jabbermocker
+	custom_card_number: 1572
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Deadlocked 2 — Nix
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!tokentag Archmother
+		!exportname AvatarArchmother
+	time_created: 2026-04-16 14:51:12
+	time_modified: 2026-04-30 15:59:10
+	card_color: white
+	name: Avatar
+	image: image341
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: *
+	toughness: *
+	illustrator: Ramusque
+	custom_card_number: 108
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Deadlocked 2 — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-mainframe-tokens
+	stylesheet_version: 2025-01-11
+	has_styling: true
+	styling_data:
+		frames: M20
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!tokentag HiddenKing
+		!exportname AvatarHiddenKing
+	time_created: 2026-04-16 14:51:12
+	time_modified: 2026-04-30 15:59:13
+	card_color: white
+	name: Avatar
+	image: image342
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: <kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>
+	rule_text_2: 
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: *
+	toughness: *
+	illustrator: Ramusque
+	custom_card_number: 109
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Deadlocked 2 — Nix
 	copyright_2: 
 	copyright_3: 
 

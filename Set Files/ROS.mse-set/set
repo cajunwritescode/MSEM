@@ -2,7 +2,7 @@
 game: magic
 game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2024-09-23
+stylesheet_version: 2026-01-23
 set_info:
 	title: Alkabah: Rise of Soli
 	copyright: 
@@ -3328,8 +3328,9 @@ card:
 	notes:
 		fullart
 		battle
+		!update
 	time_created: 2023-12-26 10:13:34
-	time_modified: 2024-12-30 14:09:54
+	time_modified: 2026-05-31 00:32:57
 	name: Danaj Rising
 	casting_cost: 1B
 	image: image104.png
@@ -3341,7 +3342,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		<i-auto>(As an Encounter enters, choose an opponent to protect it. You and others can attack it. When defense counters are removed, create a 0/0 Army token if you don’t control one, then put that many +1/+1 counters on a Army you control.)</i-auto>
-		When <atom-cardname><nospellcheck>Danaj Rising</nospellcheck></atom-cardname> enters, target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 1 life.
+		When <atom-cardname><nospellcheck>Danaj Rising</nospellcheck></atom-cardname> enters, if it was cast, target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	loyalty: 3
 	illustrator: Pavel Kondrashov
@@ -4770,9 +4771,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: Offcolor Flashback Cycle
+	notes:
+		Offcolor Flashback Cycle
+		!update
 	time_created: 2023-12-26 10:14:52
-	time_modified: 2024-03-27 22:18:15
+	time_modified: 2026-05-31 01:00:10
 	name: Refracting Image
 	casting_cost: 2R
 	image: image20.png
@@ -4789,7 +4792,7 @@ card:
 		<i-flavor>“Polished bronze only captures the visage. This wondrous material captures your very soul.”<soft-line>
 		—<error-spelling:en_US>Darakhshan</error-spelling:en_US>, <error-spelling:en_US>Nizevi</error-spelling:en_US> alchemist</soft-line></i-flavor>
 	illustrator: Toni Muntean
-	card_code_text: QueenEmily
+	card_code_text: Queen Emily
 	card_code_text_2: QueenEmily
 	card_code_text_3: QueenEmily
 	copyright: 
@@ -6740,7 +6743,7 @@ card:
 	sub_type: <word-list-race-en>Angel</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Soldier</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		Whenever you cast your first noncreature spell each turn, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		Whenever you cast your first noncreature spell each turn, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor>“Nothing of the mind is objectively right. The sum of your past actions informs the only moral code that matters: how to journey forward.”</i-flavor>
 	power: 3
 	toughness: 2
@@ -6770,7 +6773,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature gets +2/+2.
-		When enchanted creature dies, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>two</param-number> +1/+1 counters on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		When enchanted creature dies, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>two</param-number> +1/+1 counters on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ryan Portillo
 	card_code_text: 
@@ -6796,7 +6799,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>non-Army creature</param-name></key></nospellcheck></kw-a>
 		Enchanted creature can’t attack or block.
-		When <atom-cardname><nospellcheck>Banishment of Aspirations</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control an Army, create a 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
+		When <atom-cardname><nospellcheck>Banishment of Aspirations</nospellcheck></atom-cardname> enters, <kw-A><nospellcheck><key>amass <param-name>Soldiers</param-name> <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Put <param-number>a</param-number> +1/+1 counter on an Army you control. It’s also a <param-name>Soldier</param-name>. If you don’t control one, create an 0/0 black <param-name>Soldier</param-name> Army creature token first.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Anton Fedotov
 	card_code_text: 
@@ -7061,7 +7064,7 @@ card:
 	sub_type: <word-list-race-en>Nephilim</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
 		When <atom-cardname><nospellcheck>Frantic Efreetspeaker</nospellcheck></atom-cardname> enters, you may discard a card. If you do, draw a card.
-		<sym-auto>2</sym-auto>, Exile <atom-cardname><nospellcheck>Frantic Efreetspeaker</nospellcheck></atom-cardname> from your graveyard: Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		<sym-auto>2</sym-auto>, Exile <atom-cardname><nospellcheck>Frantic Efreetspeaker</nospellcheck></atom-cardname> from your graveyard: Create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor>“If I spent time trying to correct your lies, do you think I’d have time to do anything else?”</i-flavor>
 	power: 1
 	toughness: 1
@@ -7830,7 +7833,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		When <atom-cardname><nospellcheck>Tomb-Raider Duo</nospellcheck></atom-cardname> enters, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+		When <atom-cardname><nospellcheck>Tomb-Raider Duo</nospellcheck></atom-cardname> enters, create a <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 		<kw-A><nospellcheck><key><param-one_word>Satrapy</param-one_word>cycling <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck><atom-reminder-action> <i-auto>(<param-cost><sym-auto>2</sym-auto></param-cost>, Discard this card: Search your library for a <param-one_word>Satrapy</param-one_word> card, reveal it, put it into your hand, then shuffle.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
@@ -8459,7 +8462,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Merchant</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Bazaar Braggart</nospellcheck></atom-cardname> enters, create a tapped <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this artifact: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
+	rule_text: When <atom-cardname><nospellcheck>Bazaar Braggart</nospellcheck></atom-cardname> enters, create a tapped <kw-1><nospellcheck><key>Treasure toke<param-*s>n</param-*s></key></nospellcheck>.<atom-reminder-core> <i-auto>(It’s an artifact with “<sym-auto>T</sym-auto>, Sacrifice this token: Add one mana of any color.”)</i-auto></atom-reminder-core></kw-1>
 	flavor_text: <i-flavor>“May I interest you in rubies, freshly quarried? Perfumes and censers, fit for a lord? You want it, <error-spelling:en_US>Avaz</error-spelling:en_US> has it.”</i-flavor>
 	power: 2
 	toughness: 1
@@ -9292,7 +9295,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
@@ -9494,7 +9497,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -9838,7 +9841,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2024-09-23
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
