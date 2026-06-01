@@ -1494,7 +1494,7 @@ card:
 	has_styling: false
 	notes:
 		!design Queen Emily
-		!update
+		
 		!tag
 	time_created: 2020-09-03 18:41:30
 	time_modified: 2021-03-30 23:15:03
@@ -2063,7 +2063,7 @@ card:
 		overlay: 
 	notes:
 		!design Queen Emily
-		!update
+		
 	time_created: 2018-03-07 04:24:45
 	time_modified: 2025-10-31 16:24:36
 	extra_data:

@@ -4450,7 +4450,7 @@ card:
 		overlay: 
 	notes:
 		!check pip
-		!update
+		
 	time_created: 2024-12-05 22:03:10
 	time_modified: 2026-05-31 01:04:51
 	name: Outerworld Witness

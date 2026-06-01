@@ -289,7 +289,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2021-02-16 01:38:07
 	time_modified: 2026-05-31 01:19:32
 	extra_data:

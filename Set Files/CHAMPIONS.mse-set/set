@@ -3755,7 +3755,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		FINAL RVO !update
+		FINAL RVO 
 		!num 88
 		!design Queen Emily
 	time_created: 2021-04-16 10:07:33
@@ -4678,7 +4678,7 @@ card:
 card:
 	has_styling: false
 	notes:
-		FINAL RVO!update
+		FINAL RVO
 		!design Queen Emily
 		!num 110
 		!append  (Create a Clue token. It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)
@@ -4780,7 +4780,7 @@ card:
 	has_styling: false
 	notes:
 		!design Queen Emily
-		!update
+		
 		RVO FINAL !num 113
 		!append  (Create a Clue token. It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)
 	time_created: 2021-02-08 20:34:22
@@ -7026,7 +7026,7 @@ card:
 	notes:
 		!num 168
 		!design HerziQuerzi
-		!update<soft-line>
+		<soft-line>
 		ACA FINAL</soft-line>
 	time_created: 2019-09-29 22:08:24
 	time_modified: 2026-05-31 19:04:11

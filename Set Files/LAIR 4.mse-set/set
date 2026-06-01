@@ -54,6 +54,10 @@ styling:
 	magic-m15-imageupload:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-mainframe-attain-dfc:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
 	magic-m15-mainframe-battles:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -4274,7 +4278,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL152)
-		!update
+		
 	time_created: 2018-03-07 04:24:45
 	time_modified: 2026-05-31 00:45:06
 	name: Phantasmal Owl
@@ -5727,7 +5731,7 @@ card:
 	notes:
 		!design Zangy
 		!hidetag (SL161)
-		!update nerfed: Trigger now checks if cast.
+		 nerfed: Trigger now checks if cast.
 	time_created: 2023-12-26 10:13:34
 	time_modified: 2026-05-31 00:29:46
 	name: Danaj Rising
@@ -10859,7 +10863,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL171)
-		!update
+		
 	time_created: 2020-09-03 18:41:30
 	time_modified: 2026-05-31 00:42:54
 	name: Void Portal
@@ -12006,8 +12010,8 @@ card:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		You can’t lose the game and your opponents can’t win the game.
 		Your life total becomes 1.
-		I — Double your life total.
-		II — Create an X/X white Avatar creature token with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, where X is your life total.
+		Double your life total.
+		Create an X/X white Avatar creature token with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, where X is your life total.
 
 card:
 	has_styling: false
@@ -12176,6 +12180,1311 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: Deadlocked 2 — Nix
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		popout_image_style: 0,0,375,489,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL177)
+	time_created: 2026-05-18 16:00:31
+	time_modified: 2026-05-31 14:27:33
+	name: Burning Up
+	casting_cost: 1R
+	image: 
+	image_2: 
+	mainframe_image: image339
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		You may cast this spell as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a> if it targets a creature or planeswalker.
+		<atom-cardname><nospellcheck>Burning Up</nospellcheck></atom-cardname> deals X damage to any target, where X is the number of basic land types among lands you control.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: A. Shipwright
+	custom_card_number: 1574
+	card_code_text: Pipsqueak
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Artist Series: A. Shipwright — HerziQuerzi
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: !hidetag (SL177)
+	time_created: 2026-05-18 16:00:31
+	time_modified: 2026-05-31 14:27:39
+	name: Leija’s Greenblade
+	casting_cost: 1G
+	image: image340
+	image_2: 
+	mainframe_image: image343
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: When <atom-cardname><nospellcheck>Leija’s Greenblade</nospellcheck></atom-cardname> enters, you may pay <sym-auto>G</sym-auto>. If you do, destroy target artifact or enchantment.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: A. Shipwright
+	custom_card_number: 1575
+	card_code_text: FifthDragon
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Artist Series: A. Shipwright — HerziQuerzi
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		popout_image_style: 0,0,375,489,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL177)
+	time_created: 2026-05-18 16:00:31
+	time_modified: 2026-05-31 14:27:46
+	name: Past Unresolved
+	casting_cost: BB
+	image: 
+	image_2: 
+	mainframe_image: image344
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: You draw two cards, lose 2 life, and <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: A. Shipwright
+	custom_card_number: 1576
+	card_code_text: fluffyDeathbringer
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Artist Series: A. Shipwright — HerziQuerzi
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: !hidetag (SL177)
+	time_created: 2026-05-18 16:00:31
+	time_modified: 2026-05-31 14:27:52
+	name: Rahit’s Prodigy
+	casting_cost: UU
+	image: image345
+	image_2: 
+	mainframe_image: image346
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Rahit’s Prodigy</nospellcheck></atom-cardname> enters, return target instant or sorcery card from your graveyard to your hand, then discard a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: A. Shipwright
+	custom_card_number: 1577
+	card_code_text: HerziQuerzi
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Artist Series: A. Shipwright — HerziQuerzi
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: 
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		popout_image_style: 0,0,375,489,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL177)
+	time_created: 2026-05-18 16:00:31
+	time_modified: 2026-05-31 14:28:02
+	name: Seat of the Faceless
+	casting_cost: 2BB
+	image: 
+	image_2: 
+	mainframe_image: image347
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		Whenever you tap a land for <sym-auto>B</sym-auto>, add one mana of any color.
+		<sym-auto>WUBRG</sym-auto>: Draw two cards.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: A. Shipwright
+	custom_card_number: 1578
+	card_code_text: Zangy
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Artist Series: A. Shipwright — HerziQuerzi
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: 
+
+card:
+	stylesheet: m15-art-lair
+	stylesheet_version: 2024-05-26
+	has_styling: false
+	notes: !hidetag (SL177)
+	time_created: 2026-05-18 16:00:31
+	time_modified: 2026-05-31 14:28:09
+	name: Shushing Usher
+	casting_cost: 1W
+	image: image348
+	image_2: 
+	mainframe_image: image349
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text:
+		<kw-A><nospellcheck><key>Extort</key></nospellcheck><atom-reminder-expert> <i-auto>(Whenever you cast a spell, you may pay <sym>W/B</sym>. If you do, each opponent loses 1 life and you gain that much life.)</i-auto></atom-reminder-expert></kw-A>
+		Artifacts and creatures your opponents control enter tapped.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: A. Shipwright
+	custom_card_number: 1579
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Artist Series: A. Shipwright — HerziQuerzi
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: 
+
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		alternate_reminder: 
+		custom_chapter_name: 
+		other_options: class
+		class_levels: unnotched
+		popout_image_style: 5,240,60,200,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (SL178)
+		!design HerziQuerzi
+		!ftlv1
+		!inpend : ([^ \n]+)\\n(.)/replace/: \1 — \2
+	time_created: 2023-11-25 21:12:34
+	time_modified: 2026-05-31 20:36:17
+	name: Achievement Aspirant
+	casting_cost: 1R
+	image: image350
+	image_2: 
+	mainframe_image: image351
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	chapter_text: Diverge <i-auto>(Pick only one path as a sorcery to gain that type and a +1/+1 counter.)</i-auto>
+	rule_text_3: 
+	flavor_text_3: <i-flavor></i-flavor>
+	level_2: Wizard
+	level_3: Horror
+	level_4: 
+	level_1_text: <i>“All I ask is that when the day comes that a garden blooms from my grave, you are there to share it.”</i>
+	level_2_text: <margin:0:0:30>If it isn’t an extra turn, take an extra turn after this one.</margin:0:0:30>
+	level_3_text: <margin:0:0:30>Target creature gets -4/-4 until end of turn.</margin:0:0:30>
+	level_4_text: 
+	level_9_text: <sym-auto>3UU</sym-auto>:
+	level_10_text: <sym-auto>BB</sym-auto>:
+	level_11_text: 
+	power: 3
+	toughness: 1
+	illustrator: James Firnhaber
+	illustrator_brush: art
+	custom_card_number: 1580
+	card_code_text: Hunting Quiet Horizons — HerziQuerzi
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Year Nine
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		Diverge <i-auto>(Pick only one path as a sorcery to gain that type and a +1/+1 counter.)</i-auto>
+		<i>“All I ask is that when the day comes that a garden blooms from my grave, you are there to share it.”</i>
+		<sym-auto>3UU</sym-auto>: Wizard
+		<margin:0:0:30>If it isn’t an extra turn, take an extra turn after this one.</margin:0:0:30>
+		<sym-auto>BB</sym-auto>: Horror
+		<margin:0:0:30>Target creature gets -4/-4 until end of turn.</margin:0:0:30>
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art
+		popout_image_style: 130,20,110,50,
+		other_options: auto nyx crowns
+		card_watermark: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (SL178)
+		!design Zangy
+	time_created: 2025-11-03 12:49:03
+	time_modified: 2026-05-31 20:35:39
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: She/her
+	name: Zareen, Innocent Heir
+	casting_cost: WU
+	image: image352
+	image_2: 
+	mainframe_image: image353
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text:
+		Whenever you attack, <kw-a><nospellcheck><key>scry <param-number>1</param-number></key></nospellcheck></kw-a>. If you attacked with three or more creatures, <kw-a><nospellcheck><key>scry <param-number>3</param-number></key></nospellcheck></kw-a> instead.
+		At the beginning of your end step, if you’ve looked at three or more cards while <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>scrying</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> and/or <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>surveiling</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> this turn, create a 1/1 red Noble creature token. If you’ve looked at five or more, draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 3
+	illustrator: Kian Ashrafi (ed.Grapple)
+	custom_card_number: 1582
+	card_code_text: Alkabah: Golna’s Five Labors — Zangy
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Year Nine
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL179)
+	time_created: 2018-05-02 17:15:43
+	time_modified: 2026-05-31 21:52:28
+	name: Voidflare
+	casting_cost: R
+	image: image354
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Voidflare</nospellcheck></atom-cardname> deals 2 damage to any target.
+		<i>Wanderlust</i> — <atom-cardname><nospellcheck>Voidflare</nospellcheck></atom-cardname> deals 3 damage instead if you control four or more differently named lands.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Katrina S. Fedukowski
+	custom_card_number: 1593
+	card_code_text: Timespiraled
+	card_code_text_2: FT: gynoidpoet
+	card_code_text_3: FT: gynoidpoet
+	copyright: G5L/MSY Top Xs — Skagra42
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes:
+		!hidetag (SL179)
+		!inpend Menace/add/ (This creature can’t be blocked except by two or more creatures.)
+	time_created: 2015-09-13 23:14:11
+	time_modified: 2026-05-31 21:52:33
+	name: Avatar of Basat
+	casting_cost: R
+	image: image355
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Avatar</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-0><nospellcheck><key>Menace</key></nospellcheck></kw-0>
+		<atom-cardname><nospellcheck>Avatar of Basat</nospellcheck></atom-cardname> can’t block.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Alexandr Leskinin
+	custom_card_number: 1594
+	card_code_text: Daij_Djan
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: G5L/MSY Top Xs — Zangy
+	copyright_2: 
+	copyright_3: ™ & © 2016 Wizards of the Coast
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL179)
+	time_created: 2023-12-13 19:19:14
+	time_modified: 2026-05-31 21:52:38
+	name: Assemble the Party
+	casting_cost: XGW
+	image: image356
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		This spell costs <sym-auto>1</sym-auto> less to cast for each legendary creature you control.
+		Search your library for a legendary creature card with mana value X or less, put that card onto the battlefield, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Hiroshi Yūgen
+	custom_card_number: 1595
+	card_code_text: n3onblue
+	card_code_text_2: Legends of Exandria: Mighty Nein
+	card_code_text_3: Legends of Exandria: Mighty Nein
+	copyright: G5L/MSY Top Xs — alittleblank
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL179)
+	time_created: 2025-12-02 18:56:27
+	time_modified: 2026-05-31 21:52:45
+	name: Boundless Strider
+	casting_cost: RG
+	image: image357
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Dog</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		When this creature dies, create a tapped land token named Far-Off Lands with “<sym-auto>T</sym-auto>: Add one mana of any color.”
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 2
+	illustrator: Anesaki Dynamic
+	custom_card_number: 1596
+	card_code_text: Epid
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: G5L/MSY Top Xs — Epid
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL179)
+	time_created: 2018-03-06 05:05:45
+	time_modified: 2026-05-31 21:52:55
+	name: Slinger’s Showdown
+	casting_cost: 1W
+	image: image358
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Until end of turn, target player can’t cast noncreature spells, and that player can’t activate abilities that aren’t mana abilities.
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	watermark: none
+	illustrator: Relajavo
+	custom_card_number: 1597
+	card_code_text: Cajun
+	card_code_text_2: Story Spotlight
+	card_code_text_3: Story Spotlight
+	copyright: G5L/MSY Top Xs — Chumbeque
+	copyright_2: ™ & © 2018 Wizards of the Coast
+	copyright_3: ™ & © 2018 Wizards of the Coast
+
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		popout_image_style: 0,0,752,523,
+		front_style: normal
+		stripe_coordinate: 
+		move_loyalty_costs: 
+		front_font_cap: 
+		back_style: normal
+		back_stripe_coordinate: 
+		move_back_loyalty_costs: 
+		shrink_back_typeline_text: 2
+		other_options: use back rarity symbol, vorthos box, use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
+		custom_symbol_one: cajun/comedy.png
+		custom_symbol_two: cajun/tragedy.png
+		level_1_chop: -9,9,
+		level_2_chop: 
+		level_5_chop: -5,,
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL179)
+	time_created: 2018-03-25 23:35:26
+	time_modified: 2026-05-31 21:54:15
+	extra_data:
+		magic-m15-mainframe-dfc:
+			vorthos_box_2: He/Him
+	card_color_2: black
+	name: Performer of Ambition
+	name_2: The Urchin King
+	casting_cost: 1BB
+	transformation: extra comedy
+	transformation_2: extra tragedy
+	image: image359
+	image_2: image360
+	mainframe_image: image361
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Actor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Actor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text: At the beginning of your upkeep, each player discards a card. Then if a player has no cards in hand, you may transform <atom-cardname><nospellcheck>Performer of Ambition</nospellcheck></atom-cardname>.
+	rule_text_2:
+		<atom-cardname><nospellcheck>The Urchin King</nospellcheck></atom-cardname>’s power and toughness are each equal to the number of cards in all graveyards.
+		Sacrifice a creature: <atom-cardname><nospellcheck>The Urchin King</nospellcheck></atom-cardname> gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	loyalty_cost_5: 
+	power: 3
+	power_2: *
+	toughness: 3
+	toughness_2: *
+	illustrator: heyitsrink
+	illustrator_2: halotrope
+	custom_card_number: 1599
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: 
+	copyright: G5L/MSY Top Xs — kayiu
+	copyright_2: G5L/MSY Top Xs — kayiu
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: true
+	styling_data:
+		icon_link: comedy.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !noexport !hidetag (SL179)
+	time_created: 2026-05-31 14:13:17
+	time_modified: 2026-05-31 21:53:09
+	name: Performer of Ambition
+	casting_cost: 1BB
+	image: image362
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Actor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text: At the beginning of your upkeep, each player discards a card. Then if a player has no cards in hand, you may transform Performer of Ambition.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: hetitsrink
+	custom_card_number: 1599
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: G5L/MSY Top Xs — kayiu
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: true
+	styling_data:
+		shrink_typeline_text: 2
+		icon_link: tragedy.png
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !noexport !hidetag (SL179)
+	time_created: 2026-05-31 14:13:17
+	time_modified: 2026-05-31 21:53:14
+	card_color: black
+	name: The Urchin King
+	casting_cost: 
+	image: image363
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Actor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		The Urchin King’s power and toughness are each equal to the number of cards in all graveyards.
+		Sacrifice a creature: The Urchin King gains <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: *
+	toughness: *
+	illustrator: halotrope
+	custom_card_number: 1599
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: G5L/MSY Top Xs — kayiu
+	copyright_2: 
+	copyright_3: 
+	special_text: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL179)
+	time_created: 2015-08-17 15:50:07
+	time_modified: 2026-05-31 21:53:00
+	card_color: blue
+	name: Monkeyshines
+	casting_cost: U
+	image: image364
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Look at the top two cards of your library. You may put both of those cards into your graveyard or back on top of your library in any order.
+		Draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	power: 
+	toughness: 
+	illustrator: kajatony
+	custom_card_number: 1598
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: G5L/MSY Top Xs — RickyRister
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		other_options: class, pride pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (SL180)
+		!inpend Angel\\n/replace/Angel — !inpend Elder\\n/replace/Elder — 
+	time_created: 2023-12-26 04:47:13
+	time_modified: 2026-05-31 18:46:05
+	extra_data:
+		magic-m15-saga:
+			pride_pin: lesbian
+	name: Rahstahde, Brand of Truth
+	casting_cost: UR
+	image: image365
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	chapter_text: Transcend <i-auto>(Activate as a sorcery to gain the next type and a +1/+1 counter.)</i-auto>
+	level_2: Angel
+	level_3: Elder
+	level_4: 
+	level_1_text: The first instant or sorcery spell you cast during each of your turns costs <sym>U/R</sym> <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast.
+	level_2_text: <margin:0:0:30>Put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter and a <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a> counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Rahstahde</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:0:0:30>
+	level_3_text: <margin:0:0:30>Exile any number of instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it. You may cast the copies without paying their mana costs.</margin:0:0:30>
+	level_4_text: 
+	level_9_text: <sym-auto>UR</sym-auto>:
+	level_10_text: <sym-auto>5UR</sym-auto>:
+	level_11_text: 
+	power: 2
+	toughness: 2
+	illustrator: Nadia Dibaj
+	custom_card_number: 1583
+	card_code_text: Zangy
+	card_code_text_2: She/her
+	card_code_text_3: She/her
+	copyright: By Our Colors Combined — Cajun
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: She/her
+	special_text:
+		Transcend <i-auto>(Activate as a sorcery to gain the next type and a +1/+1 counter.)</i-auto>
+		The first instant or sorcery spell you cast during each of your turns costs <sym>U/R</sym> <i-auto>(or <sym-auto>1</sym-auto>)</i-auto> less to cast.
+		<sym-auto>UR</sym-auto>: Angel
+		<margin:0:0:30>Put a <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> counter and a <kw-a><nospellcheck><key>prowess</key></nospellcheck></kw-a> counter on <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Rahstahde</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:0:0:30>
+		<sym-auto>5UR</sym-auto>: Elder
+		<margin:0:0:30>Exile any number of instant and/or sorcery cards from your graveyard. For each card exiled this way, copy it. You may cast the copies without paying their mana costs.</margin:0:0:30>
+
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		shrink_typeline_text: 3
+		other_options: un-indent nonloyalty abilities, pride pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL180)
+	time_created: 2025-11-03 12:54:51
+	time_modified: 2026-05-31 18:45:55
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			pride_pin: bi
+			vorthos_box: He/him
+	card_color: red
+	name: Koios, the Bereaved
+	casting_cost: RRR
+	image: image366
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	indicator: colorless
+	super_type: <word-list-type-en>Legendary Enchantment Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment>Koios</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	loyalty_cost_2: +1
+	loyalty_cost_3: -3
+	loyalty: 4
+	level_1_text: Whenever you cast a multicolored red spell, you may activate one of <atom-legname><nospellcheck>Koios</nospellcheck></atom-legname>’s loyalty abilities.
+	level_2_text: <margin:130:0:0><atom-legname><nospellcheck>Koios</nospellcheck></atom-legname> deals 1 damage to any target. Add one mana of any color.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy.</margin:130:0:0>
+	level_4_text: 
+	level_5_text: 
+	illustrator: Zeradok
+	custom_card_number: 1585
+	card_code_text: Zangy
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: By Our Colors Combined — Cajun
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: 
+	special_text:
+		Whenever you cast a multicolored red spell, you may activate one of <atom-legname><nospellcheck>Koios</nospellcheck></atom-legname>’s loyalty abilities.
+		[+1]: <margin:130:0:0><atom-legname><nospellcheck>Koios</nospellcheck></atom-legname> deals 1 damage to any target. Add one mana of any color.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy.</margin:130:0:0>
+
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 10,15,311,
+		combined_chop: -2,-2,
+		opacity: 220
+		other_options: un-indent nonloyalty abilities, vehicle, pride pinlines
+		default_image_size: no
+		remove_from_autocount: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL180)
+	time_created: 2019-03-10 01:43:52
+	time_modified: 2026-05-31 18:35:06
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			pride_pin: trans
+			vorthos_box: She/her
+	name: Defect 37
+	casting_cost: RGWU
+	image: image367
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-planeswalker>XC037</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	sub_type_2: 
+	sub_type_3: 
+	rarity: rare
+	rule_text_2: 
+	rule_text_3: 
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	loyalty_cost_1: 
+	loyalty_cost_2: +1
+	loyalty_cost_3: -1
+	loyalty_cost_4: -6
+	loyalty: 3
+	level_1_text: As long as it’s your turn, <atom-cardname><nospellcheck>Defect 37</nospellcheck></atom-cardname> is a 7/7 Vehicle artifact with <kw-0><nospellcheck><key>crew <param-number>2</param-number></key></nospellcheck></kw-0>.
+	level_2_text: <margin:130:0:0>Creatures and Vehicles you control get +1/+1 until end of turn.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Put target permanent into its owner’s library, third from the top. If <atom-cardname><nospellcheck>Defect 37</nospellcheck></atom-cardname> is on the battlefield, return her to her owner’s hand.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>Until end of turn, each noncreature, nonland permanent you control becomes a creature in addition to its other types with base power and toughness each equal to their mana value or base power, whichever is greater.</margin:130:0:0>
+	level_5_text: 
+	level_6_text: 
+	illustrator: ThanhTuan613
+	custom_card_number: 1586
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: By Our Colors Combined — Cajun
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		As long as it’s your turn, <atom-cardname><nospellcheck>Defect 37</nospellcheck></atom-cardname> is a 7/7 Vehicle artifact with <kw-0><nospellcheck><key>crew <param-number>2</param-number></key></nospellcheck></kw-0>.
+		[+1]: <margin:130:0:0>Creatures and Vehicles you control get +1/+1 until end of turn.</margin:130:0:0>
+		[-1]: <margin:130:0:0>Put target permanent into its owner’s library, third from the top. If <atom-cardname><nospellcheck>Defect 37</nospellcheck></atom-cardname> is on the battlefield, return her to her owner’s hand.</margin:130:0:0>
+		[-6]: <margin:130:0:0>Until end of turn, each noncreature, nonland permanent you control becomes a creature in addition to its other types with base power and toughness each equal to their mana value or base power, whichever is greater.</margin:130:0:0>
+
+card:
+	stylesheet: m15-saga
+	stylesheet_version: 2024-09-23
+	has_styling: true
+	styling_data:
+		other_options: class, pride pinlines
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (SL180)
+		!inpend Demon\\n/replace/Demon — !inpend Elder\\n/replace/Elder — 
+	time_created: 2023-12-26 04:47:13
+	time_modified: 2026-05-31 18:45:52
+	extra_data:
+		magic-m15-saga:
+			pride_pin: nonbinary
+	name: Fahrib, the Ever-Scheming
+	casting_cost: UB
+	image: image368
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	chapter_text: Transcend <i-auto>(Activate as a sorcery to gain the next type and a +1/+1 counter.)</i-auto>
+	level_2: Demon
+	level_3: Elder
+	level_4: 
+	level_1_text: You may play cards exiled with <atom-legname><nospellcheck>Fahrib</nospellcheck></atom-legname> and you may spend mana as though it were mana of any color to play them.
+	level_2_text: <margin:0:0:30>Each player exiles a card from their hand.</margin:0:0:30>
+	level_3_text: <margin:0:0:30>Exile the top five cards of each player’s library. <atom-legname><nospellcheck>Fahrib</nospellcheck></atom-legname> gains “Spells you cast from anywhere other than your hand cost <sym-auto>2</sym-auto> less to cast.”</margin:0:0:30>
+	level_4_text: 
+	level_9_text: <sym-auto>UB</sym-auto>:
+	level_10_text: <sym>4UB</sym>:
+	level_11_text: 
+	power: 2
+	toughness: 3
+	illustrator: skxviii
+	custom_card_number: 1587
+	card_code_text: Zangy
+	card_code_text_2: They/them
+	card_code_text_3: They/them
+	copyright: By Our Colors Combined — Cajun
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: They/them
+	special_text:
+		Transcend <i-auto>(Activate as a sorcery to gain the next type and a +1/+1 counter.)</i-auto>
+		You may play cards exiled with <atom-legname><nospellcheck>Fahrib</nospellcheck></atom-legname> and you may spend mana as though it were mana of any color to play them.
+		<sym-auto>UB</sym-auto>: Demon
+		<margin:0:0:30>Each player exiles a card from their hand.</margin:0:0:30>
+		<sym>4UB</sym>: Elder
+		<margin:0:0:30>Exile the top five cards of each player’s library. <atom-legname><nospellcheck>Fahrib</nospellcheck></atom-legname> gains “Spells you cast from anywhere other than your hand cost <sym-auto>2</sym-auto> less to cast.”</margin:0:0:30>
+
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 
+		opacity: 180
+		other_options: un-indent nonloyalty abilities, pride pinlines
+		custom_mask: 
+		default_image_size: no
+		remove_from_autocount: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL180)
+	time_created: 2017-04-04 15:40:51
+	time_modified: 2026-05-31 18:45:48
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			pride_pin: agender
+			vorthos_box: They/them
+	name: Lha Sha’rador
+	casting_cost: 2WW
+	image: image369
+	image_2: image370
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Sha’rador</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	rule_text: Create two 0/0 colorless Reflection creature tokens.
+	loyalty_cost_1: +2
+	loyalty_cost_2: -2
+	loyalty_cost_3: -7
+	loyalty: 4
+	level_1_text: <margin:130:0:0>Create two 0/0 colorless Reflection creature tokens.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Distribute four +1/+1 counters among any number of target creatures you control. You may tap or untap each of those creatures.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>You get an emblem with “Creature tokens you control can’t leave the battlefield.”</margin:130:0:0>
+	level_4_text: 
+	illustrator: Daniel Kamarudin
+	custom_card_number: 1588
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: By Our Colors Combined — Cajun
+	copyright_2: ™ & ©2017 Wizards of the Coast
+	copyright_3: ™ & ©2017 Wizards of the Coast
+	special_text:
+		[+2]: <margin:130:0:0>Create two 0/0 colorless Reflection creature tokens.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Distribute four +1/+1 counters among any number of target creatures you control. You may tap or untap each of those creatures.</margin:130:0:0>
+		[-7]: <margin:130:0:0>You get an emblem with “Creature tokens you control can’t leave the battlefield.”</margin:130:0:0>
+
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 160,35,57,26,
+		other_options: un-indent nonloyalty abilities, pride pinlines
+		default_image_size: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL180)
+	time_created: 2018-03-24 05:46:10
+	time_modified: 2026-05-31 18:45:45
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			pride_pin: lesbian, ace
+			vorthos_box: She/her
+	name: Mei, the Inflitrator
+	casting_cost: 1UB
+	image: image371
+	image_2: image372
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Mei</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	loyalty_cost_1: +1
+	loyalty_cost_2: -3
+	loyalty_cost_3: -6
+	loyalty: 3
+	level_1_text: <margin:130:0:0>Draw a card unless an opponent discards a card.</margin:130:0:0>
+	level_2_text: <margin:130:0:0>Gain control of target creature until the end of your next turn.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>Choose up to four cards in graveyards. You may play those cards without paying their mana costs.</margin:130:0:0>
+	illustrator: Ina Wong
+	custom_card_number: 1589
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: By Our Colors Combined — Cajun
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		[+1]: <margin:130:0:0>Draw a card unless an opponent discards a card.</margin:130:0:0>
+		[-3]: <margin:130:0:0>Gain control of target creature until the end of your next turn.</margin:130:0:0>
+		[-6]: <margin:130:0:0>Choose up to four cards in graveyards. You may play those cards without paying their mana costs.</margin:130:0:0>
+
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 160,35,65,30,
+		combined_chop: ,,5,
+		other_options: un-indent nonloyalty abilities, pride pinlines
+		default_image_size: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL180)
+	time_created: 2018-03-24 05:46:10
+	time_modified: 2026-05-31 18:45:42
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			pride_pin: aro
+			vorthos_box: She/her
+	name: Saia, the Mastermind
+	casting_cost: 3WU
+	image: image373
+	image_2: image374
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Saia</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	loyalty_cost_1: +1
+	loyalty_cost_2: -2
+	loyalty_cost_3: -6
+	loyalty: 4
+	level_1_text: <margin:130:0:5>Untap up to two target permanents. They gain <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until your next turn.</margin:130:0:5>
+	level_2_text: <margin:130:0:5>Tap up to three target permanents. They don’t untap during their controller’s next untap step.</margin:130:0:5>
+	level_3_text: <margin:130:0:5>Exile up to five target permanents. Return those cards to the battlefield under your control.</margin:130:0:5>
+	level_4_text: 
+	illustrator: Daniel Kamarudin
+	custom_card_number: 1590
+	card_code_text: Cajun
+	card_code_text_2: Cajun
+	card_code_text_3: Cajun
+	copyright: By Our Colors Combined — Cajun
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		[+1]: <margin:130:0:5>Untap up to two target permanents. They gain <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a> until your next turn.</margin:130:0:5>
+		[-2]: <margin:130:0:5>Tap up to three target permanents. They don’t untap during their controller’s next untap step.</margin:130:0:5>
+		[-6]: <margin:130:0:5>Exile up to five target permanents. Return those cards to the battlefield under your control.</margin:130:0:5>
+
+card:
+	stylesheet: m15-mainframe-attain-dfc
+	stylesheet_version: 2020-09-04
+	has_styling: true
+	styling_data:
+		back_style: normal
+		level_5_chop: 0,10
+		custom_symbol_one: shut-rose.png
+		custom_symbol_two: rose.png
+		other_options: vorthos box, pride pinlines, use hovering pt, use holofoil stamps, clear front, clear back, back color indicator, unindent nonloyalty abilities, automate type frames
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (SL180)
+		!append ({6}: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
+	time_created: 2022-03-06 12:36:08
+	time_modified: 2026-05-31 18:35:58
+	extra_data:
+		magic-m15-mainframe-attain-dfc:
+			corner: custom one
+			corner_2: custom two
+			vorthos_box: They/Them
+			vorthos_box_2: They/Them
+			pride_pin: nonbinary
+			pride_pin_2: nonbinary
+		magic-m15-mainframe-dfc:
+			vorthos_box: They/Them
+			vorthos_box_2: They/Them
+	name: Animus, Life’s Entropy
+	name_2: Animus Reformed
+	casting_cost: 4
+	image: image375
+	image_2: image376
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en></word-list-race-en>
+	sub_type_2: <word-list-race-en></word-list-race-en>
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		As Animus, Life’s Entropy enters, choose a color.
+		You and Animus each have <kw-a><nospellcheck><key>hexproo<param-name>f</param-name> from <param-name>the chosen color</param-name>.</key></nospellcheck></kw-a>
+		Attain <sym>6</sym>
+	rule_text_2:
+		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a>
+		You have <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>.
+		If a source would deal damage to you, prevent 1 of that damage.
+		<sym-auto>1</sym-auto>, Sacrifice two permanents: Draw two cards. Activate only during your turn.
+	rule_text_3: 
+	rule_text_4: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	flavor_text_4: <i-flavor></i-flavor>
+	power: 2
+	power_2: 5
+	toughness: 4
+	toughness_2: 5
+	illustrator: Alena Ymhin
+	illustrator_2: Valentina Remenar
+	custom_card_number: 1591
+	card_code_text: TEST
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: By Our Colors Combined — Cajun
+	copyright_2: By Our Coors Combined — Cajun
+	copyright_3: 
+
+card:
+	stylesheet: m15-mainframe-dfc
+	stylesheet_version: 2024-09-06
+	has_styling: true
+	styling_data:
+		back_style: 3 ability planeswalker
+		other_options: vorthos box, pride pinlines, use hovering pt
+		level_1_chop: -5,5
+		level_5_chop: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (SL180)
+		!append ({4}{R}{W}: Transform this creature. This costs {1} less to activate for each counter on it. Activate only as a sorcery.)
+	time_created: 2023-12-26 10:13:17
+	time_modified: 2026-05-31 18:45:36
+	extra_data:
+		magic-m15-mainframe-dfc:
+			front_color_hint: k
+			vorthos_box_2: They/them
+			pride_pin_2: nonbinary
+	card_color_2: white, red, multicolor, horizontal
+	name: The Lost and Seeking
+	name_2: Ameret, Shining and Proud
+	casting_cost: R/W
+	image: image377
+	image_2: image378
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: <word-list-planeswalker>Ameret</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: rare
+	rule_text:
+		Whenever another legendary creature you control enters, put a +1/+1 counter on <atom-cardname><nospellcheck>The Lost and Seeking</nospellcheck></atom-cardname>.
+		Surpass <sym>4RW</sym>
+	flavor_text: <i-flavor></i-flavor>
+	loyalty_cost_6: +1
+	loyalty_cost_7: -2
+	loyalty_cost_8: 
+	loyalty_cost_10: +1
+	loyalty_cost_11: -2
+	loyalty_2: 
+	level_2_text: <i-flavor></i-flavor>
+	level_3_text: 
+	level_5_text: As this permanent transforms into <atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname>, counters on <soft-line><atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname></soft-line> become loyalty counters instead.
+	level_6_text: <margin:130:0:0>Until end of turn, you may have <atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname> become a X/X Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, where X is the number of counters on them.</margin:130:0:0>
+	level_7_text: <margin:130:0:0>Create three 1/1 white and red Cleric creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_8_text: 
+	level_9_text: As this permanent transforms into <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Shining and Proud, counters on them become loyalty counters instead.
+	level_10_text: <margin:130:0:0>Until end of turn, you may have <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> become an X/X Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, where X is the number of counters on them.</margin:130:0:0>
+	level_11_text: <margin:130:0:0>Create three 1/1 red and white Cleric creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
+	level_12_text: 
+	power: 1
+	toughness: 1
+	illustrator: less_draws
+	illustrator_2: nni_barrel
+	custom_card_number: 1592
+	card_code_text: Zangy
+	card_code_text_2: Zangy
+	card_code_text_3: 
+	copyright: By Our Colors Combined — Cajun
+	copyright_2: By Our Colors Combined — Cajun
+	copyright_3: 
+	secondary_copyright_2:
+		 
+	special_text: 
+	special_text_2:
+		As this permanent transforms into <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>, Shining and Proud, counters on them become loyalty counters instead.
+		[+1]: <margin:130:0:0>Until end of turn, you may have <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Ameret</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> become an X/X Angel creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, where X is the number of counters on them.</margin:130:0:0>
+		[-2]: <margin:130:0:0>Create three 1/1 red and white Cleric creature tokens with <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.</margin:130:0:0>
+
+card:
+	stylesheet: m15-mainframe-planeswalker
+	stylesheet_version: 2024-09-01
+	has_styling: true
+	styling_data:
+		popout_image_style: 160,5,70,60,
+		opacity: 140
+		other_options: un-indent nonloyalty abilities, pride pinlines
+		default_image_size: no
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !hidetag (SL180)
+	time_created: 2021-08-16 14:06:01
+	time_modified: 2026-05-31 20:38:55
+	extra_data:
+		magic-m15-mainframe-planeswalker:
+			pride_pin: gay
+			vorthos_box: He/Him
+	name: Hieronymus Scratch
+	casting_cost: 4BRG
+	image: image379
+	image_2: image380
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Planeswalker</word-list-type-en>
+	sub_type: <word-list-planeswalker>Scratch</word-list-planeswalker><soft><atom-sep> </atom-sep></soft><word-list-planeswalker></word-list-planeswalker>
+	rarity: mythic rare
+	loyalty_cost_1: 
+	loyalty_cost_2: +1
+	loyalty_cost_3: -2
+	loyalty_cost_4: -4
+	loyalty: 7
+	level_1_text: Whenever you activate one of <atom-cardname><nospellcheck>Hieronymus Scratch</nospellcheck></atom-cardname>’s loyalty abilities, return up to one card from your graveyard to your hand.
+	level_2_text: <margin:130:0:0>You may sacrifice a creature. If you do, create a 5/5 black Demon creature token.</margin:130:0:0>
+	level_3_text: <margin:130:0:0>You may pay 2 life. If you do, each opponent loses 5 life.</margin:130:0:0>
+	level_4_text: <margin:130:0:0>You may sacrifice a land. If you do, you may cast a card from your hand without paying its mana cost.</margin:130:0:0>
+	level_5_text: 
+	level_6_text: 
+	illustrator: OTL Miu
+	custom_card_number: 1584
+	card_code_text: Pipsqueak
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: By Our Colors Combined — Cajun
+	copyright_2: 
+	copyright_3: 
+	special_text:
+		Whenever you activate one of <atom-cardname><nospellcheck>Hieronymus Scratch</nospellcheck></atom-cardname>’s loyalty abilities, return up to one card from your graveyard to your hand.
+		[+1]: <margin:130:0:0>You may sacrifice a creature. If you do, create a 5/5 black Demon creature token.</margin:130:0:0>
+		[-2]: <margin:130:0:0>You may pay 2 life. If you do, each opponent loses 5 life.</margin:130:0:0>
+		[-4]: <margin:130:0:0>You may sacrifice a land. If you do, you may cast a card from your hand without paying its mana cost.</margin:130:0:0>
+
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-01-23
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: borderless art
+		popout_image_style: 80,10,120,60,
+		other_options: auto nyx crowns
+		card_watermark: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes:
+		!hidetag (SL178)<soft-line>
+		!design Zangy</soft-line>
+	time_created: 2021-08-19 13:14:22
+	time_modified: 2026-05-31 20:41:14
+	name: Eltensian Hospitality
+	casting_cost: 2RR
+	image: image381
+	image_2: 
+	mainframe_image: image382
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		<sym-auto>R</sym-auto>, Discard a land card: <atom-cardname><nospellcheck>Eltensian Hospitality</nospellcheck></atom-cardname> deals 3 damage to any target.
+		Whenever you cast an instant or sorcery spell while you’re ancient, copy that spell. You may choose new targets for the copy.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Dominik Mayer
+	custom_card_number: 1581
+	card_code_text: Blood Like Rivers — Pipsqueak
+	card_code_text_2: Story Spotlight 4/5
+	card_code_text_3: Story Spotlight 4/5
+	copyright: Year Nine
 	copyright_2: 
 	copyright_3: 
 

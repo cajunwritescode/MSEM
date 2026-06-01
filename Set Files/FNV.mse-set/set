@@ -2234,7 +2234,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-04-12 16:26:51
 	time_modified: 2021-06-18 18:26:56
 	card_color_2: black, green, multicolor, horizontal
@@ -2276,7 +2276,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-04-10 18:13:24
 	time_modified: 2021-06-21 21:45:52
 	card_color_2: black, red, multicolor, horizontal
@@ -2326,7 +2326,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2020-04-10 18:13:24
 	time_modified: 2022-03-26 09:41:27
 	card_color_2: blue, red, multicolor, horizontal
@@ -2371,7 +2371,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-04-10 18:13:24
 	time_modified: 2021-06-21 19:12:43
 	card_color_2: black, red, multicolor, horizontal
@@ -2417,7 +2417,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2020-04-12 16:26:51
 	time_modified: 2026-05-31 01:13:16
 	extra_data:
@@ -2462,7 +2462,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-04-12 16:26:51
 	time_modified: 2021-06-19 15:15:14
 	card_color_2: black, red, multicolor, horizontal
@@ -2631,7 +2631,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-04-12 16:26:51
 	time_modified: 2026-05-31 01:07:27
 	card_color_2: black, green, multicolor, horizontal
@@ -2673,7 +2673,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-04-10 18:13:24
 	time_modified: 2021-06-19 13:01:28
 	card_color_2: black, green, multicolor, horizontal
@@ -2970,7 +2970,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-04-12 16:26:51
 	time_modified: 2022-05-13 14:42:32
 	card_color_2: blue, red, multicolor, horizontal
@@ -3010,7 +3010,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-04-12 16:26:51
 	time_modified: 2021-06-18 19:33:02
 	card_color_2: blue, red, multicolor, horizontal
@@ -3454,7 +3454,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2020-07-28 01:55:14
 	time_modified: 2021-09-06 13:46:36
 	card_color_2: blue, red, multicolor, horizontal
@@ -3550,7 +3550,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2020-07-28 01:55:14
 	time_modified: 2021-06-21 19:35:05
 	card_color_2: white, blue, multicolor, horizontal
@@ -3799,7 +3799,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-08-03 00:43:48
 	time_modified: 2022-03-29 15:37:28
 	card_color_2: white, green, multicolor, horizontal
@@ -3841,7 +3841,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-08-03 00:43:48
 	time_modified: 2022-03-29 15:37:19
 	card_color_2: white, green, multicolor, horizontal
@@ -3889,7 +3889,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2020-05-30 02:03:22
 	time_modified: 2022-02-24 12:25:51
 	extra_data:
@@ -3936,7 +3936,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-08-03 00:43:48
 	time_modified: 2021-06-18 17:12:15
 	card_color_2: white, green, multicolor, horizontal
@@ -4093,7 +4093,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2019-12-01 20:25:21
 	time_modified: 2021-10-01 18:23:22
 	extra_data:
@@ -4367,7 +4367,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-04-10 18:13:24
 	time_modified: 2021-09-21 18:41:04
 	card_color_2: white, green, multicolor, horizontal
@@ -4413,7 +4413,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2020-04-12 16:26:51
 	time_modified: 2021-06-18 17:21:15
 	card_color_2: white, blue, multicolor, horizontal
@@ -4455,7 +4455,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-04-12 16:26:51
 	time_modified: 2021-09-01 06:14:15
 	card_color_2: white, blue, multicolor, horizontal
@@ -4523,7 +4523,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-04-10 18:13:24
 	time_modified: 2021-06-18 18:18:43
 	card_color_2: white, blue, multicolor, horizontal
@@ -4564,7 +4564,7 @@ card:
 	stylesheet: m15-mainframe-dfc
 	stylesheet_version: 2024-09-06
 	has_styling: false
-	notes: !update
+	notes: 
 	time_created: 2020-04-10 18:13:24
 	time_modified: 2021-06-18 18:21:07
 	card_color_2: black, green, multicolor, horizontal
@@ -4990,7 +4990,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2020-08-10 16:07:45
 	time_modified: 2025-05-06 23:29:30
 	extra_data:
@@ -5042,7 +5042,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2019-12-26 00:05:01
 	time_modified: 2022-06-21 23:21:45
 	extra_data:
@@ -6756,7 +6756,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2022-02-28 17:12:32
 	time_modified: 2022-02-28 18:38:51
 	extra_data:
@@ -7151,7 +7151,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !update
+	notes: 
 	time_created: 2020-08-10 17:03:37
 	time_modified: 2025-05-06 23:30:29
 	extra_data:

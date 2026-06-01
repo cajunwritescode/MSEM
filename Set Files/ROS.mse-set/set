@@ -3328,7 +3328,7 @@ card:
 	notes:
 		fullart
 		battle
-		!update
+		
 	time_created: 2023-12-26 10:13:34
 	time_modified: 2026-05-31 00:32:57
 	name: Danaj Rising
@@ -4773,7 +4773,7 @@ card:
 		overlay: 
 	notes:
 		Offcolor Flashback Cycle
-		!update
+		
 	time_created: 2023-12-26 10:14:52
 	time_modified: 2026-05-31 01:00:10
 	name: Refracting Image
