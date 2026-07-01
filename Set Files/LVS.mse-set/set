@@ -2803,8 +2803,9 @@ card:
 	notes:
 		Fireflies — Owl City
 		!done Creature slot
+		
 	time_created: 2020-05-07 22:43:45
-	time_modified: 2023-08-31 22:13:16
+	time_modified: 2026-06-30 15:45:00
 	name: Glowspore Grove
 	casting_cost: W
 	image: image96
@@ -2813,7 +2814,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text: When <atom-cardname><nospellcheck>Glowspore Grove</nospellcheck></atom-cardname> enters or leaves the battlefield, create a 1/1 blue Elemental creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	rule_text: When <atom-cardname><nospellcheck>Glowspore Grove</nospellcheck></atom-cardname> enters or dies, create a 1/1 blue Elemental creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>The <error-spelling:en_US>bioluminescent</error-spelling:en_US> jellies light up <error-spelling:en_US>Olten</error-spelling:en_US> as its inhabitants fall asleep.</i-flavor>
 	illustrator: Joshua Eiten
 	card_code_text: 
@@ -5955,7 +5956,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: mythic rare
 	rule_text:
-		Equipped creature gets +2/+2 and has <kw-0><nospellcheck><key>protection from <param-name>green and from white.</param-name></key></nospellcheck></kw-0>
+		Equipped creature gets +2/+2 and has <kw-0><nospellcheck><key>protection from <param-name>green and from white</param-name>.</key></nospellcheck></kw-0>
 		Whenever equipped creature deals combat damage to a player, you may reveal the top five cards of your library. Put a creature card revealed this way into your hand, then put the rest into your graveyard. Destroy up to one target enchantment.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>

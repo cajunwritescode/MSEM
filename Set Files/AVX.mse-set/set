@@ -696,10 +696,10 @@ card:
 	has_styling: false
 	notes:
 		Fireflies — Owl City
-		
+		 nerfed: Changed from LTB
 		functional errata (buff)
 	time_created: 2021-01-24 17:20:22
-	time_modified: 2023-01-16 23:16:42
+	time_modified: 2026-06-30 15:43:16
 	name: Glowspore Grove
 	casting_cost: W
 	image: image29
@@ -708,7 +708,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
-	rule_text: When <atom-cardname><nospellcheck>Glowspore Grove</nospellcheck></atom-cardname> enters or leaves the battlefield, create a 1/1 blue Elemental creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	rule_text: When <atom-cardname><nospellcheck>Glowspore Grove</nospellcheck></atom-cardname> enters or dies, create a 1/1 blue Elemental creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 	flavor_text:
 		<i-flavor>“If you’re looking for any of those jellies, I know where several are.”<soft-line>
 		—Mia Reyes, <error-spelling:en_US>Xenobiologist</soft-line></i-flavor></error-spelling:en_US>
@@ -1850,7 +1850,7 @@ card:
 	has_styling: false
 	notes:
 		My Songs Know What You Did In The Dark — Fall Out Boy
-		
+
 	time_created: 2022-04-22 22:07:58
 	time_modified: 2026-05-31 00:38:33
 	name: Heat Blast
@@ -1984,7 +1984,7 @@ card:
 	has_styling: false
 	notes:
 		Rat — Penelope Scott
-		
+
 	time_created: 2022-04-24 20:53:51
 	time_modified: 2026-05-31 00:38:41
 	name: Lost and Alone
@@ -2839,9 +2839,12 @@ card:
 
 card:
 	has_styling: false
-	notes: One Foot On The Gas, One Foot In The Grave — Streetlight Manifesto
+	notes:
+		One Foot On The Gas, One Foot In The Grave — Streetlight Manifesto
+		
+		 nerfed: Changed from LTB
 	time_created: 2022-11-25 12:50:33
-	time_modified: 2023-08-21 19:49:47
+	time_modified: 2026-06-30 15:43:48
 	name: Unstable Vein
 	casting_cost: 1G
 	image: image271
@@ -2851,7 +2854,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rule_text:
-		Whenever <atom-cardname><nospellcheck>Unstable Vein</nospellcheck></atom-cardname> enters or leaves the battlefield, choose one —
+		Whenever <atom-cardname><nospellcheck>Unstable Vein</nospellcheck></atom-cardname> enters or dies, choose one —
 		<li><bullet>• </bullet>Put a +1/+1 counter on each of up to two target creatures.
 		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Unstable Vein</nospellcheck></atom-cardname> deals 2 damage to target creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</li>
 	flavor_text: <i-flavor><error-spelling:en_US>Slyten</error-spelling:en_US> disintegrates, into the air you breath and also in the water.</i-flavor>
@@ -4099,9 +4102,11 @@ card:
 
 card:
 	has_styling: false
-	notes: Closing Time — Semisonic
+	notes:
+		Closing Time — Semisonic
+		 nerfed: Changed from LTB
 	time_created: 2023-01-09 21:06:52
-	time_modified: 2023-04-05 21:09:56
+	time_modified: 2026-06-30 15:43:38
 	name: Enter the Wormhole
 	casting_cost: 1UB
 	image: image194
@@ -4111,7 +4116,7 @@ card:
 	super_type: <word-list-type-en>Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rule_text:
-		When <atom-cardname><nospellcheck>Enter the Wormhole</nospellcheck></atom-cardname> enters or leaves the battlefield, draw a card.
+		When <atom-cardname><nospellcheck>Enter the Wormhole</nospellcheck></atom-cardname> enters or dies, draw a card.
 		Whenever you cast a noncreature spell, target player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor>You don’t have to go home, but you can’t stay here.</i-flavor>
 	illustrator: Reid Southen
@@ -6923,10 +6928,10 @@ card:
 	has_styling: false
 	notes:
 		Popstars — K/DA
-		
+		 nerfed: Used to have Flash instead of vigilance
 		Spice Girls
 	time_created: 2023-02-11 14:21:03
-	time_modified: 2023-08-21 18:29:51
+	time_modified: 2026-06-30 15:42:07
 	name: Operative POSH
 	casting_cost: 2/U2/U2/U
 	image: image268
@@ -6937,7 +6942,7 @@ card:
 	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		<kw-a><nospellcheck><key>Flash</key></nospellcheck></kw-a>
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
 		Whenever <atom-cardname><nospellcheck>Operative POSH</nospellcheck></atom-cardname> attacks or you cast a green or red spell, exile up to one target nontoken permanent. Return that card to the battlefield under its owner’s control at the beginning of the next end step.
 	flavor_text: <i-flavor>“So keep your eyes on me now.”</i-flavor>
 	power: 4
@@ -8393,7 +8398,7 @@ card:
 	has_styling: false
 	notes:
 		Cabaret from Cabaret
-		
+
 	time_created: 2023-08-27 16:54:04
 	time_modified: 2026-05-31 00:38:56
 	name: Worn Study
@@ -9648,7 +9653,7 @@ card:
 		overlay: 
 	notes:
 		Say It Ain’t So — Weezer
-		
+
 	time_created: 2023-08-14 19:16:29
 	time_modified: 2026-05-31 00:38:47
 	name: Love Letters

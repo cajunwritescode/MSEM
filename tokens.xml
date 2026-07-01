@@ -692,6 +692,7 @@
  <reverse-related>Find Greater Purpose (SL85)</reverse-related>
  <reverse-related>Flamecaller's Command (SL122)</reverse-related>
  <reverse-related>Herald of the Humble (SL176)</reverse-related>
+ <reverse-related>Herald of the Humble (SL181)</reverse-related>
  <reverse-related>Ignition Engine (SL120)</reverse-related>
  <reverse-related>Ignition Engine (SL121)</reverse-related>
  <reverse-related>Infectious Ego (SL52)</reverse-related>
@@ -705,7 +706,7 @@
  <reverse-related>Little Pig (SL114)</reverse-related>
  <reverse-related>Marilye, Heirloom Pilferer (SL92)</reverse-related>
  <reverse-related>Masahita, Bloodtongue (SL81)</reverse-related>
- <reverse-related>Mei, the Inflitrator (SL180)</reverse-related>
+ <reverse-related>Mei, the Infiltrator (SL180)</reverse-related>
  <reverse-related>Mourn No More (SL99)</reverse-related>
  <reverse-related>Mystic Parliament (SL60)</reverse-related>
  <reverse-related>No Rest (SL19)</reverse-related>
@@ -21815,6 +21816,17 @@ Whenever this creature attacks, scry 1.</text>
  <tablerow>2</tablerow>
  <reverse-related>High-Priestess Nebti (SL71)</reverse-related>
  <set num="LAIR57" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR57.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Imp 11LAIR</name>
+ <text></text>
+ <colors>B</colors>
+ <type>Token Creature — Imp</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Impden Mother (SL181)</reverse-related>
+ <set num="LAIR110" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR110.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>green Horror 32LAIR</name>

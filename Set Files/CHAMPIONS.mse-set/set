@@ -7062,6 +7062,37 @@ card:
 	copyright_2: 
 	copyright_3: 
 
+card:
+	has_styling: false
+	notes:
+		 !num 169
+		!design Purplemurasaki
+		FINAL LIP
+		!append  (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+	time_created: 2024-10-03 00:03:37
+	time_modified: 2026-06-30 15:49:21
+	name: Life Unto Life
+	casting_cost: 3RR
+	image: image25.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		Exile target creature. That creature’s controller reveals cards from the top of their library until they reveal a creature card. That player puts that card onto the battlefield, then shuffles.
+		<kw-0><nospellcheck><key>Flashback <param-cost><sym>2RR</sym></param-cost></key></nospellcheck></kw-0>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Hodlover69
+	custom_card_number: Grand Prix Casablanca — Nix
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Design — Purplemurasaki
+	copyright_2: 
+	copyright_3: 
+
 keyword:
 	keyword: Coalesce
 	match: Coalesce <atom-param>mana</atom-param>

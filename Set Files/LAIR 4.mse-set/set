@@ -4278,7 +4278,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL152)
-		
+
 	time_created: 2018-03-07 04:24:45
 	time_modified: 2026-05-31 00:45:06
 	name: Phantasmal Owl
@@ -10863,7 +10863,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL171)
-		
+
 	time_created: 2020-09-03 18:41:30
 	time_modified: 2026-05-31 00:42:54
 	name: Void Portal
@@ -13165,14 +13165,17 @@ card:
 		default_image_size: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL180)
+	notes:
+		!hidetag (SL180)
+		!renameof Mei, the Inflitrator
+		
 	time_created: 2018-03-24 05:46:10
-	time_modified: 2026-05-31 18:45:45
+	time_modified: 2026-06-30 15:30:00
 	extra_data:
 		magic-m15-mainframe-planeswalker:
 			pride_pin: lesbian, ace
 			vorthos_box: She/her
-	name: Mei, the Inflitrator
+	name: Mei, the Infiltrator
 	casting_cost: 1UB
 	image: image371
 	image_2: image372

@@ -3913,17 +3913,22 @@ card:
 
 card:
 	has_styling: false
-	notes: copy copy
+	notes:
+		copy copy
+		 nerfed: Was {4}{U} instant.
 	time_created: 2024-08-19 22:16:52
-	time_modified: 2026-05-20 12:01:33
+	time_modified: 2026-06-30 21:35:42
 	card_color: blue
 	name: From the Mirror
-	casting_cost: 4U
+	casting_cost: 3UU
 	image: image144
 	image_2: 
 	mainframe_image: 
 	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	sub_type_2: 
 	sub_type_3: 
@@ -4106,7 +4111,7 @@ card:
 	has_styling: false
 	notes:
 		Oobe-like removal
-		
+
 	time_created: 2025-04-03 09:37:34
 	time_modified: 2026-05-31 00:13:03
 	name: Acrylic Run

@@ -403,7 +403,9 @@ card:
 
 card:
 	has_styling: false
-	notes: !Downshift
+	notes:
+		!Downshift
+		
 	time_created: 2025-11-08 08:44:26
 	time_modified: 2026-02-28 19:24:29
 	name: Heir's Legacy
@@ -1524,9 +1526,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2025-11-08 08:44:26
-	time_modified: 2026-01-03 19:26:45
+	time_modified: 2026-06-30 22:39:19
 	name: Ha'Eng, Figure of Greed
 	casting_cost: 1B
 	image: image255.png
@@ -1544,7 +1546,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever a creature an opponent controls dies, exile the top card of that player’s library face down. For as long as those cards remain exiled, you may look at them, you may cast them, and you may spend mana as though it were mana of any type to cast them.
+		Whenever a creature an opponent controls dies, exile the top card of that player’s library face down. For as long as that card remains exiled, you may look at it, you may cast it, and you may spend mana as though it were mana of any type to cast it.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 2
@@ -17468,9 +17470,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		Slot 19	‎ 	Red	‎ 	Uncommon	‎ 	Creature (Any MV)																						
-		
+	notes: Slot 19	‎ 	Red	‎ 	Uncommon	‎ 	Creature (Any MV)																						
 	time_created: 2025-12-02 18:54:54
 	time_modified: 2026-05-31 01:04:21
 	name: Terraforger Rookie

@@ -5073,9 +5073,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		use_flash_dot: no
 		overlay: 
-	notes:
-		!FT: Mako
-
+	notes: !FT: Mako
 	time_created: 2024-09-08 09:50:03
 	time_modified: 2026-04-22 00:20:39
 	name: Channeler of the Veil
@@ -6759,7 +6757,7 @@ card:
 	has_styling: false
 	notes:
 		!design Queen Emily
-		
+
 	time_created: 2024-10-20 09:39:57
 	time_modified: 2024-12-22 10:16:35
 	name: Void Portal
@@ -9316,9 +9314,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		use_flash_dot: no
 		overlay: 
-	notes:
-		!FT: Popcornia
-
+	notes: !FT: Popcornia
 	time_created: 2024-09-08 09:50:03
 	time_modified: 2026-04-21 23:49:08
 	name: Field Tender
@@ -9890,9 +9886,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!FT: Zangy
-
+	notes: !FT: Zangy
 	time_created: 2024-09-08 09:50:03
 	time_modified: 2026-04-30 16:25:52
 	name: Primal Resurgence
@@ -10297,9 +10291,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!FT: softwood1
-
+	notes: !FT: softwood1
 	time_created: 2024-09-08 09:50:03
 	time_modified: 2026-04-21 23:47:54
 	name: Verdant Sanctuary
@@ -17690,6 +17682,7 @@ card:
 		https://jayessart.tumblr.com/post/688233569486864384/kelp-forest-spirit-and-mr-shark-instagram
 		!design n3onblue
 		!rejected
+		
 	time_created: 2023-12-05 15:43:57
 	time_modified: 2024-12-30 22:38:07
 	card_color: blue
