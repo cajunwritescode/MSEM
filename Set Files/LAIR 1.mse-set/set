@@ -199,9 +199,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !hidetag (SL01)
+	notes:
+		!hidetag (SL01)
+		!update
 	time_created: 2021-02-10 08:47:43
-	time_modified: 2021-02-25 19:39:11
+	time_modified: 2026-07-30 20:08:18
 	name: Starlight Beacon
 	image: image40
 	image_2: 
@@ -212,7 +214,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: <kw-A><nospellcheck><key>Aetherize</key></nospellcheck> target permanent you control. Activate only as a sorcery.<atom-reminder-action> <i-auto>(To aetherize, create a token that’s a copy of it, then exile that token.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>4</sym-auto>, <sym-auto>T</sym-auto>: <kw-A><nospellcheck><key>Aetherize</key></nospellcheck> target permanent you control. Activate only as a sorcery.<atom-reminder-action> <i-auto>(To aetherize, create a token that’s a copy of it, then exile that token.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>Don’t know when...</i-flavor>
 	illustrator: Alena Aenami
 	custom_card_number: 003
@@ -2042,9 +2044,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL08)
+	notes:
+		!hidetag (SL08)
+		!update
 	time_created: 2021-03-30 02:58:00
-	time_modified: 2021-04-12 21:47:35
+	time_modified: 2026-07-30 20:08:29
 	name: Starlight Beacon
 	image: image31
 	image_2: 
@@ -2055,7 +2059,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: <kw-A><nospellcheck><key>Aetherize</key></nospellcheck> target permanent you control. Activate only as a sorcery.<atom-reminder-action> <i-auto>(To aetherize, create a token that’s a copy of it, then exile that token.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>4</sym-auto>, <sym-auto>T</sym-auto>: <kw-A><nospellcheck><key>Aetherize</key></nospellcheck> target permanent you control. Activate only as a sorcery.<atom-reminder-action> <i-auto>(To aetherize, create a token that’s a copy of it, then exile that token.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor>...in between our times.</i-flavor>
 	illustrator: Roger Dean
 	custom_card_number: 064
@@ -2107,9 +2111,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL09)
-
+	notes: !hidetag (SL09)
 	time_created: 2021-04-19 14:24:51
 	time_modified: 2026-04-22 00:05:45
 	name: Sights Beyond
@@ -4497,9 +4499,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL18b)
-
+	notes: !hidetag (SL18b)
 	time_created: 2021-04-26 12:30:49
 	time_modified: 2026-04-22 00:06:00
 	name: Sights Beyond
@@ -4970,9 +4970,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag (SL18)
-
+	notes: !hidetag (SL18)
 	time_created: 2021-03-08 13:25:20
 	time_modified: 2026-04-22 00:08:18
 	name: Sights Beyond
@@ -6828,7 +6826,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL24)
-		
+
 	time_created: 2021-06-30 12:24:42
 	time_modified: 2026-05-31 00:49:30
 	name: Mastery of the Veil
@@ -6861,7 +6859,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL24)
-		
+
 	time_created: 2021-06-29 22:55:37
 	time_modified: 2026-05-31 00:49:39
 	name: Memento Mori
@@ -6892,7 +6890,6 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL24)
-		
 
 	time_created: 2021-06-29 22:43:08
 	time_modified: 2026-05-31 00:49:08
@@ -6926,7 +6923,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL24)
-		
+
 	time_created: 2021-07-06 22:53:07
 	time_modified: 2026-05-31 00:49:50
 	name: Meteor Fall
@@ -6966,7 +6963,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL24)
-		
+
 	time_created: 2021-06-30 11:37:49
 	time_modified: 2026-05-31 00:47:45
 	name: Crystal Wave
@@ -7000,7 +6997,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL24)
-		
+
 	time_created: 2021-06-30 12:10:37
 	time_modified: 2026-05-31 00:48:04
 	name: Days of Decay
@@ -8341,8 +8338,8 @@ card:
 	secondary_copyright: 
 	special_text:
 		(As this Discovery enters and after your draw step, add a progress counter. Stop after you've discovered.)
-		I, II — Look at the top five cards of your library. Put up to one creature card with mana value 2 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
-		Discovery — At the beginning of combat on your turn, tap target creature an opponent controls.
+		Look at the top five cards of your library. Put up to one creature card with mana value 2 or less from among them onto the battlefield. Put the rest on the bottom of your library in a random order.
+		At the beginning of combat on your turn, tap target creature an opponent controls.
 		​
 
 card:
@@ -8388,7 +8385,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL29)
-		
+
 	time_created: 2021-08-09 10:18:25
 	time_modified: 2026-05-31 00:47:10
 	card_color: blue
@@ -8450,7 +8447,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL29)
-		
+
 	time_created: 2021-08-09 10:30:27
 	time_modified: 2026-05-31 00:46:07
 	name: Atlas of Worlds
@@ -8480,7 +8477,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL29)
-		
+
 	time_created: 2021-08-09 10:35:52
 	time_modified: 2026-05-31 00:48:37
 	name: Farseek
@@ -8508,7 +8505,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL29)
-		
+
 	time_created: 2021-08-09 10:33:20
 	time_modified: 2026-05-31 00:50:19
 	name: Oracle’s Vision
@@ -9158,8 +9155,8 @@ card:
 	special_text:
 		<i-auto>(As you complete a condition, decode it. After all are decoded, you solve the mystery and transform this.)</i-auto>
 		When <atom-cardname><nospellcheck>Mystery of the Crashed Craft</nospellcheck></atom-cardname> enters, create two 1/1 red Alien creature tokens with “This creature can’t block.”
-		{mg} — You cast an instant spell.
-		{mg} — You cast a sorcery spell.
+		You cast an instant spell.
+		You cast a sorcery spell.
 
 card:
 	stylesheet: m15-altered
@@ -9874,7 +9871,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL33)
-		
+
 	time_created: 2021-09-22 17:26:20
 	time_modified: 2026-05-31 00:50:08
 	name: Nimbus Glider
@@ -9913,7 +9910,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL33)
-		
+
 	time_created: 2021-09-22 17:13:39
 	time_modified: 2026-05-31 00:52:06
 	name: Waxing Angel
@@ -9955,7 +9952,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL33)
-		
+
 	time_created: 2021-09-22 17:07:18
 	time_modified: 2026-05-31 00:50:44
 	name: Seeker of Mysteries
@@ -10021,7 +10018,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL33)
-		
+
 	time_created: 2021-09-22 17:40:38
 	time_modified: 2026-05-31 00:46:55
 	name: Conflux Ravager
@@ -10052,7 +10049,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL33)
-		
+
 	time_created: 2021-09-22 17:17:07
 	time_modified: 2026-05-31 00:50:30
 	name: Scion of Fecundity
@@ -10091,7 +10088,7 @@ card:
 	notes:
 		!hidetag (SL33)
 		!revivetoken
-		
+
 	time_created: 2021-09-22 17:17:07
 	time_modified: 2026-05-31 00:50:37
 	card_color: white, green, hybrid, horizontal
@@ -11208,7 +11205,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL37)
-		
+
 	time_created: 2021-10-23 22:32:46
 	time_modified: 2026-05-31 00:50:24
 	name: Rapid Rodent
@@ -11305,7 +11302,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL37)
-		
+
 	time_created: 2021-10-23 22:29:51
 	time_modified: 2026-05-31 00:50:51
 	name: Silent Hypnotist
@@ -11339,7 +11336,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL37)
-		
+
 	time_created: 2021-10-23 17:49:30
 	time_modified: 2026-05-31 00:51:19
 	name: Thundermane Fox
@@ -11437,7 +11434,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL37)
-		
+
 	time_created: 2021-10-23 17:58:00
 	time_modified: 2026-05-31 00:51:36
 	name: Tyrant of Tributes
@@ -11468,7 +11465,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL37)
-		
+
 	time_created: 2021-10-23 22:25:56
 	time_modified: 2026-05-31 00:48:27
 	name: End of Monsters
@@ -11658,7 +11655,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL38)
-		
+
 	time_created: 2021-11-17 17:46:39
 	time_modified: 2026-05-31 00:51:51
 	name: Voidbringer
@@ -15111,7 +15108,6 @@ card:
 	notes:
 		!hidetag (SL49)
 		!design Reuben
-
 	time_created: 2022-01-27 09:52:06
 	time_modified: 2026-04-22 14:49:09
 	name: Starved Oasis
@@ -15408,7 +15404,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL50)
-		
+
 	time_created: 2021-10-01 22:37:58
 	time_modified: 2026-05-31 00:52:36
 	name: Fiery Burst

@@ -3817,9 +3817,9 @@ card:
 
 card:
 	has_styling: false
-	notes: !alter
+	notes: !update nerfed: Cost increased by {1}.
 	time_created: 2019-06-23 20:25:28
-	time_modified: 2019-10-11 01:08:04
+	time_modified: 2026-07-30 20:06:05
 	name: Starlight Beacon
 	image: image72
 	image_2: 
@@ -3834,7 +3834,7 @@ card:
 	rarity: special
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: <kw-1><nospellcheck><key>Aetherize</key></nospellcheck> target permanent you control. Activate only as a sorcery.<atom-reminder-action> <i-auto>(To aetherize, create a token that’s a copy of it, then exile that token.)</i-auto></atom-reminder-action></kw-1>
+		<sym-auto>4</sym-auto>, <sym-auto>T</sym-auto>: <kw-1><nospellcheck><key>Aetherize</key></nospellcheck> target permanent you control. Activate only as a sorcery.<atom-reminder-action> <i-auto>(To aetherize, create a token that’s a copy of it, then exile that token.)</i-auto></atom-reminder-action></kw-1>
 	rule_text_2: 
 	rule_text_3: 
 	flavor_text: <i-flavor></i-flavor>

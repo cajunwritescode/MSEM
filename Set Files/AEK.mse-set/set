@@ -4109,9 +4109,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		Oobe-like removal
-
+	notes: Oobe-like removal
 	time_created: 2025-04-03 09:37:34
 	time_modified: 2026-05-31 00:13:03
 	name: Acrylic Run
@@ -7985,9 +7983,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2025-04-16 08:00:08
-	time_modified: 2025-09-30 12:39:26
+	time_modified: 2026-07-09 21:22:38
 	extra_data:
 		magic-m15-altered-plus: vorthos_box: She/Her • He/Him
 	name: Selenite Flowergirl
@@ -8007,7 +8005,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>
-		Whenever another Avatar or a Horror creature you control enters, put a +1/+1 counter on it. If you control three or more Avatar and/or Horror creatures, put a +1/+1 counter on each creature you control instead.
+		Whenever another Avatar or Horror creature you control enters, put a +1/+1 counter on it. If you control three or more Avatar and/or Horror creatures, put a +1/+1 counter on each creature you control instead.
 	rule_text_2: 
 	rule_text_3: 
 	rule_text_4: 

@@ -38,6 +38,9 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
+	magic-m15-champions:
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
 	magic-m15-champions-silver:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
@@ -368,7 +371,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL101)
-		
+
 	time_created: 2023-09-06 16:21:55
 	time_modified: 2026-05-31 00:53:40
 	extra_data:
@@ -1306,7 +1309,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL104)
-		
+
 	time_created: 2023-09-26 09:45:54
 	time_modified: 2026-05-31 00:53:51
 	extra_data:
@@ -2045,9 +2048,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag (SL106)
-
+	notes: !hidetag (SL106)
 	time_created: 2022-10-22 22:50:36
 	time_modified: 2026-04-22 00:53:18
 	name: Warded Tome
@@ -3965,7 +3966,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL112)
-		
+
 	time_created: 2023-09-29 21:29:49
 	time_modified: 2026-05-31 00:53:33
 	name: Champion of the Provinces
@@ -3997,7 +3998,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL112)
-		
+
 	time_created: 2023-09-29 21:22:15
 	time_modified: 2026-05-31 00:53:20
 	name: Avid Researcher
@@ -4067,7 +4068,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL112)
-		
+
 	time_created: 2023-09-29 21:12:43
 	time_modified: 2026-05-31 00:54:05
 	name: Dedicated Weaponsmith
@@ -4133,7 +4134,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL112)
-		
+
 	time_created: 2023-09-29 22:07:42
 	time_modified: 2026-05-31 00:55:08
 	name: Wild Dogs of the Night
@@ -4162,7 +4163,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL112)
-		
+
 	time_created: 2023-09-29 21:19:02
 	time_modified: 2026-05-31 00:53:27
 	name: Bug Catcher
@@ -4193,7 +4194,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL112)
-		
+
 	time_created: 2023-10-12 13:08:19
 	time_modified: 2026-05-31 00:55:02
 	name: The Grand Simurgh
@@ -6143,9 +6144,7 @@ card:
 		other_options: un-indent nonloyalty abilities, mythic edition fullart, godzilla style alias
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		!subtitle!hidetag (SL117)
-
+	notes: !subtitle!hidetag (SL117)
 	time_created: 2023-12-22 00:22:46
 	time_modified: 2026-04-22 00:31:47
 	extra_data:
@@ -7171,7 +7170,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 13:05:46
 	time_modified: 2026-05-31 00:54:17
 	name: Eve’s Scheme
@@ -7221,9 +7220,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!hidetag (SL122)
-
+	notes: !hidetag (SL122)
 	time_created: 2024-01-25 12:38:50
 	time_modified: 2026-04-30 12:57:41
 	name: Culminating Chaos
@@ -7288,7 +7285,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL122)
-		
+
 	time_created: 2024-01-25 13:26:50
 	time_modified: 2026-05-31 00:54:25
 	name: Flamecaller’s Command
@@ -8234,9 +8231,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag (SL125)
-
+	notes: !hidetag (SL125)
 	time_created: 2024-04-15 12:19:08
 	time_modified: 2026-04-22 00:12:53
 	name: Danithra Muckbruiser
@@ -8641,9 +8636,11 @@ card:
 		chop_bottom: 5
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL126)
+	notes:
+		!hidetag (SL126)
+		!update
 	time_created: 2018-12-07 12:39:45
-	time_modified: 2024-04-29 17:03:56
+	time_modified: 2026-07-30 20:15:54
 	name: Petal Scatterer
 	casting_cost: GGG
 	image: image246
@@ -8654,11 +8651,11 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Blossom attached to target land. It has <kw-a><nospellcheck><key>enchant <param-name>land and “Enchanted land has ‘<sym>T</sym></param-name>:</key></nospellcheck></kw-a> Add <sym-auto>GG</sym-auto>.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”
+		When <atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Blossom attached to target land. It has <kw-a><nospellcheck><key>enchant <param-name>land and “Whenever enchanted land is tapped for mana, add <sym>G</sym></param-name>.</key></nospellcheck></kw-a>”
 		<atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> gets +1/+1 for each noncreature, nonland permanent you control.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 1
+	power: 2
+	toughness: 2
 	illustrator: 101neg
 	custom_card_number: 1058
 	card_code_text: CanterburyEgg
@@ -8863,17 +8860,19 @@ card:
 	copyright_3: 
 
 card:
-	stylesheet: m15-champions-silver
+	stylesheet: m15-champions
 	stylesheet_version: 2015-12-20
 	has_styling: true
 	styling_data:
-		chop_bottom: 5
 		token: text
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: !hidetag (SL126)
+	notes:
+		!hidetag (SL126)
+		!update
 	time_created: 2018-12-07 12:39:45
-	time_modified: 2024-04-29 17:04:34
+	time_modified: 2026-07-30 20:16:47
+	card_color: green
 	name: Blossom
 	casting_cost: 
 	image: image254
@@ -8882,10 +8881,13 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Token Enchantment</word-list-type-en>
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>E<kw-a>nchant <param-name>land</param-name></key></nospellcheck></kw-a>
-		Enchanted land has “<sym>T</sym>: Add <sym-auto>GG</sym-auto>.”
+		Whenever enchanted land is tapped for mana, add <sym-auto>G</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
@@ -8904,7 +8906,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL127)
-		
+
 	time_created: 2021-04-17 15:26:06
 	time_modified: 2026-05-31 00:53:58
 	card_color: black, artifact, horizontal
@@ -9242,7 +9244,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL129)
-		
+
 	time_created: 2018-03-07 04:24:45
 	time_modified: 2026-05-31 00:54:11
 	extra_data:
@@ -9629,9 +9631,7 @@ card:
 		default_image_size: no
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes:
-		!hidetag (SL129)
-
+	notes: !hidetag (SL129)
 	time_created: 2021-09-04 16:22:20
 	time_modified: 2026-04-22 00:31:26
 	extra_data:
@@ -9857,8 +9857,8 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I — You may exile target nonland permanent. If you do, you lose 3 life.
-		II, III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		You may exile target nonland permanent. If you do, you lose 3 life.
+		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
@@ -14875,9 +14875,7 @@ card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes:
-		!hidetag (SL143)
-
+	notes: !hidetag (SL143)
 	time_created: 2019-06-17 00:00:00
 	time_modified: 2026-04-22 00:22:51
 	name: Channeler of the Veil
@@ -16739,8 +16737,8 @@ card:
 	secondary_copyright: 
 	special_text:
 		(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
-		I — You may exile target nonland permanent. If you do, you lose 3 life.
-		II, III — Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
+		You may exile target nonland permanent. If you do, you lose 3 life.
+		Create a 7/7 white, black, and green Horror Knight creature token with <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and “Whenever this creature is dealt damage, you lose that much life.”
 		​
 
 card:
@@ -18054,7 +18052,7 @@ card:
 		promo: no
 	notes:
 		!hidetag (SL150)
-		
+
 	time_created: 2024-12-14 15:56:46
 	time_modified: 2026-05-31 00:54:54
 	name: Stargazing

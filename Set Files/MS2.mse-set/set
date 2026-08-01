@@ -17,7 +17,7 @@ set_info:
 		UR Make Spells
 		RW Go Wide Aggro
 	set_code: MS2
-	symbol: symbol2.mse-symbol
+	symbol: symbol1.mse-symbol
 	masterpiece_symbol: 
 	auto_errata: yes
 	curly_quotes: yes
@@ -828,7 +828,7 @@ card:
 		Choose two —<soft-line>
 		</soft-line>• Destroy target artifact.<soft-line>
 		</soft-line>• Discard a card, then draw a card.<soft-line>
-		</soft-line>• <kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		</soft-line>• <kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Marishka Kleyman
 	custom_card_number: 
@@ -1152,7 +1152,7 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
 		Draw two cards, then discard two cards.
-		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Eternal CCG
 	custom_card_number: 
@@ -2229,7 +2229,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 1 life.
-		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this artifact: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
+		<kw-A><nospellcheck><key>Investigate</key></nospellcheck>.<atom-reminder-action> <i-auto>(Create a Clue token. It’s an artifact with “<sym>2</sym>, Sacrifice this token: Draw a card.”)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Boris Martsev
 	custom_card_number: 
@@ -2359,7 +2359,7 @@ card:
 	has_styling: false
 	notes:
 		!design Timespiraled
-		
+
 	time_created: 2019-08-07 11:39:28
 	time_modified: 2026-04-04 22:29:55
 	name: Sevenfold Summoner
@@ -2626,7 +2626,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Mausoleum Suffragan</nospellcheck></atom-cardname> enters, create a white and black Aura enchantment token named Pale <kw-a><nospellcheck><key>Shroud</key></nospellcheck></kw-a> attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+1 and has lifelink.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Mausoleum Suffragan</nospellcheck></atom-cardname> enters, create a white and black Aura enchantment token named Pale <kw-a><nospellcheck><key>Shroud</key></nospellcheck></kw-a> attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +1/+1 and has lifelink</param-name>.</key></nospellcheck></kw-a>”
 		Whenever an artifact or enchantment you control enters, each opponent loses 1 life.
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -4075,7 +4075,7 @@ card:
 	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
 	rarity: mythic rare
 	rule_text:
-		Equipped creature gets +2/+2 and <kw-0><nospellcheck><key>protection from <param-name>blue and from black.</param-name></key></nospellcheck></kw-0>
+		Equipped creature gets +2/+2 and <kw-0><nospellcheck><key>protection from <param-name>blue and from black</param-name>.</key></nospellcheck></kw-0>
 		Whenever equipped creature deals combat damage to a player, return up to one target creature card and up to one target instant or sorcery card from your graveyard to your hand.
 		<kw-a><nospellcheck><key>Equip <param-cost><sym-auto>2</sym-auto></param-cost></key></nospellcheck></kw-a>
 	flavor_text: <i-flavor></i-flavor>
@@ -4641,7 +4641,7 @@ card:
 	sub_type: <word-list-race-en>Elf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Aurashaper</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Relentless Pathcutter</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Enmity attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+0 and has trample.</param-name></key></nospellcheck></kw-a>”
+		When <atom-cardname><nospellcheck>Relentless Pathcutter</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Enmity attached to target creature. The token has <kw-a><nospellcheck><key>enchant <param-name>creature and “Enchanted creature gets +2/+0 and has trample</param-name>.</key></nospellcheck></kw-a>”
 		When <atom-cardname><nospellcheck>Relentless Pathcutter</nospellcheck></atom-cardname> dies, return it to its owner’s hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2

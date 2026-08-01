@@ -4276,9 +4276,7 @@ card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes:
-		!hidetag (SL152)
-
+	notes: !hidetag (SL152)
 	time_created: 2018-03-07 04:24:45
 	time_modified: 2026-05-31 00:45:06
 	name: Phantasmal Owl
@@ -10861,9 +10859,7 @@ card:
 	stylesheet: m15-champions-silver
 	stylesheet_version: 2015-12-20
 	has_styling: false
-	notes:
-		!hidetag (SL171)
-
+	notes: !hidetag (SL171)
 	time_created: 2020-09-03 18:41:30
 	time_modified: 2026-05-31 00:42:54
 	name: Void Portal
@@ -13168,7 +13164,6 @@ card:
 	notes:
 		!hidetag (SL180)
 		!renameof Mei, the Inflitrator
-		
 	time_created: 2018-03-24 05:46:10
 	time_modified: 2026-06-30 15:30:00
 	extra_data:
@@ -13267,9 +13262,10 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL180)
+		!update
 		!append ({6}: Transform this. Spend at least three colors of mana to activate this, and only as a sorcery.)
 	time_created: 2022-03-06 12:36:08
-	time_modified: 2026-05-31 18:35:58
+	time_modified: 2026-07-30 20:18:57
 	extra_data:
 		magic-m15-mainframe-attain-dfc:
 			corner: custom one
@@ -13321,7 +13317,7 @@ card:
 	card_code_text_2: 
 	card_code_text_3: 
 	copyright: By Our Colors Combined — Cajun
-	copyright_2: By Our Coors Combined — Cajun
+	copyright_2: By Our Colors Combined — Cajun
 	copyright_3: 
 
 card:
@@ -13488,6 +13484,257 @@ card:
 	card_code_text_2: Story Spotlight 4/5
 	card_code_text_3: Story Spotlight 4/5
 	copyright: Year Nine
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL181)
+	time_created: 2020-05-20 15:15:45
+	time_modified: 2026-06-30 20:03:47
+	name: Impden Mother
+	casting_cost: 1B
+	image: image383
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		At the beginning of your upkeep, if you don’t control any Imps, you may pay <sym-auto>B</sym-auto>. If you do, create a 1/1 black Imp creature token.
+		Sacrifice a creature: Each opponent loses 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Kuroi_Susumu
+	custom_card_number: 1605
+	card_code_text: Wrenn
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: G5L/MSY League Leaders — Silver
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes:
+		!hidetag (SL181)
+		!append  (They still pay its costs.)
+	time_created: 2018-12-07 12:32:12
+	time_modified: 2026-06-30 20:03:26
+	name: Herald of the Humble
+	casting_cost: 1R
+	image: image384
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Haste</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Herald of the Humble</nospellcheck></atom-cardname> deals combat damage to a player, they exile the top card of their library. During their next turn, they may play that card if it has mana value 3 or less.
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Anato Finnstark
+	custom_card_number: 1601
+	card_code_text: CanterburyEgg
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: G5L/MSY League Leaders — Requiem
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL181)
+	time_created: 2025-11-03 12:47:09
+	time_modified: 2026-06-30 20:03:31
+	extra_data:
+		magic-m15-altered: vorthos_box: He/him
+	name: Hadak, Tyrant of Alkabah
+	casting_cost: BRGW
+	image: image385
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Dragon</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		This spell can’t be countered.
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		Whenever a creature you control deals combat damage to a player, draw a card. Then you may cast a spell with mana value less than or equal to the amount of damage dealt without paying its mana cost.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Stas Yurev
+	custom_card_number: 1602
+	card_code_text: Zangy
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: G5L/MSY League Leaders — Tyabely
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes:
+		!hidetag (SL181)
+		!append  (You may cast this from your graveyard for {5}{G}{U}. If you do, put it onto the battlefield as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)
+	time_created: 2018-12-03 22:03:48
+	time_modified: 2026-06-30 20:03:19
+	name: Recall Forgotten Eons
+	casting_cost: 1GU
+	image: image386
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		Draw two cards. You may play an additional land this turn.
+		<kw-0><nospellcheck><key>Coalesce <param-mana><sym-auto>5GU</sym-auto></param-mana></key></nospellcheck></kw-0>
+	rule_text_2: 
+	flavor_text: <i-flavor>Every century, a reincarnation of the Child of <error-spelling:en_US>Miare</error-spelling:en_US> is born, so that work on the <error-spelling:en_US>Gensokyo</error-spelling:en_US> Chronicles may continue.</i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	power: 5
+	toughness: 6
+	illustrator: KURI
+	custom_card_number: 1600
+	card_code_text: CyberChronometer
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: G5L/MSY League Leaders — RickyRister
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL181)
+	time_created: 2019-06-03 00:56:25
+	time_modified: 2026-06-30 20:03:42
+	card_color: land
+	name: Forgotten Temple
+	image: image387
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>. Exile a card from your graveyard.
+		<sym-auto>3</sym-auto>: Until end of turn, <atom-cardname><nospellcheck>Forgotten Temple</nospellcheck></atom-cardname> becomes an X/X creature, where X is the number of cards exiled by it. It’s still a land.
+		As long as a creature card with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> is exiled by <atom-cardname><nospellcheck>Forgotten Temple</nospellcheck></atom-cardname>, it has <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>. The same is true for <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>, experience, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, and <kw-0><nospellcheck><key>vigilance</key></nospellcheck></kw-0>.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: PekoeBlaze
+	custom_card_number: 1604
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: G5L/MSY League Leaders — Skagra42
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: !hidetag (SL181)
+	time_created: 2018-09-21 18:25:03
+	time_modified: 2026-06-30 20:03:36
+	name: Tree of Timelines
+	image: image388
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: rare
+	rule_text:
+		As <atom-cardname><nospellcheck>Tree of Timelines</nospellcheck></atom-cardname> enters, you may pay 3 life. If you don’t, it enters tapped.
+		<sym>T</sym>: Add <sym>B</sym>, <sym-auto>G</sym-auto>, or <sym-auto>U</sym-auto>.
+	rule_text_2: 
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	illustrator: cup_404
+	custom_card_number: 1603
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: G5L/MSY League Leaders — amethyst
+	copyright_2: 
+	copyright_3: 
+
+card:
+	stylesheet: m15-champions-silver
+	stylesheet_version: 2015-12-20
+	has_styling: true
+	styling_data:
+		icon_link: 
+		token: textless
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	time_created: 2020-07-01 23:13:05
+	time_modified: 2026-06-30 20:03:03
+	card_color: black
+	name: Imp
+	image: image389
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Imp</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rule_text: 
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: @Arjuna_625
+	custom_card_number: 110
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: G5L/MSY League Leaders — Silver
 	copyright_2: 
 	copyright_3: 
 

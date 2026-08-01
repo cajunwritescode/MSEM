@@ -1,8 +1,8 @@
 ﻿mse_version: 2.0.2
 game: magic
-game_version: 2025-06-14
+game_version: 2024-10-01
 stylesheet: m15-altered
-stylesheet_version: 2025-10-05
+stylesheet_version: 2026-01-23
 set_info:
 	title: The Stage Presents: The Neverending Act
 	copyright: 
@@ -23,9 +23,7 @@ styling:
 		chop_top: 5
 		chop_bottom: 5
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	magic-m15-emblem-cajun:
@@ -37,7 +35,6 @@ styling:
 		overlay: 
 	magic-m15-mainframe-planeswalker:
 		opacity: 150
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-tokens:
@@ -47,7 +44,6 @@ styling:
 	magic-m15-saga:
 		chapter_textboxes: two
 		snap_chapter_to_box: 
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-token:
@@ -488,9 +484,7 @@ card:
 		chop_top: 5
 		chop_bottom: 14
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -630,9 +624,7 @@ card:
 		chop_top: 9
 		chop_bottom: 9
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -722,9 +714,7 @@ card:
 		chop_top: 7
 		chop_bottom: 13
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -863,9 +853,7 @@ card:
 		chop_top: 10
 		chop_bottom: 10
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -1028,9 +1016,7 @@ card:
 		chop_top: 7
 		chop_bottom: 5
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -1062,9 +1048,7 @@ card:
 		chop_top: 12
 		chop_bottom: 12
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -1369,9 +1353,7 @@ card:
 		chop_top: 5
 		chop_bottom: 9
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -1901,15 +1883,13 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 8
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
@@ -2162,7 +2142,6 @@ card:
 		chapter_divider_coordinates: 225,315,
 		separated_text_size: 11
 		shrink_name_text: 1
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -2203,7 +2182,6 @@ card:
 	styling_data:
 		chapter_textboxes: two
 		snap_chapter_to_box: 1,1,2,
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -2267,9 +2245,7 @@ card:
 		chop_top: 5
 		chop_bottom: 12
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -2329,9 +2305,7 @@ card:
 		chop_top: 5
 		chop_bottom: 9
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: blue green
@@ -2368,7 +2342,6 @@ card:
 		chapter_textboxes: three
 		snap_chapter_to_box: 1,2,3,
 		chapter_divider_coordinates: 
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -2407,9 +2380,7 @@ card:
 		chop_top: 12
 		chop_bottom: 12
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -2444,7 +2415,6 @@ card:
 		chapter_textboxes: two
 		snap_chapter_to_box: 1,1,2,
 		chapter_divider_coordinates: 280,
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -2484,7 +2454,6 @@ card:
 	styling_data:
 		chapter_textboxes: three
 		snap_chapter_to_box: 
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -2534,7 +2503,6 @@ card:
 		snap_chapter_to_box: 1,2,3,
 		chapter_divider_coordinates: 255,290,
 		separated_text_size: 11
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -2574,7 +2542,6 @@ card:
 	styling_data:
 		chapter_textboxes: two
 		snap_chapter_to_box: 1,1,2,
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -2615,7 +2582,6 @@ card:
 		chapter_textboxes: three
 		snap_chapter_to_box: 
 		shrink_name_text: 1
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -2657,7 +2623,6 @@ card:
 		snap_chapter_to_box: 1,1,2,
 		chapter_divider_coordinates: 295,
 		shrink_name_text: 3
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: blue green
@@ -2695,9 +2660,7 @@ card:
 		chop_top: 15
 		chop_bottom: 15
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
@@ -2847,9 +2810,7 @@ card:
 		chop_top: 3
 		chop_bottom: 3
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
@@ -2918,9 +2879,7 @@ card:
 		chop_top: 12
 		chop_bottom: 12
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
@@ -2959,9 +2918,7 @@ card:
 		chop_top: 12
 		chop_bottom: 12
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
@@ -3057,7 +3014,6 @@ card:
 		chapter_textboxes: two
 		snap_chapter_to_box: 1,2,2,
 		chapter_divider_coordinates: 230,
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: white blue red
@@ -3097,7 +3053,6 @@ card:
 		chapter_textboxes: two
 		snap_chapter_to_box: 1,1,2,
 		chapter_divider_coordinates: 240,
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
@@ -3139,7 +3094,6 @@ card:
 	styling_data:
 		chapter_textboxes: one
 		snap_chapter_to_box: 1,1,1,
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: red white black
@@ -3179,12 +3133,13 @@ card:
 		snap_chapter_to_box: 1,2,3,4,
 		chapter_divider_coordinates: 185,255,355,
 		separated_text_size: 11
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
-	notes: blue black green
+	notes:
+		blue black green
+		!update
 	time_created: 2023-05-23 01:42:05
-	time_modified: 2025-10-24 01:38:23
+	time_modified: 2026-07-30 20:28:48
 	name: A Recipe for Disaster
 	casting_cost: 1BGU
 	image: image64.png
@@ -3199,7 +3154,7 @@ card:
 	level_1_text: <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
 	level_2_text: Return target land card from your graveyard to the battlefield.
 	level_3_text: Return target creature or non-Saga enchantment card from your graveyard to the battlefield.
-	level_4_text: You may cast target instant or sorcery card from your graveyard without paying it mana cost.
+	level_4_text: You may cast target instant or sorcery card from your graveyard without paying its mana cost.
 	illustrator: NetEase
 	card_code_text: 
 	card_code_text_2: 
@@ -3209,10 +3164,10 @@ card:
 	copyright_3: ™ & © 2023 Wizards of the Coast
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		<kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		Return target land card from your graveyard to the battlefield.
-		Return target creature or non-Saga enchantment card from your graveyard to the battlefield.
-		You may cast target instant or sorcery card from your graveyard without paying it mana cost.
+		I — <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>four</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+		II — Return target land card from your graveyard to the battlefield.
+		III — Return target creature or non-Saga enchantment card from your graveyard to the battlefield.
+		IV — You may cast target instant or sorcery card from your graveyard without paying its mana cost.
 
 card:
 	stylesheet: m15-saga
@@ -3224,7 +3179,6 @@ card:
 		chapter_divider_coordinates: 240,340,
 		separated_text_size: 11
 		shrink_name_text: 3
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: black red green
@@ -3265,7 +3219,6 @@ card:
 		chapter_textboxes: two
 		snap_chapter_to_box: 1,2,2,
 		chapter_divider_coordinates: 270,
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: red blue green
@@ -3306,7 +3259,6 @@ card:
 		snap_chapter_to_box: 1,1,2,
 		chapter_divider_coordinates: 280,
 		separated_text_size: 11
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
@@ -3347,7 +3299,6 @@ card:
 	styling_data:
 		chapter_textboxes: two
 		snap_chapter_to_box: 
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: white red green
@@ -3491,7 +3442,6 @@ card:
 		snap_chapter_to_box: 2,2,3,
 		chapter_divider_coordinates: 280,380,
 		separated_text_size: 11
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: blue black red
@@ -3530,9 +3480,7 @@ card:
 		chop_top: 9
 		chop_bottom: 9
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -3864,7 +3812,6 @@ card:
 	has_styling: true
 	styling_data:
 		opacity: 180
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
@@ -3951,15 +3898,13 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 10
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: white black green
@@ -4021,16 +3966,14 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
 		shrink_typeline_text: 1
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
@@ -4066,16 +4009,14 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
 		shrink_name_text: 2
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
@@ -4116,9 +4057,7 @@ card:
 		chop_top: 5
 		chop_bottom: 14
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: Red Green White
@@ -4205,15 +4144,13 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 4
 		chop_bottom: 4
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: Red White Black
@@ -4314,9 +4251,7 @@ card:
 		chop_top: 2
 		chop_bottom: 2
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: white black red green blue 
@@ -4575,15 +4510,13 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 5
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -5014,9 +4947,7 @@ card:
 		chop_top: 7
 		chop_bottom: 14
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -5215,15 +5146,13 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -5649,9 +5578,7 @@ card:
 		chop_top: 12
 		chop_bottom: 12
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -5796,16 +5723,14 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
 		shrink_name_text: 2
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -5976,7 +5901,6 @@ card:
 		chapter_textboxes: two
 		snap_chapter_to_box: 1,1,2,
 		chapter_divider_coordinates: 360,
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -6016,7 +5940,6 @@ card:
 		chapter_textboxes: two
 		snap_chapter_to_box: 1,1,2,
 		chapter_divider_coordinates: 330,
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -6056,7 +5979,6 @@ card:
 		chapter_textboxes: two
 		snap_chapter_to_box: 1,1,2,
 		chapter_divider_coordinates: 315,
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -6096,7 +6018,6 @@ card:
 		chapter_textboxes: two
 		snap_chapter_to_box: 1,1,2,
 		chapter_divider_coordinates: 315,.
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -6137,7 +6058,6 @@ card:
 		snap_chapter_to_box: 1,1,2,
 		chapter_divider_coordinates: 340,
 		shrink_name_text: 2
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -6179,7 +6099,6 @@ card:
 		snap_chapter_to_box: 1,2,3,
 		chapter_divider_coordinates: 240,360,
 		separated_text_size: 11
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -6208,9 +6127,9 @@ card:
 	copyright_3: 
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
-		I — Destroy target creature you don’t control with the greatest power.
-		II — Until your next turn, creatures can’t attack you or planeswalkers you control unless their controller pays <sym>2</sym> for each of those creatures.
-		III — Exile target card from a graveyard. You gain 2 life.
+		Destroy target creature you don’t control with the greatest power.
+		Until your next turn, creatures can’t attack you or planeswalkers you control unless their controller pays <sym>2</sym> for each of those creatures.
+		Exile target card from a graveyard. You gain 2 life.
 
 card:
 	stylesheet: m15-saga
@@ -6221,7 +6140,6 @@ card:
 		snap_chapter_to_box: 
 		chapter_divider_coordinates: 265,325,
 		separated_text_size: 12.5
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -6263,7 +6181,6 @@ card:
 		snap_chapter_to_box: 1,2,3,
 		chapter_divider_coordinates: 230,320,
 		separated_text_size: 9
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -6305,7 +6222,6 @@ card:
 		snap_chapter_to_box: 1,2,3,
 		chapter_divider_coordinates: 210,300,
 		separated_text_size: 10
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -6347,7 +6263,6 @@ card:
 		snap_chapter_to_box: 1,2,3,
 		chapter_divider_coordinates: 220,310,
 		separated_text_size: 11
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
@@ -6665,9 +6580,7 @@ card:
 		chop_top: 3
 		chop_bottom: 3
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -6726,15 +6639,13 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 10
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
@@ -6993,15 +6904,13 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 9
 		chop_bottom: 9
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -7192,15 +7101,13 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 8
 		chop_bottom: 5
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -7478,9 +7385,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -7684,9 +7589,7 @@ card:
 		chop_top: 5
 		chop_bottom: 13
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -7718,15 +7621,13 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 8
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -7789,9 +7690,7 @@ card:
 		chop_top: 3
 		chop_bottom: 9
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: reworked: Now notes the colors, and sacrifices for a 4/4 Horror after noting all five.
@@ -7912,9 +7811,7 @@ card:
 		chop_top: 3
 		chop_bottom: 3
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: blue green 
@@ -8001,9 +7898,7 @@ card:
 		chop_bottom: 5
 		shrink_name_text: 1
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: story spotlight
@@ -8030,15 +7925,13 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 11
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -8156,16 +8049,14 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2025-10-05
+	stylesheet_version: 2026-01-23
 	has_styling: true
 	styling_data:
 		chop_top: 2
 		chop_bottom: 7
 		shrink_name_text: 1
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -8522,7 +8413,6 @@ card:
 		chapter_textboxes: two
 		snap_chapter_to_box: 
 		remove_from_autocount: yes
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
@@ -8564,9 +8454,7 @@ card:
 		chop_bottom: 5
 		frames: frameless art
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -8597,9 +8485,7 @@ card:
 		chop_bottom: 5
 		frames: frameless art
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -8630,9 +8516,7 @@ card:
 		chop_bottom: 5
 		frames: frameless art
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -8663,9 +8547,7 @@ card:
 		chop_bottom: 5
 		frames: frameless art
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -8696,9 +8578,7 @@ card:
 		chop_bottom: 5
 		frames: frameless art
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -8759,7 +8639,6 @@ card:
 		snap_chapter_to_box: 2,3,3,
 		chapter_divider_coordinates: 200,240,
 		separated_text_size: 12
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
@@ -8805,7 +8684,6 @@ card:
 		chapter_divider_coordinates: 220,330,
 		separated_text_size: 11
 		other_options: vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
@@ -8851,9 +8729,7 @@ card:
 		apply_custom_fonts: no
 		custom_body_font: 
 		custom_pt_font: 
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -8889,9 +8765,7 @@ card:
 		chop_bottom: 5
 		shrink_name_text: 1
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
@@ -8924,9 +8798,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -9066,9 +8938,7 @@ card:
 		chop_bottom: 5
 		shrink_name_text: 1
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
@@ -9299,9 +9169,7 @@ card:
 		chop_top: 5
 		chop_bottom: 
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: Composecycle
@@ -9361,9 +9229,7 @@ card:
 		chop_bottom: 5
 		shrink_name_text: 1
 		other_options: auto vehicles, auto snow, auto nyx crowns, vorthos box
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: Composecycle

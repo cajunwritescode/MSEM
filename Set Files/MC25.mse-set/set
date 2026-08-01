@@ -6755,9 +6755,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!design Queen Emily
-
+	notes: !design Queen Emily
 	time_created: 2024-10-20 09:39:57
 	time_modified: 2024-12-22 10:16:35
 	name: Void Portal
@@ -9816,9 +9814,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		use_flash_dot: no
 		overlay: 
-	notes: 
+	notes: !update
 	time_created: 2024-09-08 09:50:03
-	time_modified: 2024-12-22 10:33:23
+	time_modified: 2026-07-30 20:14:35
 	name: Petal Scatterer
 	casting_cost: GGG
 	image: image318
@@ -9835,11 +9833,11 @@ card:
 	sub_type_4: 
 	rarity: rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Blossom attached to target land. It has <kw-a><nospellcheck><key>enchant <param-name>land and “Enchanted land has ‘<sym>T</sym></param-name>:</key></nospellcheck></kw-a> Add <sym-auto>GG</sym-auto>.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”
+		When <atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Blossom attached to target land. It has <kw-a><nospellcheck><key>enchant <param-name>land and “Whenever enchanted land is tapped for mana, add <sym>G</sym></param-name>.</key></nospellcheck></kw-a>”
 		<atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> gets +1/+1 for each noncreature, nonland permanent you control.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 1
+	power: 2
+	toughness: 2
 	illustrator: KikiCute2k3
 	custom_card_number: 
 	card_code_text: Al Tabaq
@@ -14526,9 +14524,9 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2024-10-29 17:11:50
-	time_modified: 2024-12-22 13:01:33
+	time_modified: 2026-07-30 20:14:44
 	card_color: green
 	name: Blossom
 	image: image29.png
@@ -14545,7 +14543,7 @@ card:
 	sub_type_4: 
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
-		Enchanted land has “<sym-auto>T</sym-auto>: Add <sym-auto>GG</sym-auto>.”
+		Whenever enchanted land is tapped for mana, add <sym-auto>G</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Marika Ravindran
 	custom_card_number: 
@@ -17682,7 +17680,7 @@ card:
 		https://jayessart.tumblr.com/post/688233569486864384/kelp-forest-spirit-and-mr-shark-instagram
 		!design n3onblue
 		!rejected
-		
+
 	time_created: 2023-12-05 15:43:57
 	time_modified: 2024-12-30 22:38:07
 	card_color: blue

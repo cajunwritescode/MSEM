@@ -1349,9 +1349,9 @@ card:
 
 card:
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2015-09-13 23:14:11
-	time_modified: 2020-07-01 20:40:10
+	time_modified: 2026-07-30 20:29:59
 	name: Sharp Eyed Sentinel
 	casting_cost: 1UU
 	image: image102
@@ -1364,7 +1364,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		<kw-1><nospellcheck><key>Prowess</key></nospellcheck><atom-reminder-core> <i-auto>(Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)</i-auto></atom-reminder-core></kw-1>
-		Spell you cast cost <sym-auto>1</sym-auto> less to cast as long as it’s not your turn.
+		Spells you cast cost <sym-auto>1</sym-auto> less to cast as long as it’s not your turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -3035,7 +3035,7 @@ card:
 	has_styling: false
 	notes:
 		four basics cycle
-		
+
 	time_created: 2015-09-13 23:14:11
 	time_modified: 2026-03-04 17:27:28
 	name: Warrior’s Pride
@@ -3291,7 +3291,7 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: mythic rare
 	rule_text:
-		When <atom-cardname><nospellcheck>Through the Dust</nospellcheck></atom-cardname> enters, it becomes an Aura with <kw-a><nospellcheck><key>enchant <param-name>creature.</param-name></key></nospellcheck></kw-a> Reveal the top seven cards of your library, put a creature card revealed this way onto the battlefield and attach <atom-cardname><nospellcheck>Through the Dust</nospellcheck></atom-cardname> to it. Then put the rest on the bottom of your library in any order. When <atom-cardname><nospellcheck>Through the Dust</nospellcheck></atom-cardname> is no longer on the battlefield, enchanted creature’s controller sacrifices it.
+		When <atom-cardname><nospellcheck>Through the Dust</nospellcheck></atom-cardname> enters, it becomes an Aura with <kw-a><nospellcheck><key>enchant <param-name>creature</param-name>.</key></nospellcheck></kw-a> Reveal the top seven cards of your library, put a creature card revealed this way onto the battlefield and attach <atom-cardname><nospellcheck>Through the Dust</nospellcheck></atom-cardname> to it. Then put the rest on the bottom of your library in any order. When <atom-cardname><nospellcheck>Through the Dust</nospellcheck></atom-cardname> is no longer on the battlefield, enchanted creature’s controller sacrifices it.
 		<kw-0><nospellcheck><key>Mirage <param-cost><sym-auto>1UUU</sym-auto></param-cost></key></nospellcheck></kw-0>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Disse86 (DeviantArt)
@@ -3481,9 +3481,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!addnum
-
+	notes: !addnum
 	time_created: 2015-09-14 09:52:38
 	time_modified: 2015-10-06 10:20:19
 	name: Plains
@@ -3505,9 +3503,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!addnum
-
+	notes: !addnum
 	time_created: 2015-09-14 09:52:38
 	time_modified: 2015-09-24 23:09:57
 	name: Island
@@ -3529,9 +3525,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!addnum
-
+	notes: !addnum
 	time_created: 2015-09-14 09:52:38
 	time_modified: 2015-09-24 23:10:53
 	name: Swamp
@@ -3553,9 +3547,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		
-
+	notes: 
 	time_created: 2015-09-14 09:52:38
 	time_modified: 2015-10-04 16:04:17
 	name: Mountain
@@ -3577,9 +3569,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		
-
+	notes: 
 	time_created: 2015-09-14 09:52:40
 	time_modified: 2015-09-24 23:08:58
 	name: Plains
@@ -3601,9 +3591,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		
-
+	notes: 
 	time_created: 2015-09-14 09:52:40
 	time_modified: 2015-10-04 16:03:42
 	name: Island
@@ -3625,9 +3613,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		
-
+	notes: 
 	time_created: 2015-09-14 09:52:40
 	time_modified: 2015-10-04 16:03:59
 	name: Swamp
@@ -3649,9 +3635,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!addnum
-
+	notes: !addnum
 	time_created: 2015-09-14 09:52:40
 	time_modified: 2015-09-24 23:07:44
 	name: Mountain

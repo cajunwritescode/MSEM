@@ -7093,6 +7093,41 @@ card:
 	copyright_2: 
 	copyright_3: 
 
+card:
+	has_styling: false
+	notes:
+		!update !num 170
+		!design Pipsqueak
+		FINAL AVX
+	time_created: 2023-02-11 14:21:03
+	time_modified: 2026-07-31 18:03:30
+	name: Operative POSH
+	casting_cost: 2/U2/U2/U
+	image: image26.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		Whenever <atom-cardname><nospellcheck>Operative POSH</nospellcheck></atom-cardname> attacks or you cast a green or red spell, exile up to one target nontoken permanent. Return that card to the battlefield under its owner’s control at the beginning of the next end step.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Dmitry Vishnevsky
+	custom_card_number: Grand Prix Dambulla — CyberChronometer
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Design — Pipsqueak
+	copyright_2: 
+	copyright_3: 
+
 keyword:
 	keyword: Coalesce
 	match: Coalesce <atom-param>mana</atom-param>

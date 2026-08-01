@@ -4161,9 +4161,11 @@ card:
 
 card:
 	has_styling: false
-	notes: #G
+	notes:
+		#G
+		!update adjusted: Previously reduced by {2} and didn’t give flash.
 	time_created: 2018-03-07 17:22:49
-	time_modified: 2018-07-09 08:28:49
+	time_modified: 2026-07-30 20:05:14
 	name: Chiheisen, Terrace of Serenity
 	casting_cost: 1U
 	image: image131
@@ -4175,7 +4177,7 @@ card:
 	rarity: rare
 	rule_text:
 		When <atom-cardname><nospellcheck>Chiheisen, Terrace of Serenity</nospellcheck></atom-cardname> enters, draw a card, then choose a creature card name.
-		Spells you cast with the chosen name cost <sym-auto>2</sym-auto> less to cast.
+		Spells you cast with the chosen name cost <sym-auto>1</sym-auto> less to cast and can be cast as though they had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Alayna Lemmer
 	card_code_text: 

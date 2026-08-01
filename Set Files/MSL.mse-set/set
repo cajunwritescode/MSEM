@@ -1217,7 +1217,6 @@ card:
 	notes:
 		!GU Ramp
 		!FT:Nix
-
 	time_created: 2023-10-30 09:39:52
 	time_modified: 2026-04-30 12:34:31
 	name: Primal Resurgence
@@ -4162,9 +4161,11 @@ card:
 
 card:
 	has_styling: false
-	notes: !Generic
+	notes:
+		!Generic
+		!update
 	time_created: 2023-11-18 08:21:20
-	time_modified: 2023-11-25 14:40:38
+	time_modified: 2026-07-30 20:27:47
 	name: General of the Folded Fan
 	casting_cost: 2W
 	image: image26
@@ -4175,7 +4176,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		Whenever a creature you control enters, create an Idol token. <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)</i-auto>
+		Whenever <atom-cardname><nospellcheck>General of the Folded Fan</nospellcheck></atom-cardname> or another creature you control enters, create an Idol token. <i-auto>(It’s an artifact with “<sym-auto>1</sym-auto>, Sacrifice this artifact: Put a +1/+1 counter on target creature. Activate only as a sorcery.”)</i-auto>
 		<sym-auto>2</sym-auto>, Sacrifice an Idol: Creatures you control get +1/+1 until end of turn.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
@@ -6628,9 +6629,7 @@ card:
 
 card:
 	has_styling: false
-	notes:
-		!Generic
-
+	notes: !Generic
 	time_created: 2023-11-25 16:12:31
 	time_modified: 2026-04-21 23:51:53
 	name: Field Tender
@@ -7332,9 +7331,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update
 	time_created: 2023-08-05 10:15:40
-	time_modified: 2023-10-04 15:52:52
+	time_modified: 2026-07-30 20:06:56
 	name: Starlight Beacon
 	image: image241
 	image_2: 
@@ -7345,7 +7344,7 @@ card:
 	rarity: rare
 	rule_text:
 		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-		<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: <kw-A><nospellcheck><key>Aetherize</key></nospellcheck> target permanent you control. Activate only as a sorcery.<atom-reminder-action> <i-auto>(To aetherize, create a token that’s a copy of it, then exile that token.)</i-auto></atom-reminder-action></kw-A>
+		<sym-auto>4</sym-auto>, <sym-auto>T</sym-auto>: <kw-A><nospellcheck><key>Aetherize</key></nospellcheck> target permanent you control. Activate only as a sorcery.<atom-reminder-action> <i-auto>(To aetherize, create a token that’s a copy of it, then exile that token.)</i-auto></atom-reminder-action></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Hue Teo
 	custom_card_number: 
@@ -10819,8 +10818,8 @@ card:
 	special_text:
 		<i-auto>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)</i-auto>
 		Create two 1/1 white Human creature tokens.
-		I — Put a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on target creature you control. It becomes a legendary God in addition to its other types.
-		II — Exile target creature an opponent controls that’s a God or that has power 4 or greater.
+		Put a <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> counter on target creature you control. It becomes a legendary God in addition to its other types.
+		Exile target creature an opponent controls that’s a God or that has power 4 or greater.
 
 card:
 	stylesheet: m15-mainframe-tokens
@@ -11250,9 +11249,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		Survivor Round 9
-		
+	notes: Survivor Round 9
 	time_created: 2023-12-11 10:45:14
 	time_modified: 2026-05-31 00:58:33
 	name: Ivier, Soul of the Woods
@@ -11287,9 +11284,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		Survivor Round 7
-		
+	notes: Survivor Round 7
 	time_created: 2023-12-11 10:45:14
 	time_modified: 2026-05-31 00:58:50
 	name: Pyre Charm
@@ -14700,7 +14695,7 @@ card:
 		<i-auto>(As this <kw-0><nospellcheck><key>Discovery</key></nospellcheck></kw-0> enters and after your draw step, add a progress counter. Stop after you’ve discovered.)</i-auto>
 		<kw-A><nospellcheck><key>Archive <param-number>6</param-number></key></nospellcheck><atom-reminder-custom> <i-auto>(As this enters, shuffle the top <param-number>six</param-number> cards of your main library into a new face up library. Sacrifice this after the archived library is empty.)</i-auto></atom-reminder-custom></kw-A>
 		Draw a card from each of your libraries.
-		I, II, Discovery — When you draw the last card from the archived library, create a 4/4 blue Sphinx Wizard creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		Discovery — When you draw the last card from the archived library, create a 4/4 blue Sphinx Wizard creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
 
 card:
 	stylesheet: m15-saga
@@ -14748,8 +14743,8 @@ card:
 	special_text:
 		<i-auto>(As this <kw-0><nospellcheck><key>Discovery</key></nospellcheck></kw-0> enters and after your draw step, add a progress counter. Stop after you’ve discovered.)</i-auto>
 		Target creature or planeswalker you control <kw-0><nospellcheck><key>explores</key></nospellcheck></kw-0>.
-		I — You may play an additional land this turn.
-		II, Discovery — At the beginning of your upkeep, if you control seven or more differently named permanents, create a 1/1 Scout creature token that’s all colors.
+		You may play an additional land this turn.
+		Discovery — At the beginning of your upkeep, if you control seven or more differently named permanents, create a 1/1 Scout creature token that’s all colors.
 
 card:
 	has_styling: true

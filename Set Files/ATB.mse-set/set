@@ -485,7 +485,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  403: Banned in MSEM.
+	notes: 403: Banned in MSEM.
 	time_created: 2019-01-18 23:53:49
 	time_modified: 2020-07-01 20:06:06
 	name: Deathless Siege
@@ -1463,7 +1463,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  nerfed: Now allows playing lands.
+	notes: nerfed: Now allows playing lands.
 	time_created: 2018-12-07 12:32:12
 	time_modified: 2026-04-22 00:01:33
 	name: Herald of the Humble
@@ -3050,7 +3050,7 @@ card:
 
 card:
 	has_styling: false
-	notes:  reworked: Previously cost {U}, scry 3 on enter, and only drew if concord was online without looting.
+	notes: reworked: Previously cost {U}, scry 3 on enter, and only drew if concord was online without looting.
 	time_created: 2018-12-07 12:39:45
 	time_modified: 2026-04-22 00:03:47
 	name: Sights Beyond
@@ -3971,9 +3971,11 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: !script "s>l>Spawn Blossom/l>f>/spawn Blossom ATB/f>/s>","r"
+	notes:
+		!script "s>l>Spawn Blossom/l>f>/spawn Blossom ATB/f>/s>","r"
+		!update buffed: Was 1/1 and Aura tapped for {G}{G} instead of adding additional {G}.
 	time_created: 2018-12-07 12:39:45
-	time_modified: 2024-04-21 21:18:41
+	time_modified: 2026-07-30 20:13:12
 	name: Petal Scatterer
 	casting_cost: GGG
 	image: image1399
@@ -3984,11 +3986,11 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		When <atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Blossom attached to target land. It has <kw-a><nospellcheck><key>enchant <param-name>land and “Enchanted land has ‘<sym>T</sym></param-name>:</key></nospellcheck></kw-a> Add <sym-auto>GG</sym-auto>.<error-spelling:en_US:/magic.mse-game/dictionary/magic-words>’</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>”
+		When <atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> enters, create a green Aura enchantment token named Blossom attached to target land. It has <kw-a><nospellcheck><key>enchant <param-name>land and “Whenever enchanted land is tapped for mana, add <sym>G</sym></param-name>.</key></nospellcheck></kw-a>”
 		<atom-cardname><nospellcheck>Petal Scatterer</nospellcheck></atom-cardname> gets +1/+1 for each noncreature, nonland permanent you control.
 	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 1
+	power: 2
+	toughness: 2
 	illustrator: Donovan Valdes
 	card_code_text: 
 	card_code_text_2: 
@@ -8022,9 +8024,9 @@ card:
 	stylesheet: m15-mainframe-tokens
 	stylesheet_version: 2025-01-11
 	has_styling: false
-	notes: 
+	notes: !update
 	time_created: 2019-05-01 01:27:08
-	time_modified: 2024-04-28 00:08:09
+	time_modified: 2026-07-30 20:13:23
 	card_color: green
 	name: Blossom
 	image: image21
@@ -8035,7 +8037,7 @@ card:
 	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
 	rule_text:
 		<kw-a><nospellcheck><key>Enchant <param-name>land</param-name></key></nospellcheck></kw-a>
-		Enchanted land has “<sym-auto>T</sym-auto>: Add <sym-auto>GG</sym-auto>.”
+		Whenever enchanted land is tapped for mana, add <sym-auto>G</sym-auto>.
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: AquaSixio
 	card_code_text: 

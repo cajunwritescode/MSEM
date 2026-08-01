@@ -2909,7 +2909,7 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:  nerfed: Trigger was previously beginning of combat, {3}{G}{G} to untap and number of lands you control and turn them into 2/2 Elf creatures.
+	notes: nerfed: Trigger was previously beginning of combat, {3}{G}{G} to untap and number of lands you control and turn them into 2/2 Elf creatures.
 	time_created: 2022-12-10 21:11:18
 	time_modified: 2026-04-30 21:54:59
 	name: Caer Crann, Forest’s Heart
@@ -10253,9 +10253,9 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes: 
+	notes: !update nerfed: Can no longer name lands.
 	time_created: 2023-04-22 22:46:25
-	time_modified: 2025-03-27 22:07:05
+	time_modified: 2026-07-30 20:11:06
 	name: The Usurper’s Final Rest
 	casting_cost: 3
 	image: image161
@@ -10266,7 +10266,7 @@ card:
 	sub_type: <word-list-artifact></word-list-artifact>
 	rarity: rare
 	rule_text:
-		As <atom-cardname><nospellcheck>The Usurper’s Final Rest</nospellcheck></atom-cardname> enters, choose a card name.
+		As <atom-cardname><nospellcheck>The Usurper’s Final Rest</nospellcheck></atom-cardname> enters, choose a nonland card name.
 		Spells with the chosen name can’t be cast.
 		If a card with the chosen name would enter the battlefield or be put into a graveyard from anywhere, exile it instead.
 	flavor_text: <i-flavor>Body burnt, spirit sealed, never to return again.</i-flavor>
