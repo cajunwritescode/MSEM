@@ -1,8 +1,8 @@
-﻿mse_version: 2.0.2
+﻿mse_version: 2.6.0
 game: magic
-game_version: 2024-10-01
+game_version: 2026-08-30
 stylesheet: m15-altered
-stylesheet_version: 2026-01-23
+stylesheet_version: 2026-08-24
 set_info:
 	title: Arcanum Academia
 	description:
@@ -18,21 +18,35 @@ set_info:
 	use_flavor_bar: yes
 styling:
 	magic-m15-altered:
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	magic-m15-contract:
 		text box mana symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-planeswalker:
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-tokens:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 65845468536617814922798643636605
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-07-16 02:03:21
 	time_modified: 2022-04-16 13:38:50
 	name: Peer Review
@@ -52,17 +66,30 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		frames: frameless art
 		other_options: auto nyx crowns
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		center_text: always
 		overlay: 
 	notes: !pvfatigue
+	uid: 11696439418507319106185954379005
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-07-16 02:15:15
 	time_modified: 2021-04-30 18:12:43
 	name: Fatigue
@@ -83,10 +110,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvub
+	uid: 61807377115177595730745702356321
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-07-16 02:24:33
 	time_modified: 2023-01-30 18:54:00
 	name: Exhausting Failure
@@ -108,16 +146,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 92522761234477694397920465405648
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-07-16 02:48:12
 	time_modified: 2023-01-30 18:55:41
 	name: Professor’s Notes
@@ -140,10 +191,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvarchivebang
+	uid: 78506305085974350159261278998351
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-07-16 03:01:15
 	time_modified: 2023-01-30 18:54:58
 	name: Sleepless Studies
@@ -167,16 +229,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 98236664816878227677342760789514
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-07-16 12:58:50
 	time_modified: 2023-10-01 15:27:54
 	name: Radiant Outburst
@@ -189,9 +264,9 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		Choose one —
-		<li><bullet>• </bullet><atom-cardname><nospellcheck>Radiant Outburst</nospellcheck></atom-cardname> deals 3 damage to target creature.
-		</li><li><bullet>• </bullet><kw-0><nospellcheck><key>Harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto></li>
+		Choose one —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet><atom-cardname><nospellcheck>Radiant Outburst</nospellcheck></atom-cardname> deals 3 damage to target creature.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet><kw-0><nospellcheck><key>Harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto></li></margin:0:0:3>
 	flavor_text: <i-flavor></i-flavor>
 	power: 
 	toughness: 
@@ -202,10 +277,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvacademy
+	uid: 67961688010603455839022142509601
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-22 18:26:23
 	time_modified: 2023-01-30 17:42:06
 	name: Whirling Repository
@@ -226,16 +312,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvacademy
+	uid: 14487596132931024353816871678225
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-22 18:26:23
 	time_modified: 2023-01-30 17:41:53
 	card_color: land
@@ -257,10 +356,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvacademy
+	uid: 10679505483753800479898007158430
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-22 18:26:23
 	time_modified: 2023-01-30 17:41:38
 	card_color: land, multicolor
@@ -282,12 +392,23 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes:
 		!study
 		 403: Banned in MSEM.
+	uid: 81933537521094613225137557030035
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:11:20
 	time_modified: 2022-05-26 21:39:16
 	name: Glorious Sanctum
@@ -311,12 +432,23 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes:
 		!study
 		 403: Banned in MSEM.
+	uid: 42938243513854598644384477099108
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:11:43
 	time_modified: 2022-05-26 21:39:11
 	name: Calming Sanctum
@@ -340,16 +472,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: modal pact !pvpact
+	uid: 30928079684124760348166193871433
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:12:05
 	time_modified: 2023-01-30 19:01:55
 	name: Prove Worthy
@@ -362,11 +507,11 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		Choose two or four —
-		<li><bullet>• </bullet><atom-cardname><nospellcheck>Prove Worthy</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and can’t be countered.
-		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Prove Worthy</nospellcheck></atom-cardname> deals 3 damage to target player or planeswalker.
-		</li><li><bullet>• </bullet><atom-cardname><nospellcheck>Prove Worthy</nospellcheck></atom-cardname> deals 3 damage to target creature or planeswalker.
-		</li><li><bullet>• </bullet>Conjure a card named Fatigue and put it on top of your library. <i-auto>(It’s a colorless sorcery that costs <sym>2</sym> with “Draw a card.”)</i-auto></li>
+		Choose two or four —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet><atom-cardname><nospellcheck>Prove Worthy</nospellcheck></atom-cardname> has <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> and can’t be countered.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet><atom-cardname><nospellcheck>Prove Worthy</nospellcheck></atom-cardname> deals 3 damage to target player or planeswalker.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet><atom-cardname><nospellcheck>Prove Worthy</nospellcheck></atom-cardname> deals 3 damage to target creature or planeswalker.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Conjure a card named Fatigue and put it on top of your library. <i-auto>(It’s a colorless sorcery that costs <sym>2</sym> with “Draw a card.”)</i-auto></li></margin:0:0:3>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Star Academy
 	card_code_text: 
@@ -375,16 +520,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvwu
+	uid: 69594615127648130850431675795312
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:12:22
 	time_modified: 2023-01-30 02:35:43
 	name: Dance of Steel and Song
@@ -407,16 +565,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvgu
+	uid: 95115917577983481704835717731709
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:12:47
 	time_modified: 2020-09-01 00:42:24
 	name: Patient Herbology
@@ -438,16 +609,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvfeathrets
+	uid: 40986401275823117880685088597707
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:13:25
 	time_modified: 2023-01-29 12:48:52
 	name: Luminescent Feathrets
@@ -474,10 +658,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 87626522072806627690191870313537
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:13:43
 	time_modified: 2021-06-20 02:09:59
 	name: Charcoal Claws
@@ -497,19 +692,32 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 9
 		chop_bottom: 9
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!pvfatigue
 		
 		!change (name typo)
+	uid: 30752880269352923250207657657614
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:14:06
 	time_modified: 2023-01-30 18:56:54
 	name: Somnambulance
@@ -532,10 +740,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvur
+	uid: 06074459162975919345850671438462
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:24:53
 	time_modified: 2023-01-29 12:48:06
 	name: Strict Instructor
@@ -559,10 +778,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 01846628520429785774879108682461
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:25:31
 	time_modified: 2020-11-27 02:18:51
 	name: Illumination Savant
@@ -587,16 +817,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvub
+	uid: 95592070247202517457693786960471
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:25:49
 	time_modified: 2023-01-30 19:00:01
 	name: Oil the Mind
@@ -620,10 +863,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 39073160208398733750291637573231
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:26:15
 	time_modified: 2022-04-28 19:07:42
 	name: Arpechian Bellowers
@@ -649,16 +903,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 1
 		chop_bottom: 1
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: modal pact !pvbr
+	uid: 45886957563197547670880158406587
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:26:42
 	time_modified: 2023-01-30 18:57:11
 	name: Stir the Pot
@@ -671,10 +938,10 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		Choose one or three —
-		<li><bullet>• </bullet>Target opponent loses 3 life.
-		</li><li><bullet>• </bullet>Return target creature card with mana value </sym>3<sym> or less from your graveyard to the battlefield.
-		</li><li><bullet>• </bullet>Conjure a card named Fatigue and put it on top of your library. <i-auto>(It’s a colorless sorcery that costs <sym>2</sym> with “Draw a card.”)</i-auto></li>
+		Choose one or three —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Target opponent loses 3 life.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Return target creature card with mana value </sym>3<sym> or less from your graveyard to the battlefield.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Conjure a card named Fatigue and put it on top of your library. <i-auto>(It’s a colorless sorcery that costs <sym>2</sym> with “Draw a card.”)</i-auto></li></margin:0:0:3>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Alex Flores
 	card_code_text: 
@@ -683,18 +950,31 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!pvrw
 		 buffed: Was 3/1. ETB changed to a harmony effect, and harmonizes on ETB.
+	uid: 78863263814657059349964229601262
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:27:28
 	time_modified: 2025-10-31 17:25:26
 	name: Cocky Bladesinger
@@ -720,10 +1000,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 23327352526252018951625865267089
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:27:51
 	time_modified: 2019-09-30 12:03:42
 	name: Training Duel
@@ -743,12 +1034,23 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes:
 		!pvfatigue
-		
+
+	uid: 52287214880928685762693416086131
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:28:23
 	time_modified: 2026-04-22 00:46:24
 	name: Scintillating Tome
@@ -776,10 +1078,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !change (wrath of god creatures instead of shuffle in creatures. indestructible and dies triggers to your hearts content.)
+	uid: 48610322994038494879160296686248
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:28:52
 	time_modified: 2022-08-28 11:42:02
 	name: Bureaucratic Dues
@@ -800,16 +1113,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvgw
+	uid: 07926529254442048881113538487487
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:29:11
 	time_modified: 2022-04-17 00:02:29
 	name: Fencing Tutor
@@ -833,14 +1159,27 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvbg
+	uid: 85680851025420916994220060439666
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:29:37
 	time_modified: 2020-11-27 02:28:30
 	name: Jara Favored
@@ -863,16 +1202,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 69651824551298471138572809038977
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:32:18
 	time_modified: 2021-04-30 18:12:33
 	name: Cocky Delinquent
@@ -895,10 +1247,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 49895412857820243663457351028852
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:32:49
 	time_modified: 2022-04-16 15:03:28
 	name: Demanding Pupil
@@ -923,16 +1286,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 12
 		chop_bottom: 12
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !change (each player > any number)
+	uid: 27648380853371700723786671894060
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:33:07
 	time_modified: 2023-01-29 12:52:16
 	name: Endure Ennui
@@ -953,16 +1329,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvrw
+	uid: 45373046705517889651602309335287
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:33:35
 	time_modified: 2022-04-30 15:54:26
 	name: Eager Guide
@@ -987,16 +1376,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 9
 		chop_bottom: 9
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvwb
+	uid: 31173167491097383977403953715840
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:33:58
 	time_modified: 2024-04-05 22:05:12
 	name: Banishing Initiate
@@ -1021,16 +1423,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 7
 		chop_bottom: 7
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 91442921870405944318877155698803
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:34:35
 	time_modified: 2020-11-27 01:54:49
 	name: Arpechian Groundskeeper
@@ -1054,10 +1469,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 32191980687214555145259418617060
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:35:09
 	time_modified: 2021-04-30 02:08:46
 	name: Combustion Display
@@ -1077,12 +1503,23 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes:
 		!pvpact
 		!cajun //note to self, update the modal legal check to look at the initial mode choice so Assessor doesn't just make Choose two modals uncastable
+	uid: 42572065622237787686386528595641
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:35:28
 	time_modified: 2023-01-29 15:21:41
 	name: Academy Assessor
@@ -1105,16 +1542,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvflying
+	uid: 79779176569077640178330891419024
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:35:57
 	time_modified: 2020-01-12 22:09:05
 	name: Skyline Climber
@@ -1138,16 +1588,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 44320164731468615687623963272743
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:36:41
 	time_modified: 2020-07-12 18:00:41
 	name: Recollection Revelation
@@ -1169,10 +1632,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !ft !pvbr
+	uid: 55326891931387840316747419552226
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:39:51
 	time_modified: 2019-09-30 14:03:15
 	name: Almgrove Bladesinger
@@ -1196,10 +1670,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvur
+	uid: 37004298539551122368068066896465
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:40:16
 	time_modified: 2019-10-04 14:32:04
 	name: Almgrove Spellblade
@@ -1224,15 +1709,28 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvrw
+	uid: 00759854881972940158423371678378
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:41:03
 	time_modified: 2019-12-04 14:49:22
 	name: Wind Savant
@@ -1257,10 +1755,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 71017900056152081454300073961849
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:41:22
 	time_modified: 2023-01-30 18:57:19
 	name: Challenging Pupil
@@ -1284,10 +1793,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 42755790205245885541499567710938
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:41:22
 	time_modified: 2022-04-30 09:30:50
 	name: Silkwrap Brawler
@@ -1309,10 +1829,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvramp
+	uid: 66672460461859881481482149327408
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:41:22
 	time_modified: 2020-11-27 03:07:35
 	name: Arpechian Stag
@@ -1335,10 +1866,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !ft
+	uid: 58012359023473111026384000048220
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:41:22
 	time_modified: 2023-01-30 18:57:44
 	name: Lost Through Dreams
@@ -1359,10 +1901,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 30801055214973059620642830055361
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:41:22
 	time_modified: 2022-04-16 14:48:13
 	name: Jara Tutelage
@@ -1382,10 +1935,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !ft
+	uid: 63369829064769993389622854072102
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:43:22
 	time_modified: 2021-04-30 19:52:02
 	name: Sensory Stimulation
@@ -1397,9 +1961,9 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		Choose one —
-		<li><bullet>• </bullet>Untap each creature you control.
-		</li><li><bullet>• </bullet><kw-0><nospellcheck><key>Harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto></li>
+		Choose one —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Untap each creature you control.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet><kw-0><nospellcheck><key>Harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto></li></margin:0:0:3>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Ghost HB on ArtStation
 	card_code_text: 
@@ -1408,16 +1972,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 73102136439275326070320949405830
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:43:22
 	time_modified: 2021-07-03 15:28:05
 	name: Shadowed Apostle
@@ -1441,16 +2018,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 13
 		chop_bottom: 13
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 13743443106377199002625557095189
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:44:02
 	time_modified: 2022-04-16 23:32:52
 	name: Expensive Tutor
@@ -1472,10 +2062,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvtheft
+	uid: 98258677159644608780781827773376
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:44:02
 	time_modified: 2021-05-04 13:43:23
 	name: Extracurricular Studies
@@ -1498,13 +2099,24 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes:
 		!pvarchivebang
 		
 		!change (ft typo)
+	uid: 45098923032667441502505047853116
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:44:51
 	time_modified: 2022-08-26 23:44:04
 	name: Review Curriculum
@@ -1524,16 +2136,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 10
 		chop_bottom: 10
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 18819464762782885008413197968867
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:45:04
 	time_modified: 2023-01-30 13:05:08
 	name: Invigorating Shaman
@@ -1556,10 +2181,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !ft
+	uid: 49126199017790899977459009543498
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:45:20
 	time_modified: 2022-04-16 14:42:17
 	name: Entrancing Melody
@@ -1572,9 +2208,9 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: common
 	rule_text:
-		Choose one —
-		<li><bullet>• </bullet>Prevent all damage that would be dealt by creatures this turn.
-		</li><li><bullet>• </bullet><kw-A><nospellcheck><key>Harmonize <param-cost>twice</param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by <sym>X</sym>, where X is its power. Then exile this spell.)</i-auto></atom-reminder-expert></kw-A></li>
+		Choose one —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Prevent all damage that would be dealt by creatures this turn.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet><kw-A><nospellcheck><key>Harmonize <param-cost>twice</param-cost></key></nospellcheck>.<atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its harmonize cost. You may tap a creature you control to reduce that cost by <sym>X</sym>, where X is its power. Then exile this spell.)</i-auto></atom-reminder-expert></kw-A></li></margin:0:0:3>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Beto Lima
 	card_code_text: 
@@ -1583,10 +2219,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !ft
+	uid: 46251570075074398596718806900770
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:45:20
 	time_modified: 2022-04-16 14:44:03
 	name: Arpechian Architect
@@ -1610,16 +2257,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !ft !pvur
+	uid: 31967313789614526466691052403915
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:45:57
 	time_modified: 2020-07-14 17:23:18
 	name: Gilded Duo
@@ -1643,16 +2303,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 4
 		chop_bottom: 4
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: wb !pvcellphones
+	uid: 04281316416057044100020464286332
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:45:57
 	time_modified: 2023-01-29 12:54:42
 	name: Sending Stones
@@ -1675,10 +2348,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 40972388232878395895876231128422
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:45:57
 	time_modified: 2020-11-27 01:18:15
 	name: Endless Inspiration
@@ -1701,10 +2385,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !ft
+	uid: 10416964839443544881491549468703
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:45:57
 	time_modified: 2019-10-14 12:43:43
 	name: Specialized Training Dummy
@@ -1728,10 +2423,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 90866371036696867958640330006403
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:47:09
 	time_modified: 2021-04-30 14:53:35
 	name: Autumnal Resonants
@@ -1756,10 +2462,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvbg
+	uid: 77518276685760510499531912195448
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:47:09
 	time_modified: 2023-12-17 14:10:43
 	name: Flightful Fledgling
@@ -1783,10 +2500,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 75920238882924457043743242179647
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:48:00
 	time_modified: 2021-06-20 02:13:17
 	name: Lightning and Thunder
@@ -1809,10 +2537,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !ft
+	uid: 42230575791859336287797480391741
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:48:37
 	time_modified: 2023-01-30 13:04:00
 	name: Growth Neverending
@@ -1835,16 +2574,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 73583694482606683959700747244885
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:48:56
 	time_modified: 2022-04-30 09:36:58
 	name: Sing Through Steel
@@ -1864,16 +2616,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 11
 		chop_bottom: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 79522182817023765275052242486339
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:48:56
 	time_modified: 2022-04-30 14:03:22
 	name: Prism Mage
@@ -1895,16 +2660,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvramp
+	uid: 84318920385582742810153114028624
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:49:45
 	time_modified: 2021-05-04 13:43:33
 	name: Wander Arpechia
@@ -1924,10 +2702,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 53799081896701079593473004114586
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:50:04
 	time_modified: 2021-05-04 13:42:52
 	name: Counting Clouds
@@ -1948,16 +2737,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvfeathrets
+	uid: 64956935962120167916731628295199
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:50:04
 	time_modified: 2022-04-16 21:23:42
 	name: Festive Servitor
@@ -1981,16 +2783,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 52929411310968688134726203967647
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:50:39
 	time_modified: 2026-04-22 00:46:17
 	name: Chronotome
@@ -2019,16 +2834,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: modal pact
+	uid: 58001125611664482678227366923947
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:51:04
 	time_modified: 2023-01-30 19:01:23
 	name: Capture Brilliance
@@ -2041,11 +2869,11 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		Choose two or four —
-		<li><bullet>• </bullet>Each player draws seven cards.
-		</li><li><bullet>• </bullet>Each opponent discards four cards.
-		</li><li><bullet>• </bullet>Conjure three cards named Fatigue and put them on top of your library. <i-auto>(They’re colorless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sorceries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> that cost <sym>2</sym> with “Draw a card.”)</i-auto>
-		</li><li><bullet>• </bullet>You may cast a card from your hand without paying its mana cost. Exile Capture Brilliance.</li>
+		Choose two or four —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Each player draws seven cards.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Each opponent discards four cards.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Conjure three cards named Fatigue and put them on top of your library. <i-auto>(They’re colorless <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>sorceries</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> that cost <sym>2</sym> with “Draw a card.”)</i-auto></li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>You may cast a card from your hand without paying its mana cost. Exile Capture Brilliance.</li></margin:0:0:3>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Jon Neimeister
 	card_code_text: 
@@ -2054,16 +2882,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 19671260654242778666156136845553
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:51:31
 	time_modified: 2021-04-30 18:09:51
 	name: Updraft Dancer
@@ -2088,16 +2929,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvgu
+	uid: 18759200173923038725184256056577
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:51:31
 	time_modified: 2022-05-17 21:58:41
 	name: Lift the Tides
@@ -2117,12 +2971,23 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes:
 		!study
 		 403: Banned in MSEM.
+	uid: 09675943927513086661372418079507
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:51:31
 	time_modified: 2022-05-26 21:39:13
 	name: Endless Sanctum
@@ -2146,16 +3011,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !ft
+	uid: 90386972111579915480410757705735
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:51:31
 	time_modified: 2022-04-30 15:58:29
 	name: Goliath Tamer
@@ -2178,12 +3056,23 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes:
 		!study
 		 403: Banned in MSEM.
+	uid: 87921042606997357227366909828470
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:51:31
 	time_modified: 2022-05-26 21:39:05
 	name: Astrology Sanctum
@@ -2207,17 +3096,30 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		frames: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		!study
 		 403: Banned in MSEM.
+	uid: 92431318108191943197786746011872
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:51:31
 	time_modified: 2022-05-26 21:39:17
 	name: Revelation Sanctum
@@ -2241,16 +3143,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 2
 		chop_bottom: 6
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 15393234608208516939580089086992
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:51:31
 	time_modified: 2023-01-30 18:55:03
 	name: Humble Archivist
@@ -2272,16 +3187,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 7
 		chop_bottom: 9
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvflying
+	uid: 34390566562593098316720857078727
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:51:31
 	time_modified: 2022-04-16 21:50:20
 	name: Harpstring Ranger
@@ -2306,16 +3234,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 79948267656577025043400816799399
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:54:15
 	time_modified: 2020-08-31 23:14:44
 	name: Irate Retribution
@@ -2342,10 +3283,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvbr
+	uid: 63286210980553208471742315388658
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:54:15
 	time_modified: 2020-11-26 18:54:07
 	name: Starfall Instructor
@@ -2371,16 +3323,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 10
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: You may choose an additional harmony ability as you harmonize. (They can’t be the same harmony.)
+	uid: 02347248612293320000948592059948
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:54:58
 	time_modified: 2023-01-30 13:21:19
 	name: Gilded Conductor
@@ -2405,10 +3370,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !ft
+	uid: 73926552118177345579475521641471
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:55:20
 	time_modified: 2024-09-30 22:42:36
 	name: Daydream
@@ -2437,10 +3413,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 86333773381290504929139654941871
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:56:01
 	time_modified: 2020-11-27 03:07:42
 	name: Tranquil Cultivator
@@ -2466,10 +3453,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvtheft
+	uid: 78412363693599660813671436210083
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:56:19
 	time_modified: 2020-09-03 11:30:25
 	name: Curated Citations
@@ -2492,16 +3490,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvwu
+	uid: 65660020735494391955202860683708
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:56:46
 	time_modified: 2020-07-13 01:32:24
 	name: Study Sphere
@@ -2521,10 +3532,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !ft
+	uid: 50356193033634601872821019297089
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:56:46
 	time_modified: 2020-09-29 13:35:22
 	name: Twilight Dancer
@@ -2548,10 +3570,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvrg
+	uid: 76689405871169271359225286173425
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:57:32
 	time_modified: 2021-03-29 01:31:14
 	name: Break Their Guard
@@ -2572,10 +3605,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvrg
+	uid: 63425576976288427430746820061690
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:57:32
 	time_modified: 2019-09-30 13:45:18
 	name: Finishing Blow
@@ -2596,16 +3640,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 34853609766259864933141977409023
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:59:08
 	time_modified: 2023-01-30 13:13:00
 	name: Cluttered Study
@@ -2627,10 +3684,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvgu
+	uid: 77851463359744404067938729190577
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:59:32
 	time_modified: 2022-04-16 13:35:36
 	name: Friend of Tides
@@ -2654,10 +3722,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvwb
+	uid: 54864742404483950427128834636962
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:59:32
 	time_modified: 2021-04-30 23:50:51
 	name: Almgrove Ensemble
@@ -2682,10 +3761,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvcellphones
+	uid: 32486671968334114868613106622129
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:00:37
 	time_modified: 2019-10-11 00:00:14
 	name: Speed Reader
@@ -2710,10 +3800,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 08895716026902679046251922994057
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:00:37
 	time_modified: 2020-11-27 03:07:17
 	name: Weald Wanderer
@@ -2738,15 +3839,28 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvgw
+	uid: 36088357329801785370611224882573
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:00:37
 	time_modified: 2021-04-29 21:25:17
 	name: Thorn Tender
@@ -2769,10 +3883,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 18899824078476512600250147975669
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:00:37
 	time_modified: 2020-09-03 15:52:04
 	name: Arpechian Conjurer
@@ -2797,16 +3922,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 9
 		chop_bottom: 9
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvgw
+	uid: 50425258059206700558262678934608
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:02:00
 	time_modified: 2020-11-26 17:47:53
 	name: Serene Initiate
@@ -2831,10 +3969,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvrg
+	uid: 25002885655467677839861116279401
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:02:36
 	time_modified: 2022-04-16 22:53:18
 	name: Bestower of Blooms
@@ -2856,16 +4005,71 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2024-09-01
+	stylesheet_version: 2026-08-30
 	has_styling: true
 	styling_data:
+		popout_image_style: 
+		combined_chop: 
+		shrink_name_text: 
+		shrink_typeline_text: 
+		number_of_textboxes: automatic
+		use_tall_frame: default
+		move_separators: 
+		move_loyalty_costs: 
+		font_size: 
+		other_options: un-indent nonloyalty abilities
+		custom_border_source: 
+		textbox_opacity_percentage: 
+		textbox_color: rgb(255,255,255)
+		stripes_opacity_percentage: 
+		stripes_color: rgb(255,255,255)
+		rule_text_color: rgb(0,0,0)
+		back_face: if linked to front face
+		hide_back_face_rarity: yes
+		back_face_hint: PTs only
+		meld_bar: for melds
 		default_image_size: yes
+		prototype_secondary: pt
+		center_starting_loyalty: no
+		alt_rarity_color: 
+		mainframe_rarity_name: 
+		rarity_offsets: 
+		watermark_render: default
+		watermark_opacity_percentage: 
+		card_watermark: 
+		apply_custom_fonts: no
+		custom_name_font: 
+		custom_type_font: 
+		custom_body_font: 
+		custom_pt_font: 
+		remove_from_autocount: no
+		grey_hybrid_name: yes
+		use_guild_mana_symbols: no
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		tap_symbol: modern
+		center_text: never
+		promo: no
+		inverted_common_symbol: no
 		overlay: 
+		custom_mask: 
+		shift_loyalty_costs: 
+		opacity: 
+		override_levels: automatic
+		clear: no
 	notes: 64%
+	uid: 84065760540720669375774509843727
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:02:54
 	time_modified: 2022-05-28 01:12:07
 	extra_data:
@@ -2895,14 +4099,25 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	vorthos_box: He/Him
 	special_text:
 		[+1]: <margin:130:0:0>For each player, exile the top three cards of that player’s library, then put one of those cards into that player’s hand.</margin:130:0:0>
 		[0]: <margin:130:0:0>Choose target card exiled by <atom-legname><nospellcheck>Rahit</nospellcheck></atom-legname>. Until your next turn, you may play that card, and you may spend mana as though it was mana of any type to cast it.</margin:130:0:0>
 		[-7]: <margin:130:0:0>Target player draws seven cards.</margin:130:0:0>
-
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 19606121349904120908656061645210
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:03:20
 	time_modified: 2019-10-11 00:17:03
 	name: Jara Disciplinarian
@@ -2924,10 +4139,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 22406942611500876991724469050263
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:03:52
 	time_modified: 2020-11-27 03:08:22
 	name: Coerced Tutelage
@@ -2948,16 +4174,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 50332698397594058776412923078733
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:04:06
 	time_modified: 2021-04-19 01:13:30
 	name: Confident Amateur
@@ -2980,10 +4219,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvwu
+	uid: 91071780998874513811358890708414
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:04:25
 	time_modified: 2020-09-03 15:20:49
 	name: Supernal Icon
@@ -3005,10 +4255,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvdrawyang
+	uid: 45940413683092467782265371576079
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:04:48
 	time_modified: 2022-04-17 00:00:17
 	name: Compulsory Studies
@@ -3028,10 +4289,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !change (moved untap from etb to combat trigger)
+	uid: 59837608333368943432700381005889
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:05:20
 	time_modified: 2023-01-29 12:52:41
 	name: Earthcraft Meditation
@@ -3054,10 +4326,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 60884593918838521031516418467011
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:05:43
 	time_modified: 2019-10-14 00:35:41
 	name: Freedom of Life
@@ -3077,10 +4360,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvub
+	uid: 07346102147177432682403364684576
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:06:03
 	time_modified: 2023-01-30 18:55:24
 	name: Lengthy Lecture
@@ -3102,10 +4396,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !ft
+	uid: 92845600480851953949338975130025
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:07:03
 	time_modified: 2021-04-30 15:03:10
 	name: Glen Hunter
@@ -3130,16 +4435,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 83159987671628642663747857725512
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:07:03
 	time_modified: 2022-04-16 21:29:07
 	name: Distract
@@ -3151,9 +4469,9 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		Choose one —
-		<li><bullet>• </bullet>Counter target creature or planeswalker spell.
-		</li><li><bullet>• </bullet>Return target creature or planeswalker to its owner’s hand.</li>
+		Choose one —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Counter target creature or planeswalker spell.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Return target creature or planeswalker to its owner’s hand.</li></margin:0:0:3>
 	flavor_text:
 		<i-flavor>“Am I boring you?”<soft-line>
 		— Professor <error-spelling:en_US>Shayle</error-spelling:en_US>, to <error-spelling:en_US>Ardy</error-spelling:en_US> and <error-spelling:en_US>Dayang</soft-line></i-flavor></error-spelling:en_US>
@@ -3164,16 +4482,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 87849814517939110202101495815669
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:07:03
 	time_modified: 2023-01-30 18:59:53
 	name: Dream Keeper
@@ -3197,10 +4528,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 56916093660394496377642840491154
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:07:03
 	time_modified: 2021-04-29 21:26:38
 	name: Gild in Grace
@@ -3220,10 +4562,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 10421625750211282502670900135646
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:08:24
 	time_modified: 2021-04-30 18:08:58
 	name: Gentle Lullaby
@@ -3235,9 +4588,9 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		Choose one —
-		<li><bullet>• </bullet>Creatures your opponents control get -1/-1 until end of turn.
-		</li><li><bullet>• </bullet><kw-0><nospellcheck><key>Harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto></li>
+		Choose one —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Creatures your opponents control get -1/-1 until end of turn.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet><kw-0><nospellcheck><key>Harmonize <param-cost>twice</param-cost></key></nospellcheck></kw-0>. <i-auto>(To <kw-0><nospellcheck><key>harmonize</key></nospellcheck></kw-0>, trigger up to one harmony of a permanent you control.)</i-auto></li></margin:0:0:3>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Stephen Stark
 	card_code_text: 
@@ -3246,15 +4599,28 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvramp
+	uid: 36640871037149937689893254200026
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:08:24
 	time_modified: 2020-01-23 18:00:19
 	name: Distilled Inspiration
@@ -3277,16 +4643,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 28410773065691657538248225629694
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:09:28
 	time_modified: 2022-04-16 23:56:09
 	name: Rigorous Concentration
@@ -3306,18 +4685,31 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 14
 		chop_bottom: 14
 		other_options: auto nyx crowns, vorthos box
 		font_cap: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvedh
+	uid: 16876541389266719347106934939028
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:10:45
 	time_modified: 2023-01-30 13:05:57
 	extra_data:
@@ -3343,16 +4735,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: She/Her
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 79327557130064076858848068139986
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:11:22
 	time_modified: 2023-01-29 12:49:57
 	name: Professor’s Assistant
@@ -3375,10 +4780,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 17949921710173793271197024453702
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:11:38
 	time_modified: 2020-11-27 03:09:26
 	name: Revisionary Studies
@@ -3401,16 +4817,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvflying
+	uid: 12376729265477146015598028360977
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:12:02
 	time_modified: 2022-04-22 00:12:00
 	name: Rousing Roots
@@ -3432,17 +4861,30 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
 		frames: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: modal pact !pvpact
+	uid: 61382711964130781436018222800179
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:18:00
 	time_modified: 2023-01-30 19:01:43
 	name: Dayang's Displeasure
@@ -3455,11 +4897,11 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		Choose two or four —
-		<li><bullet>• </bullet>Return target nonland permanent to its owner’s hand.
-		</li><li><bullet>• </bullet>Each player sacrifices a creature.
-		</li><li><bullet>• </bullet>Each player sacrifices a noncreature, nonland permanent.
-		</li><li><bullet>• </bullet>Conjure a card named Fatigue and put it on top of your library. <i-auto>(It’s a colorless sorcery that costs <sym>2</sym> with “Draw a card.”)</i-auto></li>
+		Choose two or four —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Return target nonland permanent to its owner’s hand.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Each player sacrifices a creature.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Each player sacrifices a noncreature, nonland permanent.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Conjure a card named Fatigue and put it on top of your library. <i-auto>(It’s a colorless sorcery that costs <sym>2</sym> with “Draw a card.”)</i-auto></li></margin:0:0:3>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Zeen Chin
 	card_code_text: 
@@ -3468,16 +4910,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvedh
+	uid: 37847213568012033522470626232016
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:18:00
 	time_modified: 2022-05-18 18:45:45
 	extra_data:
@@ -3505,16 +4960,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: She/Her
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 60262051095667418461846598754969
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:18:00
 	time_modified: 2022-04-16 21:21:40
 	name: Craft Malice
@@ -3537,10 +5005,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvtheft
+	uid: 33749276083333376175893802858948
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:18:00
 	time_modified: 2021-07-03 17:10:48
 	name: Compose from Dreams
@@ -3563,16 +5042,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 3
 		chop_bottom: 3
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: modal pact
+	uid: 47911096384112236090921222028902
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:18:00
 	time_modified: 2023-01-30 19:01:49
 	name: Esoteric Herbology
@@ -3585,11 +5077,11 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
 	rule_text:
-		Choose two or four —
-		<li><bullet>• </bullet>Search your library for a card, put it into your hand, then shuffle.
-		</li><li><bullet>• </bullet>Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>seven</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-		</li><li><bullet>• </bullet>You gain 1 life for each land card in your graveyard.
-		</li><li><bullet>• </bullet>Conjure a card named Fatigue and put it on top of your library. <i-auto>(It’s a colorless sorcery that costs <sym>2</sym> with “Draw a card.”)</i-auto></li>
+		Choose two or four —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Search your library for a card, put it into your hand, then shuffle.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Each player <kw-a><nospellcheck><key><param-mill>mills</param-mill> <param-one_word>seven</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>You gain 1 life for each land card in your graveyard.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Conjure a card named Fatigue and put it on top of your library. <i-auto>(It’s a colorless sorcery that costs <sym>2</sym> with “Draw a card.”)</i-auto></li></margin:0:0:3>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Zeen Chin
 	card_code_text: 
@@ -3598,10 +5090,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvedh
+	uid: 69063208705311778123665533550529
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:51:30
 	time_modified: 2022-05-28 01:11:17
 	extra_data:
@@ -3629,10 +5132,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: He/Him
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !ft !pvcellphones
+	uid: 62025839877448625867869232728887
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:51:30
 	time_modified: 2022-04-16 22:07:00
 	name: Almgrove Performer
@@ -3656,10 +5170,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvdrawyang
+	uid: 71546882884775925582008256983537
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:53:08
 	time_modified: 2021-04-30 18:09:32
 	name: Chaotic Pupil
@@ -3683,10 +5208,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 18810665440303596850933378099549
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:54:02
 	time_modified: 2021-04-30 18:52:49
 	name: Focused Apprentice
@@ -3711,10 +5247,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 23106163721228578955390026058044
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:55:59
 	time_modified: 2021-04-19 01:05:17
 	name: Senior Warding
@@ -3726,10 +5273,10 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		Choose one —
-		<li><bullet>• </bullet>Target permanent gains <kw-0><nospellcheck><key>protection from <param-name>instants and sorceries until end of turn</param-name>.</key></nospellcheck></kw-0>
-		</li><li><bullet>• </bullet>You gain 3 life.
-		</li><li><bullet>• </bullet>Draw a card.</li>
+		Choose one —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Target permanent gains <kw-0><nospellcheck><key>protection from <param-name>instants and sorceries until end of turn</param-name>.</key></nospellcheck></kw-0></li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>You gain 3 life.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Draw a card.</li></margin:0:0:3>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: chazilla on DeviantArt
 	card_code_text: 
@@ -3738,16 +5285,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: !pvwb
+	uid: 37060283672226393191701898337366
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 22:55:59
 	time_modified: 2022-04-16 13:56:35
 	name: Learn Through Error
@@ -3770,10 +5330,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvbg
+	uid: 73391417672267452641000745397736
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 23:16:34
 	time_modified: 2021-05-04 13:42:57
 	name: Studies Past
@@ -3798,16 +5369,29 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 10998046436944362140785030160351
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 23:24:57
 	time_modified: 2019-10-14 00:49:08
 	name: Spectacle of Arpechia
@@ -3827,10 +5411,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 97878652373521615919318622189350
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-10-04 14:47:58
 	time_modified: 2019-10-04 15:06:55
 	card_color: green, land
@@ -3854,10 +5449,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 87466597917649147114871898338312
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-10-04 14:47:58
 	time_modified: 2019-10-04 15:07:01
 	card_color: blue, land
@@ -3881,10 +5487,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 79251397074500582474543810636707
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-10-04 14:47:58
 	time_modified: 2019-10-04 15:07:07
 	card_color: white, land
@@ -3908,10 +5525,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 14185800331914970663863913487769
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-10-04 14:47:58
 	time_modified: 2019-10-04 15:07:12
 	card_color: black, land
@@ -3935,10 +5563,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 07876893085598326940586713221643
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-10-04 14:47:58
 	time_modified: 2019-10-04 15:07:18
 	card_color: red, land
@@ -3962,20 +5601,74 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2024-09-01
+	stylesheet_version: 2026-08-30
 	has_styling: true
 	styling_data:
-		opacity: 90
+		popout_image_style: 
+		combined_chop: 
+		shrink_name_text: 
+		shrink_typeline_text: 
+		number_of_textboxes: automatic
+		use_tall_frame: default
+		move_separators: 
+		move_loyalty_costs: 
+		font_size: 
 		other_options: use taller frame, un-indent nonloyalty abilities
+		custom_border_source: 
+		textbox_opacity_percentage: 
+		textbox_color: rgb(255,255,255)
+		stripes_opacity_percentage: 
+		stripes_color: rgb(255,255,255)
+		rule_text_color: rgb(0,0,0)
+		back_face: if linked to front face
+		hide_back_face_rarity: yes
+		back_face_hint: PTs only
+		meld_bar: for melds
+		default_image_size: yes
+		prototype_secondary: pt
+		center_starting_loyalty: no
+		alt_rarity_color: 
+		mainframe_rarity_name: 
+		rarity_offsets: 
+		watermark_render: default
+		watermark_opacity_percentage: 
+		card_watermark: 
+		apply_custom_fonts: no
+		custom_name_font: 
+		custom_type_font: 
+		custom_body_font: 
+		custom_pt_font: 
+		remove_from_autocount: no
+		grey_hybrid_name: yes
+		use_guild_mana_symbols: no
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		tap_symbol: modern
+		center_text: never
+		promo: no
+		inverted_common_symbol: no
 		overlay: 
+		custom_mask: 
+		shift_loyalty_costs: 
+		opacity: 90
+		override_levels: automatic
+		clear: no
 	notes:
 		56%
 		
 		!change (-2 draw to basic fetch)
+	uid: 41438565166871496260915877256543
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-10-12 01:04:21
 	time_modified: 2022-08-28 11:29:39
 	extra_data:
@@ -4008,14 +5701,25 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	vorthos_box: He/Him
 	special_text:
 		[+1]: <margin:130:0:0>Search your library for a land card, put it onto the battlefield, untap it, then shuffle. Sacrifice a land.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Destroy target noncreature permanent. Its controller may search their library for a basic land card, put that card onto the battlefield, then shuffle.</margin:130:0:0>
 		[-6]: <margin:130:0:0>Return any number of land cards from your graveyard to the battlefield and untap them. They become 3/3 creatures with <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> in addition to their other types.</margin:130:0:0>
-
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: !pvdrawyang
+	uid: 62991077715212949321565996794054
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-28 23:16:10
 	time_modified: 2021-04-19 01:06:27
 	name: Dayang’s Artistry
@@ -4028,10 +5732,10 @@ card:
 	sub_type: <word-list-enchantment></word-list-enchantment>
 	rarity: uncommon
 	rule_text:
-		Whenever you draw a card, choose one —
-		<li><bullet>• </bullet><atom-cardname><nospellcheck>Dayang’s Artistry</nospellcheck></atom-cardname> deals 1 damage to any target.
-		</li><li><bullet>• </bullet>You gain 1 life.
-		</li><li><bullet>• </bullet><kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>.</li>
+		Whenever you draw a card, choose one —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet><atom-cardname><nospellcheck>Dayang’s Artistry</nospellcheck></atom-cardname> deals 1 damage to any target.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>You gain 1 life.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet><kw-0><nospellcheck><key>Scry <param-number>1</param-number></key></nospellcheck></kw-0>.</li></margin:0:0:3>
 	flavor_text: <i-flavor></i-flavor>
 	illustrator: Zeen Chin
 	card_code_text: 
@@ -4040,10 +5744,10 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2025-01-11
+	stylesheet_version: 2026-08-26
 	has_styling: true
 	styling_data:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -4052,6 +5756,15 @@ card:
 		
 		
 		!related Fencing Tutor;
+	uid: 18838470716866605136920031518379
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2020-07-12 18:49:05
 	time_modified: 2020-07-12 21:38:18
 	card_color: white
@@ -4073,10 +5786,9 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2025-01-11
+	stylesheet_version: 2026-08-26
 	has_styling: true
 	styling_data:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -4085,6 +5797,15 @@ card:
 		
 		
 		!related Autumnal Resonants;
+	uid: 23700291853479619318301419872693
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2020-07-12 18:49:05
 	time_modified: 2020-07-12 20:56:32
 	card_color: red, green, multicolor, horizontal
@@ -4106,15 +5827,23 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2025-01-11
+	stylesheet_version: 2026-08-26
 	has_styling: false
 	notes:
 		!exportname Green Elk
 		
 		!related Arpechian Stag;
+	uid: 72438864098629564336969351204852
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2020-11-25 13:26:50
 	time_modified: 2020-11-25 13:31:19
 	card_color: green
@@ -4136,15 +5865,23 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2025-01-11
+	stylesheet_version: 2026-08-26
 	has_styling: false
 	notes:
 		!exportname White Elk
 		
 		!related Arpechian Stag;
+	uid: 94156510989148163678329329216415
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2020-11-25 13:26:50
 	time_modified: 2020-11-25 13:31:56
 	card_color: white
@@ -4166,15 +5903,23 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2025-01-11
+	stylesheet_version: 2026-08-26
 	has_styling: false
 	notes:
 		!exportname Red Elk
 		
 		!related Arpechian Stag;
+	uid: 14620574890693253571085097170040
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2020-11-25 13:26:50
 	time_modified: 2020-11-25 13:32:31
 	card_color: red
@@ -4196,10 +5941,9 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2025-01-11
+	stylesheet_version: 2026-08-26
 	has_styling: true
 	styling_data:
 		frames: copy
@@ -4211,6 +5955,15 @@ card:
 		!related Luminescent Feathrets X>;
 		
 		!pvfeathrets
+	uid: 47802996951280985495479558728872
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-09-29 21:13:25
 	time_modified: 2023-01-30 19:11:15
 	name: Luminescent Feathrets
@@ -4235,15 +5988,23 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2025-01-11
+	stylesheet_version: 2026-08-26
 	has_styling: false
 	notes:
 		
 		
 		!related Bestower of Blooms;
+	uid: 06872223315271573675678547642141
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2022-04-16 22:34:35
 	time_modified: 2022-04-30 16:34:05
 	card_color: green
@@ -4263,10 +6024,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 30312447239129362650692696179437
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2022-04-30 17:41:46
 	time_modified: 2022-04-30 17:44:39
 	name: Plains
@@ -4285,10 +6056,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 04658298578660159721360912252230
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2022-04-30 17:41:46
 	time_modified: 2022-04-30 17:44:17
 	name: Island
@@ -4307,10 +6089,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 86365515287409458353744172233941
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2022-04-30 17:41:46
 	time_modified: 2022-04-30 17:46:29
 	name: Swamp
@@ -4329,10 +6122,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 90813287887273245827575106206953
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2022-04-30 17:41:46
 	time_modified: 2022-04-30 17:48:59
 	name: Mountain
@@ -4351,10 +6155,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-24
 	has_styling: false
 	notes: 
+	uid: 22460421738436680571319928883724
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2022-04-30 17:41:46
 	time_modified: 2022-04-30 17:42:15
 	name: Forest
@@ -4373,7 +6188,7 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: 
 keyword:
 	keyword: Harmonize
 	match: harmonize

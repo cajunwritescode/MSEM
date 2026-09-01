@@ -1,8 +1,8 @@
-﻿mse_version: 2.0.2
+﻿mse_version: 2.6.0
 game: magic
-game_version: 2024-10-01
+game_version: 2026-08-30
 stylesheet: m15-altered
-stylesheet_version: 2026-01-23
+stylesheet_version: 2026-08-31
 set_info:
 	description:
 		WUBr Rail Barons (projects again)
@@ -37,12 +37,18 @@ styling:
 		frames: 
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	magic-m15-black:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
+	magic-m15-emblem:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 	magic-m15-emblem-cajun:
 		popout_image_style: 0,0,375,523,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -57,6 +63,7 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-planeswalker:
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-paradox:
@@ -88,6 +95,15 @@ styling:
 card:
 	has_styling: false
 	notes: 
+	uid: 20013423256783188908335720088475
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:02:56
 	time_modified: 2020-07-01 20:36:39
 	name: Tsubasa's Redoubt
@@ -109,10 +125,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 18319699104077671439342887608559
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:46
 	time_modified: 2018-12-11 03:14:24
 	name: Watchful Signalman
@@ -136,17 +160,27 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 14
 		frames: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 04191029686800292541548267572421
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:46
 	time_modified: 2019-03-28 22:59:29
 	name: Grizzled Stoker
@@ -170,10 +204,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 51742367045622185954626833630233
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:46
 	time_modified: 2019-03-25 20:14:23
 	name: Forsaken Gunfighter
@@ -198,10 +240,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 20556264102574144027668414441752
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:46
 	time_modified: 2019-04-28 21:17:09
 	name: Night of Falling Stars
@@ -224,47 +274,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
-card:
-	has_styling: true
-	styling_data:
-		chop_top: 7
-		chop_bottom: 14
-		frames: 
-		other_options: auto nyx crowns, vorthos box
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
-	notes: 
-	time_created: 2018-12-03 22:03:46
-	time_modified: 2021-05-29 15:33:53
-	extra_data:
-		magic-m15-altered:
-			vorthos_box: He/They
-	name: Tenne, Thief of Destiny
-	casting_cost: GW
-	image: image96
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: mythic rare
-	rule_text: <sym-auto>8</sym-auto>: Exile target nonbasic permanent. Its controller gains life equal to its mana value.
-	flavor_text: <i-flavor>Limitless power doesn’t always come with a practical use. Fortunately for <error-spelling:en_US>Tenne</error-spelling:en_US>, the five years since <error-spelling:en_US>Maram</error-spelling:en_US> and <error-spelling:en_US>Heddwyn</error-spelling:en_US> left the Heart with him was plenty of time to master it.</i-flavor>
-	power: 2
-	toughness: 2
-	illustrator: jhibbs
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 6-7 creature, 3-4 noncreature
+	uid: 20763320809080333121942741606080
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:48
 	time_modified: 2019-03-22 20:06:52
 	name: Witchlock Sniper
@@ -286,7 +307,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -297,6 +317,15 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 11969480192408504068857831742596
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:48
 	time_modified: 2019-03-31 18:41:37
 	name: Tentacled Grip
@@ -320,10 +349,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 37178670056991680192728209101396
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:48
 	time_modified: 2019-03-25 20:10:35
 	name: Shadow of Izumito
@@ -335,9 +372,9 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Assassin</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		When <atom-cardname><nospellcheck>Shadow of Izumito</nospellcheck></atom-cardname> dies, choose one —
-		<li><bullet>• </bullet>Destroy target creature that was dealt damage this turn.
-		</li><li><bullet>• </bullet>You may put a progress counter on a Project you control.</li>
+		When <atom-cardname><nospellcheck>Shadow of Izumito</nospellcheck></atom-cardname> dies, choose one —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Destroy target creature that was dealt damage this turn.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>You may put a progress counter on a Project you control.</li></margin:0:0:3>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
 	toughness: 1
@@ -348,10 +385,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 79280630604955855502000956706086
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:48
 	time_modified: 2019-09-30 14:55:39
 	name: Clutch Shot
@@ -371,12 +416,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes: 
+	uid: 37669472863090372534722515100595
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:48
 	time_modified: 2019-01-30 16:45:36
 	name: Recall Forgotten Eons
@@ -400,10 +453,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 79652830276329488634777304408663
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:54
 	time_modified: 2025-10-23 22:26:37
 	name: Impeccable Aim
@@ -415,9 +476,9 @@ card:
 	super_type: <word-list-type-en>Sorcery</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
-		Choose one —
-		<li><bullet>• </bullet>Exile target creature with power 4 or greater.
-		</li><li><bullet>• </bullet>Exile up to four target noncreature cards from graveyards.</li>
+		Choose one —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Exile target creature with power 4 or greater.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Exile up to four target noncreature cards from graveyards.</li></margin:0:0:3>
 	flavor_text: <i-flavor>With monsters this big, missing would be more of a feat than striking true.</i-flavor>
 	illustrator: Riccardo Rullo
 	card_code_text: 
@@ -426,10 +487,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: flavor?
+	uid: 09550009515878837465304480040072
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:54
 	time_modified: 2019-04-28 21:37:00
 	name: Marinton Occultist
@@ -453,10 +522,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 73004660446592895947054203640812
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:54
 	time_modified: 2019-03-31 19:01:24
 	name: Mei Liva's Emissary
@@ -478,10 +555,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 56282429047213323106177697949875
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:54
 	time_modified: 2019-01-30 17:00:03
 	name: Twinblade Paragon
@@ -505,7 +590,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -516,6 +600,15 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 00559939238135793437397013523282
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:54
 	time_modified: 2021-05-31 20:28:59
 	name: Clear the Way Home
@@ -539,10 +632,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 05593575591060127456400962171683
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:57
 	time_modified: 2019-03-31 18:49:57
 	name: Stay On Guard
@@ -565,10 +666,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 56736872610253449431271384801490
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:57
 	time_modified: 2018-12-11 14:05:35
 	name: Aetheric Disarm
@@ -588,10 +697,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 37899791435978940886605653410108
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:57
 	time_modified: 2019-03-30 13:46:36
 	name: Saboteur's Panic
@@ -611,10 +728,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 87349516772706285955803113247312
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:57
 	time_modified: 2019-03-22 18:13:46
 	name: Guns Blazing
@@ -634,7 +759,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -645,6 +769,15 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 84229810789611325529031836279934
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:57
 	time_modified: 2021-04-11 12:42:32
 	name: Stand Unassailable
@@ -669,10 +802,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 17372765165899181439866514092454
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:58
 	time_modified: 2024-01-28 20:59:43
 	name: Traveling Marshal
@@ -696,12 +837,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes: 
+	uid: 26705660606823910458445184325131
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:58
 	time_modified: 2021-01-15 02:49:16
 	name: Rise from the Harbor
@@ -725,12 +874,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes: !critter
+	uid: 35726400030750601033456275903623
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:58
 	time_modified: 2019-08-08 00:37:23
 	name: Consign to Oblivion
@@ -756,16 +913,26 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 11
 		chop_bottom: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 47391836803687258928699447538494
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:58
 	time_modified: 2019-01-29 02:10:27
 	name: Scrapyard Raiders
@@ -787,10 +954,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 35120359766466970634653085401512
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:03:58
 	time_modified: 2019-03-22 15:51:02
 	name: Transformative Insights
@@ -810,10 +985,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 85434049650918726833240884076966
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:01
 	time_modified: 2019-03-31 18:19:05
 	name: Specialist Saboteur
@@ -825,10 +1008,10 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Advisor</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rule_text:
-		When <atom-cardname><nospellcheck>Specialist Saboteur</nospellcheck></atom-cardname> enters, choose one —
-		<li><bullet>• </bullet>Put a +1/+1 counter on Specialist
-		<margin:0:0:5></li>  Saboteur.</margin:0:0:5>
-		<li><bullet>• </bullet>Destroy target enchantment.</li>
+		When <atom-cardname><nospellcheck>Specialist Saboteur</nospellcheck></atom-cardname> enters, choose one —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Put a +1/+1 counter on Specialist</li></margin:0:0:3>
+		  Saboteur.<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Destroy target enchantment.</li></margin:0:0:3>
 	flavor_text: <i-flavor>“Fortunately for us, Union Rail is experiencing unexpected delays.”</i-flavor>
 	power: 2
 	toughness: 2
@@ -839,17 +1022,27 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 12
 		chop_bottom: 12
 		frames: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 82115113896649710054688946176273
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:01
 	time_modified: 2019-03-28 23:15:33
 	name: Gleeful Deviser
@@ -873,10 +1066,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 42930893345604732809664882692378
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:01
 	time_modified: 2019-01-23 20:48:14
 	name: Determined Slayer
@@ -900,7 +1101,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
@@ -909,10 +1109,21 @@ card:
 		frames: 
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 78561304895970260809535142944325
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:01
 	time_modified: 2019-03-30 14:18:32
 	name: Tesqua Cohort
@@ -936,12 +1147,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
-	notes: 
+	notes: !update
+	uid: 53885859292159186223417513860529
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:01
-	time_modified: 2020-07-01 20:35:01
+	time_modified: 2026-08-31 21:39:31
 	name: Truthmarked Archivist
 	casting_cost: 1G
 	image: image128
@@ -950,7 +1169,7 @@ card:
 	mainframe_image_2: 
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: <sym-auto>T</sym-auto>, <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>: Add one mana of any color.
+	rule_text: <sym-auto>T</sym-auto>, <kw-a><nospellcheck><key><param-mill>Mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>: Add one mana of any color. Activate only as an instant.
 	flavor_text: <i-flavor>Secrets inked on skin can’t be torn from a mind or burned from a page.</i-flavor>
 	power: 2
 	toughness: 1
@@ -961,10 +1180,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 10243639088725313582108191229051
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:03
 	time_modified: 2018-12-11 03:04:07
 	name: Guardian of Rawthlin
@@ -986,10 +1213,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 28539576887920929236887381475918
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:03
 	time_modified: 2019-03-22 20:11:22
 	name: Failing Defenses
@@ -1009,12 +1244,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes: 
+	uid: 99815509558911007234708539562673
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:03
 	time_modified: 2019-02-12 00:49:53
 	name: Devour Memories
@@ -1038,10 +1281,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 20036331611059338279421503164933
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:03
 	time_modified: 2019-03-29 01:03:45
 	name: Sullivan's Courier
@@ -1065,12 +1316,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes: 
+	uid: 91599259499358030819196178277399
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:03
 	time_modified: 2019-03-28 02:11:15
 	name: Strike Down the Usurpers
@@ -1094,10 +1353,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 81433782915510894659859411075017
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:05
 	time_modified: 2019-03-31 18:09:23
 	name: Evening Report
@@ -1117,10 +1384,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 48234044224305312163157369119716
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:05
 	time_modified: 2020-07-23 15:39:19
 	name: Steamwork Musicians
@@ -1142,10 +1417,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 41573613838450394011680099000834
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:05
 	time_modified: 2019-01-23 20:20:19
 	name: Dead Man's Ambush
@@ -1169,10 +1452,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 43567439075967618902650397258465
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:05
 	time_modified: 2019-03-29 00:54:14
 	name: Bank Job
@@ -1192,12 +1483,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes: 
+	uid: 85079853892755335277667731810200
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:05
 	time_modified: 2019-03-29 01:02:12
 	name: Teeth Without Number
@@ -1221,10 +1520,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 08537429284337437019122690107717
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:08
 	time_modified: 2019-03-22 21:17:04
 	name: Keep the Peace
@@ -1246,12 +1553,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes: 
+	uid: 88007415134755245352827526830260
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:08
 	time_modified: 2020-07-01 20:34:11
 	name: Watch from Above
@@ -1276,10 +1591,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 60811101155957762506849582195512
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:08
 	time_modified: 2020-07-01 20:34:49
 	name: Prophet of Reclamation
@@ -1301,10 +1624,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: !script "s>l>Spawn Construct/l>f>/spawn 1/1 colorless Construct RWR/f>/s>","l"
+	uid: 10849315632966269417629920160860
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:08
 	time_modified: 2019-03-22 14:59:51
 	name: Devised Companions
@@ -1324,10 +1655,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 38050607229519301717176120308282
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:08
 	time_modified: 2019-03-29 00:54:33
 	name: Wrassle
@@ -1347,10 +1686,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 13231812766697416900296832503072
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:10
 	time_modified: 2018-12-11 02:45:15
 	name: Renegade Spiritualist
@@ -1374,10 +1721,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 82032147887020342892384278783864
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:10
 	time_modified: 2019-03-31 18:47:34
 	name: Tracing Leylines
@@ -1403,10 +1758,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 26274665143410471661280630567215
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:10
 	time_modified: 2019-03-29 00:53:45
 	name: Derail
@@ -1419,8 +1782,8 @@ card:
 	sub_type: <word-list-spell></word-list-spell>
 	rule_text:
 		Choose one —<soft-line>
-		</soft-line>• Target creature gets -2/-2 until end of turn.<soft-line>
-		</soft-line>• Remove up to two counters from target permanent.
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Target creature gets -2/-2 until end of turn.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>Remove up to two counters from target permanent.</li></margin:0:0:3>
 	flavor_text: <i-flavor>Nothing ever goes exactly as planned.</i-flavor>
 	illustrator: Yerbol Bulentayev
 	card_code_text: 
@@ -1429,10 +1792,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 09172334991769329820775603041816
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:10
 	time_modified: 2019-03-22 18:54:54
 	name: Savvy Saboteur
@@ -1454,10 +1825,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 45927073367063755306005343354108
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:10
 	time_modified: 2022-04-30 14:35:14
 	name: Ranger's Guile
@@ -1477,7 +1856,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
@@ -1487,10 +1865,21 @@ card:
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
 		font_cap: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 61518462385851485867296011261796
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:14
 	time_modified: 2018-12-11 03:08:31
 	name: Custom Armaments
@@ -1516,10 +1905,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 92445012855780208827891987944494
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:14
 	time_modified: 2019-03-31 18:49:06
 	name: Lightning Draw
@@ -1542,17 +1939,27 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
 		frames: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 71271247244363790220717948188048
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:14
 	time_modified: 2020-07-01 20:33:12
 	name: Past Unresolved
@@ -1572,10 +1979,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 63203872755890993155320159161075
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:14
 	time_modified: 2019-03-22 15:57:38
 	name: Gilded Gunman
@@ -1601,10 +2016,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 49952538181935382143327804026486
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:14
 	time_modified: 2019-03-29 00:56:31
 	name: Marre Guardian
@@ -1628,10 +2051,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 24308567471026913921641069716211
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:19
 	time_modified: 2019-03-22 14:36:36
 	name: Laconic Deputy
@@ -1653,10 +2084,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 43034272428280515045802255772664
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:19
 	time_modified: 2020-07-01 20:33:54
 	name: Secret-Hoarder
@@ -1681,10 +2120,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 41226162000688975124173971550926
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:19
 	time_modified: 2019-01-30 16:51:56
 	name: Doom Defied
@@ -1707,10 +2154,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 05431669980070349915760385568713
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:19
 	time_modified: 2019-01-23 22:12:20
 	name: Ancestral Warlord
@@ -1735,10 +2190,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 03214652665282608434796533504875
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:19
 	time_modified: 2019-04-28 21:26:49
 	name: Daring Cavalier
@@ -1762,10 +2225,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 86873843897088300178993627901589
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:26
 	time_modified: 2024-01-28 20:58:40
 	name: Diligent Analyst
@@ -1789,7 +2260,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
@@ -1798,12 +2268,23 @@ card:
 		frames: leveler
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
-		font_cap: 11
 		level_offset: -7,
+		font_cap: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 83946807795791661664859500327428
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:26
 	time_modified: 2019-03-28 23:32:10
 	name: Sparkline Harness
@@ -1829,10 +2310,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 96874781374749083912086945158250
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:26
 	time_modified: 2020-07-01 20:34:26
 	name: Treacherous Toss
@@ -1852,10 +2341,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 96898814610589883364556089962631
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:26
 	time_modified: 2019-03-22 22:14:16
 	name: Weary Sentinel
@@ -1881,10 +2378,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 69485931739878114087798025896211
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:26
 	time_modified: 2019-03-29 00:55:56
 	name: Young Falconer
@@ -1908,10 +2413,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 02456979450800324685652641278702
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:29
 	time_modified: 2019-03-22 17:57:37
 	name: Modular Mercenary
@@ -1933,13 +2446,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes:
 		 
+	uid: 56214172020775715069084559224623
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:29
 	time_modified: 2021-04-11 12:42:35
 	name: Consult on Ages Lost
@@ -1963,10 +2484,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 59459339206891429418733743040212
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:29
 	time_modified: 2019-03-28 23:18:46
 	name: Elderbane Rifle
@@ -1989,10 +2518,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 23356815585084939037302322895917
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:29
 	time_modified: 2019-04-28 21:48:41
 	name: Imperial Titan
@@ -2020,10 +2557,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 73262348001992979431441409924719
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:29
 	time_modified: 2019-03-28 23:21:40
 	name: Sparkline Dancer
@@ -2049,10 +2594,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 52822845159620816619303647579808
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:30
 	time_modified: 2020-07-01 20:36:25
 	name: Hiroto's Refuge
@@ -2074,10 +2627,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 53195115804482601324173600952433
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:31
 	time_modified: 2020-07-01 20:37:03
 	name: Ganzorig's Domain
@@ -2099,10 +2660,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 10047245858870706209320459104166
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:31
 	time_modified: 2020-07-01 20:35:44
 	name: Catalina's Turf
@@ -2124,10 +2693,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 38484169054501884914371644930045
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:32
 	time_modified: 2020-07-01 20:36:29
 	name: Riv's Safehouse
@@ -2149,10 +2726,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 44550527861491971010295083316897
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:32
 	time_modified: 2020-07-01 20:36:47
 	name: Takumi's Headquarters
@@ -2174,10 +2759,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 20320681283639282089514690172252
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:33
 	time_modified: 2020-07-01 20:36:43
 	name: Neblus' Legacy
@@ -2199,10 +2792,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 92686968208885916839354460649314
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:33
 	time_modified: 2020-07-01 20:36:35
 	name: Riko's Academy
@@ -2224,10 +2825,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 21435227952209826047630737607297
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:34
 	time_modified: 2020-07-01 20:36:12
 	name: Dominik's Shack
@@ -2249,10 +2858,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 78881195900366249273476497115153
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:04:35
 	time_modified: 2020-07-01 20:36:53
 	name: Riga's Workshop
@@ -2274,7 +2891,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
@@ -2284,10 +2900,21 @@ card:
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
 		font_cap: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 05614243165167738433980665070093
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 22:09:19
 	time_modified: 2019-03-22 22:11:52
 	name: Armored Transports
@@ -2313,7 +2940,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
@@ -2323,10 +2949,21 @@ card:
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
 		font_cap: 10
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 43770599271192583499118419396173
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:01
 	time_modified: 2018-12-10 23:16:11
 	name: Propaganda Division
@@ -2353,10 +2990,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 51037831461146564721769652984740
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:01
 	time_modified: 2022-04-29 23:26:01
 	name: Devised Battlesuit
@@ -2380,13 +3025,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes:
 		 
+	uid: 05063452482636752331974448436991
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:01
 	time_modified: 2021-05-31 20:39:26
 	name: Pained Ascension
@@ -2411,10 +3064,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 21912028953627074364340903315831
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:01
 	time_modified: 2022-05-19 13:40:29
 	name: Douse in Flame
@@ -2437,10 +3098,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 33368057466390242348028202348037
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:01
 	time_modified: 2024-01-02 00:14:15
 	name: Gathering the Gang
@@ -2461,7 +3130,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
@@ -2470,10 +3138,21 @@ card:
 		frames: 
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 23599510910318787955567175115392
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:05
 	time_modified: 2019-02-12 02:04:31
 	name: Lumenbay Jailer
@@ -2498,53 +3177,32 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-03 23:38:05
-	time_modified: 2023-08-31 05:55:16
-	extra_data:
-		magic-m15-altered:
-			vorthos_box: He/Him
-	name: Sammel Wyldjack
-	casting_cost: 3BR
-	image: image88
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: rare
-	rule_text:
-		<atom-cardname><nospellcheck>Sammel Wyldjack</nospellcheck></atom-cardname> enters with a <kw-0><nospellcheck><key>fuse</key></nospellcheck></kw-0> counter on him.
-		At the beginning of your upkeep, remove a <kw-0><nospellcheck><key>fuse</key></nospellcheck></kw-0> counter from <atom-cardname><nospellcheck>Sammel Wyldjack</nospellcheck></atom-cardname>. If you do, each player sacrifices four lands and <atom-cardname><nospellcheck>Sammel Wyldjack</nospellcheck></atom-cardname> deals 4 damage to each other creature.
-	flavor_text: <i-flavor></i-flavor>
-	power: 2
-	toughness: 2
-	illustrator: Riccardo Rullo
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
-		frames: leveler
 		popout_image_style: 
+		frames: leveler
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
-		font_cap: 10
 		level_offset: -10,10,
+		font_cap: 10
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 40128654083514730986161575443895
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:05
 	time_modified: 2019-06-30 23:04:58
 	name: Hellbent Speed
@@ -2572,10 +3230,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 70764147551816905968478999095482
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:05
 	time_modified: 2019-03-22 18:15:25
 	name: Grifter's Diversion
@@ -2598,10 +3264,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 09972738279950911290228883858361
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:05
 	time_modified: 2019-03-22 18:09:45
 	name: Truth Unveiled
@@ -2626,7 +3300,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
@@ -2636,10 +3309,21 @@ card:
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
 		font_cap: 12
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 7 creature, 3 noncreature
+	uid: 88556321141500770772936118997041
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:07
 	time_modified: 2018-12-10 23:34:15
 	name: Technology Transfer
@@ -2668,10 +3352,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 07141218829658434647893058258213
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:07
 	time_modified: 2019-03-29 18:13:14
 	name: Hostile Takeover
@@ -2697,7 +3389,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
@@ -2706,12 +3397,23 @@ card:
 		frames: leveler
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
-		font_cap: 10
 		level_offset: -10,-5,
+		font_cap: 10
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 08333934565798082974435367640014
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:07
 	time_modified: 2019-02-14 13:27:16
 	name: Unorthodox Methods
@@ -2738,10 +3440,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: flavor?
+	uid: 22062881571992449030177953664741
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:07
 	time_modified: 2019-03-31 17:32:07
 	name: Dueling Duo
@@ -2766,10 +3476,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 28099728896167851917646113074213
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:07
 	time_modified: 2019-02-12 01:06:25
 	name: Sunrise Sentinel
@@ -2795,10 +3513,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
-	notes:  reworked: Previously could return any land, and only tapped for the one color.
+	notes: reworked: Previously could return any land, and only tapped for the one color.
+	uid: 35945598554700643033834427324193
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:09
 	time_modified: 2026-04-22 01:12:16
 	name: Lumenbay Flyer Line
@@ -2822,7 +3548,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -2833,6 +3558,15 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: !critter
+	uid: 46631571367668693739678632685755
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:09
 	time_modified: 2019-08-08 00:37:52
 	name: Lurk at Vision's Edge
@@ -2858,16 +3592,26 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 14
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 46239991140153793686183800182692
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:09
 	time_modified: 2022-09-30 21:16:19
 	name: Ravengulch Contractor
@@ -2880,9 +3624,9 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		Whenever one or more other creatures you control deal combat damage to an opponent, choose one —
-		<li><bullet>• </bullet>That player discards a card at random.
-		</li><li><bullet>• </bullet>That player sacrifices a creature with toughness 4 or less.</li>
+		Whenever one or more other creatures you control deal combat damage to an opponent, choose one —<soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>That player discards a card at random.</li></margin:0:0:3><soft-line>
+		</soft-line><margin:0:0:3><li><bullet>• </bullet>That player sacrifices a creature with toughness 4 or less.</li></margin:0:0:3>
 	flavor_text: <i-flavor>“I provide plausible deniability, for a price.”</i-flavor>
 	power: 2
 	toughness: 3
@@ -2893,10 +3637,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 99476036669235021678195341680101
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:09
 	time_modified: 2019-03-22 19:11:33
 	name: Steamcharged Armor
@@ -2923,10 +3675,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 48935338934094515658537912761965
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:09
 	time_modified: 2019-03-31 19:08:41
 	name: Deviser's Cunning
@@ -2947,7 +3707,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
@@ -2957,10 +3716,21 @@ card:
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
 		font_cap: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 58006044765421521229340361585734
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:11
 	time_modified: 2019-01-31 15:50:35
 	name: Worldwide Reach
@@ -2987,16 +3757,26 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 8
 		chop_bottom: 8
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 29626372241018958383335798182888
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:11
 	time_modified: 2019-02-01 15:56:51
 	name: Union Rail Strikebreaker
@@ -3021,12 +3801,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes: 
+	uid: 01238009079169177068074670128774
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:11
 	time_modified: 2019-04-28 22:24:07
 	name: Lie Dreaming Not Dead
@@ -3051,10 +3839,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 23550567422106952711336559670625
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:11
 	time_modified: 2020-07-23 16:05:36
 	name: Sullivan's Heralds
@@ -3079,10 +3875,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 98949903891131711339530769679006
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:11
 	time_modified: 2019-03-31 19:45:44
 	card_color: land, multicolor
@@ -3106,16 +3910,26 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 7
 		chop_bottom: 9
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 96174230524694613123481910551625
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:12
 	time_modified: 2019-03-22 21:59:44
 	name: Fashionable Heiress
@@ -3138,7 +3952,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
@@ -3148,10 +3961,21 @@ card:
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
 		font_cap: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 27056890138681932825748073747126
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:12
 	time_modified: 2019-03-28 22:58:11
 	name: Spectacle of Innovation
@@ -3178,17 +4002,27 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 12
 		chop_bottom: 12
 		frames: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 51473128472702786720298075707919
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:12
 	time_modified: 2023-11-30 21:39:04
 	name: Guiying's Gambit
@@ -3213,16 +4047,26 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 14
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 52216447682107615570577816722823
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:12
 	time_modified: 2019-03-22 19:44:05
 	name: Flamearrow Partisan
@@ -3247,12 +4091,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes: 
+	uid: 96905797767174052407819331286077
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:12
 	time_modified: 2019-03-28 02:05:49
 	name: Absorb the Soul
@@ -3277,16 +4129,26 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 87280834195600538007400545273421
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:14
 	time_modified: 2019-01-31 15:31:50
 	name: Honorable Enforcer
@@ -3311,7 +4173,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
@@ -3322,6 +4183,15 @@ card:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes: !critter
+	uid: 49456727760705016106869268341279
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:14
 	time_modified: 2020-07-01 20:35:14
 	name: Drink Thoughts Like Oil
@@ -3347,10 +4217,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
-	notes:  reworked: Previously could return any land, and only tapped for the one color.
+	notes: reworked: Previously could return any land, and only tapped for the one color.
+	uid: 91993907538284293731535777991393
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:14
 	time_modified: 2026-04-22 01:12:27
 	name: Marinton-Ravengulch Line
@@ -3374,10 +4252,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 46780572160104560157240043624606
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:14
 	time_modified: 2019-01-29 13:32:20
 	name: Rising Temper
@@ -3406,12 +4292,19 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes:
 		 reworked: Previously could return any land, and only tapped for the one color.
-
+	uid: 61688775309359150460423285459101
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:14
 	time_modified: 2026-04-22 01:12:39
 	name: Rawthlin Market Line
@@ -3435,10 +4328,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 06855434499845137188829861677331
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:16
 	time_modified: 2019-03-31 18:29:47
 	name: Xiu's Escape
@@ -3462,12 +4363,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes: 
+	uid: 64195399727535459774857701404899
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:16
 	time_modified: 2019-02-01 14:28:28
 	name: Suborn Humanity's Works
@@ -3492,10 +4401,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 06363266478626834558154357001519
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:16
 	time_modified: 2019-03-22 19:56:30
 	name: Thoughtslick Engineer
@@ -3518,17 +4435,27 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 11
 		frames: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 88313771747908744027620423913098
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:16
 	time_modified: 2019-01-29 00:52:05
 	name: Blind Sharpshooter
@@ -3553,10 +4480,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 97008874640421948889196632701238
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:16
 	time_modified: 2019-02-12 01:08:14
 	name: Thunderwhirl Dancer
@@ -3579,10 +4514,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 78246298494991488740718702692930
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:25
 	time_modified: 2019-01-31 15:29:05
 	name: Fortunate Exorcist
@@ -3607,10 +4550,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
-	notes:  reworked: Previously could return any land, and only tapped for the one color.
+	notes: reworked: Previously could return any land, and only tapped for the one color.
+	uid: 93764794464329901843905174857856
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:25
 	time_modified: 2026-04-22 01:12:34
 	name: Northern Express Line
@@ -3634,12 +4585,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes: 
+	uid: 59411032360259412495162670916511
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:25
 	time_modified: 2021-09-26 16:26:56
 	name: Darken the Sky
@@ -3664,10 +4623,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
-	notes:  reworked: Previously could return any land, and only tapped for the one color.
+	notes: reworked: Previously could return any land, and only tapped for the one color.
+	uid: 95162652954249997267930806952144
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:25
 	time_modified: 2026-04-22 01:11:55
 	name: Galvan Coal Line
@@ -3691,12 +4658,20 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	stylesheet: m15-paradox
 	stylesheet_version: 2024-06-07
 	has_styling: false
 	notes: 
+	uid: 28200555685762167175556231445265
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:25
 	time_modified: 2021-04-11 12:42:41
 	name: Reclaim the World
@@ -3721,10 +4696,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: 
+	uid: 89559076418856086796176443742281
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:34
 	time_modified: 2020-11-28 23:27:40
 	card_color: land
@@ -3747,7 +4730,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
@@ -3757,10 +4739,21 @@ card:
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
 		font_cap: 12
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 85577786092056071269208861472402
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:35
 	time_modified: 2019-03-19 03:26:59
 	name: Snowclearer
@@ -3787,7 +4780,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: true
 	styling_data:
@@ -3797,10 +4789,21 @@ card:
 		other_options: auto nyx crowns, vorthos box
 		level_label: progress
 		font_cap: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes: 
+	uid: 14393072791132127722413508114621
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:38:36
 	time_modified: 2019-03-30 14:25:09
 	name: Stormcannon Testing
@@ -3827,10 +4830,18 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
 card:
 	has_styling: false
 	notes: Whatever.
+	uid: 63235321635099623428252860009912
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:44:33
 	time_modified: 2019-03-20 05:53:45
 	name: The Long Road North
@@ -3855,19 +4866,1772 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 53212297956408028747342639719884
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-03 23:44:33
+	time_modified: 2021-04-28 02:18:00
+	name: Last Stop
+	casting_cost: 1BR
+	image: image67
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		You may cast this spell without paying its mana cost if it targets a creature with power 5 or greater and you control a Swamp and a Mountain.
+		<atom-cardname><nospellcheck>Last Stop</nospellcheck></atom-cardname> deals 11 damage to target creature. That creature loses <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor>The 11 o’clock to <error-spelling:en_US>Marinton</error-spelling:en_US> never arrived. It had a greater fate in store.</i-flavor>
+	illustrator: Julio Grimaldo
+	card_code_text: Pipsqueak
+	card_code_text_2: Pipsqueak
+	card_code_text_3: Pipsqueak
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-paradox
+	stylesheet_version: 2024-06-07
+	has_styling: false
+	notes: 
+	uid: 15621904757893428911956411573555
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-03 23:44:33
+	time_modified: 2024-08-23 17:58:31
+	name: Worlds Colliding
+	casting_cost: 3GUU
+	image: image131
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text:
+		Each player shuffles their hand and each non-Revelation card from their graveyard into their library, then draws seven cards. You may put any number of land cards from your hand onto the battlefield.
+		<kw-1><nospellcheck><key>Coalesce <param-mana><sym-auto>6GUU</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>6GUU</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-1>
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Cristi Balanescu
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 98817899443567429570952134793422
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-03 23:44:33
+	time_modified: 2019-03-29 00:55:08
+	name: Morningsoul Posse
+	casting_cost: 2GW
+	image: image104
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-A><nospellcheck><key>Renown <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature deals combat damage to a player, if it isn’t renowned, put <param-number>a</param-number> +1/+1 counter on it and it becomes renowned.)</i-auto></atom-reminder-expert></kw-A>
+		Whenever a creature you control becomes renowned, you gain 2 life.
+	flavor_text: <i-flavor>“On behalf of Lady Mari and her crew: Get out of the way.”</i-flavor>
+	power: 3
+	toughness: 3
+	illustrator: Eddie Mendoza
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 02866628637880497637193783804883
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-03 23:45:57
+	time_modified: 2019-04-28 21:41:23
+	name: Taste Brilliance
+	casting_cost: 3UR
+	image: image118
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: Discard your hand. Draw a card for each artifact you control, then add <sym>U</sym> for each artifact you control. Exile <atom-cardname><nospellcheck>Taste Brilliance</nospellcheck></atom-cardname>.
+	flavor_text: <i-flavor>Every <error-spelling:en_US>deviser</error-spelling:en_US> lives for those moments when the mundane world fades away and leaves only the beauty of perfect creation.</i-flavor>
+	illustrator: Zudarts Lee
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 56023194875322257387421026411105
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-03 23:45:57
+	time_modified: 2020-04-14 03:36:28
+	name: Singularity's Grasp
+	casting_cost: XBG
+	image: image90
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: Each creature gets -X/-X until end of turn. Destroy each artifact and enchantment with mana value <nosym>X or less.</nosym>
+	flavor_text: <i-flavor>“Releasing beings trapped among the stars is fine if that’s what you fancy. I’m more interested in what can be done with the stars afterwards.”</i-flavor>
+	illustrator: Jackson Tjota
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 41934094188128181506199257908257
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-03 23:45:57
+	time_modified: 2019-07-05 04:06:47
+	name: Magnificent Raid
+	casting_cost: 3RW
+	image: image80
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: mythic rare
+	rule_text: You may put a creature or planeswalker card from your hand onto the battlefield. If it’s a creature, it gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>. Return it to your hand at the beginning of your next end step.
+	flavor_text: <i-flavor>“Anne and Lady Mari await in <error-spelling:en_US>Izumito</error-spelling:en_US>. Let’s make this a day to remember!”</i-flavor>
+	illustrator: Randis Albion
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: leveler
+		other_options: auto nyx crowns, vorthos box
+		level_label: progress
+		level_offset: 
+		font_cap: 10
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 08718380417645670047430104684038
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:45
+	time_modified: 2019-03-17 19:35:40
+	name: Corporate War
+	casting_cost: WB
+	image: image121
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Project</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: Whenever another enchantment you control enters, you may put a progress counter on <atom-cardname><nospellcheck>Corporate War</nospellcheck></atom-cardname>.
+	rule_text_2: <sym-auto>WB</sym-auto>, Sacrifice a creature or enchantment: Destroy target creature or enchantment.
+	rule_text_3: Sacrifice a creature or enchantment: Destroy target permanent.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1: 2-5
+	level_2: 6+
+	illustrator: Katerina Kirillova
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-paradox
+	stylesheet_version: 2024-06-07
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !critter
+	uid: 43552226675083408923960158039381
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:45
+	time_modified: 2019-09-30 14:58:55
+	name: Shroud the World in Doom
+	casting_cost: 1UB
+	image: image160
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Return up to one target creature to its owner’s hand. If you do, that player discards a card at random.
+		<kw-1><nospellcheck><key>Coalesce <param-mana><sym-auto>5UB</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>5UB</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-1>
+		Whenever <kw-a><nospellcheck><key>Shroud</key></nospellcheck></kw-a> the World in Doom deals combat damage to an opponent, that player discards a card at random.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Mateusz Bielski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-paradox
+	stylesheet_version: 2024-06-07
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !critter 
+	uid: 30129644174452096767307650377962
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:45
+	time_modified: 2021-04-11 12:42:43
+	name: Dawn of the Final Day
+	casting_cost: 4B
+	image: image141
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Return up to one target creature card from a graveyard to the battlefield under your control.
+		<kw-1><nospellcheck><key>Coalesce <param-mana><sym-auto>9B</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>9B</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-1>
+		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 7
+	toughness: 7
+	illustrator: Mark Erskine
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 37225802922628159947829390897125
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:45
+	time_modified: 2020-08-31 23:17:09
+	name: Demolitionist Deviser
+	casting_cost: 1R
+	image: image87
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Renown <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature deals combat damage to a player, if it isn’t renowned, put <param-number>a</param-number> +1/+1 counter on it and it becomes renowned.)</i-auto></atom-reminder-expert></kw-A>
+		When <atom-cardname><nospellcheck>Demolitionist Deviser</nospellcheck></atom-cardname> dies, it deals damage equal to its power to any target.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Jakub Bazyluk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: leveler
+		other_options: auto nyx crowns, vorthos box
+		level_label: progress
+		font_cap: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 35653478377865218307920107745959
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:53
+	time_modified: 2019-03-31 20:17:37
+	name: Battlesuit Prototyping
+	casting_cost: W
+	image: image108
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Project</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: Whenever one or more creatures you control attack, you may put a progress counter on <atom-cardname><nospellcheck>Battlesuit Prototyping</nospellcheck></atom-cardname>.
+	rule_text_2: Creatures you control get +1/+1.
+	rule_text_3: Creatures you control get +2/+2 and have <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1: 2-6
+	level_2: 7+
+	illustrator: Jakub Bazyluk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: flavor?
+	uid: 89174511940569024078591995538403
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:53
+	time_modified: 2019-03-29 01:04:14
+	name: Mountain-Western Inventor
+	casting_cost: UR
+	image: image20
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: uncommon
+	rule_text:
+		When <atom-cardname><nospellcheck>Mountain-Western Inventor</nospellcheck></atom-cardname> enters, you may return target artifact card from your graveyard to your hand.
+		<sym-auto>1</sym-auto>, Sacrifice an artifact: Target creature can’t block or be blocked this turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: James Ng
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-paradox
+	stylesheet_version: 2024-06-07
+	has_styling: true
+	styling_data:
+		chop_top: 2
+		chop_bottom: 12
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 28583978795268533655965913519482
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:53
+	time_modified: 2021-01-31 21:31:33
+	name: Twelve Thousand Eyes
+	casting_cost: XB
+	image: image148
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		As an additional cost to cast this spell, exile X cards from your graveyard.
+		You draw X cards and you lose X life.
+		<kw-A><nospellcheck><key>Coalesce <param-mana><sym-auto>8B</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>8B</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Hinchel Or
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-paradox
+	stylesheet_version: 2024-06-07
+	has_styling: true
+	styling_data:
+		chop_top: 1
+		chop_bottom: 8
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 24261823531316279068400371504182
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:53
+	time_modified: 2023-03-29 21:52:50
+	name: Tower Over The Sky
+	casting_cost: XGG
+	image: image157
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Search your library for a card. You may cast it without paying its mana cost if it’s a green creature or Revelation spell with mana value X or less. Then shuffle.<nosym>
+		<kw-A><nospellcheck><key>Coalesce <param-mana><sym>XXGGGG</sym></nosym></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>XXGGGG</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Jorge Jacinto
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 19424530654092273679724625135358
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:55
+	time_modified: 2019-03-22 20:02:18
+	name: Dragonwrought Engineer
+	casting_cost: 4W
+	image: image36
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+		<atom-cardname><nospellcheck>Dragonwrought Engineer</nospellcheck></atom-cardname> gets +1/+1 for each artifact and enchantment you control.
+	flavor_text: <i-flavor>“Dragons are nature’s most perfect creations. If we can build our own, nothing is beyond our reach.”</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Amarys
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-paradox
+	stylesheet_version: 2024-06-07
+	has_styling: false
+	notes: !critter
+	uid: 17114030298557395585531733284121
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:55
+	time_modified: 2019-08-08 00:38:52
+	name: Shatter Mortal Conveyances
+	casting_cost: 6U
+	image: image146
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Return each nonland permanent you don’t control to its owner’s hand.
+		<kw-A><nospellcheck><key>Coalesce <param-mana><sym-auto>6UUU</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>6UUU</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a> <i-auto>(This creature can’t be the target of spells or abilities your opponents control.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 7
+	toughness: 3
+	illustrator: Guillem H. Pongiluppi
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 26133803037910882823976151881528
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:59
+	time_modified: 2024-01-28 20:58:26
+	name: Steelclad Investigator
+	casting_cost: WW
+	image: image111
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Detective</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
+		<kw-A><nospellcheck><key>Renown <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature deals combat damage to a player, if it isn’t renowned, put <param-number>two</param-number> +1/+1 counters on it and it becomes renowned.)</i-auto></atom-reminder-expert></kw-A>
+		<sym-auto>T</sym-auto>: Prevent the next X damage that would be dealt to target creature this turn, where X is <atom-cardname><nospellcheck>Steelclad Investigator</nospellcheck></atom-cardname>’s power.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Jakub Bazyluk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: reworked: Previously {6}{U}{U} that cost {1} less for each artifact/enchantment with "Reveal the top seven cards of your library. Put any number of noncreature, nonland cards from among them into your hand and the rest of the revealed cards into your graveyard."
+	uid: 48064575195954154836641545002216
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:59
+	time_modified: 2026-04-22 01:10:36
+	name: Ride the Storm
+	casting_cost: 4UU
+	image: image125
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		If you controlled three or more artifacts and/or enchantments as you cast this spell, it can’t be countered.
+		Draw four cards.
+	flavor_text: <i-flavor>When truth is more fearsome than fiction, old ghost stories make pleasant company.</i-flavor>
+	illustrator: Benjamin Ee
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 95097552747895706668816727819586
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:59
+	time_modified: 2019-03-17 20:14:44
+	name: Spark New Life
+	casting_cost: XRG
+	image: image49
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: <atom-cardname><nospellcheck>Spark New Life</nospellcheck></atom-cardname> deals X damage to any target. You may put up to X land cards from your hand and/or graveyard onto the battlefield.
+	flavor_text: <i-flavor>“<error-spelling:en_US>Feraguo’s</error-spelling:en_US> in pain, but like all living things, the <error-spelling:en_US>Worldsoul</error-spelling:en_US> will heal in time.”</i-flavor>
+	illustrator: Aurore Folny
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-paradox
+	stylesheet_version: 2024-06-07
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 9
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: !critter
+	uid: 24140119146461088447543312943209
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:15:59
+	time_modified: 2019-08-08 00:39:05
+	name: Fulfill Twisted Dreams
+	casting_cost: 2GU
+	image: image133
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Untap all permanents you control.
+		<kw-A><nospellcheck><key>Coalesce <param-mana><sym-auto>5GU</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>5GU</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
+		<sym-auto>GU</sym-auto>: Untap Fulfill Twisted Dreams.
+	flavor_text: <i-flavor></i-flavor>
+	power: 5
+	toughness: 5
+	illustrator: Jorge Jacinto
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: leveler
+		other_options: auto nyx crowns, vorthos box
+		level_label: progress
+		level_offset: -15,-25,
+		font_cap: 10
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 38062113127585736597377241333675
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:16:02
+	time_modified: 2020-07-01 20:33:33
+	name: Reckless Research
+	casting_cost: U
+	image: image99
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Project</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text: Whenever you cast a noncreature spell, you may put a progress counter on <atom-cardname><nospellcheck>Reckless Research</nospellcheck></atom-cardname>.
+	rule_text_2: At the beginning of your end step, put the top two cards of your library into your graveyard.
+	rule_text_3: At the beginning of your upkeep, choose target instant or sorcery card in your graveyard. You may cast it from your graveyard this turn.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1: 2+
+	level_2: 7+
+	level_2_text: At the beginning of your end step, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
+	illustrator: Ben Olson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 58209383447135399994090503947802
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:16:02
+	time_modified: 2024-01-28 19:03:10
+	name: Relic Heist
+	casting_cost: 2RR
+	image: image58
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Search target opponent’s library for an artifact card and put it onto the battlefield under your control, then that player shuffles. If you don’t put a card onto the battlefield this way, create four <kw-a><nospellcheck><key>Gold toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>. At the beginning of the next end step, sacrifice each artifact put onto the battlefield this way. <i-auto>(This includes the Gold.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Jackson Tjota
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 40009213855691362587623604407369
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:16:02
+	time_modified: 2024-01-28 20:58:06
+	name: Thuggish Detective
+	casting_cost: 1GG
+	image: image162
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Detective</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-A><nospellcheck><key>Renown <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature deals combat damage to a player, if it isn’t renowned, put <param-number>a</param-number> +1/+1 counter on it and it becomes renowned.)</i-auto></atom-reminder-expert></kw-A>
+		<atom-cardname><nospellcheck>Thuggish Detective</nospellcheck></atom-cardname> can’t be blocked by more than one creature.
+		When <atom-cardname><nospellcheck>Thuggish Detective</nospellcheck></atom-cardname> becomes renowned, you may destroy target noncreature permanent.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Nikita Pilyukshin
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-paradox
+	stylesheet_version: 2024-06-07
+	has_styling: true
+	styling_data:
+		chop_top: 
+		chop_bottom: 9
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 04755488548445327525944084009537
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:16:03
+	time_modified: 2024-04-28 01:22:35
+	name: Answer Midnight's Call
+	casting_cost: 2UU
+	image: image126
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		You may put a creature or Revelation card from your hand onto the battlefield. Exile that permanent if it would leave the battlefield. If it’s a Revelation, it enters as a Horror creature.
+		<kw-A><nospellcheck><key>Coalesce <param-mana><sym-auto>7UU</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>7UU</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 7
+	illustrator: Beverly Yim
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 87861033123867885341805637984387
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:16:03
+	time_modified: 2019-03-28 02:38:37
+	name: Lostrite Evoker
+	casting_cost: 1B
+	image: image137
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: common
+	rule_text:
+		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
+		<sym-auto>B</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Lostrite Evoker</nospellcheck></atom-cardname>: Add <sym-auto>BBB</sym-auto>.
+	flavor_text: <i-flavor>“I have seen the truth, and it will burn you to ash before you can begin to comprehend it.”</i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Jakub Bazyluk
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 72944025627368574719362508753071
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:16:03
+	time_modified: 2019-02-28 02:58:15
+	name: Wandering Doyen
+	casting_cost: R
+	image: image113
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>Wandering Doyen</nospellcheck></atom-cardname> is dealt damage, it deals that much damage to you.
+		<sym-auto>4R</sym-auto>: Attacking creatures you control get +1/+0 and gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 1
+	illustrator: Mario Wibisono
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-paradox
+	stylesheet_version: 2024-06-07
+	has_styling: false
+	notes: !critter
+	uid: 13718277611774161121680808565151
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:16:03
+	time_modified: 2019-08-08 00:40:09
+	name: Crush All in Their Path
+	casting_cost: 4GG
+	image: image151
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text:
+		Creatures you control get +4/+4 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		<kw-A><nospellcheck><key>Coalesce <param-mana><sym-auto>8GG</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>8GG</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 6
+	toughness: 6
+	illustrator: Ingvild Grotlokken
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 11
+		chop_bottom: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 85167368796710456894697275604693
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:16:09
+	time_modified: 2019-02-28 02:24:52
+	name: Unforget
+	casting_cost: 2B
+	image: image9
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	rarity: rare
+	rule_text: Search your library for a card, reveal it, then shuffle and put that card on top of it. If you revealed a noncreature card this way, each opponent loses 2 life and you gain 2 life.
+	flavor_text: <i-flavor>Some secrets would be better off remaining buried. Some secrets are profitable to uncover. The best are both.</i-flavor>
+	illustrator: Greg Bobrowski
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 51494666790455814294150200281925
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:16:09
+	time_modified: 2019-03-19 03:42:28
+	name: Guns Akimbo
+	casting_cost: 3R
+	image: image63
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
+	rarity: uncommon
+	rule_text:
+		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
+		Enchanted creature has <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>.
+		Whenever enchanted creature deals combat damage to an opponent, exile the top card of your library. You may play that card this turn.
+	flavor_text:
+		<i-flavor>“‘One shot, one <error-spelling:en_US>kill’</error-spelling:en_US> may work for <error-spelling:en_US>Xiu</error-spelling:en_US>, but as far as I’m concerned now is the time for overkill.”<soft-line>
+		—Anne Sullivan</soft-line></i-flavor>
+	illustrator: Jeehyung Lee
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 11
+		chop_bottom: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 49091726499785574076167846911085
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:16:09
+	time_modified: 2019-03-30 14:27:59
+	name: Shattered Prison
+	casting_cost: 4G
+	image: image158
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	rarity: rare
+	rule_text:
+		Creatures you control can’t be blocked by creatures with power 2 or less.
+		Whenever you tap a land for mana, add <sym-auto>G</sym-auto>.
+	flavor_text: <i-flavor>The planets aligned. The machines whirred to life. The sky ripped in half. The end of the world began.</i-flavor>
+	illustrator: Katy Grierson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: leveler
+		other_options: auto nyx crowns, vorthos box
+		level_label: progress
+		level_offset: 8,3,
+		font_cap: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 56819615617344461824593010003835
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:16:17
+	time_modified: 2019-04-28 19:52:51
+	name: Sovereign Skies
+	casting_cost: 2
+	image: image19
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Project</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text: Whenever you cast a noncreature spell, you may put a progress counter on <atom-cardname><nospellcheck>Sovereign Skies</nospellcheck></atom-cardname>.
+	rule_text_2:
+		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+	rule_text_3: <atom-cardname><nospellcheck>CARDNAME</nospellcheck></atom-cardname> is a 9/9 Ship artifact creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1: 2+
+	level_2: 9+
+	level_2_text:
+		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>
+		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
+	illustrator: James Ng
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 10253227941545875449201514414926
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:18:03
+	time_modified: 2024-01-31 22:13:50
+	card_color: land, multicolor
+	name: Shrouded Sanctuary
+	image: image178
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Land</word-list-type-en>
+	sub_type: <word-list-land></word-list-land>
+	rarity: rare
+	rule_text: <sym-auto>T</sym-auto>, Pay 1 life: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.
+	flavor_text: <i-flavor>The mages of <error-spelling:en_US>Tianban</error-spelling:en_US> had the clearest view of the shattering sky, but the least idea of what it meant for the world below.</i-flavor>
+	illustrator: Zudarts Lee
+	card_code_text: Timespiraled
+	card_code_text_2: Timespiraled
+	card_code_text_3: Timespiraled
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 25884366210353223465736967623759
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:18:07
+	time_modified: 2019-03-15 02:31:21
+	name: Brazen Blackguard
+	casting_cost: 3
+	image: image32
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Rogue</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
+		Other Rogues you control get +1/+0 and have <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
+		<sym-auto>2</sym-auto>, Sacrifice a permanent: Return target Rogue card from your graveyard to your hand.
+	flavor_text: <i-flavor></i-flavor>
+	power: 3
+	toughness: 1
+	illustrator: Robert Kim
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: false
+	notes: 
+	uid: 59127243668997597706758394876174
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:18:11
+	time_modified: 2020-02-29 21:01:58
+	name: Steam Daimyo's Gauntlets
+	casting_cost: 3
+	image: image22
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text:
+		Equipped creature gets +1/+0 for each artifact you control.
+		<kw-a><nospellcheck><key>Equip—<param-cost>Sacrifice an artifact</param-cost>.</key></nospellcheck></kw-a>
+	flavor_text:
+		<i-flavor>“We must learn to balance the old and the new, tradition and innovation. Men like Mr. <error-spelling:en_US>Yoshida</error-spelling:en_US> thrive on the imbalance we’ve created.”<soft-line>
+		—General Ito <error-spelling:en_US>Tsubasa</soft-line></i-flavor></error-spelling:en_US>
+	illustrator: James Ng
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: leveler
+		other_options: auto nyx crowns, vorthos box
+		level_label: progress
+		level_offset: 5,15,
+		font_cap: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 93074597126090030485222456664986
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:18:16
+	time_modified: 2019-04-01 00:39:53
+	name: Throne of the West
+	casting_cost: 6
+	image: image18
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Project</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: rare
+	rule_text: Whenever a permanent an opponent controls becomes the target of a spell you control, put a progress counter on <atom-cardname><nospellcheck>Throne of the West</nospellcheck></atom-cardname>.
+	rule_text_2: <sym-auto>T</sym-auto>: Gain control of target permanent until end of turn. Untap it. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	rule_text_3:
+		You can’t lose control of permanents.<soft-line>
+		</soft-line>
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1: 2+
+	level_2: 5+
+	level_3_text: You can’t lose control of permanents.
+	illustrator: James Ng
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		chop_top: 5
+		chop_bottom: 5
+		frames: leveler
+		other_options: auto nyx crowns, vorthos box
+		level_label: progress
+		font_cap: 11
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 50663743974177816208535647034438
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-04 04:18:19
+	time_modified: 2019-03-19 03:45:47
+	name: Elections Tampering
+	casting_cost: 1
+	image: image26
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Project</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rarity: uncommon
+	rule_text: At the beginning of your end step, you may put a progress counter on <atom-cardname><nospellcheck>Elections Tampering</nospellcheck></atom-cardname>.
+	rule_text_2: Whenever a creature enters, you gain 1 life.
+	rule_text_3: Whenever a creature enters, each opponent loses 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	flavor_text_2: <i-flavor></i-flavor>
+	flavor_text_3: <i-flavor></i-flavor>
+	level_1: 2+
+	level_2: 5+
+	illustrator: Larry Wilson
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	uid: 75320073608330535096828799123119
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2019-03-31 18:21:12
+	time_modified: 2019-10-01 12:34:19
+	card_color: white
+	name: Angel
+	image: image182
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: Dmitry Prozorov
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	uid: 79199992150307329757881432925089
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2019-03-31 18:22:07
+	time_modified: 2024-01-28 20:06:42
+	card_color: green
+	name: Spirit
+	image: image183
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	power: 1
+	toughness: 1
+	illustrator: Rogier van de Beek
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	uid: 01285225577751478539287526845351
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-09-16 15:31:30
+	time_modified: 2018-09-30 22:00:02
+	card_color: artifact
+	name: Construct
+	image: image179
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	power: 1
+	toughness: 1
+	illustrator: James Ng
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	uid: 93774351614092955413609128463558
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-06-21 18:07:18
+	time_modified: 2018-11-15 03:14:07
+	card_color: blue
+	name: Bird
+	image: image184
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rule_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 2
+	illustrator: Phuoc Quan
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-token
+	stylesheet_version: 2015-12-20
+	has_styling: false
+	notes: 
+	uid: 62011720663929936977083899575329
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2017-10-03 01:33:22
+	time_modified: 2018-09-30 22:00:06
+	name: Gold
+	image: image135
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
+	sub_type: <word-list-artifact>Gold</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
+	rule_text: Sacrifice <atom-cardname><nospellcheck>Gold</nospellcheck></atom-cardname>: Add one mana of any color.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: LadyChristina
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
+	has_styling: true
+	styling_data:
+		chop_top: 7
+		chop_bottom: 14
+		frames: 
+		other_options: auto nyx crowns, vorthos box
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	notes: 
+	uid: 62374256982245037353782267541830
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-03 22:03:46
+	time_modified: 2021-05-29 15:33:53
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/They
+	name: Tenne, Thief of Destiny
+	casting_cost: GW
+	image: image96
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: mythic rare
+	rule_text: <sym-auto>8</sym-auto>: Exile target nonbasic permanent. Its controller gains life equal to its mana value.
+	flavor_text: <i-flavor>Limitless power doesn’t always come with a practical use. Fortunately for <error-spelling:en_US>Tenne</error-spelling:en_US>, the five years since <error-spelling:en_US>Maram</error-spelling:en_US> and <error-spelling:en_US>Heddwyn</error-spelling:en_US> left the Heart with him was plenty of time to master it.</i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: jhibbs
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	vorthos_box: He/They
+card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
+	has_styling: false
+	notes: 
+	uid: 21771266968144160135752694964764
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	time_created: 2018-12-03 23:38:05
+	time_modified: 2023-08-31 05:55:16
+	extra_data:
+		magic-m15-altered:
+			vorthos_box: He/Him
+	name: Sammel Wyldjack
+	casting_cost: 3BR
+	image: image88
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	rarity: rare
+	rule_text:
+		<atom-cardname><nospellcheck>Sammel Wyldjack</nospellcheck></atom-cardname> enters with a <kw-0><nospellcheck><key>fuse</key></nospellcheck></kw-0> counter on him.
+		At the beginning of your upkeep, remove a <kw-0><nospellcheck><key>fuse</key></nospellcheck></kw-0> counter from <atom-cardname><nospellcheck>Sammel Wyldjack</nospellcheck></atom-cardname>. If you do, each player sacrifices four lands and <atom-cardname><nospellcheck>Sammel Wyldjack</nospellcheck></atom-cardname> deals 4 damage to each other creature.
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: Riccardo Rullo
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: 
+	copyright_2: 
+	copyright_3: 
+	vorthos_box: He/Him
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2024-09-01
+	stylesheet_version: 2026-08-30
 	has_styling: true
 	styling_data:
 		popout_image_style: 16,32,345,38,
+		combined_chop: 
+		shrink_name_text: 
+		shrink_typeline_text: 
+		number_of_textboxes: automatic
+		use_tall_frame: default
+		move_separators: 
+		move_loyalty_costs: 
+		font_size: 
 		other_options: un-indent nonloyalty abilities, vorthos box
+		custom_border_source: 
+		textbox_opacity_percentage: 
+		textbox_color: rgb(255,255,255)
+		stripes_opacity_percentage: 
+		stripes_color: rgb(255,255,255)
+		rule_text_color: rgb(0,0,0)
+		back_face: if linked to front face
+		hide_back_face_rarity: yes
+		back_face_hint: PTs only
+		meld_bar: for melds
 		default_image_size: no
+		prototype_secondary: pt
+		center_starting_loyalty: no
+		alt_rarity_color: 
+		mainframe_rarity_name: 
+		rarity_offsets: 
+		watermark_render: default
+		watermark_opacity_percentage: 
+		card_watermark: 
+		apply_custom_fonts: no
+		custom_name_font: 
+		custom_type_font: 
+		custom_body_font: 
+		custom_pt_font: 
+		remove_from_autocount: no
+		grey_hybrid_name: yes
+		use_guild_mana_symbols: no
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		tap_symbol: modern
+		center_text: never
+		promo: no
+		inverted_common_symbol: no
 		overlay: 
+		custom_mask: 
+		shift_loyalty_costs: 
+		opacity: 
+		override_levels: automatic
+		clear: no
 	notes:
 		 
+	uid: 93215793044395789376582488548062
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:44:33
 	time_modified: 2021-05-31 20:35:40
 	extra_data:
@@ -3902,112 +6666,75 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	vorthos_box: She/Her
 	special_text:
 		[+1]: <margin:130:0:0>Search each player’s graveyard, hand, and library for any number of cards with the same name as target nonbasic card in a graveyard and exile them. Then each player shuffles.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Each player draws two cards, then each opponent exiles two cards at random from their hand.</margin:130:0:0>
 		[-5]: <margin:130:0:0>You may cast a card exiled with <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Mei</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Liva</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> without paying its mana cost.</margin:130:0:0>
-
-card:
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 5
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
-	notes: 
-	time_created: 2018-12-03 23:44:33
-	time_modified: 2021-04-28 02:18:00
-	name: Last Stop
-	casting_cost: 1BR
-	image: image67
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	rarity: mythic rare
-	rule_text:
-		You may cast this spell without paying its mana cost if it targets a creature with power 5 or greater and you control a Swamp and a Mountain.
-		<atom-cardname><nospellcheck>Last Stop</nospellcheck></atom-cardname> deals 11 damage to target creature. That creature loses <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn.
-	flavor_text: <i-flavor>The 11 o’clock to <error-spelling:en_US>Marinton</error-spelling:en_US> never arrived. It had a greater fate in store.</i-flavor>
-	illustrator: Julio Grimaldo
-	card_code_text: Pipsqueak
-	card_code_text_2: Pipsqueak
-	card_code_text_3: Pipsqueak
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-paradox
-	stylesheet_version: 2024-06-07
-	has_styling: false
-	notes: 
-	time_created: 2018-12-03 23:44:33
-	time_modified: 2024-08-23 17:58:31
-	name: Worlds Colliding
-	casting_cost: 3GUU
-	image: image131
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
-	rarity: mythic rare
-	rule_text:
-		Each player shuffles their hand and each non-Revelation card from their graveyard into their library, then draws seven cards. You may put any number of land cards from your hand onto the battlefield.
-		<kw-1><nospellcheck><key>Coalesce <param-mana><sym-auto>6GUU</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>6GUU</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-1>
-	flavor_text: <i-flavor></i-flavor>
-	power: 6
-	toughness: 6
-	illustrator: Cristi Balanescu
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-03 23:44:33
-	time_modified: 2019-03-29 00:55:08
-	name: Morningsoul Posse
-	casting_cost: 2GW
-	image: image104
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: common
-	rule_text:
-		<kw-A><nospellcheck><key>Renown <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature deals combat damage to a player, if it isn’t renowned, put <param-number>a</param-number> +1/+1 counter on it and it becomes renowned.)</i-auto></atom-reminder-expert></kw-A>
-		Whenever a creature you control becomes renowned, you gain 2 life.
-	flavor_text: <i-flavor>“On behalf of Lady Mari and her crew: Get out of the way.”</i-flavor>
-	power: 3
-	toughness: 3
-	illustrator: Eddie Mendoza
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2024-09-01
+	stylesheet_version: 2026-08-30
 	has_styling: true
 	styling_data:
 		popout_image_style: 16,15,345,49,
+		combined_chop: 
+		shrink_name_text: 
+		shrink_typeline_text: 
+		number_of_textboxes: automatic
+		use_tall_frame: default
+		move_separators: 
+		move_loyalty_costs: 
+		font_size: 
 		other_options: un-indent nonloyalty abilities, vorthos box
+		custom_border_source: 
+		textbox_opacity_percentage: 
+		textbox_color: rgb(255,255,255)
+		stripes_opacity_percentage: 
+		stripes_color: rgb(255,255,255)
+		rule_text_color: rgb(0,0,0)
+		back_face: if linked to front face
+		hide_back_face_rarity: yes
+		back_face_hint: PTs only
+		meld_bar: for melds
 		default_image_size: no
+		prototype_secondary: pt
+		center_starting_loyalty: no
+		alt_rarity_color: 
+		mainframe_rarity_name: 
+		rarity_offsets: 
+		watermark_render: default
+		watermark_opacity_percentage: 
+		card_watermark: 
+		apply_custom_fonts: no
+		custom_name_font: 
+		custom_type_font: 
+		custom_body_font: 
+		custom_pt_font: 
+		remove_from_autocount: no
+		grey_hybrid_name: yes
+		use_guild_mana_symbols: no
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		tap_symbol: modern
+		center_text: never
+		promo: no
+		inverted_common_symbol: no
 		overlay: 
+		custom_mask: 
+		shift_loyalty_costs: 
+		opacity: 
+		override_levels: automatic
+		clear: no
 	notes: 
+	uid: 55304627452214441078740383743382
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:45:57
 	time_modified: 2021-05-29 15:31:17
 	extra_data:
@@ -4038,94 +6765,77 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	vorthos_box: She/Her
 	special_text:
 		[+1]: <margin:130:0:0>Exile up to one target tapped creature.</margin:130:0:0>
 		[-2]: <margin:130:0:0>Create a 4/4 white Angel creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.</margin:130:0:0>
 		[-3]: <margin:130:0:0>Destroy all creatures. You gain 1 life for each creature destroyed this way.</margin:130:0:0>
 		[-7]: <margin:130:0:0>You get an emblem with “At the beginning of each end step, you gain life equal to twice the life you’ve lost this turn.”</margin:130:0:0>
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-03 23:45:57
-	time_modified: 2019-04-28 21:41:23
-	name: Taste Brilliance
-	casting_cost: 3UR
-	image: image118
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	rarity: mythic rare
-	rule_text: Discard your hand. Draw a card for each artifact you control, then add <sym>U</sym> for each artifact you control. Exile <atom-cardname><nospellcheck>Taste Brilliance</nospellcheck></atom-cardname>.
-	flavor_text: <i-flavor>Every <error-spelling:en_US>deviser</error-spelling:en_US> lives for those moments when the mundane world fades away and leaves only the beauty of perfect creation.</i-flavor>
-	illustrator: Zudarts Lee
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-03 23:45:57
-	time_modified: 2020-04-14 03:36:28
-	name: Singularity's Grasp
-	casting_cost: XBG
-	image: image90
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	rarity: mythic rare
-	rule_text: Each creature gets -X/-X until end of turn. Destroy each artifact and enchantment with mana value <nosym>X or less.</nosym>
-	flavor_text: <i-flavor>“Releasing beings trapped among the stars is fine if that’s what you fancy. I’m more interested in what can be done with the stars afterwards.”</i-flavor>
-	illustrator: Jackson Tjota
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-03 23:45:57
-	time_modified: 2019-07-05 04:06:47
-	name: Magnificent Raid
-	casting_cost: 3RW
-	image: image80
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	rarity: mythic rare
-	rule_text: You may put a creature or planeswalker card from your hand onto the battlefield. If it’s a creature, it gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>. Return it to your hand at the beginning of your next end step.
-	flavor_text: <i-flavor>“Anne and Lady Mari await in <error-spelling:en_US>Izumito</error-spelling:en_US>. Let’s make this a day to remember!”</i-flavor>
-	illustrator: Randis Albion
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2024-09-01
+	stylesheet_version: 2026-08-30
 	has_styling: true
 	styling_data:
+		popout_image_style: 
+		combined_chop: 
+		shrink_name_text: 
+		shrink_typeline_text: 
+		number_of_textboxes: automatic
+		use_tall_frame: default
+		move_separators: 
+		move_loyalty_costs: 
+		font_size: 
 		other_options: un-indent nonloyalty abilities, vorthos box
+		custom_border_source: 
+		textbox_opacity_percentage: 
+		textbox_color: rgb(255,255,255)
+		stripes_opacity_percentage: 
+		stripes_color: rgb(255,255,255)
+		rule_text_color: rgb(0,0,0)
+		back_face: if linked to front face
+		hide_back_face_rarity: yes
+		back_face_hint: PTs only
+		meld_bar: for melds
+		default_image_size: yes
+		prototype_secondary: pt
+		center_starting_loyalty: no
+		alt_rarity_color: 
+		mainframe_rarity_name: 
+		rarity_offsets: 
+		watermark_render: default
+		watermark_opacity_percentage: 
+		card_watermark: 
+		apply_custom_fonts: no
+		custom_name_font: 
+		custom_type_font: 
+		custom_body_font: 
+		custom_pt_font: 
+		remove_from_autocount: no
+		grey_hybrid_name: yes
+		use_guild_mana_symbols: no
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		tap_symbol: modern
+		center_text: never
+		promo: no
+		inverted_common_symbol: no
 		overlay: 
+		custom_mask: 
+		shift_loyalty_costs: 
+		opacity: 
+		override_levels: automatic
+		clear: no
 	notes:
 		  buffed: +2 starting loyalty, +1 can now recur equal mana value.
+	uid: 18485377987645520332424602993191
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-03 23:45:57
 	time_modified: 2025-10-28 23:21:05
 	extra_data:
@@ -4155,156 +6865,26 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
+	vorthos_box: He/Him
 	special_text:
 		[+1]: <margin:130:0:0>You may sacrifice a creature. If you do, return another creature card with equal or lesser mana value from your graveyard to the battlefield.</margin:130:0:0>
 		[-1]: <margin:130:0:0>Other creatures and planeswalkers you control gain <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> and can’t have counters removed from them until your next turn.</margin:130:0:0>
 		[-X]: <margin:130:0:0>Exile X target cards from graveyards. <atom-legname><nospellcheck>Xiong Mao</nospellcheck></atom-legname> deals X damage to any target.</margin:130:0:0>
-
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 5
-		frames: leveler
-		other_options: auto nyx crowns, vorthos box
-		level_label: progress
-		font_cap: 10
-		level_offset: 
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
-	notes: 
-	time_created: 2018-12-04 04:15:45
-	time_modified: 2019-03-17 19:35:40
-	name: Corporate War
-	casting_cost: WB
-	image: image121
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment</word-list-type-en>
-	sub_type: <word-list-enchantment>Project</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
-	rarity: rare
-	rule_text: Whenever another enchantment you control enters, you may put a progress counter on <atom-cardname><nospellcheck>Corporate War</nospellcheck></atom-cardname>.
-	rule_text_2: <sym-auto>WB</sym-auto>, Sacrifice a creature or enchantment: Destroy target creature or enchantment.
-	rule_text_3: Sacrifice a creature or enchantment: Destroy target permanent.
-	flavor_text: <i-flavor></i-flavor>
-	flavor_text_2: <i-flavor></i-flavor>
-	flavor_text_3: <i-flavor></i-flavor>
-	level_1: 2-5
-	level_2: 6+
-	illustrator: Katerina Kirillova
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-paradox
-	stylesheet_version: 2024-06-07
-	has_styling: true
-	styling_data:
-		chop_top: 
-		chop_bottom: 
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		overlay: 
-	notes: !critter
-	time_created: 2018-12-04 04:15:45
-	time_modified: 2019-09-30 14:58:55
-	name: Shroud the World in Doom
-	casting_cost: 1UB
-	image: image160
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
-	rarity: rare
-	rule_text:
-		Return up to one target creature to its owner’s hand. If you do, that player discards a card at random.
-		<kw-1><nospellcheck><key>Coalesce <param-mana><sym-auto>5UB</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>5UB</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-1>
-		Whenever <kw-a><nospellcheck><key>Shroud</key></nospellcheck></kw-a> the World in Doom deals combat damage to an opponent, that player discards a card at random.
-	flavor_text: <i-flavor></i-flavor>
-	power: 5
-	toughness: 5
-	illustrator: Mateusz Bielski
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-paradox
-	stylesheet_version: 2024-06-07
-	has_styling: true
-	styling_data:
-		chop_top: 
-		chop_bottom: 
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		overlay: 
-	notes: !critter 
-	time_created: 2018-12-04 04:15:45
-	time_modified: 2021-04-11 12:42:43
-	name: Dawn of the Final Day
-	casting_cost: 4B
-	image: image141
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
-	rarity: rare
-	rule_text:
-		Return up to one target creature card from a graveyard to the battlefield under your control.
-		<kw-1><nospellcheck><key>Coalesce <param-mana><sym-auto>9B</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>9B</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-1>
-		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>
-	flavor_text: <i-flavor></i-flavor>
-	power: 7
-	toughness: 7
-	illustrator: Mark Erskine
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-04 04:15:45
-	time_modified: 2020-08-31 23:17:09
-	name: Demolitionist Deviser
-	casting_cost: 1R
-	image: image87
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: rare
-	rule_text:
-		<kw-A><nospellcheck><key>Renown <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature deals combat damage to a player, if it isn’t renowned, put <param-number>a</param-number> +1/+1 counter on it and it becomes renowned.)</i-auto></atom-reminder-expert></kw-A>
-		When <atom-cardname><nospellcheck>Demolitionist Deviser</nospellcheck></atom-cardname> dies, it deals damage equal to its power to any target.
-	flavor_text: <i-flavor></i-flavor>
-	power: 2
-	toughness: 1
-	illustrator: Jakub Bazyluk
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
 	has_styling: false
 	notes:
 		 
+	uid: 59034272925023212667697480241999
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-04 04:15:45
 	time_modified: 2021-05-29 15:32:03
 	extra_data:
@@ -4332,115 +6912,22 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: She/Her
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 5
-		frames: leveler
-		other_options: auto nyx crowns, vorthos box
-		level_label: progress
-		font_cap: 11
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
-	notes: 
-	time_created: 2018-12-04 04:15:53
-	time_modified: 2019-03-31 20:17:37
-	name: Battlesuit Prototyping
-	casting_cost: W
-	image: image108
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment</word-list-type-en>
-	sub_type: <word-list-enchantment>Project</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
-	rarity: rare
-	rule_text: Whenever one or more creatures you control attack, you may put a progress counter on <atom-cardname><nospellcheck>Battlesuit Prototyping</nospellcheck></atom-cardname>.
-	rule_text_2: Creatures you control get +1/+1.
-	rule_text_3: Creatures you control get +2/+2 and have <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.
-	flavor_text: <i-flavor></i-flavor>
-	flavor_text_2: <i-flavor></i-flavor>
-	flavor_text_3: <i-flavor></i-flavor>
-	level_1: 2-6
-	level_2: 7+
-	illustrator: Jakub Bazyluk
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: flavor?
-	time_created: 2018-12-04 04:15:53
-	time_modified: 2019-03-29 01:04:14
-	name: Mountain-Western Inventor
-	casting_cost: UR
-	image: image20
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: uncommon
-	rule_text:
-		When <atom-cardname><nospellcheck>Mountain-Western Inventor</nospellcheck></atom-cardname> enters, you may return target artifact card from your graveyard to your hand.
-		<sym-auto>1</sym-auto>, Sacrifice an artifact: Target creature can’t block or be blocked this turn.
-	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 2
-	illustrator: James Ng
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-paradox
-	stylesheet_version: 2024-06-07
-	has_styling: true
-	styling_data:
-		chop_top: 2
-		chop_bottom: 12
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		overlay: 
-	notes: 
-	time_created: 2018-12-04 04:15:53
-	time_modified: 2021-01-31 21:31:33
-	name: Twelve Thousand Eyes
-	casting_cost: XB
-	image: image148
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
-	rarity: rare
-	rule_text:
-		As an additional cost to cast this spell, exile X cards from your graveyard.
-		You draw X cards and you lose X life.
-		<kw-A><nospellcheck><key>Coalesce <param-mana><sym-auto>8B</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>8B</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text: <i-flavor></i-flavor>
-	power: 6
-	toughness: 6
-	illustrator: Hinchel Or
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
 	has_styling: false
 	notes:
 		 
+	uid: 55863501635391163896405768125373
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-04 04:15:53
 	time_modified: 2021-05-29 15:31:52
 	extra_data:
@@ -4469,112 +6956,31 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: She/Her
 card:
-	stylesheet: m15-paradox
-	stylesheet_version: 2024-06-07
-	has_styling: true
-	styling_data:
-		chop_top: 1
-		chop_bottom: 8
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		overlay: 
-	notes: 
-	time_created: 2018-12-04 04:15:53
-	time_modified: 2023-03-29 21:52:50
-	name: Tower Over The Sky
-	casting_cost: XGG
-	image: image157
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
-	rarity: rare
-	rule_text:
-		Search your library for a card. You may cast it without paying its mana cost if it’s a green creature or Revelation spell with mana value X or less. Then shuffle.<nosym>
-		<kw-A><nospellcheck><key>Coalesce <param-mana><sym>XXGGGG</sym></nosym></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>XXGGGG</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text: <i-flavor></i-flavor>
-	power: 5
-	toughness: 5
-	illustrator: Jorge Jacinto
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-04 04:15:55
-	time_modified: 2019-03-22 20:02:18
-	name: Dragonwrought Engineer
-	casting_cost: 4W
-	image: image36
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Artificer</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: rare
-	rule_text:
-		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-		<atom-cardname><nospellcheck>Dragonwrought Engineer</nospellcheck></atom-cardname> gets +1/+1 for each artifact and enchantment you control.
-	flavor_text: <i-flavor>“Dragons are nature’s most perfect creations. If we can build our own, nothing is beyond our reach.”</i-flavor>
-	power: 2
-	toughness: 2
-	illustrator: Amarys
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-paradox
-	stylesheet_version: 2024-06-07
-	has_styling: false
-	notes: !critter
-	time_created: 2018-12-04 04:15:55
-	time_modified: 2019-08-08 00:38:52
-	name: Shatter Mortal Conveyances
-	casting_cost: 6U
-	image: image146
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
-	rarity: rare
-	rule_text:
-		Return each nonland permanent you don’t control to its owner’s hand.
-		<kw-A><nospellcheck><key>Coalesce <param-mana><sym-auto>6UUU</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>6UUU</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
-		<kw-a><nospellcheck><key>Hexproof</key></nospellcheck></kw-a> <i-auto>(This creature can’t be the target of spells or abilities your opponents control.)</i-auto>
-	flavor_text: <i-flavor></i-flavor>
-	power: 7
-	toughness: 3
-	illustrator: Guillem H. Pongiluppi
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 9
 		other_options: auto nyx crowns, vorthos box
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		 
+	uid: 82512132353326669513164554392397
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-04 04:15:55
 	time_modified: 2021-05-29 15:32:45
 	extra_data:
@@ -4602,11 +7008,22 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: He/Him
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
 	has_styling: false
 	notes:
 		 
+	uid: 65879697461730948866498061003960
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-04 04:15:55
 	time_modified: 2021-05-29 15:31:05
 	extra_data:
@@ -4634,11 +7051,22 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: She/Her
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
 	has_styling: false
 	notes:
 		 
+	uid: 45717378114683300001370497379405
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-04 04:15:55
 	time_modified: 2021-05-29 15:31:58
 	extra_data:
@@ -4667,66 +7095,22 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: She/Her
 card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-04 04:15:59
-	time_modified: 2024-01-28 20:58:26
-	name: Steelclad Investigator
-	casting_cost: WW
-	image: image111
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Scout</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Detective</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: rare
-	rule_text:
-		<kw-a><nospellcheck><key>Vigilance</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Renown <param-number>2</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature deals combat damage to a player, if it isn’t renowned, put <param-number>two</param-number> +1/+1 counters on it and it becomes renowned.)</i-auto></atom-reminder-expert></kw-A>
-		<sym-auto>T</sym-auto>: Prevent the next X damage that would be dealt to target creature this turn, where X is <atom-cardname><nospellcheck>Steelclad Investigator</nospellcheck></atom-cardname>’s power.
-	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 1
-	illustrator: Jakub Bazyluk
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes:  reworked: Previously {6}{U}{U} that cost {1} less for each artifact/enchantment with "Reveal the top seven cards of your library. Put any number of noncreature, nonland cards from among them into your hand and the rest of the revealed cards into your graveyard."
-	time_created: 2018-12-04 04:15:59
-	time_modified: 2026-04-22 01:10:36
-	name: Ride the Storm
-	casting_cost: 4UU
-	image: image125
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	rarity: rare
-	rule_text:
-		If you controlled three or more artifacts and/or enchantments as you cast this spell, it can’t be countered.
-		Draw four cards.
-	flavor_text: <i-flavor>When truth is more fearsome than fiction, old ghost stories make pleasant company.</i-flavor>
-	illustrator: Benjamin Ee
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
 	has_styling: false
 	notes:
 		 
+	uid: 18007262323654225139757705944604
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-04 04:15:59
 	time_modified: 2021-05-29 15:32:30
 	extra_data:
@@ -4754,79 +7138,32 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: He/Him
 card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-04 04:15:59
-	time_modified: 2019-03-17 20:14:44
-	name: Spark New Life
-	casting_cost: XRG
-	image: image49
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	rarity: rare
-	rule_text: <atom-cardname><nospellcheck>Spark New Life</nospellcheck></atom-cardname> deals X damage to any target. You may put up to X land cards from your hand and/or graveyard onto the battlefield.
-	flavor_text: <i-flavor>“<error-spelling:en_US>Feraguo’s</error-spelling:en_US> in pain, but like all living things, the <error-spelling:en_US>Worldsoul</error-spelling:en_US> will heal in time.”</i-flavor>
-	illustrator: Aurore Folny
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-paradox
-	stylesheet_version: 2024-06-07
-	has_styling: true
-	styling_data:
-		chop_top: 
-		chop_bottom: 9
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		overlay: 
-	notes: !critter
-	time_created: 2018-12-04 04:15:59
-	time_modified: 2019-08-08 00:39:05
-	name: Fulfill Twisted Dreams
-	casting_cost: 2GU
-	image: image133
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
-	rarity: rare
-	rule_text:
-		Untap all permanents you control.
-		<kw-A><nospellcheck><key>Coalesce <param-mana><sym-auto>5GU</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>5GU</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
-		<sym-auto>GU</sym-auto>: Untap Fulfill Twisted Dreams.
-	flavor_text: <i-flavor></i-flavor>
-	power: 5
-	toughness: 5
-	illustrator: Jorge Jacinto
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 12
 		frames: 
 		other_options: auto nyx crowns, vorthos box
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		 
+	uid: 93164840504192336167811037092986
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-04 04:16:02
 	time_modified: 2021-05-29 15:31:38
 	extra_data:
@@ -4854,60 +7191,31 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: She/Her
 card:
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 5
-		frames: leveler
-		other_options: auto nyx crowns, vorthos box
-		level_label: progress
-		font_cap: 10
-		level_offset: -15,-25,
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
-	notes: 
-	time_created: 2018-12-04 04:16:02
-	time_modified: 2020-07-01 20:33:33
-	name: Reckless Research
-	casting_cost: U
-	image: image99
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment</word-list-type-en>
-	sub_type: <word-list-enchantment>Project</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
-	rarity: rare
-	rule_text: Whenever you cast a noncreature spell, you may put a progress counter on <atom-cardname><nospellcheck>Reckless Research</nospellcheck></atom-cardname>.
-	rule_text_2: At the beginning of your end step, put the top two cards of your library into your graveyard.
-	rule_text_3: At the beginning of your upkeep, choose target instant or sorcery card in your graveyard. You may cast it from your graveyard this turn.
-	flavor_text: <i-flavor></i-flavor>
-	flavor_text_2: <i-flavor></i-flavor>
-	flavor_text_3: <i-flavor></i-flavor>
-	level_1: 2+
-	level_2: 7+
-	level_2_text: At the beginning of your end step, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>two</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>.
-	illustrator: Ben Olson
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
 	has_styling: true
 	styling_data:
 		chop_top: 5
 		chop_bottom: 14
 		other_options: auto nyx crowns, vorthos box
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	notes:
 		 
+	uid: 14384923469744168331484118551282
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-04 04:16:02
 	time_modified: 2021-05-29 15:32:25
 	extra_data:
@@ -4935,63 +7243,21 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: He/Him
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
 	has_styling: false
 	notes: 
-	time_created: 2018-12-04 04:16:02
-	time_modified: 2024-01-28 19:03:10
-	name: Relic Heist
-	casting_cost: 2RR
-	image: image58
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	rarity: rare
-	rule_text: Search target opponent’s library for an artifact card and put it onto the battlefield under your control, then that player shuffles. If you don’t put a card onto the battlefield this way, create four <kw-a><nospellcheck><key>Gold toke<param-*s>ns</param-*s></key></nospellcheck></kw-a>. At the beginning of the next end step, sacrifice each artifact put onto the battlefield this way. <i-auto>(This includes the Gold.)</i-auto>
-	flavor_text: <i-flavor></i-flavor>
-	illustrator: Jackson Tjota
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-04 04:16:02
-	time_modified: 2024-01-28 20:58:06
-	name: Thuggish Detective
-	casting_cost: 1GG
-	image: image162
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Rogue</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Detective</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: rare
-	rule_text:
-		<kw-A><nospellcheck><key>Renown <param-number>1</param-number></key></nospellcheck><atom-reminder-expert> <i-auto>(When this creature deals combat damage to a player, if it isn’t renowned, put <param-number>a</param-number> +1/+1 counter on it and it becomes renowned.)</i-auto></atom-reminder-expert></kw-A>
-		<atom-cardname><nospellcheck>Thuggish Detective</nospellcheck></atom-cardname> can’t be blocked by more than one creature.
-		When <atom-cardname><nospellcheck>Thuggish Detective</nospellcheck></atom-cardname> becomes renowned, you may destroy target noncreature permanent.
-	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 3
-	illustrator: Nikita Pilyukshin
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
+	uid: 31416612948546140762044851370648
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-04 04:16:03
 	time_modified: 2025-01-30 16:19:12
 	extra_data:
@@ -5019,133 +7285,22 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: She/Her
 card:
-	stylesheet: m15-paradox
-	stylesheet_version: 2024-06-07
-	has_styling: true
-	styling_data:
-		chop_top: 
-		chop_bottom: 9
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		overlay: 
-	notes: 
-	time_created: 2018-12-04 04:16:03
-	time_modified: 2024-04-28 01:22:35
-	name: Answer Midnight's Call
-	casting_cost: 2UU
-	image: image126
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
-	rarity: rare
-	rule_text:
-		You may put a creature or Revelation card from your hand onto the battlefield. Exile that permanent if it would leave the battlefield. If it’s a Revelation, it enters as a Horror creature.
-		<kw-A><nospellcheck><key>Coalesce <param-mana><sym-auto>7UU</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>7UU</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
-	flavor_text: <i-flavor></i-flavor>
-	power: 6
-	toughness: 7
-	illustrator: Beverly Yim
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-04 04:16:03
-	time_modified: 2019-03-28 02:38:37
-	name: Lostrite Evoker
-	casting_cost: 1B
-	image: image137
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: common
-	rule_text:
-		<kw-a><nospellcheck><key>Lifelink</key></nospellcheck></kw-a>
-		<sym-auto>B</sym-auto>, Sacrifice <atom-cardname><nospellcheck>Lostrite Evoker</nospellcheck></atom-cardname>: Add <sym-auto>BBB</sym-auto>.
-	flavor_text: <i-flavor>“I have seen the truth, and it will burn you to ash before you can begin to comprehend it.”</i-flavor>
-	power: 1
-	toughness: 3
-	illustrator: Jakub Bazyluk
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-04 04:16:03
-	time_modified: 2019-02-28 02:58:15
-	name: Wandering Doyen
-	casting_cost: R
-	image: image113
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Monk</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: rare
-	rule_text:
-		Whenever <atom-cardname><nospellcheck>Wandering Doyen</nospellcheck></atom-cardname> is dealt damage, it deals that much damage to you.
-		<sym-auto>4R</sym-auto>: Attacking creatures you control get +1/+0 and gain <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> until end of turn.
-	flavor_text: <i-flavor></i-flavor>
-	power: 2
-	toughness: 1
-	illustrator: Mario Wibisono
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-paradox
-	stylesheet_version: 2024-06-07
-	has_styling: false
-	notes: !critter
-	time_created: 2018-12-04 04:16:03
-	time_modified: 2019-08-08 00:40:09
-	name: Crush All in Their Path
-	casting_cost: 4GG
-	image: image151
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Sorcery</word-list-type-en>
-	sub_type: <word-list-spell>Revelation</word-list-spell><soft><atom-sep> </atom-sep></soft><word-list-spell></word-list-spell>
-	rarity: rare
-	rule_text:
-		Creatures you control get +4/+4 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
-		<kw-A><nospellcheck><key>Coalesce <param-mana><sym-auto>8GG</sym-auto></param-mana></key></nospellcheck><atom-reminder-custom> <i-auto>(You may cast this from your graveyard for <param-mana><sym-auto>8GG</sym-auto></param-mana>. If you do, it enters as a Horror creature after it resolves. Exile it if it would leave the battlefield or not resolve.)</i-auto></atom-reminder-custom></kw-A>
-		<kw-a><nospellcheck><key>Trample</key></nospellcheck></kw-a>
-	flavor_text: <i-flavor></i-flavor>
-	power: 6
-	toughness: 6
-	illustrator: Ingvild Grotlokken
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
 	has_styling: false
 	notes:
 		 
+	uid: 40145634439739036516273734017119
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-04 04:16:09
 	time_modified: 2021-05-29 15:30:48
 	extra_data:
@@ -5173,11 +7328,22 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: She/Her
 card:
+	stylesheet: m15-altered
+	stylesheet_version: 2026-08-31
 	has_styling: false
 	notes:
 		 
+	uid: 22923045408013609744913796646739
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2018-12-04 04:16:09
 	time_modified: 2021-05-29 15:33:13
 	extra_data:
@@ -5205,422 +7371,35 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
+	vorthos_box: He/Him
 card:
+	stylesheet: m15-emblem
+	stylesheet_version: 2026-02-28
 	has_styling: true
 	styling_data:
-		chop_top: 11
-		chop_bottom: 11
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
+		frame_type: m15
+		popout_art_coordinates: 0,0,750,1046,
+		center_text: always
 		overlay: 
-	notes: 
-	time_created: 2018-12-04 04:16:09
-	time_modified: 2019-02-28 02:24:52
-	name: Unforget
-	casting_cost: 2B
-	image: image9
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Instant</word-list-type-en>
-	sub_type: <word-list-spell></word-list-spell>
-	rarity: rare
-	rule_text: Search your library for a card, reveal it, then shuffle and put that card on top of it. If you revealed a noncreature card this way, each opponent loses 2 life and you gain 2 life.
-	flavor_text: <i-flavor>Some secrets would be better off remaining buried. Some secrets are profitable to uncover. The best are both.</i-flavor>
-	illustrator: Greg Bobrowski
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-04 04:16:09
-	time_modified: 2019-03-19 03:42:28
-	name: Guns Akimbo
-	casting_cost: 3R
-	image: image63
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment</word-list-type-en>
-	sub_type: <word-list-enchantment>Aura</word-list-enchantment><soft><atom-sep> </atom-sep></soft><word-list-enchantment></word-list-enchantment>
-	rarity: uncommon
-	rule_text:
-		<kw-a><nospellcheck><key>Enchant <param-name>creature</param-name></key></nospellcheck></kw-a>
-		Enchanted creature has <kw-a><nospellcheck><key>double strike</key></nospellcheck></kw-a>.
-		Whenever enchanted creature deals combat damage to an opponent, exile the top card of your library. You may play that card this turn.
-	flavor_text:
-		<i-flavor>“‘One shot, one <error-spelling:en_US>kill’</error-spelling:en_US> may work for <error-spelling:en_US>Xiu</error-spelling:en_US>, but as far as I’m concerned now is the time for overkill.”<soft-line>
-		—Anne Sullivan</soft-line></i-flavor>
-	illustrator: Jeehyung Lee
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: true
-	styling_data:
-		chop_top: 11
-		chop_bottom: 11
+		remove_from_autocount: no
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
-	notes: 
-	time_created: 2018-12-04 04:16:09
-	time_modified: 2019-03-30 14:27:59
-	name: Shattered Prison
-	casting_cost: 4G
-	image: image158
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Enchantment</word-list-type-en>
-	sub_type: <word-list-enchantment></word-list-enchantment>
-	rarity: rare
-	rule_text:
-		Creatures you control can’t be blocked by creatures with power 2 or less.
-		Whenever you tap a land for mana, add <sym-auto>G</sym-auto>.
-	flavor_text: <i-flavor>The planets aligned. The machines whirred to life. The sky ripped in half. The end of the world began.</i-flavor>
-	illustrator: Katy Grierson
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 5
-		frames: leveler
-		other_options: auto nyx crowns, vorthos box
-		level_label: progress
-		font_cap: 11
-		level_offset: 8,3,
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
-	notes: 
-	time_created: 2018-12-04 04:16:17
-	time_modified: 2019-04-28 19:52:51
-	name: Sovereign Skies
-	casting_cost: 2
-	image: image19
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact>Project</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
-	rarity: rare
-	rule_text: Whenever you cast a noncreature spell, you may put a progress counter on <atom-cardname><nospellcheck>Sovereign Skies</nospellcheck></atom-cardname>.
-	rule_text_2:
-		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>
-		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-	rule_text_3: <atom-cardname><nospellcheck>CARDNAME</nospellcheck></atom-cardname> is a 9/9 Ship artifact creature with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
-	flavor_text: <i-flavor></i-flavor>
-	flavor_text_2: <i-flavor></i-flavor>
-	flavor_text_3: <i-flavor></i-flavor>
-	level_1: 2+
-	level_2: 9+
-	level_2_text:
-		<kw-a><nospellcheck><key>Indestructible</key></nospellcheck></kw-a>
-		<sym-auto>T</sym-auto>: Add <sym-auto>C</sym-auto>.
-	illustrator: James Ng
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-04 04:18:03
-	time_modified: 2024-01-31 22:13:50
-	card_color: land, multicolor
-	name: Shrouded Sanctuary
-	image: image178
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Land</word-list-type-en>
-	sub_type: <word-list-land></word-list-land>
-	rarity: rare
-	rule_text: <sym-auto>T</sym-auto>, Pay 1 life: Add one mana of any color. Spend this mana only to cast an instant or sorcery spell.
-	flavor_text: <i-flavor>The mages of <error-spelling:en_US>Tianban</error-spelling:en_US> had the clearest view of the shattering sky, but the least idea of what it meant for the world below.</i-flavor>
-	illustrator: Zudarts Lee
-	card_code_text: Timespiraled
-	card_code_text_2: Timespiraled
-	card_code_text_3: Timespiraled
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-04 04:18:07
-	time_modified: 2019-03-15 02:31:21
-	name: Brazen Blackguard
-	casting_cost: 3
-	image: image32
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Rogue</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rarity: rare
-	rule_text:
-		<kw-a><nospellcheck><key>First strike</key></nospellcheck></kw-a>
-		Other Rogues you control get +1/+0 and have <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a>.
-		<sym-auto>2</sym-auto>, Sacrifice a permanent: Return target Rogue card from your graveyard to your hand.
-	flavor_text: <i-flavor></i-flavor>
-	power: 3
-	toughness: 1
-	illustrator: Robert Kim
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: false
-	notes: 
-	time_created: 2018-12-04 04:18:11
-	time_modified: 2020-02-29 21:01:58
-	name: Steam Daimyo's Gauntlets
-	casting_cost: 3
-	image: image22
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact>Equipment</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
-	rarity: rare
-	rule_text:
-		Equipped creature gets +1/+0 for each artifact you control.
-		<kw-a><nospellcheck><key>Equip—<param-cost>Sacrifice an artifact</param-cost>.</key></nospellcheck></kw-a>
-	flavor_text:
-		<i-flavor>“We must learn to balance the old and the new, tradition and innovation. Men like Mr. <error-spelling:en_US>Yoshida</error-spelling:en_US> thrive on the imbalance we’ve created.”<soft-line>
-		—General Ito <error-spelling:en_US>Tsubasa</soft-line></i-flavor></error-spelling:en_US>
-	illustrator: James Ng
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 5
-		frames: leveler
-		other_options: auto nyx crowns, vorthos box
-		level_label: progress
-		font_cap: 11
-		level_offset: 5,15,
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
-	notes: 
-	time_created: 2018-12-04 04:18:16
-	time_modified: 2019-04-01 00:39:53
-	name: Throne of the West
-	casting_cost: 6
-	image: image18
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Legendary Artifact</word-list-type-en>
-	sub_type: <word-list-artifact>Project</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
-	rarity: rare
-	rule_text: Whenever a permanent an opponent controls becomes the target of a spell you control, put a progress counter on <atom-cardname><nospellcheck>Throne of the West</nospellcheck></atom-cardname>.
-	rule_text_2: <sym-auto>T</sym-auto>: Gain control of target permanent until end of turn. Untap it. It gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
-	rule_text_3:
-		You can’t lose control of permanents.<soft-line>
-		</soft-line>
-	flavor_text: <i-flavor></i-flavor>
-	flavor_text_2: <i-flavor></i-flavor>
-	flavor_text_3: <i-flavor></i-flavor>
-	level_1: 2+
-	level_2: 5+
-	level_3_text: You can’t lose control of permanents.
-	illustrator: James Ng
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	has_styling: true
-	styling_data:
-		chop_top: 5
-		chop_bottom: 5
-		frames: leveler
-		other_options: auto nyx crowns, vorthos box
-		level_label: progress
-		font_cap: 11
-		text_box_mana_symbols: magic-mana-small.mse-symbol-font
-		level_mana_symbols: magic-mana-large.mse-symbol-font
-		overlay: 
-	notes: 
-	time_created: 2018-12-04 04:18:19
-	time_modified: 2019-03-19 03:45:47
-	name: Elections Tampering
-	casting_cost: 1
-	image: image26
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Artifact</word-list-type-en>
-	sub_type: <word-list-artifact>Project</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
-	rarity: uncommon
-	rule_text: At the beginning of your end step, you may put a progress counter on <atom-cardname><nospellcheck>Elections Tampering</nospellcheck></atom-cardname>.
-	rule_text_2: Whenever a creature enters, you gain 1 life.
-	rule_text_3: Whenever a creature enters, each opponent loses 1 life.
-	flavor_text: <i-flavor></i-flavor>
-	flavor_text_2: <i-flavor></i-flavor>
-	flavor_text_3: <i-flavor></i-flavor>
-	level_1: 2+
-	level_2: 5+
-	illustrator: Larry Wilson
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
-	has_styling: false
-	notes: 
-	time_created: 2019-03-31 18:21:12
-	time_modified: 2019-10-01 12:34:19
-	card_color: white
-	name: Angel
-	image: image182
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Token Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Angel</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-	flavor_text: <i-flavor></i-flavor>
-	power: 4
-	toughness: 4
-	illustrator: Dmitry Prozorov
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
-	has_styling: false
-	notes: 
-	time_created: 2019-03-31 18:22:07
-	time_modified: 2024-01-28 20:06:42
-	card_color: green
-	name: Spirit
-	image: image183
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Token Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Spirit</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	power: 1
-	toughness: 1
-	illustrator: Rogier van de Beek
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
-	has_styling: false
-	notes: 
-	time_created: 2018-09-16 15:31:30
-	time_modified: 2018-09-30 22:00:02
-	card_color: artifact
-	name: Construct
-	image: image179
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Token Artifact Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Construct</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	power: 1
-	toughness: 1
-	illustrator: James Ng
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
-	has_styling: false
-	notes: 
-	time_created: 2018-06-21 18:07:18
-	time_modified: 2018-11-15 03:14:07
-	card_color: blue
-	name: Bird
-	image: image184
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Token Creature</word-list-type-en>
-	sub_type: <word-list-race-en>Bird</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
-	rule_text: <kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
-	flavor_text: <i-flavor></i-flavor>
-	power: 1
-	toughness: 2
-	illustrator: Phuoc Quan
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
-card:
-	stylesheet: m15-emblem-cajun
-	stylesheet_version: 2024-06-06
-	has_styling: false
+		use_guild_mana_symbols: no
+		tap_symbol: modern
 	notes: !exportname Mari Emblem
+	uid: 54252589124650074020732401658829
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
 	time_created: 2019-04-28 22:54:19
 	time_modified: 2019-04-28 23:08:18
 	name: Emblem
-	image: image3
+	image: scripted_image1.png
 	image_2: 
 	mainframe_image: mainframe image4
 	mainframe_image_2: 
@@ -5635,31 +7414,6 @@ card:
 	copyright: 
 	copyright_2: 
 	copyright_3: 
-
-card:
-	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
-	has_styling: false
-	notes: 
-	time_created: 2017-10-03 01:33:22
-	time_modified: 2018-09-30 22:00:06
-	name: Gold
-	image: image135
-	image_2: 
-	mainframe_image: 
-	mainframe_image_2: 
-	super_type: <word-list-type-en>Token Artifact</word-list-type-en>
-	sub_type: <word-list-artifact>Gold</word-list-artifact><soft><atom-sep> </atom-sep></soft><word-list-artifact></word-list-artifact>
-	rule_text: Sacrifice <atom-cardname><nospellcheck>Gold</nospellcheck></atom-cardname>: Add one mana of any color.
-	flavor_text: <i-flavor></i-flavor>
-	illustrator: LadyChristina
-	card_code_text: 
-	card_code_text_2: 
-	card_code_text_3: 
-	copyright: 
-	copyright_2: 
-	copyright_3: 
-
 keyword:
 	keyword: Coalesce
 	match: Coalesce <atom-param>mana</atom-param>
