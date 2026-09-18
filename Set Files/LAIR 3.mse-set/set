@@ -1477,7 +1477,7 @@ card:
 		chop_bottom: 5
 		frames: borderless art
 		other_options: auto nyx crowns
-		card_watermark: marina/part1.png
+		card_watermark: watermarks/JoJo/part1.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1522,7 +1522,7 @@ card:
 		chop_bottom: 5
 		frames: borderless art
 		other_options: auto nyx crowns
-		card_watermark: marina/part2.png
+		card_watermark: watermarks/JoJo/part2.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1563,7 +1563,7 @@ card:
 		chop_bottom: 5
 		frames: borderless art
 		other_options: auto nyx crowns
-		card_watermark: marina/part3.png
+		card_watermark: watermarks/JoJo/part3.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1603,7 +1603,7 @@ card:
 		chop_bottom: 5
 		frames: borderless art
 		other_options: auto nyx crowns
-		card_watermark: marina/part4.png
+		card_watermark: watermarks/JoJo/part4.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1644,7 +1644,7 @@ card:
 		shrink_typeline_text: 2.
 		frames: borderless art
 		other_options: auto nyx crowns
-		card_watermark: marina/part5.png
+		card_watermark: watermarks/JoJo/part5.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1688,7 +1688,7 @@ card:
 		chop_bottom: 5
 		frames: borderless art
 		other_options: auto nyx crowns
-		card_watermark: marina/part6.png
+		card_watermark: watermarks/JoJo/part6.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 

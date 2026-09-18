@@ -15,8 +15,8 @@ set_info:
 	card_number_style: 001/099
 	sort_special_rarity: separate numbering
 	default_stamp: none
-	custom_symbol_1: burst.png,File found,706px,
-	custom_symbol_2: light.png,File found,706px,
+	custom_symbol_1: transform_symbols/burst.png,File found,706px,
+	custom_symbol_2: transform_symbols/light.png,File found,706px,
 	use_flavor_bar: yes
 	custom_index: rarity,color,converted mana cost
 	custom_mana_symbol_name: beep

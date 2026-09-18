@@ -12,7 +12,7 @@ set_info:
 	auto_errata: yes
 	automatic_copyright: no
 	automatic_card_numbers: no
-	custom_watermark_1: kxp/skalor_smol.png,File found,500x500px
+	custom_watermark_1: watermarks/KXP/skalor_smol.png,File found,500x500px
 	blend_with_colors: yes
 	use_flavor_bar: yes
 styling:
@@ -1430,7 +1430,7 @@ card:
 	styling_data:
 		chop_top: 8,5,
 		popout_image_style: 0,0,375,523,
-		card_watermark: kxp/usona_light.png
+		card_watermark: watermarks/KXP/usona_light.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
@@ -1473,7 +1473,7 @@ card:
 		chop_bottom: 5
 		frames: 
 		other_options: auto nyx crowns, vorthos box
-		card_watermark: kxp/arc.png
+		card_watermark: watermarks/KXP/arc.png
 		remove_from_autocount: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -1515,7 +1515,7 @@ card:
 	styling_data:
 		chop_top: 5,2,
 		other_options: auto nyx crowns, vorthos box
-		card_watermark: kxp/aus.png
+		card_watermark: watermarks/KXP/aus.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1594,7 +1594,7 @@ card:
 		chop_bottom: 
 		frames: map
 		other_options: auto nyx crowns, vorthos box
-		card_watermark: kxp/tirvana.png
+		card_watermark: watermarks/KXP/tirvana.png
 		remove_from_autocount: yes
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font

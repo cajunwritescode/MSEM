@@ -12,11 +12,11 @@ set_info:
 	masterpiece_symbol: 
 	auto_errata: yes
 	automatic_card_numbers: yes
-	custom_watermark_1: ALR/bant.png,File found,500x439px
-	custom_watermark_2: ALR/esper.png,File found,500x439px
-	custom_watermark_3: ALR/grixis.png,File found,500x439px
-	custom_watermark_4: ALR/jund.png,File found,500x439px
-	custom_watermark_5: ALR/naya.png,File found,500x439px
+	custom_watermark_1: watermarks/ALR/bant.png,File found,500x439px
+	custom_watermark_2: watermarks/ALR/esper.png,File found,500x439px
+	custom_watermark_3: watermarks/ALR/grixis.png,File found,500x439px
+	custom_watermark_4: watermarks/ALR/jund.png,File found,500x439px
+	custom_watermark_5: watermarks/ALR/naya.png,File found,500x439px
 	custom_watermark_6: 
 	custom_watermark_7: 
 	custom_watermark_8: 

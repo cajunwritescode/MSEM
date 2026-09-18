@@ -11,8 +11,8 @@ set_info:
 	masterpiece_symbol: 
 	auto_errata: yes
 	card_number_style: 001/099
-	custom_watermark_1: marina/mapu.png,File found,500x500px
-	custom_watermark_2: marina/inca.png,File found,500x500px
+	custom_watermark_1: watermarks/RCM/mapu.png,File found,500x500px
+	custom_watermark_2: watermarks/RCM/inca.png,File found,500x500px
 	blend_with_colors: yes
 styling:
 	magic-m15-altered:

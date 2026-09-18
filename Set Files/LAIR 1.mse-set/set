@@ -19805,7 +19805,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: burst.png
+		custom_symbol: transform_symbols/burst.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -19888,7 +19888,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: light.png
+		custom_symbol: transform_symbols/light.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -19967,7 +19967,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: burst.png
+		custom_symbol: transform_symbols/burst.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -20048,7 +20048,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: light.png
+		custom_symbol: transform_symbols/light.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -20125,7 +20125,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: burst.png
+		custom_symbol: transform_symbols/burst.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -20206,7 +20206,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: light.png
+		custom_symbol: transform_symbols/light.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -20283,7 +20283,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: burst.png
+		custom_symbol: transform_symbols/burst.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -20363,7 +20363,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: light.png
+		custom_symbol: transform_symbols/light.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -20438,7 +20438,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: burst.png
+		custom_symbol: transform_symbols/burst.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -20519,7 +20519,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: light.png
+		custom_symbol: transform_symbols/light.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no

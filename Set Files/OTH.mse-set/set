@@ -9379,8 +9379,8 @@ card:
 		back_stripe_coordinate: -20,-20,
 		back_font_cap: 10
 		shrink_back_typeline_text: 1
-		custom_symbol_one: light.png
-		custom_symbol_two: burst.png
+		custom_symbol_one: transform_symbols/light.png
+		custom_symbol_two: transform_symbols/burst.png
 		level_5_chop: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font

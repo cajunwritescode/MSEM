@@ -3508,8 +3508,8 @@ card:
 		front_font_cap: 
 		shrink_typeline_text: 
 		other_options: use hovering pt, back color indicator, unindent nonloyalty abilities, auto nyx crowns
-		custom_symbol_one: mon/burst.png
-		custom_symbol_two: mon/light.png
+		custom_symbol_one: transform_symbols/burst.png
+		custom_symbol_two: transform_symbols/light.png
 		level_1_chop: -5,,10,
 		level_2_chop: 
 		level_5_chop: -5,15,

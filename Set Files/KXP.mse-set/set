@@ -24,16 +24,16 @@ set_info:
 	automatic_reminder_text: old, pseudo, action, custom, lower case
 	card_number_style: 001/099
 	sort_special_rarity: after other cards
-	custom_watermark_1: kxp/usona.png,File found,500x500px
-	custom_watermark_2: kxp/arc.png,File found,500x500px
-	custom_watermark_3: kxp/aus.png,File found,500x500px
-	custom_watermark_4: kxp/skalor.png,File found,500x500px
-	custom_watermark_5: kxp/tirvana.png,File found,500x500px
-	custom_watermark_6: kxp/festenya.png,File found,500x500px
-	custom_watermark_7: kxp/chikyu.png,File found,500x500px
-	custom_watermark_8: kxp/way.png,File found,500x500px
-	custom_watermark_9: kxp/arena.png,File found,500x500px
-	custom_watermark_10: kxp/books.png,File found,500x500px
+	custom_watermark_1: watermarks/KXP/usona.png,File found,500x500px
+	custom_watermark_2: watermarks/KXP/arc.png,File found,500x500px
+	custom_watermark_3: watermarks/KXP/aus.png,File found,500x500px
+	custom_watermark_4: watermarks/KXP/skalor.png,File found,500x500px
+	custom_watermark_5: watermarks/KXP/tirvana.png,File found,500x500px
+	custom_watermark_6: watermarks/KXP/festenya.png,File found,500x500px
+	custom_watermark_7: watermarks/KXP/chikyu.png,File found,500x500px
+	custom_watermark_8: watermarks/KXP/way.png,File found,500x500px
+	custom_watermark_9: watermarks/KXP/arena.png,File found,500x500px
+	custom_watermark_10: watermarks/KXP/books.png,File found,500x500px
 	blend_with_colors: yes
 	custom_index: searchtype_Token,rarity,color,name
 styling:
