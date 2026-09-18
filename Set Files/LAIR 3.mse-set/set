@@ -14,7 +14,7 @@ set_info:
 	automatic_card_numbers: no
 	default_stamp: none
 	stamp_behavior: All unstamped
-	custom_watermark_2: watermark_maria.png,File found,210x183px
+	custom_watermark_2: watermarks/LAIR/maria.png,File found,210x183px
 	blend_with_colors: no
 styling:
 	magic-m15-adventure:
@@ -23,7 +23,7 @@ styling:
 	magic-m15-altered:
 		chop_top: 5
 		chop_bottom: 5
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -15832,7 +15832,7 @@ card:
 		chop_top: 
 		chop_bottom: 5
 		frames: 
-		card_watermark: watermark_maria.png
+		card_watermark: watermarks/LAIR/maria.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -15877,7 +15877,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 8
-		card_watermark: watermark_maria.png
+		card_watermark: watermarks/LAIR/maria.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -16012,7 +16012,7 @@ card:
 		chop_bottom: 5
 		frames: 
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -16052,7 +16052,7 @@ card:
 		chop_bottom: 4
 		frames: 
 		other_options: brown legendary vehicle pt, auto nyx crowns
-		card_watermark: watermark_maria.png
+		card_watermark: watermarks/LAIR/maria.png
 		hybrid_name: grey
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -17295,7 +17295,7 @@ card:
 		shrink_name_text: 
 		frames: 
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 

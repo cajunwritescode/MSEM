@@ -16,7 +16,7 @@ set_info:
 	automatic_card_numbers: yes
 	card_number_style: 001/099
 	sort_multicolor_in_pairs: yes
-	custom_mana_symbol_name: platypeople/mana_v.png
+	custom_mana_symbol_name: mana/vp.png
 	mana_symbol_options: enable in casting costs, enable in text boxes
 styling:
 	magic-m15-adventure:
@@ -37648,7 +37648,7 @@ card:
 	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -43689,7 +43689,7 @@ card:
 	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: borderless art
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -43941,7 +43941,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 10,10
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: borderless art
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		shrink_name_text: 2
@@ -44351,7 +44351,7 @@ card:
 	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: borderless art
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -44605,7 +44605,7 @@ card:
 	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: borderless art
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		shrink_name_text: 2
@@ -44860,7 +44860,7 @@ card:
 	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: borderless art
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -45577,7 +45577,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		shrink_name_text: 2
@@ -46179,7 +46179,7 @@ card:
 	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no

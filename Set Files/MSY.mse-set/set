@@ -19,7 +19,7 @@ set_info:
 	default_stamp: none
 	stamp_behavior: All unstamped
 	alternate_nyx: 
-	custom_mana_symbol_name: platypeople/mana_v.png
+	custom_mana_symbol_name: mana/vp.png
 	mana_symbol_options: enable in casting costs, enable in text boxes
 styling:
 	magic-baseball-1980-topps: text_box_mana_symbols: magic-mana-small.mse-symbol-font

@@ -33647,7 +33647,7 @@ card:
 	has_styling: true
 	styling_data:
 		chapter_textboxes: four
-		snap_chapter_to_box: 0,0,0,0,0,0,4,
+		snap_chapter_to_box: 0,0,4,
 		chapter_divider_offsets: 
 		reminder_text_offset: 
 		separated_text_size: 10

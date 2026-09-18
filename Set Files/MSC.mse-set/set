@@ -56039,7 +56039,7 @@ card:
 	has_styling: true
 	styling_data:
 		chapter_textboxes: four
-		snap_chapter_to_box: 0,0,0,0,0,0,4,
+		snap_chapter_to_box: 0,0,4,
 		chapter_divider_offsets: -16,12,-7,
 		reminder_text_offset: -12
 		separated_text_size: 11
@@ -72831,7 +72831,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: urshad/mortal.png,File found,512,+
+		custom_symbol: transform_symbols/mortal.png,File found,706,
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -72955,7 +72955,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: urshad/god.png,File found,512,+
+		custom_symbol: transform_symbols/god.png,File found,706,
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -73455,7 +73455,7 @@ card:
 		custom_pt_font: 
 		font_cap: 13
 		custom_border_source: 
-		custom_symbol: urshad/mortal.png,File found,512,+
+		custom_symbol: transform_symbols/mortal.png,File found,706,
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -73579,7 +73579,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: urshad/god.png,File found,512,+
+		custom_symbol: transform_symbols/god.png,File found,706,
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -73705,7 +73705,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: urshad/mortal.png,File found,512,+
+		custom_symbol: transform_symbols/mortal.png,File found,706,
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -73832,7 +73832,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: urshad/god.png,File found,512,+
+		custom_symbol: transform_symbols/god.png,File found,706,
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -74251,7 +74251,7 @@ card:
 		custom_pt_font: 
 		font_cap: 12
 		custom_border_source: 
-		custom_symbol: urshad/mortal.png,File found,512,+
+		custom_symbol: transform_symbols/mortal.png,File found,706,
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -74376,7 +74376,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: urshad/god.png,File found,512,+
+		custom_symbol: transform_symbols/god.png,File found,706,
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no

@@ -622,7 +622,7 @@ card:
 		frames: 
 		popout_image_style: 0,0,375,523,
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -731,7 +731,7 @@ card:
 		frames: 
 		popout_image_style: 0,0,375,523,
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -840,7 +840,7 @@ card:
 		frames: 
 		popout_image_style: 0,0,375,523,
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -950,7 +950,7 @@ card:
 		frames: 
 		popout_image_style: 0,0,375,523,
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1059,7 +1059,7 @@ card:
 		frames: 
 		popout_image_style: 0,0,375,523,
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1168,7 +1168,7 @@ card:
 		frames: 
 		popout_image_style: 0,0,375,523,
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1277,7 +1277,7 @@ card:
 		frames: 
 		popout_image_style: 0,0,375,523,
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1386,7 +1386,7 @@ card:
 		frames: 
 		popout_image_style: 0,0,375,523,
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1496,7 +1496,7 @@ card:
 		frames: 
 		popout_image_style: 0,0,375,523,
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -1606,7 +1606,7 @@ card:
 		frames: 
 		popout_image_style: 0,0,375,523,
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -5688,7 +5688,7 @@ card:
 		frames: borderless art
 		popout_image_style: 
 		other_options: auto nyx crowns
-		card_watermark: watermark_maria.png,File found,210x183px
+		card_watermark: watermarks/LAIR/maria.png,File found,210x183px
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 

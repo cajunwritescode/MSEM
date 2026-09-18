@@ -3069,8 +3069,8 @@ card:
 		front_font_cap: 
 		back_font_cap: 
 		other_options: vorthos box, use hovering pt, back color indicator, ancestral generic mana
-		custom_symbol_one: urshad/mortal.png
-		custom_symbol_two: urshad/god.png
+		custom_symbol_one: transform_symbols/mortal.png,File found,706,
+		custom_symbol_two: transform_symbols/god.png,File found,706,
 		level_1_chop: 
 		level_4_chop: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font

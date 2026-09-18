@@ -38935,7 +38935,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 10,10,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -39191,7 +39191,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -39453,7 +39453,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5,15,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid
 		remove_from_autocount: no
@@ -44096,7 +44096,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5, 5,15,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -44370,7 +44370,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 10, 10,17
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -44640,7 +44640,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5, 5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -44910,7 +44910,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5, 10,15
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -45177,7 +45177,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5, 13,12
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -45448,7 +45448,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 8,8,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -47240,7 +47240,7 @@ card:
 	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -47701,7 +47701,7 @@ card:
 		shrink_typeline_text: 
 		type_offset: 
 		level_label_font_size: 
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		textbox_opacity_percentage: 100
 		name_and_type_opacity: 100
 		trim_opacity_percentage: 100

@@ -42,8 +42,8 @@ styling:
 		text box mana symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-dfc:
-		custom_symbol_one: QRB/mountfront.png,File found,512,+
-		custom_symbol_two: QRB/mountback.png,File found,512,+
+		custom_symbol_one: transform_symbols/mount_front.png,File found,706,
+		custom_symbol_two: transform_symbols/mount_back.png,File found,706,
 		level_1_chop: -7,12
 		level_5_chop: -4,4
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -322,8 +322,8 @@ card:
 	has_styling: true
 	styling_data:
 		shrink_name_text: 1
-		custom_symbol_one: QRB/mountfront.png,File found,512,+
-		custom_symbol_two: QRB/mountback.png,File found,512,+
+		custom_symbol_one: transform_symbols/mount_front.png,File found,706,
+		custom_symbol_two: transform_symbols/mount_back.png,File found,706,
 		level_1_chop: -4,4
 		level_2_chop: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -2270,8 +2270,8 @@ card:
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
-		custom_symbol_one: QRB/mountfront.png,File found,512,+
-		custom_symbol_two: QRB/mountback.png,File found,512,+
+		custom_symbol_one: transform_symbols/mount_front.png,File found,706,
+		custom_symbol_two: transform_symbols/mount_back.png,File found,706,
 		level_1_chop: -4,4
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -4609,8 +4609,8 @@ card:
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
-		custom_symbol_one: QRB/mountfront.png,File found,512,+
-		custom_symbol_two: QRB/mountback.png,File found,512,+
+		custom_symbol_one: transform_symbols/mount_front.png,File found,706,
+		custom_symbol_two: transform_symbols/mount_back.png,File found,706,
 		level_1_chop: -7,7
 		level_5_chop: -4,4
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font

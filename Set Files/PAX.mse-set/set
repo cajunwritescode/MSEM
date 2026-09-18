@@ -14165,7 +14165,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
@@ -15659,7 +15659,7 @@ card:
 		shrink_typeline_text: 
 		type_offset: 
 		level_label_font_size: 
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		textbox_opacity_percentage: 100
 		name_and_type_opacity: 100
 		trim_opacity_percentage: 100

@@ -12452,7 +12452,7 @@ card:
 	has_styling: true
 	styling_data:
 		chop_top: 5,5
-		popout_image_style: 0,0,0,0,
+		popout_image_style: 
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		shrink_name_text: 3
