@@ -12881,6 +12881,7 @@ card:
 	has_styling: true
 	styling_data:
 		other_options: class, pride pinlines
+		auto_frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
@@ -13051,6 +13052,7 @@ card:
 	has_styling: true
 	styling_data:
 		other_options: class, pride pinlines
+		auto_frames: 
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	notes:
