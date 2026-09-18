@@ -11,7 +11,7 @@ set_info:
 	masterpiece_symbol: 
 	auto_errata: yes
 	card_number_style: 001/099
-	custom_watermark_2: piper/compact-disc.png,File found,500x500px
+	custom_watermark_2: watermarks/AVX/BSide.png,File found,500x500px
 	custom_watermark_4: piper\blend-dark-compact-disc.png,Not found,Ensure the file name is correct in /data/magic-mainframe-extras and reload
 	blend_with_colors: yes
 	custom_index: rarity,color,mana value

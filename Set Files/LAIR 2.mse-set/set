@@ -13691,8 +13691,8 @@ card:
 	has_styling: true
 	styling_data:
 		other_options: vorthos box, pride pinlines, use hovering pt, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: shut-rose.png
-		custom_symbol_two: rose.png
+		custom_symbol_one: transform_symbols/shut-rose.png
+		custom_symbol_two: transform_symbols/rose.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 

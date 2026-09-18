@@ -11,7 +11,7 @@ set_info:
 	symbol: symbol36.mse-symbol
 	masterpiece_symbol: 
 	auto_errata: yes
-	mainframe_rarity_name: pax/PAX.png
+	mainframe_rarity_name: rarities/PAX/PAX.png
 styling:
 	magic-m15:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font

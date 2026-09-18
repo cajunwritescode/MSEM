@@ -9,7 +9,7 @@ set_info:
 	symbol: symbol1.mse-symbol
 	masterpiece_symbol: 
 	auto_errata: yes
-	custom_watermark_1: OTH/dad.png,File found,464x285px
+	custom_watermark_1: watermarks/OTH/dad.png,File found,464x285px
 	custom_mana_symbol_name: mana/align.png
 	mana_symbol_options: enable in text boxes
 styling:
@@ -10654,7 +10654,7 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: 
-		card_watermark: OTH/villains.png
+		card_watermark: watermarks/OTH/villains.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -10696,7 +10696,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
-		card_watermark: OTH/vrd.png
+		card_watermark: watermarks/OTH/vrd.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -10735,7 +10735,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
-		card_watermark: OTH/colors.png
+		card_watermark: watermarks/OTH/colors.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -10785,7 +10785,7 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: 
-		card_watermark: OTH/net.png
+		card_watermark: watermarks/OTH/net.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -10835,7 +10835,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: 
-		card_watermark: OTH/oth.png
+		card_watermark: watermarks/OTH/oth.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -10876,7 +10876,7 @@ card:
 		chop_top: 5
 		chop_bottom: 6
 		frames: 
-		card_watermark: OTH/oth.png
+		card_watermark: watermarks/OTH/oth.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -10923,7 +10923,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: 
-		card_watermark: OTH/dreamscape.png
+		card_watermark: watermarks/OTH/dreamscape.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11023,7 +11023,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: 
-		card_watermark: OTH/oth.png
+		card_watermark: watermarks/OTH/oth.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11069,7 +11069,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
-		card_watermark: OTH/aenyr.png
+		card_watermark: watermarks/OTH/aenyr.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11106,7 +11106,7 @@ card:
 		chop_top: 5,5,
 		chop_bottom: 2
 		shrink_name_text: 1
-		card_watermark: OTH/tesla.png
+		card_watermark: watermarks/OTH/tesla.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11157,7 +11157,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
-		card_watermark: OTH/jannada.png
+		card_watermark: watermarks/OTH/jannada.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11204,7 +11204,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
-		card_watermark: OTH/imago.png
+		card_watermark: watermarks/OTH/imago.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11251,7 +11251,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: 
-		card_watermark: OTH/wastes.png
+		card_watermark: watermarks/OTH/wastes.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11301,7 +11301,7 @@ card:
 		chop_top: 8
 		chop_bottom: 8
 		frames: 
-		card_watermark: OTH/oth.png
+		card_watermark: watermarks/OTH/oth.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11346,7 +11346,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
-		card_watermark: OTH/wilds.png
+		card_watermark: watermarks/OTH/wilds.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11390,7 +11390,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
-		card_watermark: OTH/depths.png
+		card_watermark: watermarks/OTH/depths.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11438,7 +11438,7 @@ card:
 		chop_top: 5
 		chop_bottom: 5
 		frames: 
-		card_watermark: OTH/oth.png
+		card_watermark: watermarks/OTH/oth.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11479,7 +11479,7 @@ card:
 		chop_top: 5
 		chop_bottom: 6
 		frames: 
-		card_watermark: OTH/oth.png
+		card_watermark: watermarks/OTH/oth.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11529,7 +11529,7 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: 
-		card_watermark: OTH/aspects.png
+		card_watermark: watermarks/OTH/aspects.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11576,7 +11576,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
-		card_watermark: OTH/zhancheng.png
+		card_watermark: watermarks/OTH/zhancheng.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11625,7 +11625,7 @@ card:
 		chop_top: 2
 		chop_bottom: 2
 		frames: 
-		card_watermark: OTH/relidon.png
+		card_watermark: watermarks/OTH/relidon.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11673,7 +11673,7 @@ card:
 	styling_data:
 		chop_top: 5
 		chop_bottom: 5
-		card_watermark: OTH/ankheret.png
+		card_watermark: watermarks/OTH/ankheret.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11711,7 +11711,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
-		card_watermark: OTH/roseblade.png
+		card_watermark: watermarks/OTH/roseblade.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11761,7 +11761,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
-		card_watermark: OTH/avarelle.png
+		card_watermark: watermarks/OTH/avarelle.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11814,7 +11814,7 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: 
-		card_watermark: OTH/dad.png
+		card_watermark: watermarks/OTH/dad.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11868,7 +11868,7 @@ card:
 		chop_top: 4
 		chop_bottom: 4
 		frames: 
-		card_watermark: OTH/oth.png
+		card_watermark: watermarks/OTH/oth.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -11913,7 +11913,7 @@ card:
 	has_styling: true
 	styling_data:
 		frames: nyx
-		card_watermark: OTH/dad.png
+		card_watermark: watermarks/OTH/dad.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -12008,7 +12008,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
-		card_watermark: OTH/negotium.png
+		card_watermark: watermarks/OTH/negotium.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -12094,7 +12094,7 @@ card:
 		chop_top: 2
 		chop_bottom: 6
 		frames: 
-		card_watermark: OTH/tales.png
+		card_watermark: watermarks/OTH/tales.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -12141,7 +12141,7 @@ card:
 	styling_data:
 		chop_top: 2
 		chop_bottom: 2
-		card_watermark: OTH/aleph.png
+		card_watermark: watermarks/OTH/aleph.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -12186,7 +12186,7 @@ card:
 	has_styling: true
 	styling_data:
 		frames: nyx
-		card_watermark: OTH/castes.png
+		card_watermark: watermarks/OTH/castes.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -12386,7 +12386,7 @@ card:
 		chop_top: 5
 		chop_bottom: 6
 		frames: 
-		card_watermark: OTH/oth.png
+		card_watermark: watermarks/OTH/oth.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -14939,7 +14939,7 @@ card:
 		chop_top: 2
 		chop_bottom: 6
 		frames: 
-		card_watermark: OTH/sivis.png
+		card_watermark: watermarks/OTH/sivis.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 

@@ -33,15 +33,15 @@ styling:
 		overlay: 
 	magic-m15-mainframe-attain-dfc:
 		level_5_chop: 
-		custom_symbol_one: shut-rose.png
-		custom_symbol_two: rose.png
+		custom_symbol_one: transform_symbols/shut-rose.png
+		custom_symbol_two: transform_symbols/rose.png
 		other_options: vorthos box, use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-dfc:
-		custom_symbol_one: shut-rose.png
-		custom_symbol_two: rose.png
+		custom_symbol_one: transform_symbols/shut-rose.png
+		custom_symbol_two: transform_symbols/rose.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -9171,7 +9171,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9231,7 +9231,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9289,7 +9289,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9349,7 +9349,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9407,7 +9407,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9467,7 +9467,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9525,7 +9525,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9585,7 +9585,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9643,7 +9643,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9702,7 +9702,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9759,7 +9759,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9819,7 +9819,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9877,7 +9877,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9938,7 +9938,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -9996,7 +9996,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10057,7 +10057,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10117,7 +10117,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10174,7 +10174,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10229,7 +10229,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10288,7 +10288,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10345,7 +10345,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10405,7 +10405,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10462,7 +10462,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10522,7 +10522,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10580,7 +10580,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10637,7 +10637,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10694,7 +10694,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10753,7 +10753,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10813,7 +10813,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10873,7 +10873,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10930,7 +10930,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -10987,7 +10987,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11043,7 +11043,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11104,7 +11104,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11161,7 +11161,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -11219,7 +11219,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12347,7 +12347,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12407,7 +12407,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12464,7 +12464,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12524,7 +12524,7 @@ card:
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		shrink_typeline_text: 1
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12582,7 +12582,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12645,7 +12645,7 @@ card:
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		shrink_typeline_text: 1
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12703,7 +12703,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12764,7 +12764,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12822,7 +12822,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -12885,7 +12885,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13233,7 +13233,7 @@ card:
 		frames: clear
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13297,7 +13297,7 @@ card:
 		frames: clear
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13400,7 +13400,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13458,7 +13458,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13513,7 +13513,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: shut-rose.png
+		custom_symbol: transform_symbols/shut-rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13573,7 +13573,7 @@ card:
 		frames: 
 		other_options: avoid covering devoid,auto vehicles,auto snow,auto nyx crowns,auto ub,auto spacecraft
 		remove_from_autocount: no
-		custom_symbol: rose.png
+		custom_symbol: transform_symbols/rose.png
 		use_guild_mana_symbols: no
 		tap_symbol: modern
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font

@@ -13254,8 +13254,8 @@ card:
 	styling_data:
 		back_style: normal
 		level_5_chop: 0,10
-		custom_symbol_one: shut-rose.png
-		custom_symbol_two: rose.png
+		custom_symbol_one: transform_symbols/shut-rose.png
+		custom_symbol_two: transform_symbols/rose.png
 		other_options: vorthos box, pride pinlines, use hovering pt, use holofoil stamps, clear front, clear back, back color indicator, unindent nonloyalty abilities, automate type frames
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font

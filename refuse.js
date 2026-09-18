@@ -43,8 +43,7 @@ function refuse(fn) {
 	})
 }
 function renameThings(str) {
-	str = str.replace(" burst.png", " transform_symbols/burst.png");
-	str = str.replace(" light.png", " transform_symbols/light.png");
+	str = str.replace(":transform_symbols/", ": transform_symbols/");
 	return str;
 }
 fs.readdir("./Set Files", (err, fns) => {
