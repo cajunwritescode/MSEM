@@ -18,7 +18,7 @@ set_info:
 	card_number_offsets: 
 	sort_multicolor_in_pairs: yes
 	sort_hybrid_in_pairs: yes
-	custom_mana_symbol_name: Emily/Emily.png
+	custom_mana_symbol_name: mana/align.png
 	mana_symbol_options: enable in text boxes
 styling:
 	magic-m15-adventure:
@@ -3034,8 +3034,8 @@ card:
 		front_font_cap: 13
 		shrink_typeline_text: 
 		other_options: vorthos box, use hovering pt, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: 
 		level_2_chop: 
 		level_4_chop: 
@@ -11906,8 +11906,8 @@ card:
 		front_font_cap: 
 		shrink_typeline_text: 
 		other_options: vorthos box, use hovering pt, nyx back, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: 
 		level_2_chop: 
 		level_4_chop: 
@@ -14175,8 +14175,8 @@ card:
 		back_style: auto-sizing planeswalker
 		back_stripe_coordinate: 
 		other_options: vorthos box, mythic edition, use hovering pt, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -3,0,
 		level_5_chop: -5,
 		level_7_chop: 

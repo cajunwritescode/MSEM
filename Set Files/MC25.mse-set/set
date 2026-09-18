@@ -3505,8 +3505,8 @@ card:
 		front_chop: 5,5
 		back_chop: 5,5
 		other_options: use hovering pt
-		custom_symbol_one: canterburyegg/disciple.png,File found,706,
-		custom_symbol_two: canterburyegg/ascendant.png,File found,706,
+		custom_symbol_one: transform_symbols/disciple.png,File found,706,
+		custom_symbol_two: transform_symbols/ascendant.png,File found,706,
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -3590,8 +3590,8 @@ card:
 	styling_data:
 		back_style: nyx
 		shrink_back_typeline_text: 1
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		alt_rarity_color: 
 		level_1_chop: -5,5,
 		level_2_chop: 

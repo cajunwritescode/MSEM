@@ -15,7 +15,7 @@ set_info:
 	automatic_card_numbers: yes
 	card_number_style: 001/099
 	custom_index: rarity,color,name
-	custom_mana_symbol_name: Emily/Emily.png
+	custom_mana_symbol_name: mana/align.png
 	mana_symbol_options: enable in text boxes
 styling:
 	magic-m15:

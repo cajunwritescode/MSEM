@@ -46,8 +46,8 @@ styling:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 
 	magic-m15-mainframe-dfc:
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 

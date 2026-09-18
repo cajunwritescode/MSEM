@@ -15,7 +15,7 @@ set_info:
 	automatic_card_numbers: no
 	default_stamp: none
 	stamp_behavior: All unstamped
-	custom_mana_symbol_name: Emily/Emily.png
+	custom_mana_symbol_name: mana/align.png
 	mana_symbol_options: enable in text boxes
 styling:
 	magic-comicbookguy:

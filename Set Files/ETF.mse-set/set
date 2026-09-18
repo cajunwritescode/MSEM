@@ -9,7 +9,7 @@ set_info:
 	symbol: 
 	masterpiece_symbol: 
 	auto_errata: yes
-	mainframe_rarity_name: ETFsym/ETF.png
+	mainframe_rarity_name: rarities/ETF/ETF.png
 styling:
 	magic-m15:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font

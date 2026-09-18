@@ -84,8 +84,8 @@ styling:
 		overlay: 
 	magic-m15-mainframe-dfc:
 		back_style: normal
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -5,5,
 		level_2_chop: 
 		level_3_chop: 
@@ -116,8 +116,8 @@ card:
 	styling_data:
 		back_style: nyx
 		shrink_back_typeline_text: 1
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -5,5,
 		level_2_chop: 
 		level_3_chop: 
@@ -250,8 +250,8 @@ card:
 	styling_data:
 		back_style: nyx
 		shrink_back_typeline_text: 1
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -5,5,
 		level_2_chop: 
 		level_3_chop: 
@@ -385,8 +385,8 @@ card:
 	styling_data:
 		back_style: nyx
 		shrink_back_typeline_text: 1
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -10,6,
 		level_2_chop: 
 		level_3_chop: 
@@ -517,8 +517,8 @@ card:
 	styling_data:
 		back_style: nyx
 		shrink_back_typeline_text: 1
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: 5,5,
 		level_2_chop: 
 		level_3_chop: 
@@ -643,8 +643,8 @@ card:
 	styling_data:
 		back_style: nyx
 		shrink_back_typeline_text: 1
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -5,5,
 		level_2_chop: 
 		level_3_chop: 
@@ -800,8 +800,8 @@ card:
 	has_styling: true
 	styling_data:
 		back_style: normal
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -8,8,
 		level_2_chop: 
 		level_3_chop: 
@@ -1071,8 +1071,8 @@ card:
 	has_styling: true
 	styling_data:
 		back_style: normal
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -5,5,
 		level_2_chop: 
 		level_3_chop: 
@@ -3238,8 +3238,8 @@ card:
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -5,5,
 		level_2_chop: 
 		level_3_chop: 
@@ -3887,8 +3887,8 @@ card:
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -5,5,
 		level_2_chop: 
 		level_3_chop: 
@@ -4990,8 +4990,8 @@ card:
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -5,5,
 		level_2_chop: 
 		level_3_chop: 
@@ -5801,8 +5801,8 @@ card:
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -5,5,
 		level_2_chop: 
 		level_3_chop: 
@@ -6552,8 +6552,8 @@ card:
 	stylesheet_version: 2024-09-06
 	has_styling: true
 	styling_data:
-		custom_symbol_one: canterburyegg/disciple.png
-		custom_symbol_two: canterburyegg/ascendant.png
+		custom_symbol_one: transform_symbols/disciple.png
+		custom_symbol_two: transform_symbols/ascendant.png
 		level_1_chop: -5,5,
 		level_2_chop: 
 		level_3_chop: 

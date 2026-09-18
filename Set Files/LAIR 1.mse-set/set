@@ -48,7 +48,7 @@ set_info:
 	default_stamp: none
 	stamp_behavior: All unstamped
 	custom_index: name,color
-	custom_mana_symbol_name: Emily/Emily.png
+	custom_mana_symbol_name: mana/align.png
 	mana_symbol_options: enable in text boxes
 styling:
 	magic-comicbookguy: text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -20597,7 +20597,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: canterburyegg/disciple.png
+		custom_symbol: transform_symbols/disciple.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -20677,7 +20677,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: canterburyegg/ascendant.png
+		custom_symbol: transform_symbols/ascendant.png
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
