@@ -10181,7 +10181,7 @@ card:
 		chapter_textboxes: two
 		chapter_divider_coordinates: 350,
 		separated_text_size: 14
-		custom_chapter_location: urshad/discover.png
+		custom_chapter_location: sagas/discover.png
 		custom_chapter_name: Discovery
 		chapter_number_coordinates: 175,210,665,
 		custom_chapter_coordinate: 365
@@ -12473,7 +12473,7 @@ card:
 		chapter_textboxes: two
 		snap_chapter_to_box: 
 		chapter_divider_coordinates: 325,
-		custom_chapter_location: urshad/discover.png
+		custom_chapter_location: sagas/discover.png
 		custom_chapter_name: Discovery
 		chapter_number_coordinates: 190,230,650,
 		custom_chapter_coordinate: 350
@@ -13094,7 +13094,7 @@ card:
 		legend_crown: standard
 		custom_chapter_location: 
 		custom_chapter_coordinate: 
-		replacement_chapter_location: cob/
+		replacement_chapter_location: sagas/mystery/
 		level_containers: arrows
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
@@ -13597,7 +13597,7 @@ card:
 		chapter_divider_coordinates: 200,301,355,
 		reminder_coordinate: 143
 		separated_text_size: 11
-		custom_chapter_location: canterburyegg/favor.png
+		custom_chapter_location: sagas/favor.png
 		custom_chapter_name: Favor
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		overlay: 

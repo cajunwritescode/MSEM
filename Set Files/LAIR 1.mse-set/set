@@ -19490,7 +19490,7 @@ card:
 		separated_text_size: 
 		reminder_text_size: 
 		alternate_reminder: As this Discovery enters and after your draw step, add a progress counter. Stop after you've discovered.
-		custom_chapter_location: urshad/discover.png
+		custom_chapter_location: sagas/discover.png
 		custom_chapter_name: Discovery
 		auto_frames: nyx, vehicle, snow, universes beyond, creature
 		other_options: 
@@ -21835,7 +21835,7 @@ card:
 		trim_opacity_percentage: 100
 		legend_crown: standard
 		custom_crown_location: 
-		replacement_chapter_location: cob/
+		replacement_chapter_location: sagas/mystery/
 		remove_from_autocount: no
 		chapter_number_coordinates: 
 		custom_chapter_coordinate: 

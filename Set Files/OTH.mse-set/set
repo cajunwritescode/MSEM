@@ -2698,7 +2698,7 @@ card:
 		front_font_cap: 13
 		back_font_cap: 11.7
 		custom_chapter_location: 
-		replacement_chapter_location: cob/
+		replacement_chapter_location: sagas/mystery/
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
@@ -4057,7 +4057,7 @@ card:
 		chapter_textboxes: two
 		chapter_divider_coordinates: 245,
 		separated_text_size: 12
-		custom_chapter_location: urshad/discover.png
+		custom_chapter_location: sagas/discover.png
 		custom_chapter_name: Discovery
 		other_options: 
 		custom_crown_location: 
@@ -9273,7 +9273,7 @@ card:
 		snap_chapter_to_box: 0,0,0,0,0,0,4,
 		chapter_divider_coordinates: 230,320,380,
 		separated_text_size: 10
-		custom_chapter_location: canterburyegg/favor.png
+		custom_chapter_location: sagas/favor.png
 		custom_chapter_name: Favor
 		replacement_chapter_location: 
 		chapter_number_coordinates: 

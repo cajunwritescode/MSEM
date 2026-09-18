@@ -3325,7 +3325,7 @@ card:
 		legend_crown: standard
 		custom_chapter_location: 
 		custom_chapter_coordinate: 
-		replacement_chapter_location: cob/
+		replacement_chapter_location: sagas/mystery/
 		level_containers: arrows
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font

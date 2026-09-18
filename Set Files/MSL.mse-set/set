@@ -16049,7 +16049,7 @@ card:
 		separated_text_size: 14
 		reminder_text_size: 
 		alternate_reminder: 
-		custom_chapter_location: urshad/discover.png
+		custom_chapter_location: sagas/discover.png
 		custom_chapter_name: Discovery
 		auto_frames: nyx, vehicle, snow, universes beyond, creature
 		other_options: 
@@ -16156,7 +16156,7 @@ card:
 		separated_text_size: 14
 		reminder_text_size: 
 		alternate_reminder: 
-		custom_chapter_location: urshad/discover.png
+		custom_chapter_location: sagas/discover.png
 		custom_chapter_name: Discovery
 		auto_frames: nyx, vehicle, snow, universes beyond, creature
 		other_options: 
@@ -20484,7 +20484,7 @@ card:
 		snap_chapter_to_box: 2,2,0,
 		chapter_divider_offsets: 32,-14,
 		reminder_text_offset: -19
-		custom_chapter_location: urshad/discover.png
+		custom_chapter_location: sagas/discover.png
 		custom_chapter_name: Discovery
 		other_options: 
 		replacement_chapter_location: 
@@ -20549,7 +20549,7 @@ card:
 		separated_text_size: 
 		reminder_text_size: 
 		alternate_reminder: 
-		custom_chapter_location: urshad/discover.png
+		custom_chapter_location: sagas/discover.png
 		custom_chapter_name: Discovery
 		auto_frames: nyx, vehicle, snow, universes beyond, creature
 		other_options: 

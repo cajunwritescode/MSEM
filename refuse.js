@@ -30,6 +30,7 @@ function refuse(fn) {
 				lines[l] = lines[l].replace(/!update/, "");
 			}
 		}
+		lines[l] = renameThings(lines[l]);
 	}
 	fs.writeFile(`./Set Files/${fn}/set`, lines.join("\n"), () => {
 		console.log(`./Set Files/${fn} fused`);
@@ -40,6 +41,11 @@ function refuse(fn) {
 			});
 		}
 	})
+}
+function renameThings(str) {
+	str = str.replace("canterburyegg/ascendant.png", "transform_symbols/ascendant.png");
+	str = str.replace("canterburyegg/disciple.png", "transform_symbols/disciple.png");
+	return str;
 }
 fs.readdir("./Set Files", (err, fns) => {
 	if(err)
