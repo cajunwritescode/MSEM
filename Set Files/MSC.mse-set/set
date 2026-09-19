@@ -45172,7 +45172,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -46773,7 +46773,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -52107,7 +52107,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-17
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -52268,7 +52268,7 @@ card:
 		III — Creatures you control get +3/+3 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-17
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -55512,7 +55512,7 @@ card:
 		[-3]: <margin:130:0:0>Create two 3/3 red Shark enchantment creature tokens.</margin:130:0:0>
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-17
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -56035,7 +56035,7 @@ card:
 		[-4]: <margin:130:0:0>You get an emblem with “If a nonland, nontoken permanent would enter and it wasn’t cast, you may exile it instead.”</margin:130:0:0>
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-17
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		chapter_textboxes: four
@@ -56151,7 +56151,7 @@ card:
 		<sym-auto>W</sym-auto>: Put a <kw-a><nospellcheck><key>first strike</key></nospellcheck></kw-a> counter on target creature.
 		<sym-auto>1W</sym-auto>: <kw-A><nospellcheck><key>Invigorate <param-number>2</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Choose a creature with the least power among creatures you control and put <param-number>two</param-number> +1/+1 counters on it.)</i-auto></atom-reminder-action></kw-A>
 		<sym-auto>2W</sym-auto>: Create two 1/1 white Soldier creature tokens.
-		VII — Creatures you control with counters on them have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
+		III — Creatures you control with counters on them have <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>.
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-09-13
@@ -72705,7 +72705,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -73204,7 +73204,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -73944,7 +73944,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-17
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
