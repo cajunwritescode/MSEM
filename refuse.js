@@ -44,8 +44,8 @@ function refuse(fn) {
 }
 function renameThings(str) {
 	// saga pride
-	str = str.replace("cajun/","caaaajun/");
-	str = str.replace("0,0,0,0,", "");
+	str = str.replace("cajun/comedy.png","");
+	str = str.replace("cajun/tragedy.png", "");
 	return str;
 }
 fs.readdir("./Set Files", (err, fns) => {

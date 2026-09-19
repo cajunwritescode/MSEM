@@ -115,8 +115,8 @@ styling:
 		move_back_loyalty_costs: 
 		back_font_cap: 
 		shrink_back_typeline_text: 
-		custom_symbol_one: cajun/comedy.png
-		custom_symbol_two: cajun/tragedy.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		level_1_chop: -5,5,
 		level_2_chop: 
 		level_5_chop: -5,5,
@@ -26612,7 +26612,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -26737,7 +26737,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -27025,7 +27025,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -27150,7 +27150,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -27278,7 +27278,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -27405,7 +27405,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -27528,7 +27528,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -27652,7 +27652,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -27781,7 +27781,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -27909,7 +27909,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -28034,7 +28034,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -28162,7 +28162,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -28777,7 +28777,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -28900,7 +28900,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -29023,7 +29023,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -29147,7 +29147,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -29272,7 +29272,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -29736,7 +29736,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -29859,7 +29859,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -29983,7 +29983,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -30274,7 +30274,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -30399,7 +30399,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -30525,7 +30525,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -30648,7 +30648,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -30772,7 +30772,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -31225,7 +31225,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -31352,7 +31352,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -33547,7 +33547,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -33669,7 +33669,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -33793,7 +33793,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/comedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -33918,7 +33918,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -35109,7 +35109,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -35237,7 +35237,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -35367,7 +35367,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -35494,7 +35494,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no
@@ -35627,7 +35627,7 @@ card:
 		custom_body_font: 
 		custom_pt_font: 
 		custom_border_source: 
-		custom_symbol: cajun/tragedy.png
+		custom_symbol: 
 		legend_crown: standard
 		custom_crown_location: 
 		use_guild_mana_symbols: no

@@ -12713,8 +12713,8 @@ card:
 		move_back_loyalty_costs: 
 		shrink_back_typeline_text: 2
 		other_options: use back rarity symbol, vorthos box, use hovering pt, use holofoil stamps, back color indicator, unindent nonloyalty abilities, auto nyx crowns, automate type frames
-		custom_symbol_one: cajun/comedy.png
-		custom_symbol_two: cajun/tragedy.png
+		custom_symbol_one: 
+		custom_symbol_two: 
 		level_1_chop: -9,9,
 		level_2_chop: 
 		level_5_chop: -5,,
