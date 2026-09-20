@@ -44,7 +44,7 @@ function refuse(fn) {
 }
 function renameThings(str) {
 	// saga pride
-	str = str.replace("cajun/","caaajun/");
+	str = str.replace(" stones.png", " custom_border/ruin.png");
 	return str;
 }
 fs.readdir("./Set Files", (err, fns) => {
