@@ -1,25 +1,25 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-17
+game_version: 2026-09-24
 stylesheet: m15-altered
 stylesheet_version: 2026-09-13
 set_info:
 	description:
-		Avery, Secret Lair: Timespiraled, 5
-		Avery, Secret Lair: Storytime, 5
+		thecatseighthlife, Secret Lair: Timespiraled, 5
+		thecatseighthlife, Secret Lair: Storytime, 5
 		Wrenn, Gonna Write You A Love Song, 9
 		Cajun, Monster Mashup, 7
 		Matt, The Life and Times of Eli Windsors, 6
-		Avery, Secret Lair: Phyrexia, 5
+		thecatseighthlife, Secret Lair: Phyrexia, 5
 		ThomasG, Waves of Vapor, 6
 		elmikkino, Wonderous Stories, 5
 		Wrenn, Artist Series: Anato Finnstark, 5
-		Avery, Secret Lair: Lorwyn, 5
+		thecatseighthlife, Secret Lair: Lorwyn, 5
 		Cajun, Planeswalker Pride, 8
 		Ivy, Artist Series: Kristina Collantes, 7
 		McGuffin, Ghibli Champions, 1+6
 		crushcastles, The First Fleet, 9
-		Avery, Trip to Nihon, 6x2
+		thecatseighthlife, Trip to Nihon, 6x2
 		Dravos, Hololive Myth, 6
 		gynoidpoet, Artist Series: Peo Michie, 6
 		Dodger, Secret Lair: Cirrusea, 12x2
@@ -158,6 +158,7 @@ card:
 		overlay: 
 	notes:
 		!hidetag (SL01)
+		!update
 		Keep smiling through... just like you always do...
 	uid: 16983837041037477254287011166554
 	linked_card_1: 
@@ -245,12 +246,14 @@ card:
 	card_code_text: Timespiraled
 	card_code_text_2: Timespiraled
 	card_code_text_3: Timespiraled
-	copyright: Secret Lair: Timespiraled — Avery
+	copyright: Secret Lair: Timespiraled — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !hidetag (SL01)
+	notes:
+		!hidetag (SL01)
+		!update
 	uid: 05537436946474579131122682851334
 	linked_card_1: 
 	linked_card_2: 
@@ -336,12 +339,14 @@ card:
 	card_code_text: Timespiraled
 	card_code_text_2: Timespiraled
 	card_code_text_3: Timespiraled
-	copyright: Secret Lair: Timespiraled — Avery
+	copyright: Secret Lair: Timespiraled — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !hidetag (SL01)
+	notes:
+		!hidetag (SL01)
+		!update
 	uid: 44258318268875409189466919954002
 	linked_card_1: 
 	linked_card_2: 
@@ -426,12 +431,14 @@ card:
 	card_code_text: Timespiraled
 	card_code_text_2: Timespiraled
 	card_code_text_3: Timespiraled
-	copyright: Secret Lair: Timespiraled — Avery
+	copyright: Secret Lair: Timespiraled — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !hidetag (SL01)
+	notes:
+		!hidetag (SL01)
+		!update
 	uid: 86420793062373951824001252468614
 	linked_card_1: 
 	linked_card_2: 
@@ -518,12 +525,14 @@ card:
 	card_code_text: Timespiraled
 	card_code_text_2: Timespiraled
 	card_code_text_3: Timespiraled
-	copyright: Secret Lair: Timespiraled — Avery
+	copyright: Secret Lair: Timespiraled — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !hidetag (SL01)
+	notes:
+		!hidetag (SL01)
+		!update
 	uid: 01127729493783513995676332407663
 	linked_card_1: 
 	linked_card_2: 
@@ -607,7 +616,7 @@ card:
 	card_code_text: Timespiraled
 	card_code_text_2: Timespiraled
 	card_code_text_3: Timespiraled
-	copyright: Secret Lair: Timespiraled — Avery
+	copyright: Secret Lair: Timespiraled — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -616,6 +625,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL02)
+		!update
 		“Please, Emperor Tzhai, stay my execution just one more night. I have a story for you.”
 	uid: 94641924214437165846088233426166
 	linked_card_1: 
@@ -702,12 +712,14 @@ card:
 	card_code_text: Umisa
 	card_code_text_2: aquaumisa
 	card_code_text_3: aquaumisa
-	copyright: Secret Lair: Storytime — Avery
+	copyright: Secret Lair: Storytime — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !hidetag (SL02)
+	notes:
+		!hidetag (SL02)
+		!update
 	uid: 58684832244100582887698045500411
 	linked_card_1: 
 	linked_card_2: 
@@ -793,12 +805,14 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: Secret Lair: Storytime — Avery
+	copyright: Secret Lair: Storytime — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !hidetag (SL02)
+	notes:
+		!hidetag (SL02)
+		!update
 	uid: 54544678647925265237533946123933
 	linked_card_1: 
 	linked_card_2: 
@@ -886,12 +900,14 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Secret Lair: Storytime — Avery
+	copyright: Secret Lair: Storytime — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !hidetag (SL02)
+	notes:
+		!hidetag (SL02)
+		!update
 	uid: 89169304888257634278332257173292
 	linked_card_1: 
 	linked_card_2: 
@@ -977,12 +993,14 @@ card:
 	card_code_text: Korakhos
 	card_code_text_2: Korakhos
 	card_code_text_3: Korakhos
-	copyright: Secret Lair: Storytime — Avery
+	copyright: Secret Lair: Storytime — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !hidetag (SL02)
+	notes:
+		!hidetag (SL02)
+		!update
 	uid: 63849162617291430225380667063080
 	linked_card_1: 
 	linked_card_2: 
@@ -1070,7 +1088,7 @@ card:
 	card_code_text: Mako
 	card_code_text_2: Mako
 	card_code_text_3: Mako
-	copyright: Secret Lair: Storytime — Avery
+	copyright: Secret Lair: Storytime — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -3094,7 +3112,7 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -3190,7 +3208,7 @@ card:
 	card_code_text: Korakhos
 	card_code_text_2: Korakhos
 	card_code_text_3: Korakhos
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -3284,7 +3302,7 @@ card:
 	card_code_text: HerziQuerzi
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -3391,7 +3409,7 @@ card:
 	card_code_text: WindyDelcarlo
 	card_code_text_2: WindyDelcarlo
 	card_code_text_3: WindyDelcarlo
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -3485,7 +3503,7 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -3587,7 +3605,7 @@ card:
 	card_code_text: WindyDelcarlo
 	card_code_text_2: WindyDelcarlo
 	card_code_text_3: WindyDelcarlo
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -3687,7 +3705,7 @@ card:
 	card_code_text: HerziQuerzi
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -3787,7 +3805,7 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -3889,7 +3907,7 @@ card:
 	card_code_text: Korakhos
 	card_code_text_2: Korakhos
 	card_code_text_3: Korakhos
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -3993,7 +4011,7 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -5605,6 +5623,7 @@ card:
 	has_styling: false
 	notes:
 		!hidetag (SL10)
+		!update
 		The seer sat before me, wrapped gently in smoke and satin.
 		A small smile in purple-painted lips peeked out from under her silk veil.
 		Her crystal on the table before her swam in an inner light that set my heart pattering.
@@ -5697,12 +5716,14 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: Secret Lair: Lorwyn — Avery
+	copyright: Secret Lair: Lorwyn — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !hidetag (SL10)
+	notes:
+		!hidetag (SL10)
+		!update
 	uid: 10554448224013125003194750773322
 	linked_card_1: 
 	linked_card_2: 
@@ -5793,12 +5814,14 @@ card:
 	card_code_text: water the weeds
 	card_code_text_2: water the weeds
 	card_code_text_3: water the weeds
-	copyright: Secret Lair: Lorwyn — Avery
+	copyright: Secret Lair: Lorwyn — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !hidetag (SL10)
+	notes:
+		!hidetag (SL10)
+		!update
 	uid: 55738258232949044563062833845933
 	linked_card_1: 
 	linked_card_2: 
@@ -5882,12 +5905,14 @@ card:
 	card_code_text: CanterburyEgg
 	card_code_text_2: CanterburyEgg
 	card_code_text_3: CanterburyEgg
-	copyright: Secret Lair: Lorwyn — Avery
+	copyright: Secret Lair: Lorwyn — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	has_styling: false
-	notes: !hidetag (SL10)
+	notes:
+		!hidetag (SL10)
+		!update
 	uid: 80097113752493811007029671536760
 	linked_card_1: 
 	linked_card_2: 
@@ -5973,14 +5998,16 @@ card:
 	card_code_text: Matt
 	card_code_text_2: Matt
 	card_code_text_3: Matt
-	copyright: Secret Lair: Lorwyn — Avery
+	copyright: Secret Lair: Lorwyn — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	stylesheet: m15-altered
 	stylesheet_version: 2026-09-13
 	has_styling: false
-	notes: !hidetag (SL10)
+	notes:
+		!hidetag (SL10)
+		!update
 	uid: 49450943832947096621965829656285
 	linked_card_1: 
 	linked_card_2: 
@@ -6068,7 +6095,7 @@ card:
 	card_code_text: fluffyDeathbringer
 	card_code_text_2: fluffyDeathbringer
 	card_code_text_3: fluffyDeathbringer
-	copyright: Secret Lair: Lorwyn — Avery
+	copyright: Secret Lair: Lorwyn — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -6158,7 +6185,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	copyright: Secret Lair: Storytime — Avery
+	copyright: Secret Lair: Storytime — thecatseighthlife
 	copyright_2: ™ & © 1993—2016 Wizards of the Coast LLC
 	copyright_3: ™ & © 1993—2017 Wizards of the Coast LLC
 card:
@@ -6251,7 +6278,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	copyright: Secret Lair: Storytime — Avery
+	copyright: Secret Lair: Storytime — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -6340,7 +6367,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: ™ & © 2015 Wizards of the Coast
 	copyright_3: ™ & © 2015 Wizards of the Coast
 card:
@@ -24477,7 +24504,6 @@ card:
 		!num 258
 		!hidetag (SL34)
 		!design Alexander
-		!update
 	uid: 75009772000360128452561325384053
 	linked_card_1: 
 	linked_card_2: 
@@ -25649,7 +25675,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-showcase-zendikar
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-29
 	has_styling: true
 	styling_data:
 		overlay: 
@@ -25751,7 +25777,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-showcase-zendikar
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-29
 	has_styling: true
 	styling_data:
 		overlay: 
@@ -25851,7 +25877,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-showcase-zendikar
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-29
 	has_styling: true
 	styling_data:
 		overlay: 
@@ -25953,7 +25979,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-showcase-zendikar
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-29
 	has_styling: true
 	styling_data:
 		overlay: 
@@ -26050,7 +26076,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-showcase-zendikar
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-29
 	has_styling: true
 	styling_data:
 		overlay: 
@@ -26149,7 +26175,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-showcase-zendikar
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-29
 	has_styling: true
 	styling_data:
 		overlay: 
@@ -26247,7 +26273,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-showcase-zendikar
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-29
 	has_styling: true
 	styling_data:
 		overlay: 
@@ -26349,7 +26375,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-showcase-zendikar
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-29
 	has_styling: true
 	styling_data:
 		overlay: 
@@ -26448,7 +26474,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-showcase-zendikar
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-29
 	has_styling: true
 	styling_data:
 		overlay: 
@@ -26545,7 +26571,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-showcase-zendikar
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-29
 	has_styling: true
 	styling_data:
 		overlay: 
@@ -37879,7 +37905,7 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -37986,7 +38012,7 @@ card:
 	card_code_text: Korakhos
 	card_code_text_2: Korakhos
 	card_code_text_3: Korakhos
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -38091,7 +38117,7 @@ card:
 	card_code_text: HerziQuerzi
 	card_code_text_2: HerziQuerzi
 	card_code_text_3: HerziQuerzi
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -38199,7 +38225,7 @@ card:
 	card_code_text: WindyDelcarlo
 	card_code_text_2: WindyDelcarlo
 	card_code_text_3: WindyDelcarlo
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -38304,7 +38330,7 @@ card:
 	card_code_text: Cajun
 	card_code_text_2: Cajun
 	card_code_text_3: Cajun
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -38409,7 +38435,7 @@ card:
 	card_code_text: Korakhos
 	card_code_text_2: Korakhos
 	card_code_text_3: Korakhos
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -38515,7 +38541,7 @@ card:
 	card_code_text: vanishedSchism
 	card_code_text_2: vanishedSchism
 	card_code_text_3: vanishedSchism
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -38619,7 +38645,7 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: Pipsqueak
 	card_code_text_3: Pipsqueak
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -38721,7 +38747,7 @@ card:
 	card_code_text: Korakhos
 	card_code_text_2: 
 	card_code_text_3: Korakhos
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -38826,7 +38852,7 @@ card:
 	card_code_text: vanishedSchism
 	card_code_text_2: 
 	card_code_text_3: vanishedSchism
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -38926,7 +38952,7 @@ card:
 	card_code_text: Pipsqueak
 	card_code_text_2: 
 	card_code_text_3: Pipsqueak
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -39872,7 +39898,7 @@ card:
 		[-7]: <margin:130:0:0>You get an emblem with “At the beginning of each end step, you may draw X cards, where X is the amount of life your opponents lost this turn.”</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -39968,7 +39994,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 66617685902206115053164731719659
@@ -40159,7 +40185,7 @@ card:
 	copyright_3: © Wizards of the Coast and Matt
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 77655470048121212797496938111749
@@ -40244,7 +40270,7 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	copyright: Secret Lair: Phyrexia — Avery
+	copyright: Secret Lair: Phyrexia — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
@@ -41535,7 +41561,7 @@ card:
 		[-X]: <margin:130:0:5>Exile the top X cards of your library. Until the end of your next turn, you may play two cards exiled with Trainee Karina <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Oblay</error-spelling:en_US:/magic.mse-game/dictionary/magic-words>.</margin:130:0:5>
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -41630,7 +41656,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -41723,7 +41749,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -41818,7 +41844,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -41913,7 +41939,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -42008,7 +42034,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
@@ -42301,7 +42327,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !exportname Dragon (SL14)
 	uid: 88785284735039691424264185776381
@@ -42393,7 +42419,7 @@ card:
 	copyright_3: ™ & © 2020 CanterburyEgg
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 44645291965458963792205430855491
@@ -42480,12 +42506,12 @@ card:
 	card_code_text: 
 	card_code_text_2: 
 	card_code_text_3: 
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: ™ & © 2020 CanterburyEgg
 	copyright_3: ™ & © 2020 CanterburyEgg
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 13460909606275839742599425957828
@@ -42572,12 +42598,12 @@ card:
 	card_code_text: vanishedSchism
 	card_code_text_2: vanishedSchism
 	card_code_text_3: vanishedSchism
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !exportname Elemental (SL19)
 	uid: 73166874159807502569507558325254
@@ -42669,7 +42695,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes:
 		!exportname Roggar’s Elemental (SL19)
@@ -42763,7 +42789,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: 
@@ -42859,7 +42885,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 31895556814117583073402651808378
@@ -42948,7 +42974,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: 
@@ -43043,7 +43069,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 20072214764412525049108551670762
@@ -43134,7 +43160,7 @@ card:
 	copyright_3: Aquaphobia — ThomasG
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 66749954169777838498835886509347
@@ -43223,7 +43249,7 @@ card:
 	copyright_3: Artist Series: Qinni — Cajun
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !exportname Treasure (SL25)
 	uid: 36402950373556084720526299769995
@@ -43312,7 +43338,7 @@ card:
 	copyright_3: Artist Series: Qinni — Cajun
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		popout_image_style: 0,0,375,523,
@@ -43411,7 +43437,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: !exportname Xenocrata Warrior
 	uid: 78052677973100305584752514176167
@@ -43504,7 +43530,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-18
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -43803,7 +43829,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 15762667443153668513335504598654
@@ -43895,7 +43921,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -43991,7 +44017,7 @@ card:
 	secondary_copyright: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: copy, tall
@@ -45824,7 +45850,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -45919,7 +45945,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -46016,7 +46042,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -46111,7 +46137,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -46537,7 +46563,7 @@ card:
 		[-X]: <margin:130:0:0><atom-legname><nospellcheck>Ameret</nospellcheck></atom-legname> deals X damage to any target. You gain X life.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -46633,7 +46659,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 51110954630887913808795880128592
@@ -46723,7 +46749,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -46968,7 +46994,7 @@ card:
 	card_code_text: CanterburyEgg
 	card_code_text_2: CanterburyEgg
 	card_code_text_3: CanterburyEgg
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 	vorthos_box: She/Her
@@ -47103,7 +47129,7 @@ card:
 	card_code_text: Wrenn
 	card_code_text_2: Wrenn
 	card_code_text_3: Wrenn
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 	vorthos_box: 
@@ -47231,7 +47257,7 @@ card:
 	card_code_text: Wrenn
 	card_code_text_2: Wrenn
 	card_code_text_3: Wrenn
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 	vorthos_box: 
@@ -47363,7 +47389,7 @@ card:
 	card_code_text: Wrenn
 	card_code_text_2: Wrenn
 	card_code_text_3: Wrenn
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 	vorthos_box: 
@@ -47492,7 +47518,7 @@ card:
 	card_code_text: Wrenn
 	card_code_text_2: Wrenn
 	card_code_text_3: Wrenn
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 	vorthos_box: They/Them
@@ -47668,7 +47694,7 @@ card:
 	card_code_text: CanterburyEgg
 	card_code_text_2: 
 	card_code_text_3: CanterburyEgg
-	copyright: Trip to Nihon — Avery
+	copyright: Trip to Nihon — thecatseighthlife
 	copyright_2: 
 	copyright_3: 
 	vorthos_box: She/Her
@@ -47680,7 +47706,7 @@ card:
 	special_text_2: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-18
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three

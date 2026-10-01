@@ -1,6 +1,6 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-19
+game_version: 2026-09-24
 stylesheet: m15-altered
 stylesheet_version: 2026-09-13
 set_info:
@@ -520,7 +520,7 @@ card:
 card:
 	has_styling: true
 	styling_data:
-		chop_top: 13,13,
+		chop_top: -5,5,
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		text_box_mana_symbols: magic-mana-small.mse-symbol-font
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
@@ -594,7 +594,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2021-08-14 12:27:08
-	time_modified: 2024-09-27 22:39:20
+	time_modified: 2026-09-30 17:10:27
 	card_color: white
 	name: Tsimtsuk Trackers
 	casting_cost: 2W
@@ -605,7 +605,9 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Ranger</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: Whenever <atom-cardname><nospellcheck>Tsimtsuk Trackers</nospellcheck></atom-cardname> enters or becomes the target of a spell or ability you control, exile up to one target card from a graveyard. <kw-1><nospellcheck><key>Surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-1>
+	rule_text:
+		Once each turn, when <atom-cardname><nospellcheck>Tsimtsuk Trackers</nospellcheck></atom-cardname> becomes the target of a spell or ability you control, you may <kw-A><nospellcheck><key>surveil <param-number>1</param-number></key></nospellcheck>.<atom-reminder-action> <i-auto>(Look at the top card of your library. You may put it into your graveyard.)</i-auto></atom-reminder-action></kw-A>
+		Exile two cards from your graveyard: Exile target card from an opponent’s graveyard.
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 4
@@ -4810,7 +4812,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2021-08-14 12:27:08
-	time_modified: 2024-09-28 20:23:16
+	time_modified: 2026-09-30 17:08:54
 	card_color: white
 	name: Grim Farmhand
 	casting_cost: 1W
@@ -4822,7 +4824,7 @@ card:
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: uncommon
 	rule_text:
-		All damage that would be dealt to you is dealt to <atom-cardname><nospellcheck>Grim Farmhand</nospellcheck></atom-cardname> instead.
+		All damage that would be dealt to you is dealt to <atom-cardname><nospellcheck>Grim Farmhand</nospellcheck></atom-cardname> instead. You lose life equal to the amount of excess damage dealt to it this way.
 		<kw-A><nospellcheck><key>Retribution</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature dies, if it had no taunted counters, return it the battlefield tapped with a taunted counter that makes it attack each combat if able.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 1
@@ -9521,9 +9523,9 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2021-08-14 12:27:08
-	time_modified: 2024-09-29 11:19:29
+	time_modified: 2026-09-30 17:11:38
 	name: Wanted Poster
-	casting_cost: 1
+	casting_cost: 2
 	image: image57
 	image_2: 
 	mainframe_image: 
@@ -12930,7 +12932,7 @@ card:
 	styling_data:
 		chapter_textboxes: three
 		snap_chapter_to_box: 2,2,,,,,3,
-		chapter_divider_offsets: 27,17,
+		chapter_divider_offsets: 15,15,
 		reminder_text_offset: 
 		separated_text_size: 11
 		reminder_text_size: 
@@ -13056,7 +13058,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2021-09-01 21:44:23
-	time_modified: 2021-09-12 11:26:41
+	time_modified: 2026-09-30 17:13:16
 	name: Aiding the Self-Made Widow
 	casting_cost: 1U
 	image: image23
@@ -13069,7 +13071,7 @@ card:
 	rule_text: 
 	flavor_text: <i-flavor></i-flavor>
 	level_1_text: A spell or permanent an opponent controls becomes the target of a spell or ability you control.
-	level_2_text: Return up to one target spell or nonland permanent to its owner’s hand.
+	level_2_text: Return up to one target nonland permanent you don’t control to its owner’s hand.
 	level_3_text: Spells your opponents cast cost <sym-auto>1</sym-auto> more to cast.
 	illustrator: Gabe Leonard
 	card_code_text: 

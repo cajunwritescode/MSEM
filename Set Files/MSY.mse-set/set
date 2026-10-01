@@ -1,6 +1,6 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-17
+game_version: 2026-09-24
 stylesheet: m15-altered
 stylesheet_version: 2026-09-13
 set_info:
@@ -736,9 +736,7 @@ card:
 	card_code_text_3: 
 card:
 	has_styling: false
-	notes:
-		!Downshift
-
+	notes: !Downshift
 	uid: 34259774168123898658640044787044
 	linked_card_1: 
 	linked_card_2: 
@@ -44172,7 +44170,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: Slot 17	‎ 	Black	‎ 	Rare or Mythic	‎ 	Noncreature (MV 1-3)																						
+	notes:
+		Slot 17	‎ 	Black	‎ 	Rare or Mythic	‎ 	Noncreature (MV 1-3)																						
+		!update buffed: Can now choose not to discard.
 	uid: 06011255396679612536803742264055
 	linked_card_1: 
 	linked_card_2: 
@@ -44239,7 +44239,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-12-02 18:54:57
-	time_modified: 2026-01-31 16:41:48
+	time_modified: 2026-09-30 20:51:01
 	name: Under Pressure
 	casting_cost: B
 	image: image68
@@ -44254,7 +44254,7 @@ card:
 	sub_type_3: 
 	rarity: rare
 	rule_text:
-		Look at target opponent’s hand. Choose a nonland card from it. That player discards that card, then forebodes. <i-auto>(They create a tapped colorless Omen artifact token with “<sym-auto>T</sym-auto>, Discard a card, Sacrifice this artifact: Draw a card.”)</i-auto>
+		Target opponent reveals their hand. You may choose a nonland card from it. If you do, that player discards that card, then forebodes. <i-auto>(They create a tapped colorless Omen artifact token with “<sym-auto>T</sym-auto>, Discard a card, Sacrifice this artifact: Draw a card.”)</i-auto>
 		You lose 1 life.
 	flavor_text: <i-flavor>It’s the terror of knowing what this world is about.</i-flavor>
 	illustrator: Jeremy Fenske
@@ -48057,7 +48057,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-18
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -50253,7 +50253,7 @@ card:
 		[-X]: <margin:130:0:0>Exile target creature with mana value X or less until <atom-legname><nospellcheck>Drorix</nospellcheck></atom-legname> leaves the battlefield.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -51743,7 +51743,7 @@ card:
 		[-6]: <margin:130:0:0>Each opponent loses life equal to the number of artifacts you control plus the number of enchantments you control.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 32593709168236978694874308262551
@@ -51834,7 +51834,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 88657672673828017152438238867516
@@ -51928,7 +51928,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 49384012276116205000085625889798
@@ -52022,7 +52022,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -52120,7 +52120,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -52220,7 +52220,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: true
 	styling_data:
 		frames: copy, M20
@@ -52320,7 +52320,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 39893679432828476082709335070131
@@ -52408,7 +52408,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 57449234106171015401110180478382
@@ -52499,7 +52499,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 13946435479056098074975668389725
@@ -52593,7 +52593,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-09-19
 	has_styling: false
 	notes: 
 	uid: 10029912862291095195258362470513
@@ -52681,7 +52681,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-18
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: four

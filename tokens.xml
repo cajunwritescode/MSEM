@@ -653,6 +653,14 @@
  <reverse-related>Ghastly Mind</reverse-related>
  <reverse-related>Insectoid Spawner</reverse-related>
  <reverse-related>Sharer of Will</reverse-related>
+ <reverse-related>Saddle Up</reverse-related>
+ <reverse-related>St. Musset Outfitter</reverse-related>
+ <reverse-related>Wreckage Below</reverse-related>
+ <reverse-related>Akshan, the Rogue Sentinel</reverse-related>
+ <reverse-related>An Explorer's Journey</reverse-related>
+ <reverse-related>Escaped Drakehound</reverse-related>
+ <reverse-related>Heir to the Sands</reverse-related>
+ <reverse-related>Horned Swarmcaller</reverse-related>
  <reverse-related>Autumnal Watch_MPS_MSE</reverse-related>
  <reverse-related>Culminating Chaos_MPS_MSE</reverse-related>
  <reverse-related>Exhilarating Prescience_MPS_MSE</reverse-related>
@@ -831,6 +839,7 @@ Equip {4}</text>
  <reverse-related>Rallios Reincarnated</reverse-related>
  <reverse-related>Undying Welcome</reverse-related>
  <reverse-related count="x">Unhallowed Legion</reverse-related>
+ <reverse-related count="2">Labor of Life (SL183)</reverse-related>
  <set num="AFM6" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AFM6.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -1388,6 +1397,20 @@ Equip {4}</text>
  <reverse-related>Voidtouched Nightblade (Signed)</reverse-related>
  <reverse-related>Abscond Mortal Limits</reverse-related>
  <reverse-related>Essence Cloak</reverse-related>
+ <reverse-related>Old Faces</reverse-related>
+ <reverse-related>Trapper's Lean-to</reverse-related>
+ <reverse-related>Azir, Emperor of the Sands</reverse-related>
+ <reverse-related>Bonded Survivors</reverse-related>
+ <reverse-related>Buried Colossus</reverse-related>
+ <reverse-related>Capture the Sun</reverse-related>
+ <reverse-related>Confront the Self</reverse-related>
+ <reverse-related>Dunehopper Engineer</reverse-related>
+ <reverse-related>Lady Cassiopeia</reverse-related>
+ <reverse-related>Medallion Muncher</reverse-related>
+ <reverse-related>Nashramae, Crossroads of Wonder</reverse-related>
+ <reverse-related>Nazumah Huntress</reverse-related>
+ <reverse-related>One Mind to Many</reverse-related>
+ <reverse-related>Screaming Acolytes</reverse-related>
  <reverse-related>Glimmer_MPS_MSE</reverse-related>
  <reverse-related>Glimmer_CHAMPIONS</reverse-related>
  <reverse-related>Aethermancer's Familiar (SL62)</reverse-related>
@@ -3456,8 +3479,10 @@ All creatures have haste and can't block.</text>
  <reverse-related>Wheat from Chaff_MSY</reverse-related>
  <reverse-related>Wheat from Chaff (Signed)</reverse-related>
  <reverse-related>Alratha, Pearl of the Sand Sea_MPS_MSE</reverse-related>
+ <reverse-related>Control Discourse_MPS_MSE</reverse-related>
  <reverse-related>Crest_MPS_MSE</reverse-related>
  <reverse-related>Alratha, Pearl of the Sand Sea_CHAMPIONS</reverse-related>
+ <reverse-related>Control Discourse_CHAMPIONS</reverse-related>
  <reverse-related>Crest_CHAMPIONS</reverse-related>
  <set num="L1" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/L1.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -5630,7 +5655,7 @@ Whenever enchanted land is tapped for mana, add {G}.</text>
  <tablerow>1</tablerow>
  <reverse-related>Petal Scatterer</reverse-related>
  <reverse-related>Petal Scatterer (SL126)</reverse-related>
- <set num="ATB10" muid="20260631" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ATB10.jpg?v=20260631" rarity="token">tokens</set>
+ <set num="ATB10" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ATB10.jpg?v=20260830" rarity="token">tokens</set>
 </card>
 <card>
  <name>green Beast 44ATB</name>
@@ -18868,7 +18893,7 @@ Whenever enchanted land is tapped for mana, add {G}.</text>
  <token>1</token>
  <tablerow>1</tablerow>
  <reverse-related>Petal Scatterer_MC25</reverse-related>
- <set num="MC2544" muid="20260631" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2544.jpg?v=20260631" rarity="token">tokens</set>
+ <set num="MC2544" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2544.jpg?v=20260830" rarity="token">tokens</set>
 </card>
 <card>
  <name>Intangible Virtue INM</name>
@@ -19022,6 +19047,7 @@ Enchanted creature has base power and toughness 2/3, has vigilance, and is a Sco
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>Ubitsa Forge</reverse-related>
+ <reverse-related>Echoes of an Empire</reverse-related>
  <reverse-related>Ubitsa Forge (SL168)</reverse-related>
  <set num="MC2559" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MC2559.jpg?v=0" rarity="token">tokens</set>
 </card>
@@ -20780,6 +20806,287 @@ Equip {2}</text>
  <set num="LIP5" muid="20260431" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LIP5.jpg?v=20260431" rarity="token">tokens</set>
 </card>
 <card>
+ <name>black Rogue 32LRH</name>
+ <text></text>
+ <colors>B</colors>
+ <type>Token Creature — Rogue</type>
+ <pt>3/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Barter for Bullets</reverse-related>
+ <reverse-related>Break the Law's Back</reverse-related>
+ <reverse-related>Break the Law's Back</reverse-related>
+ <reverse-related>Emerge from the Dust</reverse-related>
+ <reverse-related>Jackle's Gang</reverse-related>
+ <reverse-related>Sudden Altercation</reverse-related>
+ <set num="LRH2" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LRH2.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Bullet LRH</name>
+ <text>{T}, Sacrifice this artifact: It deals 1 damage to any target.</text>
+ <colors></colors>
+ <type>Token Artifact — Bullet</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Barter for Bullets</reverse-related>
+ <reverse-related>Contracted Gunslinger</reverse-related>
+ <reverse-related count="x">Jackle the Jackal</reverse-related>
+ <reverse-related>Smoking Barrels</reverse-related>
+ <set num="LRH5" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LRH5.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Wolf 22LRH</name>
+ <text></text>
+ <colors>G</colors>
+ <type>Token Creature — Wolf</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Curious Canines</reverse-related>
+ <reverse-related>Haunt the Woods</reverse-related>
+ <set num="LRH4" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LRH4.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Hound 22LRH</name>
+ <text></text>
+ <colors>W</colors>
+ <type>Token Creature — Hound</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="x">Homestead's Finest</reverse-related>
+ <set num="LRH1" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LRH1.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Soldier 11LRH</name>
+ <text>Haste</text>
+ <colors>R</colors>
+ <type>Token Creature — Soldier</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Lawman's Posse</reverse-related>
+ <reverse-related count="2">Marshal Grace</reverse-related>
+ <reverse-related>Roaming Vigilantes</reverse-related>
+ <reverse-related count="2">Sudden Altercation</reverse-related>
+ <set num="LRH3" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LRH3.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Gold LRH</name>
+ <text>Sacrifice this artifact: Add one mana of any color.</text>
+ <colors></colors>
+ <type>Token Artifact — Gold</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Prospector Gang</reverse-related>
+ <reverse-related>Robbing the Rail</reverse-related>
+ <reverse-related>Rodeo Roughie</reverse-related>
+ <reverse-related>St. Musset Outfitter</reverse-related>
+ <reverse-related>Worn Trailblazers</reverse-related>
+ <set num="LRH6" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LRH6.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>green Druid 21SHU</name>
+ <text></text>
+ <colors>G</colors>
+ <type>Token Creature — Druid</type>
+ <pt>2/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>A Promise in Truth</reverse-related>
+ <reverse-related>Rockbear Shepherd</reverse-related>
+ <set num="SHU8" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU8.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>white Sand Soldier 11SHU</name>
+ <text></text>
+ <colors>W</colors>
+ <type>Token Creature — Sand Soldier</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="4">Arise!</reverse-related>
+ <reverse-related>Conductor of the Sai</reverse-related>
+ <reverse-related count="2">Decree of the Sands</reverse-related>
+ <reverse-related count="2">Imperial Weaponsmith</reverse-related>
+ <reverse-related>Rise from the Sands</reverse-related>
+ <reverse-related count="2">Risen Sand Cavalier</reverse-related>
+ <reverse-related>The Fall of Shurima</reverse-related>
+ <set num="SHU2" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU2.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Treasure SHU</name>
+ <text>{T}, Sacrifice this token: Add one mana of any color.</text>
+ <colors></colors>
+ <type>Token Artifact — Treasure</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Armed Acquisitioner</reverse-related>
+ <reverse-related>Ascended Warfare</reverse-related>
+ <reverse-related>Brothers' Bloodshed</reverse-related>
+ <reverse-related>Brutal Assault</reverse-related>
+ <reverse-related>Crushing Boulder</reverse-related>
+ <reverse-related>Daring Explorer</reverse-related>
+ <reverse-related>Decree of the Sands</reverse-related>
+ <reverse-related>Demon of Domination</reverse-related>
+ <reverse-related>Dunehopper Engineer</reverse-related>
+ <reverse-related>Expedition Below</reverse-related>
+ <reverse-related>Great Sai Navigation</reverse-related>
+ <reverse-related>Map to the Faceless God</reverse-related>
+ <reverse-related>Memories of an Empire</reverse-related>
+ <reverse-related>Noxian Betrayal</reverse-related>
+ <reverse-related>Plucky Ruin Delver</reverse-related>
+ <reverse-related>Priest of Conquest</reverse-related>
+ <reverse-related>Rammus the Armordillo</reverse-related>
+ <reverse-related>Ruin Explorers</reverse-related>
+ <reverse-related>Ruthless Financier</reverse-related>
+ <reverse-related>Saltworker</reverse-related>
+ <reverse-related>Seeker of Tombs</reverse-related>
+ <reverse-related>Shady Appraiser</reverse-related>
+ <reverse-related>Shifting Bracelet</reverse-related>
+ <reverse-related>Sivir, Battle Mistress</reverse-related>
+ <reverse-related>Spin to Sand</reverse-related>
+ <reverse-related>Subterranean Collapse</reverse-related>
+ <reverse-related>Tomb Crawler</reverse-related>
+ <reverse-related>Twisted Sentinel</reverse-related>
+ <reverse-related>Vekauran Bruiser</reverse-related>
+ <reverse-related>Vekauran Safecraker</reverse-related>
+ <reverse-related>Vekauran Vagabond</reverse-related>
+ <reverse-related>Vekauran Vagabond</reverse-related>
+ <reverse-related>Weathered Sanctum</reverse-related>
+ <set num="SHU13" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU13.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Warrior 11SHU</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Warrior</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Azir's Missionaries</reverse-related>
+ <reverse-related count="3">Baccai Taskmaster</reverse-related>
+ <reverse-related count="2">Baccai Warden</reverse-related>
+ <reverse-related>Belvethi Battlemage</reverse-related>
+ <reverse-related>Conqueror of Belveth</reverse-related>
+ <reverse-related>Evangelist of Oblivion</reverse-related>
+ <reverse-related count="2">Fallen Sands General</reverse-related>
+ <reverse-related>General of the Dunes</reverse-related>
+ <reverse-related count="x">Golden Herald</reverse-related>
+ <reverse-related count="3">Golden Phalanx</reverse-related>
+ <reverse-related count="3">Inspiring Marshal</reverse-related>
+ <reverse-related>Makaran Toxicologist</reverse-related>
+ <reverse-related count="2">Malzahar, Prophet</reverse-related>
+ <reverse-related count="2">Migrating Dormun</reverse-related>
+ <reverse-related count="x">Naafiri of a Hundred Bites</reverse-related>
+ <reverse-related count="x">The Darkin Blade</reverse-related>
+ <reverse-related>Nazumah Avenger</reverse-related>
+ <reverse-related>Priest of Conquest</reverse-related>
+ <reverse-related count="2">Ruin Runner</reverse-related>
+ <reverse-related>Sandshifter</reverse-related>
+ <reverse-related>Sandthrasher Ambusher</reverse-related>
+ <reverse-related>Sunlit Guardians</reverse-related>
+ <reverse-related>Unstoppable Onslaught</reverse-related>
+ <reverse-related>black Horror Pest 11SHU</reverse-related>
+ <set num="SHU7" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU7.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Construct 00SHU</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Artifact Creature — Construct</type>
+ <pt>0/0</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Buried Colossus</reverse-related>
+ <reverse-related>Endless Devout</reverse-related>
+ <set num="SHU11" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU11.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Horror 22SHU</name>
+ <text></text>
+ <colors>B</colors>
+ <type>Token Creature — Horror</type>
+ <pt>2/2</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Cho'Gath, Hunger of the Void</reverse-related>
+ <reverse-related>Map to the Faceless God</reverse-related>
+ <reverse-related>Xer'Sai Burrows</reverse-related>
+ <set num="SHU5" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU5.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Horror Pest 11SHU</name>
+ <text>Mobilize 1 (Whenever this creature attacks, create a tapped and attacking 1/1 red Warrior creature token. Sacrifice it at the beginning of the next end step.)</text>
+ <colors>B</colors>
+ <type>Token Creature — Horror Pest</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="3">Conqueror of Belveth</reverse-related>
+ <reverse-related>Evangelist of Oblivion</reverse-related>
+ <set num="SHU4" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU4.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Horror 43SHU</name>
+ <text></text>
+ <colors>B</colors>
+ <type>Token Creature — Horror</type>
+ <pt>4/3</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Corrupted Sanctum</reverse-related>
+ <reverse-related>Feast of the Prophet</reverse-related>
+ <reverse-related>Swarm of the Void</reverse-related>
+ <reverse-related>Void Gate</reverse-related>
+ <reverse-related count="2">Where Icathia Once Stood</reverse-related>
+ <set num="SHU3" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU3.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>colorless Desert SHU</name>
+ <text>{T}: Add {C}.</text>
+ <colors></colors>
+ <type>Token Land — Desert</type>
+ <token>1</token>
+ <tablerow>0</tablerow>
+ <reverse-related>Effigy of the Sands</reverse-related>
+ <reverse-related>Taliyah, the Stoneweaver</reverse-related>
+ <set num="SHU14" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU14.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Clue SHU</name>
+ <text>{2}, Sacrifice this artifact: Draw a card.</text>
+ <colors></colors>
+ <type>Token Artifact — Clue</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Imperial Chronicler</reverse-related>
+ <set num="SHU10" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU10.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>red Dog Shade 11SHU</name>
+ <text></text>
+ <colors>R</colors>
+ <type>Token Creature — Dog Shade</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related count="x">Naafiri of a Hundred Bites</reverse-related>
+ <reverse-related count="x">The Darkin Blade</reverse-related>
+ <set num="SHU6" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU6.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Lamppost SHU</name>
+ <text>Equipped creature gets +1/+1 and has all abilities of keyword counters on Lampost.
+Equip {2}</text>
+ <colors></colors>
+ <type>Token Legendary Artifact — Equipment</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <reverse-related>Saijax Cail-Rynx Kohari Icath'un</reverse-related>
+ <set num="SHU12" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU12.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
  <name>colorless Construct 11MPS_MSE</name>
  <text></text>
  <colors></colors>
@@ -21795,6 +22102,18 @@ Whenever this creature attacks, scry 1.</text>
  <set num="LAIR62" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR62.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>blue Elemental (SL23) 11LAIR</name>
+ <text>Flying</text>
+ <colors>U</colors>
+ <type>Token Creature — Elemental</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <reverse-related>Glowspore Grove (SL183)</reverse-related>
+ <reverse-related>Out-of-Body Experience (SL23)</reverse-related>
+ <set num="LAIR27" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR27.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
  <name>red Warrior 11LAIR</name>
  <text></text>
  <colors>R</colors>
@@ -21963,17 +22282,6 @@ Enchanted creature gets +1/+0 and can't be blocked by creatures with power 3 or 
  <tablerow>2</tablerow>
  <reverse-related>Out-of-Body Experience (SL19)</reverse-related>
  <set num="LAIR21" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR21.jpg?v=0" rarity="token">tokens</set>
-</card>
-<card>
- <name>blue Elemental (SL23) 11LAIR</name>
- <text>Flying</text>
- <colors>U</colors>
- <type>Token Creature — Elemental</type>
- <pt>1/1</pt>
- <token>1</token>
- <tablerow>2</tablerow>
- <reverse-related>Out-of-Body Experience (SL23)</reverse-related>
- <set num="LAIR27" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR27.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>blue Elemental (SL59) 11LAIR</name>
@@ -22435,7 +22743,7 @@ Whenever enchanted land is tapped for mana, add {G}.</text>
  <type>Token Enchantment — Aura</type>
  <token>1</token>
  <tablerow>1</tablerow>
- <set num="LAIR75" muid="20260631" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR75.jpg?v=20260631" rarity="token">tokens</set>
+ <set num="LAIR75" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR75.jpg?v=20260830" rarity="token">tokens</set>
 </card>
 <card>
  <name>Blue Mana MSEMAR</name>
@@ -22485,6 +22793,16 @@ Whenever enchanted land is tapped for mana, add {G}.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <set num="LAIR97" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR97.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Clockling SHU</name>
+ <text>{1}, {T}, Sacrifice this creature: End the turn. Activate only during your turn.</text>
+ <colors></colors>
+ <type>Token Artifact Creature — Construct</type>
+ <pt>1/1</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="SHU9" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU9.jpg?v=20260830" rarity="token">tokens</set>
 </card>
 <card>
  <name>Clue LAIR 2</name>
@@ -23997,6 +24315,15 @@ Flying</text>
  <set num="ETF21" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ETF21.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
+ <name>The City's Blessing SHU</name>
+ <text></text>
+ <colors></colors>
+ <type>Token Reminder</type>
+ <token>1</token>
+ <tablerow>1</tablerow>
+ <set num="SHU1" muid="20260830" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/SHU1.jpg?v=20260830" rarity="token">tokens</set>
+</card>
+<card>
  <name>colorless Thopter 11MPS_MSE</name>
  <text>Flying</text>
  <colors></colors>
@@ -24324,6 +24651,15 @@ Each player discards their hand, then draws seven cards.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <set num="GNJ18" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/GNJ18.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>black Zombie LAIR</name>
+ <text></text>
+ <colors>B</colors>
+ <type>Token Creature — Zombie</type>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="LAIR111" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR111.jpg?v=0" rarity="token">tokens</set>
 </card>
 </cards>
 </cockatrice_carddatabase>
