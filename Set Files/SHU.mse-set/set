@@ -1,8 +1,8 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-24
+game_version: 2026-10-01
 stylesheet: m15-altered
-stylesheet_version: 2026-09-13
+stylesheet_version: 2026-10-10
 set_info:
 	title: Shurima: War of the Sands
 	set_code: SHU
@@ -13906,7 +13906,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: !tag Evelynn
+	notes:
+		!tag Evelynn
+		!update
 	uid: 10871483145245673704913628514752
 	linked_card_1: 
 	linked_card_2: 
@@ -13973,7 +13975,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2026-01-07 02:55:53
-	time_modified: 2026-08-05 14:03:47
+	time_modified: 2026-10-04 20:39:40
 	card_color: black
 	name: Demon of Domination
 	casting_cost: 1B
@@ -13992,7 +13994,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
-		Whenever <atom-cardname><nospellcheck>Demon of Domination</nospellcheck></atom-cardname> enters or attacks, exile target card from a graveyard. If a permanent card was exiled this way, <kw-A><nospellcheck><key>uncover</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a Treasure token or put a Relic card you own from outside the game into your graveyard.)</i-auto></atom-reminder-custom></kw-A>
+		At the beginning of your end step, you may exile two permanent cards from your graveyard. If you do, <kw-A><nospellcheck><key>uncover</key></nospellcheck>.<atom-reminder-custom> <i-auto>(Create a Treasure token or put a Relic card you own from outside the game into your graveyard.)</i-auto></atom-reminder-custom></kw-A>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -14109,7 +14111,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes: !update
 	uid: 68818366051268722716514203160047
 	linked_card_1: 
 	linked_card_2: 
@@ -14176,7 +14178,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2026-01-07 02:55:53
-	time_modified: 2026-08-04 06:03:36
+	time_modified: 2026-10-04 20:40:20
 	card_color: black
 	name: Void Abomination
 	casting_cost: 1BB
@@ -14196,10 +14198,10 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		When <atom-cardname><nospellcheck>Void Abomination</nospellcheck></atom-cardname> enters, draw two cards.
-		At the beginning of your end step, you may discard any number of cards. Then you lose 1 life for each card in your hand.
+		At the beginning of your end step, you lose 1 life for each card in your hand.
 	flavor_text: <i-flavor></i-flavor>
 	power: 4
-	toughness: 4
+	toughness: 3
 	illustrator: yue yue
 	card_code_text: 
 	card_code_text_2: 
@@ -15981,7 +15983,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-battles
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 61534957186179979706191159789104
@@ -16956,7 +16958,7 @@ card:
 	time_created: 2026-01-07 02:55:53
 	time_modified: 2026-01-29 11:20:29
 	name: Fallen Sands General
-	casting_cost: 2W/BW/B
+	casting_cost: W/BW/B
 	image: image143.png
 	image_2: 
 	mainframe_image: 
@@ -17062,7 +17064,7 @@ card:
 	time_created: 2026-01-07 02:55:53
 	time_modified: 2026-09-22 17:36:34
 	name: Echoes of an Empire
-	casting_cost: 5U/RU/R
+	casting_cost: U/RU/R
 	card_symbol: none
 	transformation: position default, background default, rim default, icon default, custom symbol one
 	image: image46.png
@@ -17274,7 +17276,7 @@ card:
 	time_created: 2026-01-07 02:55:53
 	time_modified: 2026-03-30 15:07:40
 	name: Voice of the Risen
-	casting_cost: 2R/WR/W
+	casting_cost: R/WR/W
 	image: image186.png
 	image_2: 
 	mainframe_image: 
@@ -23761,7 +23763,7 @@ card:
 	rarity: uncommon
 	rule_text:
 		Create three 1/1 red Warrior creature tokens.
-		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>2G/WG/WG/WG/W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
+		<kw-A><nospellcheck><key>Flashback <param-cost><sym-auto>G/WG/WG/WG/W</sym-auto></param-cost></key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard for its flashback cost. Then exile it.)</i-auto></atom-reminder-expert></kw-A>
 	flavor_text:
 		<i-flavor>“Proud warriors, bear my name into battle.”<soft-line>
 		—<error-spelling:en_US>Azir</error-spelling:en_US>, Emperor of Sands</soft-line></i-flavor>
@@ -23851,7 +23853,7 @@ card:
 	time_created: 2026-01-07 02:55:53
 	time_modified: 2026-01-28 21:49:11
 	name: Raider’s Warfrog
-	casting_cost: 1R/GR/G
+	casting_cost: R/GR/G
 	image: image304.png
 	image_2: 
 	mainframe_image: 
@@ -29240,7 +29242,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -29696,7 +29698,7 @@ card:
 		II, III, IV, V, VI — An opponent chooses a nonland card exiled by <atom-cardname><nospellcheck>Into the Rift</nospellcheck></atom-cardname>. You may cast it without paying its mana cost.
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 
@@ -29819,7 +29821,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 
@@ -29939,7 +29941,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -30041,7 +30043,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -30140,7 +30142,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -30239,7 +30241,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -30338,7 +30340,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -30437,7 +30439,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -30535,7 +30537,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -30631,7 +30633,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -30730,7 +30732,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -30829,7 +30831,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -30929,7 +30931,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -31025,7 +31027,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -31121,7 +31123,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: monarch-emblem
-	stylesheet_version: 2026-07-14
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		namebar: yes
@@ -31213,7 +31215,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20

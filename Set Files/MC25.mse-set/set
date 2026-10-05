@@ -1,8 +1,8 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-17
+game_version: 2026-10-01
 stylesheet: m15-altered
-stylesheet_version: 2026-09-13
+stylesheet_version: 2026-10-10
 set_info:
 	description: Partitions: A (Regular Set + Community Slots), B (Cut Cards Replaced by Community), C (Reserved for Rejected Cards), D (Conjured Cards), Tokens
 	set_code: MC25
@@ -102,7 +102,7 @@ styling:
 		overlay: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -215,7 +215,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -329,7 +329,7 @@ card:
 	secondary_copyright: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -443,7 +443,7 @@ card:
 	secondary_copyright: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -555,7 +555,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -665,7 +665,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -777,7 +777,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1085,7 +1085,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 71965863730174348563498979513021
@@ -1187,7 +1187,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 2,
@@ -1599,7 +1599,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2095,7 +2095,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2489,7 +2489,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !FT: fluffydeathbringer2
 	uid: 52661652640909520395415204661903
@@ -2687,7 +2687,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -2805,7 +2805,7 @@ card:
 	copyright_3: ™ & © 2021 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -3003,7 +3003,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -3819,7 +3819,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !FT: PlasterMan
 	uid: 94958621307809112998656652801815
@@ -4105,7 +4105,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4217,7 +4217,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !FT: gynoidpoet
 	uid: 07767321224433970392774003535519
@@ -4516,7 +4516,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -4717,7 +4717,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 13978964222897348423476263058805
@@ -5021,7 +5021,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -5714,7 +5714,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 12241002368070203969089758229201
@@ -6510,7 +6510,7 @@ card:
 	secondary_copyright: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -6621,7 +6621,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !FT: n3onblue
 	uid: 97031300057378771276920350039573
@@ -6724,7 +6724,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 12883785157699301437457838902695
@@ -7116,7 +7116,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -7324,7 +7324,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -8633,7 +8633,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 66347397584882554576435237241113
@@ -8832,7 +8832,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -9551,7 +9551,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -9846,7 +9846,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10257,7 +10257,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10367,7 +10367,7 @@ card:
 	copyright_3: ™ & © 2021 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 32421859706878361271643252474743
@@ -10465,7 +10465,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -10573,7 +10573,7 @@ card:
 	copyright_3: ™ & © 2021 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -10780,7 +10780,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -10991,7 +10991,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -11319,7 +11319,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11429,7 +11429,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!FT: TEST
@@ -11948,7 +11948,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 22964056965207130252111704805727
@@ -12047,7 +12047,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -12561,7 +12561,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12573,7 +12573,9 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		use_flash_dot: no
 		overlay: 
-	notes: !FT: TEST
+	notes:
+		!FT: TEST
+		!update
 	uid: 13047822423118623577086240120216
 	linked_card_1: 
 	linked_card_2: 
@@ -12640,9 +12642,9 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2024-09-08 09:50:03
-	time_modified: 2024-12-22 11:38:35
+	time_modified: 2026-10-04 20:41:05
 	name: Troupe Smuggler
-	casting_cost: 1B
+	casting_cost: 2B
 	image: image231
 	image_2: 
 	mainframe_image: 
@@ -12658,7 +12660,7 @@ card:
 	rarity: rare
 	rule_text: Once each turn, when you search your library, you may add <sym-auto>BB</sym-auto>.
 	flavor_text: <i-flavor>“You won’t need to be too convincing—everyone who comes to see us is expecting an act.”</i-flavor>
-	power: 2
+	power: 3
 	toughness: 2
 	illustrator: Jordan Kerbow
 	partition_select: after normal, main set B
@@ -13448,7 +13450,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 10700592000764457864416967584861
@@ -13550,7 +13552,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !FT: fluffyDeathbringer2
 	uid: 57844948570097010954455421072045
@@ -13642,7 +13644,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -14925,7 +14927,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !FT: Mako
 	uid: 91074033432607884740779426595815
@@ -15417,7 +15419,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !FT: Chumbeque
 	uid: 97039953584765418920890402254152
@@ -15813,7 +15815,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -16023,7 +16025,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -16239,7 +16241,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 21
@@ -16347,7 +16349,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -16844,7 +16846,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -17333,7 +17335,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 3,
@@ -17547,7 +17549,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 25
@@ -17657,7 +17659,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 30259712411587282211344881987534
@@ -17759,7 +17761,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -17972,7 +17974,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -18389,7 +18391,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 04849182207887581942217968241134
@@ -18493,7 +18495,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 32
@@ -18691,7 +18693,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -19210,7 +19212,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -19222,7 +19224,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		use_flash_dot: no
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 04330505704657678217309203272549
 	linked_card_1: 
 	linked_card_2: 
@@ -20203,7 +20205,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -20898,7 +20900,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 92626808891888415229371453873516
@@ -20990,7 +20992,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 66836361100788654503879111903343
@@ -21186,7 +21188,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -21576,7 +21578,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 37619806693696704869065825546295
@@ -21866,7 +21868,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 64472128767967928798027441104639
@@ -21968,7 +21970,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 34644890579950010751864129194404
@@ -22270,7 +22272,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 81210458432923723282151436238163
@@ -22367,7 +22369,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-paradox
-	stylesheet_version: 2024-06-07
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -22563,7 +22565,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -22771,7 +22773,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!design DrChillbrain<soft-line>
@@ -22873,7 +22875,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 83669159623893436655434861148278
@@ -22973,7 +22975,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 14
@@ -23851,7 +23853,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 27275309564345622413373998797064
@@ -24047,7 +24049,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -24252,7 +24254,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -24660,7 +24662,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -24761,7 +24763,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -24955,7 +24957,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 17
@@ -25148,7 +25150,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 35
@@ -25342,7 +25344,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -25543,7 +25545,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 22
@@ -26020,7 +26022,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -26213,7 +26215,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 21
@@ -27041,7 +27043,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -27144,7 +27146,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -27336,7 +27338,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -27439,7 +27441,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -27540,7 +27542,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -27641,7 +27643,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 23
@@ -27924,7 +27926,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 22
@@ -28114,7 +28116,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -28308,7 +28310,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -28417,7 +28419,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -28792,7 +28794,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -28895,7 +28897,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -29101,7 +29103,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -29301,7 +29303,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -29786,7 +29788,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -30467,7 +30469,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -31323,7 +31325,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -31732,7 +31734,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -32031,7 +32033,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -32709,7 +32711,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -33110,7 +33112,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -33221,7 +33223,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -33647,7 +33649,7 @@ card:
 	copyright_3: ™ & © 2021 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -33754,7 +33756,7 @@ card:
 	copyright_3: Popcornia
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,15,
@@ -33862,7 +33864,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: copy, M20
@@ -33962,7 +33964,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: copy, M20
@@ -34065,7 +34067,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: copy, M20
@@ -34168,7 +34170,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 23844585978479085324377946001790
@@ -34260,7 +34262,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 54735468790378902776138329796489
@@ -34355,7 +34357,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 50574462560116856116662985424898
@@ -34451,7 +34453,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 45733887922802879922771506498356
@@ -34549,7 +34551,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 26038368470874621236275688987848
@@ -34647,7 +34649,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 30535867197106917702715463541733
@@ -34745,7 +34747,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 77784618207684707997182023803963
@@ -34840,7 +34842,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !exportname blue Elemental
 	uid: 85707122630689919625905525472522
@@ -34938,7 +34940,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: copy, M20
@@ -35045,7 +35047,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 17902765297211120204324734514413
@@ -35140,7 +35142,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 31763869586259418720750543351073
@@ -35236,7 +35238,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 73466363953652090207849842527169
@@ -35332,7 +35334,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -35493,7 +35495,7 @@ card:
 		[-10]: <margin:130:0:0>Search each player’s library for any number of nonland cards with total mana value 10 or less and exile them, then those players shuffle. Cast those cards without paying their mana costs.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !addtoken AtalVisage;1;
 	uid: 62192375101529435090129842118365
@@ -35598,7 +35600,7 @@ card:
 	vorthos_box: It/Its
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 79312035426671126246473669198729
@@ -35703,7 +35705,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -35861,7 +35863,7 @@ card:
 		[-3]: <margin:130:0:0>Put a +1/+1 counter on each creature you control.</margin:130:0:0>
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -36030,7 +36032,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -36137,7 +36139,7 @@ card:
 	vorthos_box: He/They
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 94658751340622860843500470161152
@@ -36243,7 +36245,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -36408,7 +36410,7 @@ card:
 		[-7]: <margin:130:0:0>Creatures you control get +5/+5 and gain <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !design Cajun
 	uid: 53000670805077564102942762088575
@@ -36513,7 +36515,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -36685,7 +36687,7 @@ card:
 		<margin:0:0:30><atom-cardname><nospellcheck>Order Module</nospellcheck></atom-cardname> gains “Creatures you control get +1/+1.”</margin:0:0:30>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 
@@ -36808,7 +36810,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 
@@ -36932,7 +36934,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!FT: gynoidpoet
@@ -37039,7 +37041,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -37150,7 +37152,7 @@ card:
 	vorthos_box: They/Them
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -37321,7 +37323,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 99508579177899135756637664875442
@@ -37429,7 +37431,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 
@@ -37552,7 +37554,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 
@@ -37674,7 +37676,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5
@@ -37799,7 +37801,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5
@@ -37925,7 +37927,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -38048,7 +38050,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 11,11,
@@ -38177,7 +38179,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -38349,7 +38351,7 @@ card:
 		<margin:0:0:30>Logic Module gains “Whenever a creature you control deals combat damage to an opponent, you may draw a card.”</margin:0:0:30>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -38511,7 +38513,7 @@ card:
 		[-7]: <margin:130:0:0>You get an emblem with “At the beginning of your draw step, draw two additional cards” and “Creatures you control get +1/+1 for each card you’ve drawn this turn.”</margin:130:0:0>
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -38684,7 +38686,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -38799,7 +38801,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -38959,7 +38961,7 @@ card:
 		[-3]: <margin:130:0:0>Return up to one other target nonland permanent to its owner’s hand. Draw a card.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !design Cajun
 	uid: 44121640994105135679252243432186
@@ -39064,7 +39066,7 @@ card:
 	vorthos_box: He/She/They
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -39221,7 +39223,7 @@ card:
 		[-X]: <margin:130:0:0>Destroy target creature or planeswalker unless an opponent pays twice X life.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -39328,7 +39330,7 @@ card:
 	vorthos_box: It/Its
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 87189140394948223384510266127442
@@ -39435,7 +39437,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -39552,7 +39554,7 @@ card:
 	vorthos_box: They/Them
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 15650252211855018572235913885474
@@ -39657,7 +39659,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -39838,7 +39840,7 @@ card:
 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -40010,7 +40012,7 @@ card:
 		<margin:0:0:30><atom-cardname><nospellcheck>Power Module</nospellcheck></atom-cardname> gains “At the beginning of your upkeep, you draw a card and you lose 1 life.”</margin:0:0:30>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -40168,7 +40170,7 @@ card:
 		[-7]: <margin:130:0:0>Each opponent gets an emblem with “At the beginning of your upkeep, you lose 7 life unless you sacrifice seven permanents.”</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 39795853813527806601525124891668
@@ -40274,7 +40276,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !design gynoidpoet
 	uid: 09454642812127228247409945269798
@@ -40380,7 +40382,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -40552,7 +40554,7 @@ card:
 		<margin:0:0:30><atom-cardname><nospellcheck>Identity Module</nospellcheck></atom-cardname> gains “Players can’t gain life” and “At the beginning of each player’s upkeep, <atom-cardname><nospellcheck>Identity Module</nospellcheck></atom-cardname> deals 2 damage to that player.”</margin:0:0:30>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 26537216955506872105905029007156
@@ -40657,7 +40659,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-adventure
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !design Requiem
 	uid: 20095844172031644168684604640714
@@ -40758,7 +40760,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !design gynoidpoet
 	uid: 55625198309893974858805377873682
@@ -40863,7 +40865,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 22,22
@@ -40989,7 +40991,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 
@@ -41114,7 +41116,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -41267,7 +41269,7 @@ card:
 		[-2]: <margin:130:0:0>Conjure six cards named Scorch. Shuffle them and your hand into your library, then draw two cards.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -41423,7 +41425,7 @@ card:
 		[-2]: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. You may play it until the end of your next turn. If you do, exile that spell instead of putting it anywhere else.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 09637813316033699183377933073900
@@ -41528,7 +41530,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-adventure
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_main: 5, 5
@@ -41636,7 +41638,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: borderless art
@@ -41759,7 +41761,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		number_of_textboxes: automatic
@@ -41884,7 +41886,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 92837117771684683519741477861347
@@ -41989,7 +41991,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 44696318534600444651379139444692
@@ -42079,7 +42081,7 @@ card:
 	rarity: rare
 	rule_text:
 		<kw-a><nospellcheck><key>Reach</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>
-		<kw-A><nospellcheck><key>Improve <param-cost><sym-auto>1B/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>1B/G</sym-auto></param-cost>: Put a +1/+1 counter on this creature. This costs <sym-auto>1</sym-auto> more to activate for each +1/+1 counter on it. Improve only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
+		<kw-A><nospellcheck><key>Improve <param-cost><sym-auto>B/G</sym-auto></param-cost></key></nospellcheck><atom-reminder-custom> <i-auto>(<param-cost><sym-auto>B/G</sym-auto></param-cost>: Put a +1/+1 counter on this creature. This costs <sym-auto>1</sym-auto> more to activate for each +1/+1 counter on it. Improve only as a sorcery.)</i-auto></atom-reminder-custom></kw-A>
 		Whenever one or more +1/+1 counters are put on <atom-cardname><nospellcheck>Gorganith, Ruin Maw</nospellcheck></atom-cardname>, you may search your library and/or graveyard for a creature card with mana value equal to or less than the number of +1/+1 counters on <atom-legname><nospellcheck>Gorganith</nospellcheck></atom-legname> and put it onto the battlefield. If you search your library this way, shuffle.
 	flavor_text: <i-flavor></i-flavor>
 	power: 6
@@ -42095,7 +42097,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -42212,7 +42214,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -42335,7 +42337,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -42507,7 +42509,7 @@ card:
 		<margin:0:0:30><atom-cardname><nospellcheck>Root Module</nospellcheck></atom-cardname> gains “You may play an additional land on each of your turns.” and “Lands you control are every basic land type in addition to their other types.”</margin:0:0:30>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !addtoken RovaVisage;1;
 	uid: 25617340714870782142753630634541
@@ -42612,7 +42614,7 @@ card:
 	vorthos_box: It/Its
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 25,25
@@ -42735,7 +42737,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12,12
@@ -42857,7 +42859,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -43014,7 +43016,7 @@ card:
 		[-9]: <margin:130:0:0>Create four 4/4 green Hydra creature tokens. Creatures you control gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -43169,7 +43171,7 @@ card:
 		[-6]: <margin:130:0:0>Creatures you control gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> and have base power and toughness X/X until end of turn, where X is the number of lands you control.</margin:130:0:0>
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -43348,7 +43350,7 @@ card:
 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -43464,7 +43466,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -43620,7 +43622,7 @@ card:
 		[-4]: <margin:130:0:0>Target player skips their next untap step. Tap up to three target permanents.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -43774,7 +43776,7 @@ card:
 		[-8]: <margin:130:0:0>You get an emblem with “You may pay <sym>0</sym> rather than pay the mana cost for the second spell you cast each turn.”</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -43926,7 +43928,7 @@ card:
 		[-7]: <margin:130:0:0>Discard your hand, then draw seven cards. You may put an <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Edarna</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> planeswalker card from your hand or graveyard onto the battlefield.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -44081,7 +44083,7 @@ card:
 		[-5]: <margin:130:0:0>Create Thrice-Folded Lotus, a colorless Masterpiece artifact token with “<sym-auto>T</sym-auto>: Add three mana of any one color.” and “<sym-auto>3</sym-auto>, <sym-auto>T</sym-auto>: This artifact deals 3 damage to any target.”</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -44237,7 +44239,7 @@ card:
 		[-8]: <margin:130:0:0>You get an emblem with “Each creature you control gets +1/+1 for each other creature you control.”</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -44391,7 +44393,7 @@ card:
 		[-2]: <margin:130:0:0>You may sacrifice a creature. When you do, destroy target nonland permanent.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -44549,7 +44551,7 @@ card:
 		[-3]: <margin:130:0:0>Return target instant or sorcery card from your graveyard to your hand.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -44712,7 +44714,7 @@ card:
 		[-7]: <margin:130:0:0>Each land you control becomes a 3/3 Crocodile creature and gains <kw-a><nospellcheck><key>menace</key></nospellcheck></kw-a> and <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -44869,7 +44871,7 @@ card:
 		[-1]: <margin:130:0:0>Comet deals 2 damage to any target. If you exiled an instant or sorcery card this turn, Comet deals 2 damage to any target.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -45024,7 +45026,7 @@ card:
 		[-4]: <margin:130:0:0>You get an emblem with “Whenever one or more creatures you control deal combat damage to a player, draw a card.”</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !designer Matt
 	uid: 24177047036083919626586614424925
@@ -45098,7 +45100,7 @@ card:
 		magic-m15-altered:
 			vorthos_box: She/Her
 	name: Avalia, Cyber Stalker
-	casting_cost: 1U/BU/B
+	casting_cost: U/BU/B
 	image: image373
 	image_2: 
 	mainframe_image: 
@@ -45115,7 +45117,7 @@ card:
 	rule_text:
 		<kw-a><nospellcheck><key>Flying</key></nospellcheck></kw-a>
 		<kw-A><nospellcheck><key>Spirited</key></nospellcheck><atom-reminder-custom> <i-auto>(When this creature enters, you may activate one of its activated abilities without paying its cost.)</i-auto></atom-reminder-custom></kw-A>
-		<sym-auto>3U/BU/B</sym-auto>: Look at the top card of target opponent’s library, then exile it face down. You may play that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.
+		<sym-auto>U/BU/B</sym-auto>: Look at the top card of target opponent’s library, then exile it face down. You may play that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast that spell.
 	flavor_text: <i-flavor></i-flavor>
 	power: 3
 	toughness: 3
@@ -45127,7 +45129,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !related Visions of Sand and Steel;
 	uid: 89227780032548606799995191912478
@@ -45217,7 +45219,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -45313,7 +45315,7 @@ card:
 	copyright_3: ™ & © 2022 CanterburyEgg
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 42153060341829720773872576016604
@@ -45402,7 +45404,7 @@ card:
 	copyright_3: ™ & © 2022 CanterburyEgg
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 20159092082086933859939950266319
@@ -45498,7 +45500,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !exportname white Spirit
 	uid: 62676100078038366137513923209684
@@ -45596,7 +45598,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 25770012862359702173878896665232
@@ -45692,7 +45694,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -45789,7 +45791,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 05781627340935556445254001386846
@@ -45877,7 +45879,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 61313937834212859680366655257220
@@ -45969,7 +45971,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 21489881755412940904655971761417
@@ -46061,7 +46063,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 97419370753508911405796110732749
@@ -46159,7 +46161,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 11620585002310055452888797486062
@@ -46255,9 +46257,9 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
-	notes: !update
+	notes: 
 	uid: 53729493947842972765374690693817
 	linked_card_1: 
 	linked_card_2: 
@@ -46353,7 +46355,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -46458,7 +46460,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -46558,7 +46560,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 08692886811620545412703630407942
@@ -46654,7 +46656,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 38273526719485029700645441807383
@@ -46752,7 +46754,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 33324117931695738529822906416432
@@ -46850,7 +46852,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 98767857080866307347770747589219
@@ -46950,7 +46952,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 09663787381285800146222174438636
@@ -47046,7 +47048,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 30189800754897849301008684080324
@@ -47140,7 +47142,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 88264350437298858870987165408776
@@ -47228,7 +47230,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: copy, M20
@@ -47331,7 +47333,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: copy, M20
@@ -47434,7 +47436,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -47529,7 +47531,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -47623,7 +47625,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -47717,7 +47719,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -47811,7 +47813,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 96920422268255541709664736351264
@@ -47903,7 +47905,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 57657532470538187067875374620025
@@ -47995,7 +47997,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 58688916585252108985020598365941
@@ -48091,7 +48093,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 45711116615242368639319672640588
@@ -48187,7 +48189,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 03878305080747641130515552155988
@@ -48281,7 +48283,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -48384,7 +48386,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 22863421004917458011013120536870
@@ -48480,7 +48482,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 04662202311945854450634537694798
@@ -48578,7 +48580,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -48674,7 +48676,7 @@ card:
 	copyright_3: ™ & © 2021 Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -48767,7 +48769,7 @@ card:
 	copyright_3: ™ & © 2021 Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 91187969129601063953555388785561
@@ -48865,7 +48867,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 01379477246876314425476266883017
@@ -48962,7 +48964,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !exportname green Horror
 	uid: 08394945179150265026928628623083
@@ -49058,7 +49060,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !exportname black Spirit
 	uid: 33277537409560782983263524963796
@@ -49156,7 +49158,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 24442801555759771193205596059796
@@ -49251,7 +49253,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: copy, M20
@@ -49350,7 +49352,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: copy, M20
@@ -49449,7 +49451,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: copy, M20
@@ -49547,7 +49549,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -49643,7 +49645,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -49739,7 +49741,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -50437,7 +50439,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-adventure
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_main: 15,15,
@@ -50548,7 +50550,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -50703,7 +50705,7 @@ card:
 		[-2]: <margin:130:0:0>Look at the top six cards of your library. You may reveal an artifact or colorless card from among them and put it into your hand. Put the rest on the bottom in a random order.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -50856,7 +50858,7 @@ card:
 		[-2]: <margin:130:0:0>Draw a card and gain 2 life.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -51008,7 +51010,7 @@ card:
 		[-5]: <margin:130:0:0>Create two 0/0 black Phyrexian Germ creature tokens, then put two +1/+1 counters on each creature you control.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -51117,7 +51119,7 @@ card:
 	vorthos_box: She/her
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 18821670314427075826366563158648
@@ -51213,7 +51215,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 02998937396627047092020309166102
@@ -51305,7 +51307,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: copy, M20
@@ -51407,7 +51409,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 81973047605857825964136068807521
@@ -51505,7 +51507,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -51601,7 +51603,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -51697,7 +51699,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !exportname UbitsaConstruct
 	uid: 48843220253240473086777085011583
@@ -51793,7 +51795,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 73182310667802213756837719509293
@@ -51883,7 +51885,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 26889911831137769405045403040664
@@ -51977,7 +51979,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 96969081312704337429357118886864
@@ -52075,7 +52077,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 78559264906827307551968545361901
@@ -52167,7 +52169,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 
@@ -52262,7 +52264,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -52357,7 +52359,7 @@ card:
 	copyright_3: Popcornia
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: M20
@@ -52451,7 +52453,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 158,26,199,45,
@@ -52607,7 +52609,7 @@ card:
 		[-7]: <margin:130:0:0>Each opponent sacrifices a permanent and discards a card.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 84667526539223295210463058436260
@@ -52696,7 +52698,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 

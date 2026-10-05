@@ -1,8 +1,8 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-24
+game_version: 2026-10-01
 stylesheet: m15-altered
-stylesheet_version: 2026-09-13
+stylesheet_version: 2026-10-10
 set_info:
 	title: The Long Road Home
 	description: 
@@ -6131,7 +6131,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: 
+	notes: !update
 	uid: 04311500689641400806454817027149
 	linked_card_1: 
 	linked_card_2: 
@@ -6198,7 +6198,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2021-08-14 12:27:08
-	time_modified: 2023-05-31 18:43:26
+	time_modified: 2026-10-04 20:43:22
 	card_color: red
 	name: Burn What’s Left
 	casting_cost: RR
@@ -6209,7 +6209,7 @@ card:
 	super_type: <word-list-type-en>Instant</word-list-type-en>
 	sub_type: <word-list-spell></word-list-spell>
 	rarity: uncommon
-	rule_text: <atom-cardname><nospellcheck>Burn What’s Left</nospellcheck></atom-cardname> deals 4 damage to target creature. If that creature would die this turn, instead exile it and each of its activated and triggered abilities.
+	rule_text: <atom-cardname><nospellcheck>Burn What’s Left</nospellcheck></atom-cardname> deals 4 damage to target creature. If that creature would die this turn, instead it loses all abilities, then exile it.
 	flavor_text:
 		<i-flavor>“I’ve left my mark on this land. Like a brand. Like scars. Seems right, to me. That I take them with me.”<soft-line>
 		—<error-spelling:en_US>Ol’</error-spelling:en_US> Danny <error-spelling:en_US>Damnations</soft-line></i-flavor></error-spelling:en_US>
@@ -10491,7 +10491,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -10596,7 +10596,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: https://www.artstation.com/artwork/e0QXkb
 	uid: 21648484310515675501403610818586
@@ -11698,7 +11698,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -11807,7 +11807,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11917,7 +11917,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -12072,7 +12072,7 @@ card:
 		[0]: <margin:130:0:0>Put a +1/+1 counter on target creature.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		hardened grindfest
@@ -12173,7 +12173,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -13084,7 +13084,7 @@ card:
 	special_text:
 		<i-auto>(As the condition is met for the first time each turn, add a deed counter. Stop when the deed is done.)</i-auto>
 		A spell or permanent an opponent controls becomes the target of a spell or ability you control.
-		I, II — Return up to one target spell or nonland permanent to its owner’s hand.
+		I, II — Return up to one target nonland permanent you don’t control to its owner’s hand.
 		VII — Spells your opponents cast cost <sym-auto>1</sym-auto> more to cast.
 card:
 	stylesheet: m15-saga
@@ -13250,7 +13250,7 @@ card:
 		VII — Once during each of your turns, you may cast a copy of a card in an opponent’s graveyard by exiling that card in addition to its other costs.
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 24191209703760969375878958508886
@@ -13506,7 +13506,7 @@ card:
 		VII — If a Rogue or Bullet you control would deal damage, it deals that much damage plus 1 instead. <i-auto>(Damage that finishes this deed isn’t increased.)</i-auto>
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 98393830956635472145197403559646
@@ -13759,7 +13759,7 @@ card:
 		VII — Once during each opponent’s turn, you may cast a spell with mana value 3 or less without paying its mana cost and as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 55706289852138993650703249038083
@@ -14177,7 +14177,7 @@ card:
 		VII — At the beginning of your end step, create a 2/2 green Wolf creature token.
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 88338328699720366511703289802273
@@ -14431,7 +14431,7 @@ card:
 		If a player would draw one or more cards, they draw twice that many cards instead.
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -14590,7 +14590,7 @@ card:
 		[-1]: <margin:130:0:0>Return target spell or nonland permanent to its owner’s hand.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -15031,7 +15031,7 @@ card:
 		VII — <kw-A><i-auto><nospellcheck><key>Hardened</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if there are three or more kinds of counters among permanents you control, create a 3/2 black Rogue creature token.
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 92935014241891318246995796616554
@@ -15126,7 +15126,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 10930779972965052655634888550346

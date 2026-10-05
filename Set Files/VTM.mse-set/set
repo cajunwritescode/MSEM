@@ -1,8 +1,8 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-09-17
+game_version: 2026-10-01
 stylesheet: m15-altered
-stylesheet_version: 2026-09-13
+stylesheet_version: 2026-10-10
 set_info:
 	title: Villains the Musical (Opening Night)
 	description:
@@ -182,7 +182,7 @@ styling:
 	magic-small-plain-flip: symbols: magic-mana-circleless.mse-symbol-font
 card:
 	stylesheet: m15-unstable-basics
-	stylesheet_version: 2024-05-26
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		black_names: yes
@@ -276,7 +276,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-unstable-basics
-	stylesheet_version: 2024-05-26
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 34410341355462487813016312080777
@@ -366,7 +366,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-unstable-basics
-	stylesheet_version: 2024-05-26
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 10147143435994640681948018388047
@@ -456,7 +456,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-unstable-basics
-	stylesheet_version: 2024-05-26
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 08165139648874194519962834556312
@@ -546,7 +546,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-unstable-basics
-	stylesheet_version: 2024-05-26
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 48561313372179376605114269388867
@@ -636,7 +636,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -740,7 +740,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -936,7 +936,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -1306,7 +1306,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -1856,7 +1856,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 2
@@ -1960,7 +1960,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 22
@@ -2792,7 +2792,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -2896,7 +2896,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 13
@@ -2997,7 +2997,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -3008,9 +3008,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!mei!heist!sartha
-
+	notes: !mei!heist!sartha
 	uid: 51867845419087018394593295155566
 	linked_card_1: 
 	linked_card_2: 
@@ -3472,7 +3470,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 6
@@ -4031,7 +4029,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4312,7 +4310,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4505,7 +4503,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -4610,7 +4608,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 11
@@ -4711,7 +4709,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5727,7 +5725,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -5922,7 +5920,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6119,7 +6117,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6222,7 +6220,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -6777,7 +6775,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -6881,7 +6879,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -8085,7 +8083,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8097,10 +8095,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		borrowing perennial trigger tech from TOJ<soft-line>
-		Won’t trigger or resolve if you have used the ’may’ option of this permanent this turn
-		isn’t a mana ability</soft-line>
+	notes: !update nerfed: Was 2/2 for {1}{B}.
 	uid: 93518561850239885260744982070012
 	linked_card_1: 
 	linked_card_2: 
@@ -8167,9 +8162,9 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2018-08-02 21:31:28
-	time_modified: 2018-08-24 01:06:12
+	time_modified: 2026-10-04 20:41:58
 	name: Troupe Smuggler
-	casting_cost: 1B
+	casting_cost: 2B
 	image: image436
 	image_2: 
 	mainframe_image: 
@@ -8179,7 +8174,7 @@ card:
 	rarity: rare
 	rule_text: Once each turn, when you search your library, you may add <sym-auto>BB</sym-auto>.
 	flavor_text: <i-flavor>“So you need a disguise and a way out of town. I just have a question for you: Can you act?”</i-flavor>
-	power: 2
+	power: 3
 	toughness: 2
 	illustrator: Esteban Wuen
 	card_code_text: 
@@ -8279,7 +8274,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -8661,7 +8656,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -8853,7 +8848,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 1
@@ -9414,7 +9409,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -9609,7 +9604,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -10346,7 +10341,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -11437,7 +11432,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -11993,7 +11988,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -12273,7 +12268,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -12461,7 +12456,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -12755,7 +12750,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 10
@@ -12949,7 +12944,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -13500,7 +13495,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -13605,7 +13600,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 18
@@ -14081,7 +14076,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -14367,7 +14362,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 15
@@ -14837,7 +14832,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -14941,7 +14936,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -15133,7 +15128,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -15326,7 +15321,7 @@ card:
 	copyright_3: © & ™ 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 18
@@ -15518,7 +15513,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 10
@@ -15621,7 +15616,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -15816,7 +15811,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -17014,7 +17009,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -17294,7 +17289,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -17574,7 +17569,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -19740,7 +19735,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -19753,9 +19748,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!guest 
-
+	notes: !guest 
 	uid: 97883270494044669157344861970965
 	linked_card_1: 
 	linked_card_2: 
@@ -19944,7 +19937,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -20149,7 +20142,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 10,10,
@@ -20162,9 +20155,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!guest 
-
+	notes: !guest 
 	uid: 67564050383265414546769039302596
 	linked_card_1: 
 	linked_card_2: 
@@ -20351,7 +20342,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: 
 	uid: 57632885150477389391541648437116
@@ -20443,7 +20434,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -20637,7 +20628,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -20937,7 +20928,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -21044,7 +21035,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -21150,7 +21141,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -21538,7 +21529,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -21645,7 +21636,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -21855,7 +21846,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -21966,7 +21957,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -22717,7 +22708,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -23206,7 +23197,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -23863,7 +23854,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12
@@ -23965,7 +23956,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !reprint
 	uid: 60949222980815534517127568575737
@@ -24060,7 +24051,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!relate
@@ -24153,7 +24144,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		https://www.deviantart.com/liesetiawan/art/Mysticnaturalist-liesetiawan-752713129
@@ -24247,7 +24238,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!relate
@@ -24340,7 +24331,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!relate
@@ -24434,7 +24425,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!relate
@@ -24527,7 +24518,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!relate
@@ -24620,7 +24611,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!relate
@@ -24713,7 +24704,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!relate
@@ -24808,7 +24799,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!relate
@@ -24899,7 +24890,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!relate
@@ -24990,7 +24981,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!relate
@@ -25084,7 +25075,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-token
-	stylesheet_version: 2015-12-20
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !exportname token Forest
 	uid: 92570887533200670998731083329650
@@ -25175,7 +25166,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 9
@@ -25187,9 +25178,7 @@ card:
 		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		overlay: 
-	notes:
-		!promo !mei!heist!saartha!curtains 
-
+	notes: !promo !mei!heist!saartha!curtains 
 	uid: 60222553661442857620807215793753
 	linked_card_1: 
 	linked_card_2: 
@@ -25598,7 +25587,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 1
@@ -25702,7 +25691,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -26423,7 +26412,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: four
@@ -26596,7 +26585,7 @@ card:
 		IV — Create an X/X white Avatar creature token with <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, where X is your life total.
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,15,
@@ -26721,7 +26710,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 10,10,
@@ -26847,7 +26836,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -27009,7 +26998,7 @@ card:
 		III — Target creature you control gets +2/+2 and gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>vigilance</key></nospellcheck></kw-a>, and <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a> until end of turn.
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -27134,7 +27123,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -27262,7 +27251,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -27389,7 +27378,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -27512,7 +27501,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -27636,7 +27625,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -27765,7 +27754,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -27893,7 +27882,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -28018,7 +28007,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -28146,7 +28135,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -28272,7 +28261,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -28435,7 +28424,7 @@ card:
 		III — You may cast target nonland card from a graveyard this turn and you may spend blue mana as though it were mana of any color to cast it.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -28599,7 +28588,7 @@ card:
 		III — Gain control of target nonland permanent.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -28761,7 +28750,7 @@ card:
 		III — Each opponent loses life equal to the number of creature cards in their graveyard. You gain life equal to the number of creature cards in your graveyard.
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 9,9,
@@ -28884,7 +28873,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -29007,7 +28996,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -29131,7 +29120,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -29256,7 +29245,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -29382,7 +29371,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -29555,7 +29544,7 @@ card:
 		III — Each opponent loses life equal to the number of tokens you control. You gain life equal to the life lost this way.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -29720,7 +29709,7 @@ card:
 		III — Create a 3/3 red Phoenix creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>, and “<sym-auto>R</sym-auto>: This creature gets +1/+0 until end of turn.”
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -29843,7 +29832,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -29967,7 +29956,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -30096,7 +30085,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -30258,7 +30247,7 @@ card:
 		III — Each player sacrifices another permanent. Put <atom-cardname><nospellcheck><i>War’s Sorrow</i></nospellcheck></atom-cardname> on top of its owner’s library unless a player has it deal 3 damage to them.
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -30383,7 +30372,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -30509,7 +30498,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 0,5,15,
@@ -30632,7 +30621,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -30756,7 +30745,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -30879,7 +30868,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: two
@@ -31044,7 +31033,7 @@ card:
 		III — Until end of turn, target creature gets +X/+0 and gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>, where X is the number of lands you control.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-09-21
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -31209,7 +31198,7 @@ card:
 		III — Return any number of creature and/or land cards from your graveyard to your hand. Exile <atom-cardname><nospellcheck><i>Restoration</i></nospellcheck></atom-cardname>.
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -31336,7 +31325,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -31462,7 +31451,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 160,21,134,77,
@@ -31618,7 +31607,7 @@ card:
 		[-7]: <margin:130:0:0>You get an emblem with “At the beginning of your upkeep, exile target noncreature permanent.”</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 81,25,227,309,
@@ -31771,7 +31760,7 @@ card:
 		[-9]: <margin:130:0:0>You get an emblem with “Creatures you control have base power and toughness 7/7 and have <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a>.”</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!heist
@@ -31871,7 +31860,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -32024,7 +32013,7 @@ card:
 		[-2]: <margin:130:0:0>Until end of turn, target creature gets +X/+X and gains <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a>, where X is its power.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -32130,7 +32119,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 120,15,158,75,
@@ -32283,7 +32272,7 @@ card:
 		[-4]: <margin:130:0:0>Target player skips their next untap step. Tap up to three target permanents.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes: !heist
 	uid: 83144537215268701254462255750047
@@ -32381,7 +32370,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 147,27,123,37,
@@ -32537,7 +32526,7 @@ card:
 		[-3]: <margin:130:0:0>Exile target artifact or creature. You gain life equal to its mana value.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 186,23,89,46,
@@ -32693,7 +32682,7 @@ card:
 		[-6]: <margin:130:0:0>Choose up to four cards in graveyards. You may play those cards without paying their mana costs.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -32808,7 +32797,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 7
@@ -32916,7 +32905,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -33071,7 +33060,7 @@ card:
 		[-6]: <margin:130:0:0>Exile up to five target permanents. Return those cards to the battlefield under your control.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 168,21,76,34,
@@ -33224,7 +33213,7 @@ card:
 		[-5]: <margin:130:0:0>You get an emblem with “Whenever each permanent you control becomes tapped for the first time each turn, untap it.”</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 94,35,136,27,
@@ -33377,7 +33366,7 @@ card:
 		[-6]: <margin:130:0:0>You get an emblem with “Whenever a permanent leaves the battlefield, each opponent discards a card.”</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 127,35,234,138,
@@ -33531,7 +33520,7 @@ card:
 		[-6]: <margin:130:0:0>You get an emblem with “Whenever a source you control deals damage to an opponent, gain control of target permanent that player controls.”</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -33654,7 +33643,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 
@@ -33777,7 +33766,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -33902,7 +33891,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,5,
@@ -34028,7 +34017,7 @@ card:
 	vorthos_box: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 
@@ -34126,7 +34115,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!relate
@@ -34217,7 +34206,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-06
+	stylesheet_version: 2026-10-10
 	has_styling: false
 	notes:
 		!relate
@@ -34332,7 +34321,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-09-15
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		popout_image_style: 119,20,178,53,
@@ -35093,7 +35082,7 @@ card:
 	copyright_3: ™ & © 2018 Wizards of the Coast
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 12,12,
@@ -35222,7 +35211,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 
@@ -35350,7 +35339,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,,
@@ -35477,7 +35466,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		chop_top: 5,,
@@ -35611,7 +35600,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-09-13
+	stylesheet_version: 2026-10-10
 	has_styling: true
 	styling_data:
 		frames: 
