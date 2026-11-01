@@ -1,0 +1,3878 @@
+﻿mse_version: 2.6.0
+game: magic
+game_version: 2026-09-24
+stylesheet: m15-showcase-innistrad-mid
+stylesheet_version: 2026-10-12
+set_info:
+	description: MSEM Moxtober
+	set_code: LAIR
+	symbol: symbol8.mse-symbol
+	masterpiece_symbol: 
+	automatic_copyright: no
+	automatic_card_numbers: no
+	card_number_style: 001/099
+	default_stamp: none
+	stamp_behavior: All unstamped
+styling:
+	magic-m15-altered:
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+		level_mana_symbols: magic-mana-large.mse-symbol-font
+		overlay: 
+	magic-m15-full-art-basic-land-symbol:
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-duskmourn-paranormal:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-innistrad-mid:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-showcase-innistrad-vow:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	magic-m15-textless-land: overlay: 
+card:
+	stylesheet: m15-showcase-innistrad-mid
+	stylesheet_version: 2026-10-12
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		1 Witch
+		!hidetag (SL185)
+	uid: 94769046426906492555654358983541
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Boghex Witch
+	casting_cost: 3B
+	image: image1.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warlock</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Whenever <atom-cardname><nospellcheck>Boghex Witch</nospellcheck></atom-cardname> deals combat damage to a cursed player, that player loses the game.
+		<sym-auto>2B</sym-auto>: Look at the top five cards of your library. You may reveal a Curse card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: McLean Kendree
+	custom_card_number: 1640
+	card_code_text: Alexander
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 12,12
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		22 Share
+		!hidetag (SL185)
+	uid: 41923625661384270377025795775471
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Sharer of Will
+	casting_cost: UB
+	image: image27.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Horror</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		At the beginning of your upkeep, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>a</param-one_word> car<param-*s>d</param-*s></key></nospellcheck></kw-a>.
+		<sym-auto>T</sym-auto>, Discard a card: Exile the top two cards of target opponent’s library face down. Look at those cards, then put one into its owner’s graveyard. During any turn which you’ve seen signs, you may play the exiled card and mana of any type can be spent to cast it. <i-auto>(You’ve seen signs if two or more card types entered your graveyard.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: redpeggy
+	custom_card_number: 1661
+	card_code_text: Purplemurasaki
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		29 Midnight
+		!hidetag (SL185)
+	uid: 35846807751804228406670458106121
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Midnight Dreary
+	casting_cost: WU
+	image: image12.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Once each turn, when you activate a <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>nonmana</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> ability, you may create a tapped 1/1 white Spirit creature token with <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a>.
+		<sym-auto>4WU</sym-auto>: You gain 1 life and draw a card.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Charles Urbach
+	custom_card_number: 1668
+	card_code_text: TEST
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		28 Secret
+		!hidetag (SL185)
+	uid: 09114425963844298951989086526561
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	card_color: blue
+	name: Spilling Secrets
+	casting_cost: U
+	image: image3.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: At the beginning of each end step, draw a card if an opponent milled three or more cards this turn.
+	flavor_text: <i-flavor>The smarter they are, the sweeter the taste.</i-flavor>
+	illustrator: John LeMaitre
+	custom_card_number: 1667
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		26 Laugh
+		!hidetag (SL185)
+	uid: 44545707953834040671222340378930
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Cackling Tormentor
+	casting_cost: 1R
+	image: image31.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Devil</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Whenever one or more cards are put into an opponent’s graveyard from their hand or library, Cackling Tormentor deals 2 damage to any target.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 3
+	illustrator: Daniela Giubellini
+	custom_card_number: 1665
+	card_code_text: water the weeds
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		25 Maw
+		!hidetag (SL185)
+	uid: 50830929548267791704263538070643
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Pyroclastic Maw
+	casting_cost: 4RR
+	image: image29.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wurm</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Pyroclastic</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Maw enters, destroy target land. If that land was nonbasic, <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Pyroclastic</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Maw gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 4
+	toughness: 4
+	illustrator: ianllanas
+	custom_card_number: 1664
+	card_code_text: Timespiraled
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 21,21
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		23 Sting
+		!hidetag (SL185)
+	uid: 15882089532639123347897207336984
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Stinging Hunter
+	casting_cost: B
+	image: image8.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Whenever you cast a spell that doesn’t share a color with Stinging Hunter, each opponent loses 1 life.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Ellejart
+	custom_card_number: 1662
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		30 Hemlock
+		!hidetag (SL185)
+	uid: 34405469816896268429606666203675
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Poisoned Tonic
+	casting_cost: 2
+	image: image13.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Whenever a player gains life, that player loses 2 life.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Tommy Zimmerman
+	custom_card_number: 1669
+	card_code_text: HerziQuerzi
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+	secondary_copyright: Moxtober 2026 — Timespiraled
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		21 Wicked
+		!hidetag (SL185)
+	uid: 72373237473135697796661548415340
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Something Wicked This Way Rides
+	casting_cost: BG
+	image: image11.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		As an additional cost to cast this spell, sacrifice any number of creatures.
+		Search your library for a creature card with mana value less than or equal to the total mana value of the sacrificed creatures, put it onto the battlefield with a +1/+1 counter and a <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a> counter on it, then shuffle.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Sean A. Murray
+	custom_card_number: 1660
+	card_code_text: HerziQuerzi
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		20 Something
+		!hidetag (SL185)
+	uid: 88415308801884090420812713178286
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Something in the Woods
+	casting_cost: 3G
+	image: image18.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: When <atom-cardname><nospellcheck>Something in the Woods</nospellcheck></atom-cardname> enters and at the beginning of your upkeep, Something in the Woods <kw-0><nospellcheck><key>explores</key></nospellcheck></kw-0>. If it <kw-0><nospellcheck><key>explores</key></nospellcheck></kw-0> a creature card, you may have it become a copy of that card. <i-auto>(It loses this ability. To explore, reveal the top card of your library. Put that card into your hand if it’s a land. Otherwise, put a +1/+1 counter on this, then you may put that card into your graveyard.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Chris Seaman
+	custom_card_number: 1659
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 21,21
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		14 Eye
+		!hidetag (SL185)
+	uid: 06786231408535327204804843810779
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Eyes That Bite
+	casting_cost: B
+	image: image22.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Target player reveals their hand then discards a card. If the discarded card has the highest or lowest mana value among cards in their hand, create a 2/1 red Human Reveler creature token.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Livia Prima
+	custom_card_number: 1653
+	card_code_text: Nix
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		13 Toad
+		!hidetag (SL185)
+	uid: 93719832204764901712199839224626
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Hop of Life
+	casting_cost: 1GU
+	image: image19.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Create a token that’s a copy of target creature you control, except it has base power and toughness 2/2.
+		<kw-A><nospellcheck><key>Retrace</key></nospellcheck><atom-reminder-expert> <i-auto>(You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)</i-auto></atom-reminder-expert></kw-A>
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Andrea Scheifele
+	custom_card_number: 1652
+	card_code_text: CanterburyEgg
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 35,35
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		12 Poison
+		!hidetag (SL185)
+	uid: 79147430275281026926533652443090
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Poisonheart Druid
+	casting_cost: G
+	image: image21.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Druid</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: <sym-auto>T</sym-auto>, Exile a land card from your hand, from your graveyard, or a land that you control: Add one mana of any color.
+	flavor_text: <i-flavor>Foul is the land, potent the magic.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Kobold Press
+	custom_card_number: 1651
+	card_code_text: Wrenn
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		11 Resolute
+		!hidetag (SL185)
+	uid: 08724758218140348817525728991755
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Stay Determined
+	casting_cost: B
+	image: image14.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Until end of turn, if a source you don’t control would deal damage to you or cause you to lose life, mill that many cards instead.
+	flavor_text: <i-flavor>“A Hunter must hunt.”</i-flavor>
+	illustrator: FredrikEriksson1
+	custom_card_number: 1650
+	card_code_text: fluffyDeathbringer
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 12,12
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		10 Bold
+		!hidetag (SL185)
+	uid: 76603484895623286646990631448264
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Fables of the Bold
+	casting_cost: 1B/G
+	image: image17.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		When Fables of the Bold enters, draw a card.
+		Enchanted creatures you control get +1/+1.
+	flavor_text: <i-flavor>You shouldn’t face the darkness alone.</i-flavor>
+	illustrator: Fantasy Flight Games
+	custom_card_number: 1649
+	card_code_text: HerziQuerzi
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 12,12
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		8 Bubble
+		!hidetag (SL185)
+	uid: 75794885687821202611022187075358
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Lord of the Bubbledome
+	casting_cost: UU
+	reminder_type: 
+	image: image6.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Merfolk</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Noble</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Other Merfolk you control get +1/+1.
+		<sym-auto>1U</sym-auto>: Target Merfolk gains slipstream until end of turn. <i-auto>(Creatures with slipstream can’t be blocked as long as only creatures with slipstream are attacking.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	power: 2
+	toughness: 2
+	illustrator: atomicspaghet
+	custom_card_number: 1647
+	card_code_text: Dodger
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 21,21
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		7 Cauldron
+		!hidetag (SL185)
+	uid: 26477197925534128110648453515538
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Arcane Cauldron
+	casting_cost: 3
+	image: image2.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Artifact</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-artifact></word-list-artifact>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: <sym-auto>2</sym-auto>, <sym-auto>T</sym-auto>: When you cast your next instant or sorcery spell this turn, copy it. If that spell targets a permanent you control, copy it an additional time. You may choose new targets for the copies.
+	flavor_text: <i-flavor></i-flavor>
+	illustrator: Scebiqu
+	custom_card_number: 1646
+	card_code_text: Pipsqueak
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		6 Boil
+		!hidetag (SL185)
+	uid: 74390171535245579321725131704823
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Sear Flesh
+	casting_cost: R
+	image: image5.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Sorcery</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Sear Flesh deals 3 damage to target creature or planeswalker. If you’ve cast another spell this turn, it deals 5 damage instead.
+	flavor_text: <i-flavor>It’s not ready until the meat slides off the bone.</i-flavor>
+	illustrator: Oliver Liu
+	custom_card_number: 1645
+	card_code_text: WindyDelcarlo
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		4 Trouble
+		!hidetag (SL185)
+	uid: 01970325234145505169705135614055
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Troubled Heir
+	casting_cost: G
+	image: image16.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: When Troubled Heir dies, create a tapped Plains token.
+	flavor_text: <i-flavor>After the rains failed, farmers found more reliable means to feed the soil.</i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Brian Gomien
+	custom_card_number: 1643
+	card_code_text: TEST
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		3 Toil
+		!hidetag (SL185)
+	uid: 66680539075169818781059663659953
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Thankless Work
+	casting_cost: 1B
+	image: image15.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Whenever you draw a card except for the first one you draw in each of your draw steps, each opponent loses 1 life.
+	flavor_text: <i-flavor>Sometimes the best reward is some time to yourself, a cool autumn breeze, and the fresh smell of grave dirt at dawn.</i-flavor>
+	illustrator: Vincenzo Prattico
+	custom_card_number: 1642
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 12,12
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		9 Blood
+		!hidetag (SL185)
+	uid: 36970374947252518968538251284249
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:28:49
+	time_modified: 2026-10-31 15:29:26
+	name: Blood Tide
+	casting_cost: 2R
+	image: image4.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: At the beginning of your upkeep, each player sacrifices a nonbasic land.
+	flavor_text: <i-flavor>Some omens can’t be ignored.</i-flavor>
+	loyalty: 
+	power: 
+	toughness: 
+	illustrator: Scenes By Colleen
+	custom_card_number: 1648
+	card_code_text: Cajun
+	card_code_text_2: Novea
+	card_code_text_3: Novea
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		5 Fire
+		!hidetag (SL185)
+	uid: 71906263766522605617928216026651
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 14:06:15
+	time_modified: 2026-10-31 15:29:26
+	name: Gravefire Arcanist
+	casting_cost: 1R
+	image: image10.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Zombie</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Wizard</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Prowess</key></nospellcheck></kw-a>
+		When <atom-cardname><nospellcheck>Gravefire Arcanist</nospellcheck></atom-cardname> enters, when you cast your next instant or sorcery spell this turn, copy it. You may choose new targets for the copy.
+		<kw-0><nospellcheck><key>Escape—<param-cost><sym>1RR</sym>, Exile six other cards from your graveyard</param-cost>.</key></nospellcheck></kw-0> <i-auto>(You may cast this card from your graveyard for its escape cost.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	loyalty: 
+	power: 0
+	toughness: 2
+	illustrator: Dusan Markovic
+	custom_card_number: 1644
+	card_code_text: Pipsqueak
+	card_code_text_2: Blood Like Rivers
+	card_code_text_3: Blood Like Rivers
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-showcase-innistrad-mid
+	stylesheet_version: 2026-10-12
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		nameline_opacity_percentage: 80
+		typeline_opacity_percentage: 
+		textbox_opacity_percentage: 
+		chop_text_box: 12,12
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		2 Double
+		!hidetag (SL185)
+	uid: 49787980854352658528737684308751
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Enthusiastic Double
+	casting_cost: 3UR
+	image: image1
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Elemental</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Reflection</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: You may have Enthusiastic Double enter as a copy of any permanent on the battlefield, except it’s </sym>4/4<sym>, it’s a creature in addition to its other types, and it has <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a>.
+	flavor_text: <i-flavor>They can’t wait to get a taste of the life you’re living.</i-flavor>
+	power: 0
+	toughness: 0
+	illustrator: Leroy Steinmann
+	custom_card_number: 1641
+	card_code_text: Pipsqueak
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		31 Thane
+		!hidetag (SL185)
+	uid: 45317110868804940474292824061075
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 21:28:55
+	time_modified: 2026-10-31 15:29:26
+	name: Thanewraith
+	casting_cost: W
+	image: image7.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Dwarf</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Spirit</word-list-class-en><atom-sep> </atom-sep><word-list-class-en>Warrior</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Whenever one or more cards leave your graveyard, put a soul counter on this creature.
+		This creature gets +1/+1 for each soul counter on it.
+		<sym>1</sym><sym>W</sym>, Exile a creature card from your graveyard: This creature gains <kw-a><nospellcheck><key>indestructible</key></nospellcheck></kw-a> until end of turn. Tap it.
+	flavor_text: <i-flavor></i-flavor>
+	loyalty: 
+	power: 1
+	toughness: 1
+	illustrator: chuy Deleon
+	custom_card_number: 1670
+	card_code_text: Matt
+	card_code_text_2: The Petals Wilt
+	card_code_text_3: The Petals Wilt
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		15 Newt
+		!hidetag (SL185)
+	uid: 33575040124138731933892390233357
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-03 13:00:29
+	time_modified: 2026-10-31 15:29:26
+	name: Plaxolotl
+	casting_cost: 2U/R
+	image: image20.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Salamander</word-list-race-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		This spell costs <sym>1</sym> less to cast if you cast a spell with a mana payment of exactly <sym>U</sym> this turn. The same is true for <sym>R</sym>.
+		Once each turn, when you cast a blue or red instant or sorcery spell with mana value 1, you may pay its mana cost. If you do, copy it. You may choose new targets for the copy.
+	flavor_text: <i-flavor></i-flavor>
+	loyalty: 
+	power: 2
+	toughness: 3
+	illustrator: Glass Head
+	custom_card_number: 1654
+	card_code_text: CanterburyEgg
+	card_code_text_2: Kahembo: Olde Dawn
+	card_code_text_3: Kahembo: Olde Dawn
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,12
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		17 Wood
+		!hidetag (SL185)
+		https://www.instagram.com/p/DaA8lvSCFwJ/?img_index=1
+	uid: 80160313941569221234596318597090
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-14 22:27:48
+	time_modified: 2026-10-31 15:29:26
+	name: Chantwood Channeler
+	casting_cost: 1GG
+	image: image25.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Reflection</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Shaman</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		When <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Chantwood</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Channeler</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> enters from your graveyard, it gains <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and creatures you control get +3/+3 and gain <kw-a><nospellcheck><key>trample</key></nospellcheck></kw-a> until end of turn.
+		<sym>5</sym><sym>G</sym><sym>G</sym><sym>G</sym>, Sacrifice a creature: Return <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Chantwood</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Channeler</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> from your graveyard to the battlefield. Activate only as a sorcery.
+	flavor_text: <i-flavor></i-flavor>
+	loyalty: 
+	power: 3
+	toughness: 3
+	illustrator: Jakub Jagoda (Edited)
+	custom_card_number: 1656
+	card_code_text: Cajun
+	card_code_text_2: Oirohpo
+	card_code_text_3: Oirohpo
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 12,12
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		18 Beware
+		!hidetag (SL185)
+	uid: 50849688678362339657560693824761
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-14 22:33:05
+	time_modified: 2026-10-31 15:29:26
+	name: Thomar, Fearbringer
+	casting_cost: 2R
+	image: image26.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Legendary Creature</word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Cleric</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Other creatures have <kw-a><nospellcheck><key>haste</key></nospellcheck></kw-a> and attack each combat if able.
+		Nonland cards in your hand have paranoia <sym>4</sym>. <i-auto>(The owner of a card with paranoia <sym>4</sym> may cast it from their hand for <sym>4</sym> when a permanent they control leaves the battlefield.)</i-auto>
+	flavor_text: <i-flavor></i-flavor>
+	loyalty: 
+	power: 2
+	toughness: 2
+	illustrator: J.H. Williams III
+	custom_card_number: 1657
+	card_code_text: fluffydeathbringer
+	card_code_text_2: Kaleidoscope
+	card_code_text_3: Kaleidoscope
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		19 Wing
+		!hidetag (SL185)
+	uid: 09693256271524411600921886749299
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Batwing Initiate
+	casting_cost: BB
+	image: image24.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Knight</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>, <kw-a><nospellcheck><key>lifelink</key></nospellcheck></kw-a>
+		Whenever <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Batwing</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Initiate deals combat damage to a player, put a +1/+1 counter on it.
+		Pay 4 life: <error-spelling:en_US:/magic.mse-game/dictionary/magic-words>Batwing</error-spelling:en_US:/magic.mse-game/dictionary/magic-words> Initiate gains <kw-a><nospellcheck><key>flying</key></nospellcheck></kw-a> until end of turn.
+	flavor_text: <i-flavor></i-flavor>
+	power: 1
+	toughness: 1
+	illustrator: Hoi Mun
+	custom_card_number: 1658
+	card_code_text: HerziQuerzi
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 2,2
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		16 Knock
+		!hidetag (SL185)
+	uid: 15470746208585179322385565872826
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: Hard Knocks
+	casting_cost: B
+	image: image28.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Enchantment</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-enchantment></word-list-enchantment>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text: Whenever one or more Rogues you control attack, you may pay 1 life. If you do, draw a card.
+	flavor_text:
+		<i-flavor>“You think a few dead minions bother me? I’m making a dent in the city’s crime rate and keeping <error-spelling:en_US>whatever’s</error-spelling:en_US> in that crypt well fed. I’d say it’s a win win for society.”<soft-line>
+		</soft-line>—Duke <error-spelling:en_US>Araveldt</error-spelling:en_US>, occult patron</i-flavor>
+	illustrator: Pindurski
+	custom_card_number: 1655
+	card_code_text: Cajun
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		24 Salt
+		!hidetag (SL185)
+	uid: 04616214884124012834707642957381
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-01 12:03:24
+	time_modified: 2026-10-31 15:29:26
+	name: The Terror of Shady Cove
+	casting_cost: 5GG
+	image: image32.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Creature</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-race-en>Slug</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Beast</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		<kw-a><nospellcheck><key>Deathtouch</key></nospellcheck></kw-a>
+		When The Terror of Shady Cove enters, target opponent sacrifices an artifact. If they can’t, create a 3/3 green Slug creature token with <kw-a><nospellcheck><key>deathtouch</key></nospellcheck></kw-a>. Then repeat this process for an enchantment and a nonbasic land.
+	flavor_text: <i-flavor></i-flavor>
+	power: 7
+	toughness: 7
+	illustrator: AronjaArt
+	custom_card_number: 1663
+	card_code_text: Zangy
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2026-09-06
+	has_styling: true
+	styling_data:
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !hidetag (SL185)
+	uid: 62176110006573284616159680892782
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-18 21:11:21
+	time_modified: 2026-10-31 15:29:26
+	name: Mountain
+	image: image34.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	sub_type: <word-list-land>Mountain</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	watermark: none
+	illustrator: Dan Mumford
+	custom_card_number: 1674
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2026-09-06
+	has_styling: true
+	styling_data:
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !hidetag (SL185)
+	uid: 59252967327181388417881114205283
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-18 21:11:21
+	time_modified: 2026-10-31 15:29:26
+	name: Plains
+	image: image33.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Plains</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	watermark: none
+	illustrator: Dan Mumford
+	custom_card_number: 1671
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2026-09-06
+	has_styling: true
+	styling_data:
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !hidetag (SL185)
+	uid: 21042590535436691196625463451600
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-18 21:11:21
+	time_modified: 2026-10-31 15:29:26
+	name: Island
+	image: image39.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Island</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	watermark: none
+	illustrator: Dan Mumford (Edited)
+	custom_card_number: 1672
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2026-09-06
+	has_styling: true
+	styling_data:
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !hidetag (SL185)
+	uid: 53688833519022402518073297972271
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-18 21:11:21
+	time_modified: 2026-10-31 15:29:26
+	name: Swamp
+	image: image36.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Swamp</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	watermark: none
+	illustrator: Dan Mumford
+	custom_card_number: 1673
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	stylesheet: m15-full-art-basic-land-symbol
+	stylesheet_version: 2026-09-06
+	has_styling: true
+	styling_data:
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes: !hidetag (SL185)
+	uid: 42989318597971789795068868137933
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-18 21:11:21
+	time_modified: 2026-10-31 15:29:26
+	name: Forest
+	image: image40.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Basic Land</word-list-type-en>
+	super_type_2: <word-list-type-en></word-list-type-en>
+	super_type_3: <word-list-type-en></word-list-type-en>
+	super_type_4: <word-list-type-en></word-list-type-en>
+	sub_type: <word-list-land>Forest</word-list-land><soft><atom-sep> </atom-sep></soft><word-list-land></word-list-land>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	watermark: none
+	illustrator: Dan Mumford (Edited)
+	custom_card_number: 1675
+	card_code_text: 
+	card_code_text_2: 
+	card_code_text_3: 
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+card:
+	has_styling: true
+	styling_data:
+		image_location: portrait only
+		chop_text_box: 5,5
+		PT_color_scheme: canon
+		legend_crown: no
+		alt_rarity_color: 0.15:
+		overlay: 
+		casting_cost_mana_symbols: magic-mana-large.mse-symbol-font
+		text_box_mana_symbols: magic-mana-small.mse-symbol-font
+	notes:
+		27 Pain
+		!hidetag (SL185)
+	uid: 29893337195077330827628543652297
+	linked_card_1: 
+	linked_card_2: 
+	linked_card_3: 
+	linked_card_4: 
+	linked_card_5: 
+	linked_card_6: 
+	linked_card_7: 
+	linked_card_8: 
+	linked_card_9: 
+	linked_card_10: 
+	linked_card_11: 
+	linked_card_12: 
+	linked_card_13: 
+	linked_card_14: 
+	linked_card_15: 
+	linked_card_16: 
+	linked_card_17: 
+	linked_card_18: 
+	linked_card_19: 
+	linked_card_20: 
+	linked_card_21: 
+	linked_card_22: 
+	linked_card_23: 
+	linked_card_24: 
+	linked_card_25: 
+	linked_card_26: 
+	linked_card_27: 
+	linked_card_28: 
+	linked_card_29: 
+	linked_card_30: 
+	linked_card_31: 
+	linked_card_32: 
+	linked_relation_1: 
+	linked_relation_2: 
+	linked_relation_3: 
+	linked_relation_4: 
+	linked_relation_5: 
+	linked_relation_6: 
+	linked_relation_7: 
+	linked_relation_8: 
+	linked_relation_9: 
+	linked_relation_10: 
+	linked_relation_11: 
+	linked_relation_12: 
+	linked_relation_13: 
+	linked_relation_14: 
+	linked_relation_15: 
+	linked_relation_16: 
+	linked_relation_17: 
+	linked_relation_18: 
+	linked_relation_19: 
+	linked_relation_20: 
+	linked_relation_21: 
+	linked_relation_22: 
+	linked_relation_23: 
+	linked_relation_24: 
+	linked_relation_25: 
+	linked_relation_26: 
+	linked_relation_27: 
+	linked_relation_28: 
+	linked_relation_29: 
+	linked_relation_30: 
+	linked_relation_31: 
+	linked_relation_32: 
+	time_created: 2026-10-24 10:49:47
+	time_modified: 2026-10-31 15:29:26
+	name: Painful Reminiscence
+	casting_cost: 2R
+	image: image38.png
+	image_2: 
+	mainframe_image: 
+	mainframe_image_2: 
+	super_type: <word-list-type-en>Instant</word-list-type-en>
+	sub_type: <word-list-spell></word-list-spell>
+	sub_type_2: 
+	sub_type_3: 
+	sub_type_4: 
+	rarity: mythic rare
+	rule_text:
+		Bleed <sym>R</sym> <i-auto>(You may cast this spell for its bleed cost if an opponent has lost life this turn.)</i-auto>
+		Add <sym>RRR</sym>.
+	flavor_text: <i-flavor></i-flavor>
+	loyalty: 
+	power: 
+	toughness: 
+	illustrator: Saarl
+	custom_card_number: 1666
+	card_code_text: HerziQuerzi
+	card_code_text_2: A Tourney at Whiterun
+	card_code_text_3: A Tourney at Whiterun
+	copyright: Moxtober 2026 — Timespiraled
+	copyright_2: 
+	copyright_3: 
+version_control:
+	type: none
+apprentice_code: 

@@ -8172,6 +8172,7 @@ card:
 		!tag GolnaRule
 		3color
 		!tag Shomi
+		!update nerfed: Now discards two cards.
 	uid: 10918977531317971923783472526580
 	linked_card_1: 
 	linked_card_2: 
@@ -8238,7 +8239,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2025-11-03 12:03:50
-	time_modified: 2025-12-21 00:22:10
+	time_modified: 2026-10-31 14:30:35
 	name: Call to Wander
 	casting_cost: 1GUR
 	image: image188.png
@@ -8252,7 +8253,7 @@ card:
 	sub_type_2: 
 	sub_type_3: 
 	rarity: uncommon
-	rule_text: Draw a card for each differently named land you control.
+	rule_text: Draw a card for each differently named land you control. Then discard two cards.
 	flavor_text:
 		<i-flavor>“You look like someone who enjoys regretting things later. I like that.”<soft-line>
 		—<error-spelling:en_US>Shomi</error-spelling:en_US>, Wanderer of Tales</soft-line></i-flavor>
@@ -8881,7 +8882,6 @@ card:
 	notes:
 		!tag Alkabah
 		!tag GolnaRule
-
 	uid: 34286395276087396766641423311043
 	linked_card_1: 
 	linked_card_2: 
@@ -10468,7 +10468,6 @@ card:
 	notes:
 		!tag Alkabah
 		!tag GolnaRule
-		!update nerfed: Was {7} and had vigilance.
 	uid: 38968194843141452285583024478269
 	linked_card_1: 
 	linked_card_2: 
@@ -28960,7 +28959,7 @@ card:
 		[-3]: <margin:130:0:0>Exile target instant or sorcery card from your graveyard. Copy it. You may cast the copy.</margin:130:0:0>
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!tag Alkabah
@@ -29052,7 +29051,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !exportname 2Army
 	uid: 86077732052917068314677062997906
@@ -29142,7 +29141,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 24522163663945446923314321864263
@@ -29234,7 +29233,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 39516179599467433103789627002932
@@ -29326,7 +29325,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 50736502508226734253154196113685
@@ -29417,7 +29416,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 97820256084558901342658473168504
@@ -29511,7 +29510,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 64156111453014008917247984200838
@@ -29605,7 +29604,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !exportname Horror2
 	uid: 63881062647189432195670401134858
@@ -29697,7 +29696,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !exportname Horror1
 	uid: 71496647108686703647215221922143
@@ -29789,7 +29788,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 63034906504550528660606193062763
@@ -29880,7 +29879,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !exportname 1Army
 	uid: 62079594204542834107470439907487
@@ -29970,7 +29969,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !exportname 0Army
 	uid: 56648810316557462314322178467228
@@ -30060,7 +30059,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !exportname 3Army
 	uid: 45831762302029958222145473975073
@@ -30150,7 +30149,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !exportname 4Army
 	uid: 54439889392941083524090292030979
@@ -30240,7 +30239,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !exportname 5Army
 	uid: 64735104714683806439566569542778
@@ -30330,7 +30329,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: !exportname XArmy
 	uid: 93282536835677076727893787297069
@@ -30420,7 +30419,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 55240293020315442922518008376401
@@ -30511,7 +30510,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 35599863344555638076292401522864
@@ -30605,7 +30604,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 28006309555348386490060944433859
@@ -30697,7 +30696,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 12496581623132923775963293901194
@@ -30791,7 +30790,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 68992569170330700219056051553518
@@ -30883,7 +30882,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes:
 		!exportname FilterSatrapy
@@ -30978,7 +30977,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-09-19
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 08954311821556894144336762123676

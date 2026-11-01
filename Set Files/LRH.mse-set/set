@@ -1,8 +1,8 @@
 ﻿mse_version: 2.6.0
 game: magic
-game_version: 2026-10-01
+game_version: 2026-09-24
 stylesheet: m15-altered
-stylesheet_version: 2026-10-10
+stylesheet_version: 2026-09-13
 set_info:
 	title: The Long Road Home
 	description: 
@@ -3660,7 +3660,7 @@ card:
 	copyright_3: 
 card:
 	has_styling: false
-	notes: 
+	notes: !update nerfed: Previously milled until you hit a land.
 	uid: 61591663829015393895045464595936
 	linked_card_1: 
 	linked_card_2: 
@@ -3727,7 +3727,7 @@ card:
 	linked_relation_31: 
 	linked_relation_32: 
 	time_created: 2021-08-14 12:27:08
-	time_modified: 2026-09-21 21:01:07
+	time_modified: 2026-10-31 14:32:17
 	card_color: green
 	name: Prospector Gang
 	casting_cost: 1G
@@ -3738,7 +3738,7 @@ card:
 	super_type: <word-list-type-en>Creature</word-list-type-en>
 	sub_type: <word-list-race-en>Human</word-list-race-en><atom-sep> </atom-sep><word-list-class-en>Citizen</word-list-class-en><soft><atom-sep> </atom-sep></soft><word-list-class-en></word-list-class-en>
 	rarity: common
-	rule_text: When <atom-cardname><nospellcheck>Prospector Gang</nospellcheck></atom-cardname> enters, reveal cards from the top of your library until you reveal a land card, then put all cards revealed this way into your graveyard. Create a <kw-a><nospellcheck><key>Gold toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “Sacrifice this artifact: Add one mana of any color.”)</i-auto>
+	rule_text: When <atom-cardname><nospellcheck>Prospector Gang</nospellcheck></atom-cardname> enters, <kw-a><nospellcheck><key><param-mill>mill</param-mill> <param-one_word>three</param-one_word> car<param-*s>ds</param-*s></key></nospellcheck></kw-a>. If you milled a land card, create a <kw-a><nospellcheck><key>Gold toke<param-*s>n</param-*s></key></nospellcheck></kw-a>. <i-auto>(It’s an artifact with “Sacrifice this artifact: Add one mana of any color.”)</i-auto>
 	flavor_text: <i-flavor></i-flavor>
 	power: 2
 	toughness: 2
@@ -6131,7 +6131,7 @@ card:
 		level_mana_symbols: magic-mana-large.mse-symbol-font
 		inverted_common_symbol: yes
 		overlay: 
-	notes: !update
+	notes: 
 	uid: 04311500689641400806454817027149
 	linked_card_1: 
 	linked_card_2: 
@@ -10491,7 +10491,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
 		chop_top: 8
@@ -10596,7 +10596,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-09-13
 	has_styling: false
 	notes: https://www.artstation.com/artwork/e0QXkb
 	uid: 21648484310515675501403610818586
@@ -11698,7 +11698,7 @@ card:
 	card_code_text_3: 
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -11807,7 +11807,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
 		chop_top: 5
@@ -11917,7 +11917,7 @@ card:
 	vorthos_box: He/Him
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-09-15
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -12072,7 +12072,7 @@ card:
 		[0]: <margin:130:0:0>Put a +1/+1 counter on target creature.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-09-13
 	has_styling: false
 	notes:
 		hardened grindfest
@@ -12173,7 +12173,7 @@ card:
 	vorthos_box: She/Her
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
 		chop_top: 3
@@ -12283,7 +12283,7 @@ card:
 	vorthos_box: She/her
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -12444,7 +12444,7 @@ card:
 		VII — Attacking creatures you control get +1/+0.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -12605,7 +12605,7 @@ card:
 		VII — When you complete this deed, exile up to one target creature until <atom-cardname><nospellcheck>Frontier Justice</nospellcheck></atom-cardname> leaves the battlefield. If you don’t, draw a card.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -12766,7 +12766,7 @@ card:
 		VII — At the beginning of your end step, <atom-cardname><nospellcheck>Burning St. Musset</nospellcheck></atom-cardname> deals 1 damage to each opponent and you gain 1 life.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -12927,7 +12927,7 @@ card:
 		VII — At the beginning of each opponent’s upkeep, untap up to two permanents you control.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -13088,7 +13088,7 @@ card:
 		VII — Spells your opponents cast cost <sym-auto>1</sym-auto> more to cast.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -13250,7 +13250,7 @@ card:
 		VII — Once during each of your turns, you may cast a copy of a card in an opponent’s graveyard by exiling that card in addition to its other costs.
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 24191209703760969375878958508886
@@ -13341,7 +13341,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -13506,7 +13506,7 @@ card:
 		VII — If a Rogue or Bullet you control would deal damage, it deals that much damage plus 1 instead. <i-auto>(Damage that finishes this deed isn’t increased.)</i-auto>
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 98393830956635472145197403559646
@@ -13595,7 +13595,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: four
@@ -13759,7 +13759,7 @@ card:
 		VII — Once during each opponent’s turn, you may cast a spell with mana value 3 or less without paying its mana cost and as though it had <kw-a><nospellcheck><key>flash</key></nospellcheck></kw-a>.
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 55706289852138993650703249038083
@@ -13853,7 +13853,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -14015,7 +14015,7 @@ card:
 		VII — Creatures you control can’t be blocked by more than one creature.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -14177,7 +14177,7 @@ card:
 		VII — At the beginning of your end step, create a 2/2 green Wolf creature token.
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 88338328699720366511703289802273
@@ -14266,7 +14266,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -14431,7 +14431,7 @@ card:
 		If a player would draw one or more cards, they draw twice that many cards instead.
 card:
 	stylesheet: m15-mainframe-planeswalker
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-09-15
 	has_styling: true
 	styling_data:
 		popout_image_style: 
@@ -14590,7 +14590,7 @@ card:
 		[-1]: <margin:130:0:0>Return target spell or nonland permanent to its owner’s hand.</margin:130:0:0>
 card:
 	stylesheet: m15-altered
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-09-13
 	has_styling: true
 	styling_data:
 		chop_top: 
@@ -14701,7 +14701,7 @@ card:
 	vorthos_box: They/Them
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -14869,7 +14869,7 @@ card:
 		Enchanted creature gets +1/+1 for each land card in your graveyard and has <kw-a><nospellcheck><key>hexproof</key></nospellcheck></kw-a>.
 card:
 	stylesheet: m15-saga
-	stylesheet_version: 2026-09-21
+	stylesheet_version: 2026-10-06
 	has_styling: true
 	styling_data:
 		chapter_textboxes: three
@@ -15031,7 +15031,7 @@ card:
 		VII — <kw-A><i-auto><nospellcheck><key>Hardened</key></nospellcheck></i-auto></kw-A> — At the beginning of your end step, if there are three or more kinds of counters among permanents you control, create a 3/2 black Rogue creature token.
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 92935014241891318246995796616554
@@ -15126,7 +15126,7 @@ card:
 	copyright_3: 
 card:
 	stylesheet: m15-mainframe-tokens
-	stylesheet_version: 2026-10-10
+	stylesheet_version: 2026-10-05
 	has_styling: false
 	notes: 
 	uid: 10930779972965052655634888550346

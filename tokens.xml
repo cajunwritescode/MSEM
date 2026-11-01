@@ -735,6 +735,7 @@
  <reverse-related>Scion of Calamities (SL112)</reverse-related>
  <reverse-related>Shadowbinder Touka (SL142)</reverse-related>
  <reverse-related>Shadowbinder Touka (SL169)</reverse-related>
+ <reverse-related>Sharer of Will (SL185)</reverse-related>
  <reverse-related>Slippery Bunyip (SL114)</reverse-related>
  <reverse-related>Sofia, Fortune's Fated (SL58)</reverse-related>
  <reverse-related>Sofia, Fortune's Fated (SL70)</reverse-related>
@@ -1423,6 +1424,7 @@ Equip {4}</text>
  <reverse-related>Fidelity of the Pure (SL65)</reverse-related>
  <reverse-related>Forbidden Shiangshi Arts (SL152)</reverse-related>
  <reverse-related>Glimpse in the Static (SL12)</reverse-related>
+ <reverse-related>Hop of Life (SL185)</reverse-related>
  <reverse-related>Immortalize in Stone (SL80)</reverse-related>
  <reverse-related>Kinken, the Dragon's Breath (SL51)</reverse-related>
  <reverse-related>Kinken, the Dragon's Breath (SL90)</reverse-related>
@@ -4811,6 +4813,7 @@ Equip {2}</text>
  <reverse-related>Troubled Heir</reverse-related>
  <reverse-related>Abbey of Masquerades_MSY</reverse-related>
  <reverse-related>Unbound Expanse_MSY</reverse-related>
+ <reverse-related>Troubled Heir (SL185)</reverse-related>
  <set num="UNR20" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/UNR20.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -15017,6 +15020,7 @@ Whenever this creature attacks, scry 1.</text>
  <token>1</token>
  <tablerow>2</tablerow>
  <reverse-related>The Terror of Shady Cove</reverse-related>
+ <reverse-related>The Terror of Shady Cove (SL185)</reverse-related>
  <set num="MSJ25" muid="20260631" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/MSJ25.jpg?v=20260631" rarity="token">tokens</set>
 </card>
 <card>
@@ -20547,6 +20551,7 @@ Equip {2}</text>
  <reverse-related>Eyes That Bite</reverse-related>
  <reverse-related>Let Him Cook</reverse-related>
  <reverse-related>Naoko, Onigaiko Transfer</reverse-related>
+ <reverse-related>Eyes That Bite (SL185)</reverse-related>
  <set num="AEK10" muid="20260421" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/AEK10.jpg?v=20260421" rarity="token">tokens</set>
 </card>
 <card>
@@ -21630,6 +21635,7 @@ Whenever this creature attacks, scry 1.</text>
  <reverse-related>Curse of the Breathless (SL168)</reverse-related>
  <reverse-related count="2">Flesh Offered to the Dead (SL165)</reverse-related>
  <reverse-related>Midnight Dreary (SL130)</reverse-related>
+ <reverse-related>Midnight Dreary (SL185)</reverse-related>
  <set num="LAIR71" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR71.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
@@ -23515,6 +23521,16 @@ If this spell would create one or more tokens, it creates twice that many of tho
  <token>1</token>
  <tablerow>2</tablerow>
  <set num="ALK25" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/ALK25.jpg?v=0" rarity="token">tokens</set>
+</card>
+<card>
+ <name>Hu Li (SL183)</name>
+ <text>Flying, lifelink</text>
+ <colors>W</colors>
+ <type>Token Legendary Creature — Fox Spirit</type>
+ <pt>4/4</pt>
+ <token>1</token>
+ <tablerow>2</tablerow>
+ <set num="LAIR112" muid="0" picURL="https://raw.githubusercontent.com/cajunwritescode/MSEM/refs/heads/main/img/tokens/LAIR112.jpg?v=0" rarity="token">tokens</set>
 </card>
 <card>
  <name>Immortality Function HQZ</name>

@@ -259023,7 +259023,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 5672,
-      "multiverseId": 20260904
+      "multiverseId": 20260931
      },
      "name": "Troupe Smuggler",
      "number": "94",
@@ -526933,7 +526933,7 @@
      "manaCost": "{1}{W}{W}",
      "identifiers": {
       "scryfallId": 13601,
-      "multiverseId": 20260904
+      "multiverseId": 20260931
      },
      "name": "Helgard, Princess of Many",
      "number": "19",
@@ -761910,7 +761910,7 @@
      "manaCost": "{1}{G}{U}{R}",
      "identifiers": {
       "scryfallId": 21065,
-      "multiverseId": 0
+      "multiverseId": 20260931
      },
      "name": "Call to Wander",
      "number": "212",
@@ -761918,7 +761918,7 @@
      "relatedCards": {
       "spellbook": []
      },
-     "text": "Draw a card for each differently named land you control.",
+     "text": "Draw a card for each differently named land you control. Then discard two cards.",
      "type": "Sorcery",
      "types": [
       "Sorcery"
@@ -765970,7 +765970,7 @@
      "manaCost": "{2}",
      "identifiers": {
       "scryfallId": 21155,
-      "multiverseId": 20260830
+      "multiverseId": 20260931
      },
      "name": "Ic, Seeker of Elsewheres",
      "number": "254",
@@ -801158,7 +801158,7 @@
      "manaCost": "{1}{G}",
      "identifiers": {
       "scryfallId": 22520,
-      "multiverseId": 20260830
+      "multiverseId": 20260931
      },
      "name": "Prospector Gang",
      "number": "84",
@@ -801171,7 +801171,7 @@
       "Human",
       "Citizen"
      ],
-     "text": "When Prospector Gang enters, reveal cards from the top of your library until you reveal a land card, then put all cards revealed this way into your graveyard. Create a Gold token. (It's an artifact with “Sacrifice this artifact: Add one mana of any color.”)",
+     "text": "When Prospector Gang enters, mill three cards. If you milled a land card, create a Gold token. (It's an artifact with “Sacrifice this artifact: Add one mana of any color.”)",
      "toughness": "2",
      "type": "Creature — Human Citizen",
      "types": [
@@ -805236,7 +805236,7 @@
      "manaCost": "{X}{R}{R}",
      "identifiers": {
       "scryfallId": 22611,
-      "multiverseId": 20260904
+      "multiverseId": 20260931
      },
      "name": "Carikkan's Guardian",
      "number": "123",
@@ -805419,7 +805419,7 @@
      "manaCost": "{X}{G}",
      "identifiers": {
       "scryfallId": 22615,
-      "multiverseId": 20260904
+      "multiverseId": 20260931
      },
      "name": "Charging Tusker",
      "number": "160",
@@ -805604,7 +805604,7 @@
      "manaCost": "{U}",
      "identifiers": {
       "scryfallId": 22619,
-      "multiverseId": 20260904
+      "multiverseId": 20260931
      },
      "name": "Clockling Prototype",
      "number": "44",
@@ -805787,7 +805787,7 @@
      "manaCost": "{X}{X}{G/U}{G/U}",
      "identifiers": {
       "scryfallId": 22623,
-      "multiverseId": 20260904
+      "multiverseId": 20260931
      },
      "name": "Confront the Self",
      "number": "237",
@@ -806603,7 +806603,7 @@
      "manaCost": "{1}{B}",
      "identifiers": {
       "scryfallId": 22642,
-      "multiverseId": 20260904
+      "multiverseId": 20260931
      },
      "name": "Demon of Domination",
      "number": "88",
@@ -811696,7 +811696,7 @@
      "manaCost": "{1}{W}",
      "identifiers": {
       "scryfallId": 22752,
-      "multiverseId": 20260904
+      "multiverseId": 20260931
      },
      "name": "Recall Time",
      "number": "28",
@@ -814620,7 +814620,7 @@
      "manaCost": "{B}{B}",
      "identifiers": {
       "scryfallId": 22817,
-      "multiverseId": 20260904
+      "multiverseId": 20260931
      },
      "name": "Temporal Nomad",
      "number": "108",
@@ -815905,7 +815905,7 @@
      "manaCost": "{1}{B}{B}",
      "identifiers": {
       "scryfallId": 22846,
-      "multiverseId": 20260904
+      "multiverseId": 20260931
      },
      "name": "Void Abomination",
      "number": "112",
@@ -925527,7 +925527,7 @@
      "manaCost": "{2}{B}",
      "identifiers": {
       "scryfallId": 19634,
-      "multiverseId": 20260904
+      "multiverseId": 20260931
      },
      "name": "Troupe Smuggler_MC25",
      "number": "377",
@@ -952419,6 +952419,47 @@
      "uuid": "Dark Rite Cultist_MPS_MSE"
     },
     {
+     "artist": "噬魂鳕鱼堡",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "TEST",
+     "flavor": "",
+     "frameType": "normal-champion",
+     "frameVersion": "2015",
+     "id": "Death of the Author_MPS_MSE",
+     "imageName": "death of the author_mps_mse",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{B}",
+     "identifiers": {
+      "scryfallId": 22876,
+      "multiverseId": 0
+     },
+     "name": "Death of the Author_MPS_MSE",
+     "number": "172",
+     "rarity": "special",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Choose a nonlegendary, nonland card name. Target opponent reveals their hand and discards a card with that name.\nAgonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Death of the Author_MPS_MSE"
+    },
+    {
      "artist": "cc2520, Nix, Styles_, _crystaleye, harlsquin",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -955141,7 +955182,7 @@
      "manaCost": "{2/U}{2/U}{2/U}",
      "identifiers": {
       "scryfallId": 22401,
-      "multiverseId": 20260830
+      "multiverseId": 20260931
      },
      "name": "Operative POSH_MPS_MSE",
      "number": "170",
@@ -958332,8 +958373,8 @@
      "uuid": "Yatiri del Carnaval_MPS_MSE"
     }
    ],
-   "baseSetSize": 169,
-   "totalSetSize": 169,
+   "baseSetSize": 170,
+   "totalSetSize": 170,
    "cardsphereSetId": 18,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -960027,6 +960068,47 @@
       "Creature"
      ],
      "uuid": "Dark Rite Cultist_CHAMPIONS"
+    },
+    {
+     "artist": "噬魂鳕鱼堡",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "TEST",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Death of the Author_CHAMPIONS",
+     "imageName": "death of the author_champions",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{B}",
+     "identifiers": {
+      "scryfallId": 22877,
+      "multiverseId": 0
+     },
+     "name": "Death of the Author_CHAMPIONS",
+     "number": "172",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Choose a nonlegendary, nonland card name. Target opponent reveals their hand and discards a card with that name.\nAgonize (You may cast this card from your graveyard by putting a -1/-1 counter on a creature you control in addition to paying its other costs. Then exile this card.)",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Death of the Author_CHAMPIONS"
     },
     {
      "artist": "cc2520, Nix, Styles_, _crystaleye, harlsquin",
@@ -962005,7 +962087,7 @@
      "manaCost": "{U}{R}",
      "identifiers": {
       "scryfallId": 21837,
-      "multiverseId": 20260830
+      "multiverseId": 20260931
      },
      "name": "Lose Your Mind_CHAMPIONS",
      "number": "167",
@@ -965895,8 +965977,8 @@
      "uuid": "What Lurks Beyond_CHAMPIONS"
     }
    ],
-   "baseSetSize": 168,
-   "totalSetSize": 168,
+   "baseSetSize": 169,
+   "totalSetSize": 169,
    "cardsphereSetId": 51,
    "isFoilOnly": false,
    "isOnlineOnly": false,
@@ -969325,6 +969407,43 @@
      "uuid": "Arbor Protector (SL154)_LAIR"
     },
     {
+     "artist": "Scebiqu",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [],
+     "colorIdentity": [],
+     "designer": "Pipsqueak",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Arcane Cauldron (SL185)_LAIR",
+     "imageName": "arcane cauldron (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{3}",
+     "identifiers": {
+      "scryfallId": 22878,
+      "multiverseId": 0
+     },
+     "name": "Arcane Cauldron (SL185)",
+     "number": "1646",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "{2}, {T}: When you cast your next instant or sorcery spell this turn, copy it. If that spell targets a permanent you control, copy it an additional time. You may choose new targets for the copies.",
+     "type": "Artifact",
+     "types": [
+      "Artifact"
+     ],
+     "uuid": "Arcane Cauldron (SL185)_LAIR"
+    },
+    {
      "artist": "Anato Finnstark",
      "convertedManaCost": 2,
      "faceConvertedManaCost": 2,
@@ -972011,6 +972130,53 @@
      "uuid": "Basat Charm (SL26)_LAIR"
     },
     {
+     "artist": "Hoi Mun",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "HerziQuerzi",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Batwing Initiate (SL185)_LAIR",
+     "imageName": "batwing initiate (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{B}{B}",
+     "identifiers": {
+      "scryfallId": 22879,
+      "multiverseId": 0
+     },
+     "name": "Batwing Initiate (SL185)",
+     "number": "1658",
+     "power": "1",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Knight"
+     ],
+     "text": "Deathtouch, lifelink\nWhenever Batwing Initiate deals combat damage to a player, put a +1/+1 counter on it.\nPay 4 life: Batwing Initiate gains flying until end of turn.",
+     "toughness": "1",
+     "type": "Creature — Human Knight",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Batwing Initiate (SL185)_LAIR"
+    },
+    {
      "artist": "Jeff A. Menges",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -972901,6 +973067,47 @@
      "uuid": "Blood Jade Prophet (SL43)_LAIR"
     },
     {
+     "artist": "Scenes By Colleen",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "Cajun",
+     "flavor": "Some omens can't be ignored.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Blood Tide (SL185)_LAIR",
+     "imageName": "blood tide (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{2}{R}",
+     "identifiers": {
+      "scryfallId": 22880,
+      "multiverseId": 0
+     },
+     "name": "Blood Tide (SL185)",
+     "number": "1648",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "At the beginning of your upkeep, each player sacrifices a nonbasic land.",
+     "type": "Enchantment",
+     "types": [
+      "Enchantment"
+     ],
+     "uuid": "Blood Tide (SL185)_LAIR"
+    },
+    {
      "artist": "Clayshaper",
      "convertedManaCost": 4,
      "faceConvertedManaCost": 4,
@@ -973115,6 +973322,53 @@
       "Creature"
      ],
      "uuid": "Bogborn Charger (SL87)_LAIR"
+    },
+    {
+     "artist": "McLean Kendree",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Alexander",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Boghex Witch (SL185)_LAIR",
+     "imageName": "boghex witch (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{3}{B}",
+     "identifiers": {
+      "scryfallId": 22881,
+      "multiverseId": 0
+     },
+     "name": "Boghex Witch (SL185)",
+     "number": "1640",
+     "power": "4",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Warlock"
+     ],
+     "text": "Whenever Boghex Witch deals combat damage to a cursed player, that player loses the game.\n{2}{B}: Look at the top five cards of your library. You may reveal a Curse card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+     "toughness": "4",
+     "type": "Creature — Human Warlock",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Boghex Witch (SL185)_LAIR"
     },
     {
      "artist": "Anesaki Dynamic",
@@ -974488,6 +974742,53 @@
      "uuid": "By the Sea (SL53)_LAIR"
     },
     {
+     "artist": "Daniela Giubellini",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "water the weeds",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Cackling Tormentor (SL185)_LAIR",
+     "imageName": "cackling tormentor (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{1}{R}",
+     "identifiers": {
+      "scryfallId": 22882,
+      "multiverseId": 0
+     },
+     "name": "Cackling Tormentor (SL185)",
+     "number": "1665",
+     "power": "1",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Devil",
+      "Shaman"
+     ],
+     "text": "Whenever one or more cards are put into an opponent's graveyard from their hand or library, Cackling Tormentor deals 2 damage to any target.",
+     "toughness": "3",
+     "type": "Creature — Devil Shaman",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Cackling Tormentor (SL185)_LAIR"
+    },
+    {
      "artist": "Petar Penev",
      "convertedManaCost": 2,
      "faceConvertedManaCost": 2,
@@ -975652,6 +975953,53 @@
       "Creature"
      ],
      "uuid": "Channeler of the Veil (SL143)_LAIR"
+    },
+    {
+     "artist": "Jakub Jagoda (Edited)",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "G"
+     ],
+     "colorIdentity": [
+      "G"
+     ],
+     "designer": "Cajun",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Chantwood Channeler (SL185)_LAIR",
+     "imageName": "chantwood channeler (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{1}{G}{G}",
+     "identifiers": {
+      "scryfallId": 22883,
+      "multiverseId": 0
+     },
+     "name": "Chantwood Channeler (SL185)",
+     "number": "1656",
+     "power": "3",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Reflection",
+      "Shaman"
+     ],
+     "text": "When Chantwood Channeler enters from your graveyard, it gains haste and creatures you control get +3/+3 and gain trample until end of turn.\n{5}{G}{G}{G}, Sacrifice a creature: Return Chantwood Channeler from your graveyard to the battlefield. Activate only as a sorcery.",
+     "toughness": "3",
+     "type": "Creature — Reflection Shaman",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Chantwood Channeler (SL185)_LAIR"
     },
     {
      "artist": "Qixia",
@@ -985416,6 +985764,55 @@
      "uuid": "Enraptured Countess//Blade's Memory (SL72)_LAIR"
     },
     {
+     "artist": "Leroy Steinmann",
+     "convertedManaCost": 5,
+     "faceConvertedManaCost": 5,
+     "manaValue": 5,
+     "faceManaValue": 5,
+     "colors": [
+      "U",
+      "R"
+     ],
+     "colorIdentity": [
+      "U",
+      "R"
+     ],
+     "designer": "Pipsqueak",
+     "flavor": "They can't wait to get a taste of the life you're living.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Enthusiastic Double (SL185)_LAIR",
+     "imageName": "enthusiastic double (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{3}{U}{R}",
+     "identifiers": {
+      "scryfallId": 22884,
+      "multiverseId": 0
+     },
+     "name": "Enthusiastic Double (SL185)",
+     "number": "1641",
+     "power": "0",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Elemental",
+      "Reflection"
+     ],
+     "text": "You may have Enthusiastic Double enter as a copy of any permanent on the battlefield, except it's 4/4, it's a creature in addition to its other types, and it has haste.",
+     "toughness": "0",
+     "type": "Creature — Elemental Reflection",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Enthusiastic Double (SL185)_LAIR"
+    },
+    {
      "artist": "James M. Daly IIIS",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -986536,6 +986933,47 @@
      "uuid": "Eye of the Beholder (SL103)_LAIR"
     },
     {
+     "artist": "Livia Prima",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Nix",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Eyes That Bite (SL185)_LAIR",
+     "imageName": "eyes that bite (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{B}",
+     "identifiers": {
+      "scryfallId": 22885,
+      "multiverseId": 0
+     },
+     "name": "Eyes That Bite (SL185)",
+     "number": "1653",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Target player reveals their hand then discards a card. If the discarded card has the highest or lowest mana value among cards in their hand, create a 2/1 red Human Reveler creature token.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Eyes That Bite (SL185)_LAIR"
+    },
+    {
      "artist": "Denis Loebner",
      "convertedManaCost": 0,
      "faceConvertedManaCost": 0,
@@ -986571,6 +987009,49 @@
       "Land"
      ],
      "uuid": "Fabled Passage (SL135)_LAIR"
+    },
+    {
+     "artist": "Fantasy Flight Games",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "B",
+      "G"
+     ],
+     "colorIdentity": [
+      "B",
+      "G"
+     ],
+     "designer": "HerziQuerzi",
+     "flavor": "You shouldn't face the darkness alone.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Fables of the Bold (SL185)_LAIR",
+     "imageName": "fables of the bold (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{1}{B/G}",
+     "identifiers": {
+      "scryfallId": 22886,
+      "multiverseId": 0
+     },
+     "name": "Fables of the Bold (SL185)",
+     "number": "1649",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "When Fables of the Bold enters, draw a card.\nEnchanted creatures you control get +1/+1.",
+     "type": "Enchantment",
+     "types": [
+      "Enchantment"
+     ],
+     "uuid": "Fables of the Bold (SL185)_LAIR"
     },
     {
      "artist": "Scott Uminga",
@@ -987147,47 +987628,6 @@
       "Planeswalker"
      ],
      "uuid": "Feng Bao, Storm's Center (SL92)_LAIR"
-    },
-    {
-     "artist": "Isvoc",
-     "convertedManaCost": 1,
-     "faceConvertedManaCost": 1,
-     "manaValue": 1,
-     "faceManaValue": 1,
-     "colors": [
-      "R"
-     ],
-     "colorIdentity": [
-      "R"
-     ],
-     "designer": "Occo",
-     "flavor": "",
-     "frameType": "normal",
-     "frameVersion": "2015",
-     "id": "Ferocious Flame (SL183)_LAIR",
-     "imageName": "ferocious flame (sl183)",
-     "layout": "normal",
-     "legalities": {
-      "msem": "Legal",
-      "msedh": "Legal"
-     },
-     "manaCost": "{R}",
-     "identifiers": {
-      "scryfallId": 22869,
-      "multiverseId": 0
-     },
-     "name": "Ferocious Flame (SL183)",
-     "number": "1633",
-     "rarity": "rare",
-     "relatedCards": {
-      "spellbook": []
-     },
-     "text": "Ferocious Flame deals 2 damage to any target. If you control a creature with power 4 or greater, it deals 4 damage instead.",
-     "type": "Instant",
-     "types": [
-      "Instant"
-     ],
-     "uuid": "Ferocious Flame (SL183)_LAIR"
     },
     {
      "artist": "Melinda Vass",
@@ -989834,6 +990274,51 @@
      "uuid": "Forest (SL182e)_LAIR"
     },
     {
+     "artist": "Dan Mumford (Edited)",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "G"
+     ],
+     "designer": "MSEM Community",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Forest (SL185)_LAIR",
+     "imageName": "forest (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 22887,
+      "multiverseId": 0
+     },
+     "name": "Forest (SL185)",
+     "number": "1675",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Forest"
+     ],
+     "supertypes": [
+      "Basic"
+     ],
+     "text": "({T}: Add {G}.)",
+     "type": "Basic Land — Forest",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Forest (SL185)_LAIR"
+    },
+    {
      "artist": "Kyle Ferrin",
      "convertedManaCost": 4,
      "faceConvertedManaCost": 4,
@@ -990809,6 +991294,56 @@
       "Sorcery"
      ],
      "uuid": "Gallord's Ascension (SL60)_LAIR"
+    },
+    {
+     "artist": "Tatsuki Fujimoto",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "CyberChronometer",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Gaoming, Foxes' Friend (SL183)_LAIR",
+     "imageName": "gaoming, foxes' friend (sl183)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{W}",
+     "identifiers": {
+      "scryfallId": 22869,
+      "multiverseId": 20261001
+     },
+     "name": "Gaoming, Foxes' Friend (SL183)",
+     "number": "1633",
+     "power": "2",
+     "rarity": "rare",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Cleric"
+     ],
+     "supertypes": [
+      "Legendary"
+     ],
+     "text": "As long as you control five or more creatures, if you would create a token, you may instead create Hu Li, a legendary 4/4 white Fox Spirit creature token with flying and lifelink.",
+     "toughness": "1",
+     "type": "Legendary Creature — Human Cleric",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Gaoming, Foxes' Friend (SL183)_LAIR"
     },
     {
      "artist": "keelerleah",
@@ -991895,6 +992430,53 @@
      "uuid": "Grafted Physician (SL100)_LAIR"
     },
     {
+     "artist": "Dusan Markovic",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "Pipsqueak",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Gravefire Arcanist (SL185)_LAIR",
+     "imageName": "gravefire arcanist (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{1}{R}",
+     "identifiers": {
+      "scryfallId": 22888,
+      "multiverseId": 0
+     },
+     "name": "Gravefire Arcanist (SL185)",
+     "number": "1644",
+     "power": "0",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Zombie",
+      "Wizard"
+     ],
+     "text": "Prowess\nWhen Gravefire Arcanist enters, when you cast your next instant or sorcery spell this turn, copy it. You may choose new targets for the copy.\nEscape—{1}{R}{R}, Exile six other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)",
+     "toughness": "2",
+     "type": "Creature — Zombie Wizard",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Gravefire Arcanist (SL185)_LAIR"
+    },
+    {
      "artist": "Mauro Alocci",
      "convertedManaCost": 1,
      "faceConvertedManaCost": 1,
@@ -992643,6 +993225,47 @@
       "Creature"
      ],
      "uuid": "Haphazard Militia (SL111)_LAIR"
+    },
+    {
+     "artist": "pindurski",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Cajun",
+     "flavor": "“You think a few dead minions bother me? I'm making a dent in the city's crime rate and keeping whatever's in that crypt well fed. I'd say it's a win win for society.”\n—Duke Araveldt, occult patron\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Hard Knocks (SL185)_LAIR",
+     "imageName": "hard knocks (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{B}",
+     "identifiers": {
+      "scryfallId": 22889,
+      "multiverseId": 0
+     },
+     "name": "Hard Knocks (SL185)",
+     "number": "1655",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Whenever one or more Rogues you control attack, you may pay 1 life. If you do, draw a card.",
+     "type": "Enchantment",
+     "types": [
+      "Enchantment"
+     ],
+     "uuid": "Hard Knocks (SL185)_LAIR"
     },
     {
      "artist": "Claudya Schmidt",
@@ -994331,6 +994954,49 @@
       "Creature"
      ],
      "uuid": "Holcomb of the Peregrine (SL153)_LAIR"
+    },
+    {
+     "artist": "Andrea Scheifele",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "G",
+      "U"
+     ],
+     "colorIdentity": [
+      "G",
+      "U"
+     ],
+     "designer": "CanterburyEgg",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Hop of Life (SL185)_LAIR",
+     "imageName": "hop of life (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{1}{G}{U}",
+     "identifiers": {
+      "scryfallId": 22890,
+      "multiverseId": 0
+     },
+     "name": "Hop of Life (SL185)",
+     "number": "1652",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Create a token that's a copy of target creature you control, except it has base power and toughness 2/2.\nRetrace (You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Hop of Life (SL185)_LAIR"
     },
     {
      "artist": "Lord-Giovanni",
@@ -998042,6 +998708,51 @@
      "uuid": "Island (SL182e)_LAIR"
     },
     {
+     "artist": "Dan Mumford (Edited)",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "U"
+     ],
+     "designer": "MSEM Community",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Island (SL185)_LAIR",
+     "imageName": "island (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 22891,
+      "multiverseId": 0
+     },
+     "name": "Island (SL185)",
+     "number": "1672",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Island"
+     ],
+     "supertypes": [
+      "Basic"
+     ],
+     "text": "({T}: Add {U}.)",
+     "type": "Basic Land — Island",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Island (SL185)_LAIR"
+    },
+    {
      "artist": "Xyzal",
      "convertedManaCost": 2,
      "faceConvertedManaCost": 2,
@@ -1001374,6 +1002085,53 @@
      "uuid": "Long Forgotten (SL151)_LAIR"
     },
     {
+     "artist": "atomicspaghet",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "U"
+     ],
+     "colorIdentity": [
+      "U"
+     ],
+     "designer": "Dodger",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Lord of the Bubbledome (SL185)_LAIR",
+     "imageName": "lord of the bubbledome (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{U}{U}",
+     "identifiers": {
+      "scryfallId": 22892,
+      "multiverseId": 0
+     },
+     "name": "Lord of the Bubbledome (SL185)",
+     "number": "1647",
+     "power": "2",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Merfolk",
+      "Noble"
+     ],
+     "text": "Other Merfolk you control get +1/+1.\n{1}{U}: Target Merfolk gains slipstream until end of turn. (Creatures with slipstream can't be blocked as long as only creatures with slipstream are attacking.)",
+     "toughness": "2",
+     "type": "Creature — Merfolk Noble",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Lord of the Bubbledome (SL185)_LAIR"
+    },
+    {
      "artist": "Katharina Egholm",
      "convertedManaCost": 1,
      "faceConvertedManaCost": 1,
@@ -1004428,6 +1005186,49 @@
      "uuid": "Midnight Dreary (SL130)_LAIR"
     },
     {
+     "artist": "Charles Urbach",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "W",
+      "U"
+     ],
+     "colorIdentity": [
+      "W",
+      "U"
+     ],
+     "designer": "TEST",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Midnight Dreary (SL185)_LAIR",
+     "imageName": "midnight dreary (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{W}{U}",
+     "identifiers": {
+      "scryfallId": 22893,
+      "multiverseId": 0
+     },
+     "name": "Midnight Dreary (SL185)",
+     "number": "1668",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Once each turn, when you activate a nonmana ability, you may create a tapped 1/1 white Spirit creature token with flying.\n{4}{W}{U}: You gain 1 life and draw a card.",
+     "type": "Enchantment",
+     "types": [
+      "Enchantment"
+     ],
+     "uuid": "Midnight Dreary (SL185)_LAIR"
+    },
+    {
      "artist": "Piotr Kowalski and Brad Simpson",
      "convertedManaCost": 0,
      "faceConvertedManaCost": 0,
@@ -1007271,6 +1008072,51 @@
       "Land"
      ],
      "uuid": "Mountain (SL182e)_LAIR"
+    },
+    {
+     "artist": "Dan Mumford",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "MSEM Community",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Mountain (SL185)_LAIR",
+     "imageName": "mountain (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 22894,
+      "multiverseId": 0
+     },
+     "name": "Mountain (SL185)",
+     "number": "1674",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Mountain"
+     ],
+     "supertypes": [
+      "Basic"
+     ],
+     "text": "({T}: Add {R}.)",
+     "type": "Basic Land — Mountain",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Mountain (SL185)_LAIR"
     },
     {
      "artist": "kenkat",
@@ -1011480,6 +1012326,47 @@
      "uuid": "Pact of the Moon (SL167)_LAIR"
     },
     {
+     "artist": "Saarl",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "HerziQuerzi",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Painful Reminiscence (SL185)_LAIR",
+     "imageName": "painful reminiscence (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{2}{R}",
+     "identifiers": {
+      "scryfallId": 22895,
+      "multiverseId": 0
+     },
+     "name": "Painful Reminiscence (SL185)",
+     "number": "1666",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Bleed {R} (You may cast this spell for its bleed cost if an opponent has lost life this turn.)\nAdd {R}{R}{R}.",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Painful Reminiscence (SL185)_LAIR"
+    },
+    {
      "artist": "JJPeabody",
      "convertedManaCost": 2,
      "faceConvertedManaCost": 2,
@@ -1013975,6 +1014862,51 @@
      "uuid": "Plains (SL182e)_LAIR"
     },
     {
+     "artist": "Dan Mumford",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "MSEM Community",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Plains (SL185)_LAIR",
+     "imageName": "plains (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 22896,
+      "multiverseId": 0
+     },
+     "name": "Plains (SL185)",
+     "number": "1671",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Plains"
+     ],
+     "supertypes": [
+      "Basic"
+     ],
+     "text": "({T}: Add {W}.)",
+     "type": "Basic Land — Plains",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Plains (SL185)_LAIR"
+    },
+    {
      "artist": "Ben Wootten",
      "convertedManaCost": 8,
      "faceConvertedManaCost": 8,
@@ -1014157,6 +1015089,54 @@
      "uuid": "Plasma Enforcer (SL134)_LAIR"
     },
     {
+     "artist": "Glass Head",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "U",
+      "R"
+     ],
+     "colorIdentity": [
+      "U",
+      "R"
+     ],
+     "designer": "CanterburyEgg",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Plaxolotl (SL185)_LAIR",
+     "imageName": "plaxolotl (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{2}{U/R}",
+     "identifiers": {
+      "scryfallId": 22897,
+      "multiverseId": 0
+     },
+     "name": "Plaxolotl (SL185)",
+     "number": "1654",
+     "power": "2",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Salamander"
+     ],
+     "text": "This spell costs {1} less to cast if you cast a spell with a mana payment of exactly {U} this turn. The same is true for {R}.\nOnce each turn, when you cast a blue or red instant or sorcery spell with mana value 1, you may pay its mana cost. If you do, copy it. You may choose new targets for the copy.",
+     "toughness": "3",
+     "type": "Creature — Salamander",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Plaxolotl (SL185)_LAIR"
+    },
+    {
      "artist": "Momotexx",
      "convertedManaCost": 1,
      "faceConvertedManaCost": 1,
@@ -1014196,6 +1015176,90 @@
       "Artifact"
      ],
      "uuid": "Plush Tea Party (SL87)_LAIR"
+    },
+    {
+     "artist": "Tommy Zimmerman",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [],
+     "colorIdentity": [],
+     "designer": "HerziQuerzi",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Poisoned Tonic (SL185)_LAIR",
+     "imageName": "poisoned tonic (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{2}",
+     "identifiers": {
+      "scryfallId": 22898,
+      "multiverseId": 0
+     },
+     "name": "Poisoned Tonic (SL185)",
+     "number": "1669",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Whenever a player gains life, that player loses 2 life.",
+     "type": "Artifact",
+     "types": [
+      "Artifact"
+     ],
+     "uuid": "Poisoned Tonic (SL185)_LAIR"
+    },
+    {
+     "artist": "Kobold Press",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "G"
+     ],
+     "colorIdentity": [
+      "G"
+     ],
+     "designer": "Wrenn",
+     "flavor": "Foul is the land, potent the magic.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Poisonheart Druid (SL185)_LAIR",
+     "imageName": "poisonheart druid (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{G}",
+     "identifiers": {
+      "scryfallId": 22899,
+      "multiverseId": 0
+     },
+     "name": "Poisonheart Druid (SL185)",
+     "number": "1651",
+     "power": "1",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Zombie",
+      "Druid"
+     ],
+     "text": "{T}, Exile a land card from your hand, from your graveyard, or a land that you control: Add one mana of any color.",
+     "toughness": "1",
+     "type": "Creature — Zombie Druid",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Poisonheart Druid (SL185)_LAIR"
     },
     {
      "artist": "Guan Yu Chen",
@@ -1015158,6 +1016222,53 @@
       "Creature"
      ],
      "uuid": "Putrid Lurker (SL113)_LAIR"
+    },
+    {
+     "artist": "Ian Llanas",
+     "convertedManaCost": 6,
+     "faceConvertedManaCost": 6,
+     "manaValue": 6,
+     "faceManaValue": 6,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "Timespiraled",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Pyroclastic Maw (SL185)_LAIR",
+     "imageName": "pyroclastic maw (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{4}{R}{R}",
+     "identifiers": {
+      "scryfallId": 22900,
+      "multiverseId": 0
+     },
+     "name": "Pyroclastic Maw (SL185)",
+     "number": "1664",
+     "power": "4",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Elemental",
+      "Wurm"
+     ],
+     "text": "When Pyroclastic Maw enters, destroy target land. If that land was nonbasic, Pyroclastic Maw gains haste until end of turn.",
+     "toughness": "4",
+     "type": "Creature — Elemental Wurm",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Pyroclastic Maw (SL185)_LAIR"
     },
     {
      "artist": "Ross Trans",
@@ -1020151,6 +1021262,47 @@
      "uuid": "Sear Flesh (SL99)_LAIR"
     },
     {
+     "artist": "Oliver Liu",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "WindyDelcarlo",
+     "flavor": "It's not ready until the meat slides off the bone.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Sear Flesh (SL185)_LAIR",
+     "imageName": "sear flesh (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{R}",
+     "identifiers": {
+      "scryfallId": 22901,
+      "multiverseId": 0
+     },
+     "name": "Sear Flesh (SL185)",
+     "number": "1645",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Sear Flesh deals 3 damage to target creature or planeswalker. If you've cast another spell this turn, it deals 5 damage instead.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Sear Flesh (SL185)_LAIR"
+    },
+    {
      "artist": "Ann Maulina",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -1021816,6 +1022968,55 @@
       "Land"
      ],
      "uuid": "Shardstone Rift (SL158)_LAIR"
+    },
+    {
+     "artist": "redpeggy",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "U",
+      "B"
+     ],
+     "colorIdentity": [
+      "U",
+      "B"
+     ],
+     "designer": "Purplemurasaki",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Sharer of Will (SL185)_LAIR",
+     "imageName": "sharer of will (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{U}{B}",
+     "identifiers": {
+      "scryfallId": 22902,
+      "multiverseId": 0
+     },
+     "name": "Sharer of Will (SL185)",
+     "number": "1661",
+     "power": "1",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Horror",
+      "Shaman"
+     ],
+     "text": "At the beginning of your upkeep, mill a card.\n{T}, Discard a card: Exile the top two cards of target opponent's library face down. Look at those cards, then put one into its owner's graveyard. During any turn which you've seen signs, you may play the exiled card and mana of any type can be spent to cast it. (You've seen signs if two or more card types entered your graveyard.)",
+     "toughness": "1",
+     "type": "Creature — Horror Shaman",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Sharer of Will (SL185)_LAIR"
     },
     {
      "artist": "Hotpot.Ai",
@@ -1024062,6 +1025263,90 @@
      "uuid": "Solemn Bastion (SL164)_LAIR"
     },
     {
+     "artist": "Sean A. Murray",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "B",
+      "G"
+     ],
+     "colorIdentity": [
+      "B",
+      "G"
+     ],
+     "designer": "HerziQuerzi",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Something Wicked This Way Rides (SL185)_LAIR",
+     "imageName": "something wicked this way rides (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{B}{G}",
+     "identifiers": {
+      "scryfallId": 22903,
+      "multiverseId": 0
+     },
+     "name": "Something Wicked This Way Rides (SL185)",
+     "number": "1660",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "As an additional cost to cast this spell, sacrifice any number of creatures.\nSearch your library for a creature card with mana value less than or equal to the total mana value of the sacrificed creatures, put it onto the battlefield with a +1/+1 counter and a deathtouch counter on it, then shuffle.",
+     "type": "Sorcery",
+     "types": [
+      "Sorcery"
+     ],
+     "uuid": "Something Wicked This Way Rides (SL185)_LAIR"
+    },
+    {
+     "artist": "Chris Seaman",
+     "convertedManaCost": 4,
+     "faceConvertedManaCost": 4,
+     "manaValue": 4,
+     "faceManaValue": 4,
+     "colors": [
+      "G"
+     ],
+     "colorIdentity": [
+      "G"
+     ],
+     "designer": "Cajun",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Something in the Woods (SL185)_LAIR",
+     "imageName": "something in the woods (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{3}{G}",
+     "identifiers": {
+      "scryfallId": 22904,
+      "multiverseId": 0
+     },
+     "name": "Something in the Woods (SL185)",
+     "number": "1659",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "When Something in the Woods enters or at the beginning of your upkeep, Something in the Woods explores. If it explores a creature card, you may have it become a copy of that card. (It loses this ability. To explore, reveal the top card of your library. Put that card into your hand if it's a land. Otherwise, put a +1/+1 counter on this, then you may put that card into your graveyard.)",
+     "type": "Enchantment",
+     "types": [
+      "Enchantment"
+     ],
+     "uuid": "Something in the Woods (SL185)_LAIR"
+    },
+    {
      "artist": "Violet568",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -1025197,6 +1026482,47 @@
       "Creature"
      ],
      "uuid": "Spellslinger Elf (SL140)_LAIR"
+    },
+    {
+     "artist": "John LeMaitre",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "U"
+     ],
+     "colorIdentity": [
+      "U"
+     ],
+     "designer": "Cajun",
+     "flavor": "The smarter they are, the sweeter the taste.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Spilling Secrets (SL185)_LAIR",
+     "imageName": "spilling secrets (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{U}",
+     "identifiers": {
+      "scryfallId": 22905,
+      "multiverseId": 0
+     },
+     "name": "Spilling Secrets (SL185)",
+     "number": "1667",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "At the beginning of each end step, draw a card if an opponent milled three or more cards this turn.",
+     "type": "Enchantment",
+     "types": [
+      "Enchantment"
+     ],
+     "uuid": "Spilling Secrets (SL185)_LAIR"
     },
     {
      "artist": "vvvvvvvvin",
@@ -1026474,6 +1027800,47 @@
      "uuid": "Stay Determined (SL20)_LAIR"
     },
     {
+     "artist": "FredrikEriksson1",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "fluffyDeathbringer",
+     "flavor": "“A Hunter must hunt.”\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Stay Determined (SL185)_LAIR",
+     "imageName": "stay determined (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{B}",
+     "identifiers": {
+      "scryfallId": 22906,
+      "multiverseId": 0
+     },
+     "name": "Stay Determined (SL185)",
+     "number": "1650",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Until end of turn, if a source you don't control would deal damage to you or cause you to lose life, mill that many cards instead.",
+     "type": "Instant",
+     "types": [
+      "Instant"
+     ],
+     "uuid": "Stay Determined (SL185)_LAIR"
+    },
+    {
      "artist": "d-torres",
      "convertedManaCost": 3,
      "faceConvertedManaCost": 3,
@@ -1026726,6 +1028093,53 @@
       "Instant"
      ],
      "uuid": "Still the Pandemonium (SL104)_LAIR"
+    },
+    {
+     "artist": "Ellejart",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Cajun",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Stinging Hunter (SL185)_LAIR",
+     "imageName": "stinging hunter (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{B}",
+     "identifiers": {
+      "scryfallId": 22907,
+      "multiverseId": 0
+     },
+     "name": "Stinging Hunter (SL185)",
+     "number": "1662",
+     "power": "1",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Warrior"
+     ],
+     "text": "Whenever you cast a spell that doesn't share a color with Stinging Hunter, each opponent loses 1 life.",
+     "toughness": "1",
+     "type": "Creature — Human Warrior",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Stinging Hunter (SL185)_LAIR"
     },
     {
      "artist": "Peo Michie",
@@ -1029045,6 +1030459,51 @@
      "uuid": "Swamp (SL182e)_LAIR"
     },
     {
+     "artist": "Dan Mumford",
+     "convertedManaCost": 0,
+     "faceConvertedManaCost": 0,
+     "manaValue": 0,
+     "faceManaValue": 0,
+     "colors": [],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "MSEM Community",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Swamp (SL185)_LAIR",
+     "imageName": "swamp (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "",
+     "identifiers": {
+      "scryfallId": 22908,
+      "multiverseId": 0
+     },
+     "name": "Swamp (SL185)",
+     "number": "1673",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Swamp"
+     ],
+     "supertypes": [
+      "Basic"
+     ],
+     "text": "({T}: Add {B}.)",
+     "type": "Basic Land — Swamp",
+     "types": [
+      "Land"
+     ],
+     "uuid": "Swamp (SL185)_LAIR"
+    },
+    {
      "artist": "Gal Or",
      "convertedManaCost": 1,
      "faceConvertedManaCost": 1,
@@ -1030640,6 +1032099,95 @@
      "uuid": "Thallid Cultivator (SL78)_LAIR"
     },
     {
+     "artist": "chuy Deleon",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "W"
+     ],
+     "colorIdentity": [
+      "W"
+     ],
+     "designer": "Matt",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Thanewraith (SL185)_LAIR",
+     "imageName": "thanewraith (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{W}",
+     "identifiers": {
+      "scryfallId": 22909,
+      "multiverseId": 0
+     },
+     "name": "Thanewraith (SL185)",
+     "number": "1670",
+     "power": "1",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Dwarf",
+      "Spirit",
+      "Warrior"
+     ],
+     "text": "Whenever one or more cards leave your graveyard, put a soul counter on this creature.\nThis creature gets +1/+1 for each soul counter on it.\n{1}{W}, Exile a creature card from your graveyard: This creature gains indestructible until end of turn. Tap it.",
+     "toughness": "1",
+     "type": "Creature — Dwarf Spirit Warrior",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Thanewraith (SL185)_LAIR"
+    },
+    {
+     "artist": "Vincenzo Prattico",
+     "convertedManaCost": 2,
+     "faceConvertedManaCost": 2,
+     "manaValue": 2,
+     "faceManaValue": 2,
+     "colors": [
+      "B"
+     ],
+     "colorIdentity": [
+      "B"
+     ],
+     "designer": "Cajun",
+     "flavor": "Sometimes the best reward is some time to yourself, a cool autumn breeze, and the fresh smell of grave dirt at dawn.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Thankless Work (SL185)_LAIR",
+     "imageName": "thankless work (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{1}{B}",
+     "identifiers": {
+      "scryfallId": 22910,
+      "multiverseId": 0
+     },
+     "name": "Thankless Work (SL185)",
+     "number": "1642",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "text": "Whenever you draw a card except for the first one you draw in each of your draw steps, each opponent loses 1 life.",
+     "type": "Enchantment",
+     "types": [
+      "Enchantment"
+     ],
+     "uuid": "Thankless Work (SL185)_LAIR"
+    },
+    {
      "artist": "James M. Daly IIIS",
      "convertedManaCost": 4,
      "faceConvertedManaCost": 4,
@@ -1032001,6 +1033549,53 @@
      "uuid": "The Tale of Kings (SL143)_LAIR"
     },
     {
+     "artist": "AronjaArt",
+     "convertedManaCost": 7,
+     "faceConvertedManaCost": 7,
+     "manaValue": 7,
+     "faceManaValue": 7,
+     "colors": [
+      "G"
+     ],
+     "colorIdentity": [
+      "G"
+     ],
+     "designer": "Zangy",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "The Terror of Shady Cove (SL185)_LAIR",
+     "imageName": "the terror of shady cove (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{5}{G}{G}",
+     "identifiers": {
+      "scryfallId": 22911,
+      "multiverseId": 0
+     },
+     "name": "The Terror of Shady Cove (SL185)",
+     "number": "1663",
+     "power": "7",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Slug",
+      "Beast"
+     ],
+     "text": "Deathtouch\nWhen The Terror of Shady Cove enters, target opponent sacrifices an artifact. If they can't, create a 3/3 green Slug creature token with deathtouch. Then repeat this process for an enchantment and a nonbasic land.",
+     "toughness": "7",
+     "type": "Creature — Slug Beast",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "The Terror of Shady Cove (SL185)_LAIR"
+    },
+    {
      "artist": "James M. Daly IIIS",
      "convertedManaCost": 7,
      "faceConvertedManaCost": 7,
@@ -1032266,6 +1033861,56 @@
       "Creature"
      ],
      "uuid": "Third Legion General (SL30)_LAIR"
+    },
+    {
+     "artist": "J.H. Williams III",
+     "convertedManaCost": 3,
+     "faceConvertedManaCost": 3,
+     "manaValue": 3,
+     "faceManaValue": 3,
+     "colors": [
+      "R"
+     ],
+     "colorIdentity": [
+      "R"
+     ],
+     "designer": "fluffyDeathbringer",
+     "flavor": "",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Thomar, Fearbringer (SL185)_LAIR",
+     "imageName": "thomar, fearbringer (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{2}{R}",
+     "identifiers": {
+      "scryfallId": 22912,
+      "multiverseId": 0
+     },
+     "name": "Thomar, Fearbringer (SL185)",
+     "number": "1657",
+     "power": "2",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human",
+      "Cleric"
+     ],
+     "supertypes": [
+      "Legendary"
+     ],
+     "text": "Other creatures have haste and attack each combat if able.\nNonland cards in your hand have paranoia {4}. (The owner of a card with paranoia {4} may cast it from their hand for {4} when a permanent they control leaves the battlefield.)",
+     "toughness": "2",
+     "type": "Legendary Creature — Human Cleric",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Thomar, Fearbringer (SL185)_LAIR"
     },
     {
      "artist": "NanoMortis",
@@ -1034017,6 +1035662,52 @@
       "Sorcery"
      ],
      "uuid": "Trouble Brewing (SL10)_LAIR"
+    },
+    {
+     "artist": "Brian Gomien",
+     "convertedManaCost": 1,
+     "faceConvertedManaCost": 1,
+     "manaValue": 1,
+     "faceManaValue": 1,
+     "colors": [
+      "G"
+     ],
+     "colorIdentity": [
+      "G"
+     ],
+     "designer": "TEST",
+     "flavor": "After the rains failed, farmers found more reliable means to feed the soil.\n",
+     "frameType": "normal",
+     "frameVersion": "2015",
+     "id": "Troubled Heir (SL185)_LAIR",
+     "imageName": "troubled heir (sl185)",
+     "layout": "normal",
+     "legalities": {
+      "msem": "Legal",
+      "msedh": "Legal"
+     },
+     "manaCost": "{G}",
+     "identifiers": {
+      "scryfallId": 22913,
+      "multiverseId": 0
+     },
+     "name": "Troubled Heir (SL185)",
+     "number": "1643",
+     "power": "1",
+     "rarity": "mythic",
+     "relatedCards": {
+      "spellbook": []
+     },
+     "subtypes": [
+      "Human"
+     ],
+     "text": "When Troubled Heir dies, create a tapped Plains token.",
+     "toughness": "1",
+     "type": "Creature — Human",
+     "types": [
+      "Creature"
+     ],
+     "uuid": "Troubled Heir (SL185)_LAIR"
     },
     {
      "artist": "neruzou",
@@ -1040750,8 +1042441,8 @@
      "uuid": "Zhelid, Planar Academy (SL71)_LAIR"
     }
    ],
-   "baseSetSize": 1663,
-   "totalSetSize": 1663,
+   "baseSetSize": 1699,
+   "totalSetSize": 1699,
    "cardsphereSetId": 56,
    "isFoilOnly": false,
    "isOnlineOnly": false,
